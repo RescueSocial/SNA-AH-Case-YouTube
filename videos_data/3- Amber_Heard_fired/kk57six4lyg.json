@@ -1,0 +1,71 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "CaeyWQVXTNxD3SM4uyNwWeeO4Wo",
+        "id": "kk57SiX4LYg",
+        "snippet": {
+            "publishedAt": "2020-12-03T13:30:50Z",
+            "channelId": "UCNoGr_InOOlv0XhHO9KC3Hg",
+            "title": "Solving a Rubik's cube everyday until Amber Heard gets Fired - Day 3.",
+            "description": "Why the hell are you even reading this? It's the same s**t.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/kk57SiX4LYg/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/kk57SiX4LYg/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/kk57SiX4LYg/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/kk57SiX4LYg/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/kk57SiX4LYg/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Fire Amber Heard",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Solving a Rubik's cube everyday until Amber Heard gets Fired - Day 3.",
+                "description": "Why the hell are you even reading this? It's the same s**t."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT3M15S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "5",
+            "likeCount": "0",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

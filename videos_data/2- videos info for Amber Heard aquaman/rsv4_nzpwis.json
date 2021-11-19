@@ -1,0 +1,82 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "wqo-NF8YX7FK-5Z7VykGP23K4jI",
+        "id": "rsv4_nZPwIs",
+        "snippet": {
+            "publishedAt": "2018-11-30T14:39:37Z",
+            "channelId": "UC8C3teVwucjcg7skFUHtPEw",
+            "title": "Aquaman - Amber Heard",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/rsv4_nZPwIs/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/rsv4_nZPwIs/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/rsv4_nZPwIs/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/rsv4_nZPwIs/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/rsv4_nZPwIs/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Filmweb",
+            "tags": [
+                "amberheard",
+                "aquaman",
+                "princessmera",
+                "mera",
+                "ocean",
+                "london",
+                "junket",
+                "interview",
+                "norway",
+                "texas"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Aquaman - Amber Heard",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT4M16S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "3893",
+            "likeCount": "58",
+            "dislikeCount": "8",
+            "favoriteCount": "0"
+        }
+    }
+]

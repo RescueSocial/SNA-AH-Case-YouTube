@@ -1,0 +1,90 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "SSRj_NlmkCO-Zm2G8jofzlB4gdE",
+        "id": "0AC2WEYclJs",
+        "snippet": {
+            "publishedAt": "2018-10-29T19:52:23Z",
+            "channelId": "UCnxGkOGNMqQEUMvroOWps6Q",
+            "title": "Joe Rogan on Johnny Depp Being Fired From Pirates of the Caribbean",
+            "description": "Taken from Joe Rogan Experience #1190:\nhttps://www.youtube.com/watch?v=NCkAC5OcJMI",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/0AC2WEYclJs/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/0AC2WEYclJs/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/0AC2WEYclJs/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/0AC2WEYclJs/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "JRE Clips",
+            "tags": [
+                "Joe Rogan",
+                "JRE",
+                "Joe Rogan Experience",
+                "JRE Clips",
+                "PowerfulJRE",
+                "Joe Rogan Fan Page",
+                "Joe Rogan Podcast",
+                "podcast",
+                "MMA",
+                "Joe Rogan MMA Show",
+                "UFC",
+                "comedy",
+                "comedian",
+                "stand up",
+                "funny",
+                "clip",
+                "favorite",
+                "best of",
+                "Joey Diaz",
+                "Johnny Depp"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "Joe Rogan on Johnny Depp Being Fired From Pirates of the Caribbean",
+                "description": "Taken from Joe Rogan Experience #1190:\nhttps://www.youtube.com/watch?v=NCkAC5OcJMI"
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT4M25S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "8326271",
+            "likeCount": "64241",
+            "dislikeCount": "4710",
+            "favoriteCount": "0",
+            "commentCount": "12345"
+        }
+    }
+]

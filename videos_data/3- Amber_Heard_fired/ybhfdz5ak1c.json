@@ -1,0 +1,61 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "y_fMjKlrkm3oICazhc4tcUYw75A",
+        "id": "yBhFDZ5AK1c",
+        "snippet": {
+            "publishedAt": "2021-08-01T06:02:07Z",
+            "channelId": "UCExkScFiSaxyexa3b4uSvDA",
+            "title": "Aquaman 2 producer gets candid about Amber Heard's return",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/yBhFDZ5AK1c/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/yBhFDZ5AK1c/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/yBhFDZ5AK1c/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Superhero reporter",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Aquaman 2 producer gets candid about Amber Heard's return",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT10S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "186",
+            "likeCount": "4",
+            "dislikeCount": "7",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

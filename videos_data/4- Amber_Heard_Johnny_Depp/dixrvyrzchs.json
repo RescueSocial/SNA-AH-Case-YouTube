@@ -1,0 +1,75 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "VnXvQxqlV2wrS6kqZ70EN65Qpk0",
+        "id": "DiXRVYRZchs",
+        "snippet": {
+            "publishedAt": "2013-05-14T20:38:01Z",
+            "channelId": "UCLV1Jw4IZVGbOR-z9ZgKp-Q",
+            "title": "Johnny Depp and Amber Heard - Diamonds",
+            "description": "Definitely, this is their song! \r\n\r\nI wanted to make a video for Johnny and Amber but I was always hesitant on choosing the song. Whenever I thought about this subject, the only song that came to my mind was this: Diamonds!",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/DiXRVYRZchs/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/DiXRVYRZchs/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/DiXRVYRZchs/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/DiXRVYRZchs/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "neideavelar",
+            "tags": [
+                "Johnny Depp",
+                "Amber Heard",
+                "The Rum Diary",
+                "Diamonds",
+                "Rihanna"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Johnny Depp and Amber Heard - Diamonds",
+                "description": "Definitely, this is their song! \r\n\r\nI wanted to make a video for Johnny and Amber but I was always hesitant on choosing the song. Whenever I thought about this subject, the only song that came to my mind was this: Diamonds!"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT3M44S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {
+                "ytRating": "ytAgeRestricted"
+            },
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": false,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "120412",
+            "likeCount": "644",
+            "dislikeCount": "358",
+            "favoriteCount": "0",
+            "commentCount": "102"
+        }
+    }
+]

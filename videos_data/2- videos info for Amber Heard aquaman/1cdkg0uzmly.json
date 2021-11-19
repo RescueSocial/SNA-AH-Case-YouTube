@@ -1,0 +1,61 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "2LCc8B7N7ufC_MCeSZNTO62xL3c",
+        "id": "1CDkg0UZMlY",
+        "snippet": {
+            "publishedAt": "2021-07-09T18:32:05Z",
+            "channelId": "UCRTXfZSZq9RVWKcIO8nXXaA",
+            "title": "Aquaman and Mera | Jason Mamoa #shorts #aquaman #dc #Mera #Amberheard #Jasonmamaoa #mera",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/1CDkg0UZMlY/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/1CDkg0UZMlY/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/1CDkg0UZMlY/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Super Creators",
+            "categoryId": "20",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Aquaman and Mera | Jason Mamoa #shorts #aquaman #dc #Mera #Amberheard #Jasonmamaoa #mera",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT44S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "127",
+            "likeCount": "10",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

@@ -1,0 +1,71 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "i2Uu0FHm2NujLJh2MApSu4iDHV8",
+        "id": "GNsFwFTIXCg",
+        "snippet": {
+            "publishedAt": "2021-01-05T16:31:36Z",
+            "channelId": "UCNoGr_InOOlv0XhHO9KC3Hg",
+            "title": "Solving a Rubik's cube everyday until Amber Heard gets Fired - Day 30",
+            "description": "It's been a month but I really don't care \ud83d\ude44 but we made progress",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/GNsFwFTIXCg/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/GNsFwFTIXCg/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/GNsFwFTIXCg/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/GNsFwFTIXCg/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/GNsFwFTIXCg/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Fire Amber Heard",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Solving a Rubik's cube everyday until Amber Heard gets Fired - Day 30",
+                "description": "It's been a month but I really don't care \ud83d\ude44 but we made progress"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT9S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "11",
+            "likeCount": "6",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "4"
+        }
+    }
+]

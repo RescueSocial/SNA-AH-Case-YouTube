@@ -1,0 +1,80 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "N-k4aJu85lRuLoeKsR7pL5Vwuzs",
+        "id": "UeAiWcTkaqo",
+        "snippet": {
+            "publishedAt": "2021-02-28T16:42:06Z",
+            "channelId": "UCvLj9T8o8cA8_sxiwV6ufKA",
+            "title": "Amber Heard Reportedly Fired From \u2018Aquaman\u2019 For Reasons Unrelated to Depp",
+            "description": "For the past year or so, Pirates of the Caribbean Captain Jack Sparrow actor, Johnny Depp, and his ex-wife, Amber Heard, have gotten more than their fair share of negative press.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/UeAiWcTkaqo/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/UeAiWcTkaqo/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/UeAiWcTkaqo/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/UeAiWcTkaqo/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/UeAiWcTkaqo/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Daily News",
+            "tags": [
+                "Aquaman",
+                "Pirates of the Caribbean",
+                "Captain Jack Sparrow",
+                "Johnny Depp",
+                "movie",
+                "disney",
+                "pirates"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Heard Reportedly Fired From \u2018Aquaman\u2019 For Reasons Unrelated to Depp",
+                "description": "For the past year or so, Pirates of the Caribbean Captain Jack Sparrow actor, Johnny Depp, and his ex-wife, Amber Heard, have gotten more than their fair share of negative press."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT1M33S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "10",
+            "likeCount": "0",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

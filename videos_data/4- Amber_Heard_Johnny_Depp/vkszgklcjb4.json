@@ -1,0 +1,93 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "FudcGGKJ_3GdFCteliO0BvqVrfc",
+        "id": "VKsZGKlcJB4",
+        "snippet": {
+            "publishedAt": "2011-11-10T16:50:49Z",
+            "channelId": "UC0FPPIXB9SuVIRGm2gry2zw",
+            "title": "The Rum Diary London premiere - Amber Heard interview",
+            "description": "Amber Heard on working with Johnny Depp.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/VKsZGKlcJB4/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/VKsZGKlcJB4/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/VKsZGKlcJB4/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/VKsZGKlcJB4/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/VKsZGKlcJB4/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "TheCelebFactory",
+            "tags": [
+                "The Rum Diary",
+                "film",
+                "movie",
+                "Hunter S. Thompson",
+                "Johnny Deep",
+                "Amber Heard",
+                "Bruce Robinson",
+                "book",
+                "adaptation",
+                "premiere",
+                "red carpet",
+                "London",
+                "hollywood",
+                "showbiz",
+                "entertainment",
+                "interview",
+                "talk",
+                "chat",
+                "press",
+                "The Celeb Factory"
+            ],
+            "categoryId": "1",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "The Rum Diary London premiere - Amber Heard interview",
+                "description": "Amber Heard on working with Johnny Depp."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT4M11S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "111178",
+            "likeCount": "347",
+            "dislikeCount": "123",
+            "favoriteCount": "0",
+            "commentCount": "205"
+        }
+    }
+]

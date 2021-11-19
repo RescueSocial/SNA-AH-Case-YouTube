@@ -1,0 +1,71 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "Rep2nuGozINzuYUfk0qHliQr2eA",
+        "id": "2OzwxIT00ZU",
+        "snippet": {
+            "publishedAt": "2020-04-08T16:36:33Z",
+            "channelId": "UCJtJ78bSgfnE8-RHskk6KjA",
+            "title": "Johnny Depp\u2019in mahkemede ki ifadesi,2018",
+            "description": "Amber Heard\u2019\u00fcn Johnny Depp\u2019in parma\u011f\u0131n\u0131 nas\u0131l yaralad\u0131\u011f\u0131na dair...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/2OzwxIT00ZU/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/2OzwxIT00ZU/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/2OzwxIT00ZU/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/2OzwxIT00ZU/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/2OzwxIT00ZU/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "\u0130nfinityDepp",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Johnny Depp\u2019in mahkemede ki ifadesi,2018",
+                "description": "Amber Heard\u2019\u00fcn Johnny Depp\u2019in parma\u011f\u0131n\u0131 nas\u0131l yaralad\u0131\u011f\u0131na dair..."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT3M19S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "21511",
+            "likeCount": "316",
+            "dislikeCount": "4",
+            "favoriteCount": "0",
+            "commentCount": "86"
+        }
+    }
+]

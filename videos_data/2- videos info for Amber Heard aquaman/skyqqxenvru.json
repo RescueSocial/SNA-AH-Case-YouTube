@@ -1,0 +1,61 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "h1zL1CbPTvkOMFgWOa3LmUDHPO8",
+        "id": "SkyQqxeNVrU",
+        "snippet": {
+            "publishedAt": "2021-07-27T13:22:00Z",
+            "channelId": "UCQskWa9PClGz2NhrCZlAsrw",
+            "title": "Amber Heard actions hey mama song || aqua man movie || #Amberheard #aquaman #hollywood #action #cool",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/SkyQqxeNVrU/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/SkyQqxeNVrU/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/SkyQqxeNVrU/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "furious edge",
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Heard actions hey mama song || aqua man movie || #Amberheard #aquaman #hollywood #action #cool",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT15S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "1483",
+            "likeCount": "60",
+            "dislikeCount": "10",
+            "favoriteCount": "0",
+            "commentCount": "2"
+        }
+    }
+]

@@ -1,0 +1,61 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "U6JlYKUwfmbwdN8jwkiQv5JzKX4",
+        "id": "t8UdFZqy8mc",
+        "snippet": {
+            "publishedAt": "2021-06-01T15:26:27Z",
+            "channelId": "UCnLdTGkmM2QlnKK5MIe-7yg",
+            "title": "Aquaman | Jason Momoa | Amber Heard| DC | Hey mama",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/t8UdFZqy8mc/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/t8UdFZqy8mc/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/t8UdFZqy8mc/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Key2Musiq",
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Aquaman | Jason Momoa | Amber Heard| DC | Hey mama",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT34S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "3026",
+            "likeCount": "217",
+            "dislikeCount": "3",
+            "favoriteCount": "0",
+            "commentCount": "3"
+        }
+    }
+]

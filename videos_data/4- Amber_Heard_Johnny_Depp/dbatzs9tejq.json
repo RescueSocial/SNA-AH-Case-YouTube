@@ -1,0 +1,71 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "Lgzh5dTnOuEgLTmHwpZlat95HuQ",
+        "id": "dBaTzs9tEJQ",
+        "snippet": {
+            "publishedAt": "2020-02-04T15:15:01Z",
+            "channelId": "UCZuCGbJ9abM-ZBkaUTHIrXw",
+            "title": "AUDIO: le ammissioni di Amber Heard - SOTTOTITOLI ITALIANO",
+            "description": "Il video originale \u00e8 di Incredibly Average: https://www.youtube.com/channel/UCg0C-N_MPYYOXyF4T3jMxNQ/videos",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/dBaTzs9tEJQ/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/dBaTzs9tEJQ/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/dBaTzs9tEJQ/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/dBaTzs9tEJQ/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/dBaTzs9tEJQ/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "IFOD",
+            "categoryId": "1",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "AUDIO: le ammissioni di Amber Heard - SOTTOTITOLI ITALIANO",
+                "description": "Il video originale \u00e8 di Incredibly Average: https://www.youtube.com/channel/UCg0C-N_MPYYOXyF4T3jMxNQ/videos"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT1H34S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": true
+        },
+        "statistics": {
+            "viewCount": "52389",
+            "likeCount": "1558",
+            "dislikeCount": "29",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]
