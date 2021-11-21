@@ -1,0 +1,756 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "mK_vtg7HCLUngETIV5h7yWXGn2k",
+        "id": "UgxFq0Gus1RKZGjLJeJ4AaABAg",
+        "snippet": {
+            "videoId": "07h7unV55NE",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "rUoJ05Y4FSPYk9vQxSq1iWGm9tk",
+                "id": "UgxFq0Gus1RKZGjLJeJ4AaABAg",
+                "snippet": {
+                    "videoId": "07h7unV55NE",
+                    "textDisplay": "What about donations are not payments? How does that work?",
+                    "textOriginal": "What about donations are not payments? How does that work?",
+                    "authorDisplayName": "Jocelyn Shelley",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQu09_RvWnxHFNpEO3ZsVdL32d0FXXEnRnKIg=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UC6AF21hNNs8KNW89UdVD-5w",
+                    "authorChannelId": {
+                        "value": "UC6AF21hNNs8KNW89UdVD-5w"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 67,
+                    "publishedAt": "2021-03-21T02:59:15Z",
+                    "updatedAt": "2021-03-21T02:59:15Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 23,
+            "isPublic": true
+        },
+        "replies": {
+            "comments": [
+                {
+                    "kind": "youtube#comment",
+                    "etag": "Jm_KqLi8CMG6ZsbeOuCzzN-NbSg",
+                    "id": "UgxFq0Gus1RKZGjLJeJ4AaABAg.9L83Dlqi1ea9PCVbcY7qDz",
+                    "snippet": {
+                        "videoId": "07h7unV55NE",
+                        "textDisplay": "@Aldo Jay Glad I could help :D",
+                        "textOriginal": "@Aldo Jay Glad I could help :D",
+                        "parentId": "UgxFq0Gus1RKZGjLJeJ4AaABAg",
+                        "authorDisplayName": "Julius Colton",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTQYOtPKVI2Queke-ov0WexZheoSc2thpdVNDjo6Ca1uIElDg_ugxdn2th0FNrn=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCo3jDWXTEHnudxyiipOVjKw",
+                        "authorChannelId": {
+                            "value": "UCo3jDWXTEHnudxyiipOVjKw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2021-06-30T06:29:51Z",
+                        "updatedAt": "2021-06-30T06:29:51Z"
+                    }
+                },
+                {
+                    "kind": "youtube#comment",
+                    "etag": "srhoOxbCiWQfGCknQ3pGnb-wKEA",
+                    "id": "UgxFq0Gus1RKZGjLJeJ4AaABAg.9L83Dlqi1ea9PCUPAFPYOk",
+                    "snippet": {
+                        "videoId": "07h7unV55NE",
+                        "textDisplay": "@Julius Colton thanks, I went there and it seems to work :D Appreciate it!!",
+                        "textOriginal": "@Julius Colton thanks, I went there and it seems to work :D Appreciate it!!",
+                        "parentId": "UgxFq0Gus1RKZGjLJeJ4AaABAg",
+                        "authorDisplayName": "Aldo Jay",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRvlvZKIkRXFbUzy8eM-SJjJ97gl2bUoYCgUhNIOOukc02hYoVfQh8WiQO5Rsu9=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCIgsOYkaaH4EOhZmiebs-6g",
+                        "authorChannelId": {
+                            "value": "UCIgsOYkaaH4EOhZmiebs-6g"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2021-06-30T06:19:16Z",
+                        "updatedAt": "2021-06-30T06:19:16Z"
+                    }
+                },
+                {
+                    "kind": "youtube#comment",
+                    "etag": "_SFLK_MEs9j6BKTu0uXZzzg479Y",
+                    "id": "UgxFq0Gus1RKZGjLJeJ4AaABAg.9L83Dlqi1ea9PCSXJWw8-F",
+                    "snippet": {
+                        "videoId": "07h7unV55NE",
+                        "textDisplay": "@Julius Colton Yup, have been watching on Flixzone for years myself :)",
+                        "textOriginal": "@Julius Colton Yup, have been watching on Flixzone for years myself :)",
+                        "parentId": "UgxFq0Gus1RKZGjLJeJ4AaABAg",
+                        "authorDisplayName": "Ethan Maxton",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRIhpezybC-VbxY4-Za99QSXosb2jQ4ttNUiur6S8S_sx-TMNVMRK4OBROY3FII=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UChlXA4PMazGkx_WBMKOOe6w",
+                        "authorChannelId": {
+                            "value": "UChlXA4PMazGkx_WBMKOOe6w"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2021-06-30T06:02:54Z",
+                        "updatedAt": "2021-06-30T06:02:54Z"
+                    }
+                },
+                {
+                    "kind": "youtube#comment",
+                    "etag": "u-sDVMqrgcq9a0qRiQMEkg6ZZW0",
+                    "id": "UgxFq0Gus1RKZGjLJeJ4AaABAg.9L83Dlqi1ea9PCQ_bHXopS",
+                    "snippet": {
+                        "videoId": "07h7unV55NE",
+                        "textDisplay": "@Aldo Jay i would suggest Flixzone. You can find it on google :)",
+                        "textOriginal": "@Aldo Jay i would suggest Flixzone. You can find it on google :)",
+                        "parentId": "UgxFq0Gus1RKZGjLJeJ4AaABAg",
+                        "authorDisplayName": "Julius Colton",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTQYOtPKVI2Queke-ov0WexZheoSc2thpdVNDjo6Ca1uIElDg_ugxdn2th0FNrn=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCo3jDWXTEHnudxyiipOVjKw",
+                        "authorChannelId": {
+                            "value": "UCo3jDWXTEHnudxyiipOVjKw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2021-06-30T05:45:53Z",
+                        "updatedAt": "2021-06-30T05:45:53Z"
+                    }
+                },
+                {
+                    "kind": "youtube#comment",
+                    "etag": "D_UuFa5uC2VoS88ZASHHvTDmMkA",
+                    "id": "UgxFq0Gus1RKZGjLJeJ4AaABAg.9L83Dlqi1ea9PCOOs9-uoJ",
+                    "snippet": {
+                        "videoId": "07h7unV55NE",
+                        "textDisplay": "I guess I&#39;m pretty off topic but does anyone know of a good website to watch newly released movies online ?",
+                        "textOriginal": "I guess I'm pretty off topic but does anyone know of a good website to watch newly released movies online ?",
+                        "parentId": "UgxFq0Gus1RKZGjLJeJ4AaABAg",
+                        "authorDisplayName": "Aldo Jay",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRvlvZKIkRXFbUzy8eM-SJjJ97gl2bUoYCgUhNIOOukc02hYoVfQh8WiQO5Rsu9=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCIgsOYkaaH4EOhZmiebs-6g",
+                        "authorChannelId": {
+                            "value": "UCIgsOYkaaH4EOhZmiebs-6g"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2021-06-30T05:26:48Z",
+                        "updatedAt": "2021-06-30T05:26:48Z"
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "ufgkJiVLKlQAZ5bn5onBpv9FV7w",
+        "id": "UgwXMx57N2qSrWbXRip4AaABAg",
+        "snippet": {
+            "videoId": "07h7unV55NE",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "5_EtqfvdBQr9B-iDjsmG2kQ5AQY",
+                "id": "UgwXMx57N2qSrWbXRip4AaABAg",
+                "snippet": {
+                    "videoId": "07h7unV55NE",
+                    "textDisplay": "<a href=\"https://www.youtube.com/watch?v=JVQS0z6UAvk&amp;t=372s\">https://www.youtube.com/watch?v=JVQS0z6UAvk&amp;t=372s</a>",
+                    "textOriginal": "https://www.youtube.com/watch?v=JVQS0z6UAvk&t=372s",
+                    "authorDisplayName": "Carol Tomlinson",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSBuYKj7FrRG0cRlelKqYZD3JeZU9-XCwdYjg=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCtf254D3gVJ5RgiqFxdvuTQ",
+                    "authorChannelId": {
+                        "value": "UCtf254D3gVJ5RgiqFxdvuTQ"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2021-03-30T20:30:03Z",
+                    "updatedAt": "2021-03-30T20:30:03Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "OXvp2LjJLuF05DON1Qb95iMje5U",
+        "id": "UgyjaJgGluHnwFGvRml4AaABAg",
+        "snippet": {
+            "videoId": "07h7unV55NE",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "gsuB9p25e3lC-95HCEmH255jWOI",
+                "id": "UgyjaJgGluHnwFGvRml4AaABAg",
+                "snippet": {
+                    "videoId": "07h7unV55NE",
+                    "textDisplay": "Hello lost beyond Pluto.... i wonder if this could help/hinder Johnny Depps Case - - taken from  &quot;Vox &quot;news. -- When Carlson accused Karen McDougal of extorting former president Donald Trump over her claims of an affair, McDougal filed suit against him. Fox News\u2019s defence was that a  \u201creasonable viewer\u201d would not accept such claims as fact because of the tenor of Carlson\u2019s show. And a judge agreed, dismissing the case. -- fox news is being sued for defamation. Thank you for all you do :)",
+                    "textOriginal": "Hello lost beyond Pluto.... i wonder if this could help/hinder Johnny Depps Case - - taken from  \"Vox \"news. -- When Carlson accused Karen McDougal of extorting former president Donald Trump over her claims of an affair, McDougal filed suit against him. Fox News\u2019s defence was that a  \u201creasonable viewer\u201d would not accept such claims as fact because of the tenor of Carlson\u2019s show. And a judge agreed, dismissing the case. -- fox news is being sued for defamation. Thank you for all you do :)",
+                    "authorDisplayName": "Tj.. a work in progress",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/V-lY_lMz5hJFW5kEw5tYMIsbFBZmTP-Njz-4N7zCvk1TOkGxK7JHkRA70AGib8iaYdri52jT=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCbWZAG1yRqTTpOl0m-lsCow",
+                    "authorChannelId": {
+                        "value": "UCbWZAG1yRqTTpOl0m-lsCow"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2021-03-30T18:20:34Z",
+                    "updatedAt": "2021-03-30T18:21:14Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "l7GItr8AKmmGyeuoogC5A8SMUIQ",
+        "id": "Ugx6GDu25aSICbmsM5x4AaABAg",
+        "snippet": {
+            "videoId": "07h7unV55NE",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "grL9LF9Fn7TyHFrMhjiKVzrYGKY",
+                "id": "Ugx6GDu25aSICbmsM5x4AaABAg",
+                "snippet": {
+                    "videoId": "07h7unV55NE",
+                    "textDisplay": "Boycott all movies AH&#39;s in.",
+                    "textOriginal": "Boycott all movies AH's in.",
+                    "authorDisplayName": "Caro Gonz\u00e1lez",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRlyoksUOHulsMlJDwFGsXY7eLo3iYWyKm-HAlvyA=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCdYLB1gX4dUNNUmuZyKjVpw",
+                    "authorChannelId": {
+                        "value": "UCdYLB1gX4dUNNUmuZyKjVpw"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2021-03-29T21:34:54Z",
+                    "updatedAt": "2021-03-29T21:34:54Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "N3IwtmaQLrFtAN9RxZJJo_gaq3E",
+        "id": "UgyXoGNbiyv0ZUe6i7B4AaABAg",
+        "snippet": {
+            "videoId": "07h7unV55NE",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "Sk9F50XTDywujmV6XHSW5mQqG5Q",
+                "id": "UgyXoGNbiyv0ZUe6i7B4AaABAg",
+                "snippet": {
+                    "videoId": "07h7unV55NE",
+                    "textDisplay": "I think JD&#39;s lawyers made a mistake, as to they didn&#39;t concentrate on the notion that AH didn&#39;t finish her donation pledges; but that there was no pledge in the first place. I think this is one of the things that lost them this appeal.",
+                    "textOriginal": "I think JD's lawyers made a mistake, as to they didn't concentrate on the notion that AH didn't finish her donation pledges; but that there was no pledge in the first place. I think this is one of the things that lost them this appeal.",
+                    "authorDisplayName": "RandomSauce",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSL8_CaDSbLY4IfHzz3k2zlCi5BH8PqFAwUYNCR=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UC5sKEIkYRNgCN8onXu6Wy5Q",
+                    "authorChannelId": {
+                        "value": "UC5sKEIkYRNgCN8onXu6Wy5Q"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2021-03-29T12:36:21Z",
+                    "updatedAt": "2021-03-29T12:36:21Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "ffULmLXNpTbZVqpzsZCbdBTQp6g",
+        "id": "Ugwwqt9k6WO_UTxaDhx4AaABAg",
+        "snippet": {
+            "videoId": "07h7unV55NE",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "9hfQ9DMQ_timfYm72tKGdWQgsEU",
+                "id": "Ugwwqt9k6WO_UTxaDhx4AaABAg",
+                "snippet": {
+                    "videoId": "07h7unV55NE",
+                    "textDisplay": "the interpretation of the law, and what is right is not  the same, as i have learn as a get older.",
+                    "textOriginal": "the interpretation of the law, and what is right is not  the same, as i have learn as a get older.",
+                    "authorDisplayName": "bernabe gonzalez",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRvEpA1C9jDYZs0KXUrwoNM9jmHQkp9FPeyILLq=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCX1rELaV0nHa1DaK0agbz8A",
+                    "authorChannelId": {
+                        "value": "UCX1rELaV0nHa1DaK0agbz8A"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2021-03-28T21:46:34Z",
+                    "updatedAt": "2021-03-28T21:46:34Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "k1BZ6y7Pzl9cmhkK43DweiZv3L8",
+        "id": "Ugw6rHcMkbwZv0LWlaF4AaABAg",
+        "snippet": {
+            "videoId": "07h7unV55NE",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "byWdDlVs_TuwcA--eQ9t2_i4xaA",
+                "id": "Ugw6rHcMkbwZv0LWlaF4AaABAg",
+                "snippet": {
+                    "videoId": "07h7unV55NE",
+                    "textDisplay": "Despite the fact that Johnny sadly lost the UK trial and UK appeal. At least he still has the Virginia trial where I suspect he has a better chance of winning.",
+                    "textOriginal": "Despite the fact that Johnny sadly lost the UK trial and UK appeal. At least he still has the Virginia trial where I suspect he has a better chance of winning.",
+                    "authorDisplayName": "Sean B",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQtrN88hPMSq3q0xA-IpHGnIeUfeJAw_J-58vDCww=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCAI_bgujGeMFCWDjpXmrEog",
+                    "authorChannelId": {
+                        "value": "UCAI_bgujGeMFCWDjpXmrEog"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2021-03-28T17:23:51Z",
+                    "updatedAt": "2021-03-28T17:23:51Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "g-xBVtgS_hCA34m6RrXoxi-ISMM",
+        "id": "UgzC-3LvGV-YUYJ1pEx4AaABAg",
+        "snippet": {
+            "videoId": "07h7unV55NE",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "A0E5wFqetbNJe64NuLJ8u-Ru3Rs",
+                "id": "UgzC-3LvGV-YUYJ1pEx4AaABAg",
+                "snippet": {
+                    "videoId": "07h7unV55NE",
+                    "textDisplay": "So ....  Appeal denied.  Wtf.  I tried not to hope for justice but .....    .....  ummm   Denied ?????",
+                    "textOriginal": "So ....  Appeal denied.  Wtf.  I tried not to hope for justice but .....    .....  ummm   Denied ?????",
+                    "authorDisplayName": "Caroline- Brisbane",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRWtRtXgAreSE19inFSotJE7awkYwpg9rSC9w=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UC40uXaTTWkJJTqCv9gAyqPg",
+                    "authorChannelId": {
+                        "value": "UC40uXaTTWkJJTqCv9gAyqPg"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2021-03-28T02:46:29Z",
+                    "updatedAt": "2021-03-28T02:46:29Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "EpspGmgS6H4Gx0AHXgWZQOCrcIQ",
+        "id": "UgzS1Y4BDFxB823cFwB4AaABAg",
+        "snippet": {
+            "videoId": "07h7unV55NE",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "eMG68H2n22BaqQG3u-ecNtrS4zU",
+                "id": "UgzS1Y4BDFxB823cFwB4AaABAg",
+                "snippet": {
+                    "videoId": "07h7unV55NE",
+                    "textDisplay": "this whole affair is the misarrange of justice.  If he can&#39;t get justice, none&#39; of US can either!  think about that people.",
+                    "textOriginal": "this whole affair is the misarrange of justice.  If he can't get justice, none' of US can either!  think about that people.",
+                    "authorDisplayName": "josten cline",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQin7rNYSufo-BORMVT1F8UpVJwVBHr_-qcog=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCslfXqgWl3v6suGQS8vtiJA",
+                    "authorChannelId": {
+                        "value": "UCslfXqgWl3v6suGQS8vtiJA"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2021-03-27T23:43:05Z",
+                    "updatedAt": "2021-03-27T23:43:05Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "Zjba5xyVwiyCslDQdZ6MWkoq6HU",
+        "id": "UgyBrNjs_FWiZeAsFRB4AaABAg",
+        "snippet": {
+            "videoId": "07h7unV55NE",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "BBJP5NCBfMFqlfMFJ6boYPzV3w8",
+                "id": "UgyBrNjs_FWiZeAsFRB4AaABAg",
+                "snippet": {
+                    "videoId": "07h7unV55NE",
+                    "textDisplay": "well, Johnny lost the apeal hearing. Its done. Can we get an opinion video on this? :) I somewhat feal this is a perfect example why lawfull doesn&#39;t also mean just...",
+                    "textOriginal": "well, Johnny lost the apeal hearing. Its done. Can we get an opinion video on this? :) I somewhat feal this is a perfect example why lawfull doesn't also mean just...",
+                    "authorDisplayName": "Robert Vieru",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSDJ85xBOI8NJ16MI12xvF-LgIp64-6gHhZcQ=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCSM2ZB65jHlI1os3XD5l7HQ",
+                    "authorChannelId": {
+                        "value": "UCSM2ZB65jHlI1os3XD5l7HQ"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2021-03-27T07:29:58Z",
+                    "updatedAt": "2021-03-27T07:32:12Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "VxIubLiVXxtb4cpLNu1VH-z1c0I",
+        "id": "UgyG3csXO1GpxrjmMfV4AaABAg",
+        "snippet": {
+            "videoId": "07h7unV55NE",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "YsE5EDTIns83NkYFDJH39ZJP0wA",
+                "id": "UgyG3csXO1GpxrjmMfV4AaABAg",
+                "snippet": {
+                    "videoId": "07h7unV55NE",
+                    "textDisplay": "Great job , very informative and clear. Thank you for sharing \ud83d\udc4d\ud83c\udffe\u2764\ufe0f\ud83c\udde8\ud83c\udde6",
+                    "textOriginal": "Great job , very informative and clear. Thank you for sharing \ud83d\udc4d\ud83c\udffe\u2764\ufe0f\ud83c\udde8\ud83c\udde6",
+                    "authorDisplayName": "Korine ML Bernard",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQEDrejjAy7nA97VkEcMFfmFu3mqN1B2J9ddA=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UChtJuJIDPlf8XrV92o82D7A",
+                    "authorChannelId": {
+                        "value": "UChtJuJIDPlf8XrV92o82D7A"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2021-03-27T02:48:36Z",
+                    "updatedAt": "2021-03-27T02:48:36Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "x20E9HRym4VNGueVkSGWyFNF1ow",
+        "id": "UgwyTPdfAuQz8yAZBIp4AaABAg",
+        "snippet": {
+            "videoId": "07h7unV55NE",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "dSBsmgskH0XhENmBN0WVqBpe92U",
+                "id": "UgwyTPdfAuQz8yAZBIp4AaABAg",
+                "snippet": {
+                    "videoId": "07h7unV55NE",
+                    "textDisplay": "No video yet go team amber",
+                    "textOriginal": "No video yet go team amber",
+                    "authorDisplayName": "Dream",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/mfMlbk1Fbb4gB6UbhXmNtd3wSi5YbGJ6jKT0YOMY2e_FoKQEKJ3wNaOwWXzzk3JNlF1NDmRrNA=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCq-V00GV5NNKt3D4sEC-EmA",
+                    "authorChannelId": {
+                        "value": "UCq-V00GV5NNKt3D4sEC-EmA"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2021-03-26T23:52:40Z",
+                    "updatedAt": "2021-03-26T23:52:40Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "YvZhqtDf00ahBUBLQvcXPcfuFLk",
+        "id": "UgyQndYPkJTJIZXbzcl4AaABAg",
+        "snippet": {
+            "videoId": "07h7unV55NE",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "MnYd3IRlYQaFhWioZlAySsefQik",
+                "id": "UgyQndYPkJTJIZXbzcl4AaABAg",
+                "snippet": {
+                    "videoId": "07h7unV55NE",
+                    "textDisplay": "AH (the villan) claiming such &#39;injuries,&#39; over the many years, any legal body would expect a proven history of hospital visits, urgent medical care, xrays/scans and prescribed drugs - ALL very normal part of medical care... <br>&gt;But doesn&#39;t seem this line was persued by JD&#39;s team which may have blocked corrupt biased Nicol&#39;s chance of his dishonest and biased ruling.",
+                    "textOriginal": "AH (the villan) claiming such 'injuries,' over the many years, any legal body would expect a proven history of hospital visits, urgent medical care, xrays/scans and prescribed drugs - ALL very normal part of medical care... \n>But doesn't seem this line was persued by JD's team which may have blocked corrupt biased Nicol's chance of his dishonest and biased ruling.",
+                    "authorDisplayName": "Projectcyclingfitness",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTov5A1YeasASmtctetGtAI_pIOyL8EFpwGsw=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UC809AQCS7Q145k3yv9YzBFg",
+                    "authorChannelId": {
+                        "value": "UC809AQCS7Q145k3yv9YzBFg"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2021-03-26T21:30:28Z",
+                    "updatedAt": "2021-03-26T21:30:28Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "G_1HvAvEzxQS8ypfxkYCId_etNE",
+        "id": "UgyLX6eEk5ODi6BbjNN4AaABAg",
+        "snippet": {
+            "videoId": "07h7unV55NE",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "zP5m-nqOX4Dp55uZ9dahPhevPbc",
+                "id": "UgyLX6eEk5ODi6BbjNN4AaABAg",
+                "snippet": {
+                    "videoId": "07h7unV55NE",
+                    "textDisplay": "<a href=\"http://www.youtube.com/results?search_query=%23fireamberturd\">#FIREAMBERTURD</a>",
+                    "textOriginal": "#FIREAMBERTURD",
+                    "authorDisplayName": "Rose B",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRTf0bzxDT5pKTznxCAMbraxWQFc_AfCMKp2Q=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCNySPUKrxmB9_iOYBo3IVVA",
+                    "authorChannelId": {
+                        "value": "UCNySPUKrxmB9_iOYBo3IVVA"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 2,
+                    "publishedAt": "2021-03-26T18:19:45Z",
+                    "updatedAt": "2021-03-26T18:19:45Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "CyZqTW9O80HIVPennn9zPJzcXHA",
+        "id": "Ugwstz1wC7EMldlZmZZ4AaABAg",
+        "snippet": {
+            "videoId": "07h7unV55NE",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "_x_86rM47FoaVP4WvfqDEGmCrGc",
+                "id": "Ugwstz1wC7EMldlZmZZ4AaABAg",
+                "snippet": {
+                    "videoId": "07h7unV55NE",
+                    "textDisplay": "Now that his appeal has been denied (Mar. 25)... probably time for another vid...",
+                    "textOriginal": "Now that his appeal has been denied (Mar. 25)... probably time for another vid...",
+                    "authorDisplayName": "Jay Xavier",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTnwnH3uj6gEjtzhN9aLKUzdOofHAcb64D2Ng=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCNcIOj7Mnq70nHXWcdGJrUA",
+                    "authorChannelId": {
+                        "value": "UCNcIOj7Mnq70nHXWcdGJrUA"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 2,
+                    "publishedAt": "2021-03-26T12:56:46Z",
+                    "updatedAt": "2021-03-26T12:56:46Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "jhg1QOiJp7IIETYYa_2nD8WeYlM",
+        "id": "UgyLWHOLQ2qYtPlbpp14AaABAg",
+        "snippet": {
+            "videoId": "07h7unV55NE",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "X5SeI_vidJE8mRoJBh8Ohea_ZrI",
+                "id": "UgyLWHOLQ2qYtPlbpp14AaABAg",
+                "snippet": {
+                    "videoId": "07h7unV55NE",
+                    "textDisplay": "Plutonian here.<br><br>We would like to see Review of A Few Good Men(1992). Since you specialise in martial law.<br><br>P.S.<br>Your best Tom Cruise impression?",
+                    "textOriginal": "Plutonian here.\n\nWe would like to see Review of A Few Good Men(1992). Since you specialise in martial law.\n\nP.S.\nYour best Tom Cruise impression?",
+                    "authorDisplayName": "Hristo Kozhuharov",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTgQkg3IBczev6k04nhgCfwYb3zpGM7cVBYNnpfxw=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCXqVxN_WuGB1vvhz3PWJ3IA",
+                    "authorChannelId": {
+                        "value": "UCXqVxN_WuGB1vvhz3PWJ3IA"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2021-03-26T10:08:54Z",
+                    "updatedAt": "2021-03-26T10:08:54Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "5EpwEWc9Fluel4LltDRqW0amwyg",
+        "id": "UgztzIg72fXEOnpsYW14AaABAg",
+        "snippet": {
+            "videoId": "07h7unV55NE",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "tKe3xLq2-7Q84Ig7xIrqWWCyNPE",
+                "id": "UgztzIg72fXEOnpsYW14AaABAg",
+                "snippet": {
+                    "videoId": "07h7unV55NE",
+                    "textDisplay": "People who work for Amber: She\u2019s great!<br>People who work for Johnny: He\u2019s amazing!<br>People who HAVE worked for Amber: She\u2019s insane!<br>People who HAVE worked for Johnny: He\u2019s amazing!<br>Amber says about Johnny: He hit me, he\u2019s an abuser!<br>Johnny says about Amber: <b>nothing - when you don\u2019t have anything nice to say, don\u2019t say anything</b><br>Amber to Johnny: I hit you. I didn\u2019t punch you. You\u2019re not punched. I don\u2019t know what the motion of my hand was, but I didn\u2019t slap you, or punch you, I hit you. (Something along those lines) - Tell them, Johnny, tell the world \u201cI Johnny Depp, a man, am a victim of abuse\u201d and see who will believe you! (Also something along those lines)<br>Johnny to Amber: I fn love you. I loved you. <br><br>This in itself says who the real victim is. Not only physical, but mental aswell. It\u2019s called gaslighting, what she said to him.",
+                    "textOriginal": "People who work for Amber: She\u2019s great!\nPeople who work for Johnny: He\u2019s amazing!\nPeople who HAVE worked for Amber: She\u2019s insane!\nPeople who HAVE worked for Johnny: He\u2019s amazing!\nAmber says about Johnny: He hit me, he\u2019s an abuser!\nJohnny says about Amber: *nothing - when you don\u2019t have anything nice to say, don\u2019t say anything*\nAmber to Johnny: I hit you. I didn\u2019t punch you. You\u2019re not punched. I don\u2019t know what the motion of my hand was, but I didn\u2019t slap you, or punch you, I hit you. (Something along those lines) - Tell them, Johnny, tell the world \u201cI Johnny Depp, a man, am a victim of abuse\u201d and see who will believe you! (Also something along those lines)\nJohnny to Amber: I fn love you. I loved you. \n\nThis in itself says who the real victim is. Not only physical, but mental aswell. It\u2019s called gaslighting, what she said to him.",
+                    "authorDisplayName": "Vivia Waag",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRLCVnABfgnls8S7U1Eb4xVmQ1aKyLzgLrnBsH2=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCspHg4sx9B-aKwstiF_sPUA",
+                    "authorChannelId": {
+                        "value": "UCspHg4sx9B-aKwstiF_sPUA"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 5,
+                    "publishedAt": "2021-03-26T08:41:58Z",
+                    "updatedAt": "2021-03-26T08:41:58Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "RbW3doQJuuuO_ZrZkhU45P1LPkY",
+        "id": "UgwqMJcckXhBHz1GcWJ4AaABAg",
+        "snippet": {
+            "videoId": "07h7unV55NE",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "YpEFl8q8BYaSUBa9-kGwe8VX_ZQ",
+                "id": "UgwqMJcckXhBHz1GcWJ4AaABAg",
+                "snippet": {
+                    "videoId": "07h7unV55NE",
+                    "textDisplay": "I&#39;m actually so excited for the next Video on this topic because I don&#39;t understand how the F it was denied. Like, what?",
+                    "textOriginal": "I'm actually so excited for the next Video on this topic because I don't understand how the F it was denied. Like, what?",
+                    "authorDisplayName": "Engjell S",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRKvuKmcS7fcw_KkRk2qAceUkToJaswZJs8XBKVUQ=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCsroxaK-cOr6SUWtx7Ad1Lw",
+                    "authorChannelId": {
+                        "value": "UCsroxaK-cOr6SUWtx7Ad1Lw"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2021-03-25T23:17:11Z",
+                    "updatedAt": "2021-03-25T23:17:11Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "0pZvhBo05By5EBCrSrTn1FLuXvg",
+        "id": "UgznL7KHkfDWrsUddeJ4AaABAg",
+        "snippet": {
+            "videoId": "07h7unV55NE",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "ML70D3PFLCCZsoUMtG0xaPdhU-o",
+                "id": "UgznL7KHkfDWrsUddeJ4AaABAg",
+                "snippet": {
+                    "videoId": "07h7unV55NE",
+                    "textDisplay": "After today&#39;s verdict I can not follow any more videos. Amber heard makes me sick. On a positive note u have been amazing and I will see u in my dreams \ud83e\udd70",
+                    "textOriginal": "After today's verdict I can not follow any more videos. Amber heard makes me sick. On a positive note u have been amazing and I will see u in my dreams \ud83e\udd70",
+                    "authorDisplayName": "Nick",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQb9uxH_t7OjsCwyXiDY034W8AIzsqIORlRA6KgeA=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCoPOEIpQ6LX48lNrKdc-5AA",
+                    "authorChannelId": {
+                        "value": "UCoPOEIpQ6LX48lNrKdc-5AA"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2021-03-25T22:06:30Z",
+                    "updatedAt": "2021-03-25T22:06:30Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "jk_VLgoluJtoQ85h2nKkb69OlGM",
+        "id": "UgwIelaUcoj0qxNk1M94AaABAg",
+        "snippet": {
+            "videoId": "07h7unV55NE",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "6ee_KPojAMTq_SYZyz8hZTWQGoE",
+                "id": "UgwIelaUcoj0qxNk1M94AaABAg",
+                "snippet": {
+                    "videoId": "07h7unV55NE",
+                    "textDisplay": "Robinhood or Reddit guys have to mess with Rupert Murdoch&#39;s wealth, like they did to game stop and Elon Musk.  Then maybe those billionaires will stop their support of an obvious abuser. \ud83e\udd14",
+                    "textOriginal": "Robinhood or Reddit guys have to mess with Rupert Murdoch's wealth, like they did to game stop and Elon Musk.  Then maybe those billionaires will stop their support of an obvious abuser. \ud83e\udd14",
+                    "authorDisplayName": "Rose W",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTjQ0jqlfcW_tTXGLGJ9BnR0g6ZphbhZJfpgx4SYg=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCMzH7N7E-prwZTlBtqGp8hg",
+                    "authorChannelId": {
+                        "value": "UCMzH7N7E-prwZTlBtqGp8hg"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2021-03-25T21:12:47Z",
+                    "updatedAt": "2021-03-25T21:12:47Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }
+]
