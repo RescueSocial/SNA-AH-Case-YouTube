@@ -1,0 +1,92 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "yJMZ6StVSoZf30suJ8V1OdDl3DQ",
+        "id": "UgzpySjcRUtvTTYC2sV4AaABAg",
+        "snippet": {
+            "videoId": "RJS22DWgeq4",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "Swd-R3Ph6hC3IHg2VNl66bLXrlc",
+                "id": "UgzpySjcRUtvTTYC2sV4AaABAg",
+                "snippet": {
+                    "videoId": "RJS22DWgeq4",
+                    "textDisplay": "its not the health and fitness....she is an abuser molester. Psychologist showed she is not mentally ok. Johny won the case in the end",
+                    "textOriginal": "its not the health and fitness....she is an abuser molester. Psychologist showed she is not mentally ok. Johny won the case in the end",
+                    "authorDisplayName": "Alex Kirov",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQFRdVCZSx_AMxnCw10NDpn3-QVn5U6utmYEQZwWA=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCKSDlDslKzTFU5KsapP1ceg",
+                    "authorChannelId": {
+                        "value": "UCKSDlDslKzTFU5KsapP1ceg"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2021-07-19T15:00:05Z",
+                    "updatedAt": "2021-07-19T15:00:05Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "OIYefKtOOzBcaPLhuugANG7gL9w",
+        "id": "UgzMjq_Ij1RjCm9AWxF4AaABAg",
+        "snippet": {
+            "videoId": "RJS22DWgeq4",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "D71NSfenpsxkYjuXHKjmFTeAQ-4",
+                "id": "UgzMjq_Ij1RjCm9AWxF4AaABAg",
+                "snippet": {
+                    "videoId": "RJS22DWgeq4",
+                    "textDisplay": "Please \ud83d\ude4f\u2764\ufe0f<br>We want a better person, a wonderful beautiful \ud83c\udf39 actor<br>Ms, Clarke would be amazing \ud83d\udc93",
+                    "textOriginal": "Please \ud83d\ude4f\u2764\ufe0f\nWe want a better person, a wonderful beautiful \ud83c\udf39 actor\nMs, Clarke would be amazing \ud83d\udc93",
+                    "authorDisplayName": "Elizabeth Carter",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRiAepdbyiPXjtIvJ15lFp2J3e-wLDFOGF6Dw=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UC3ITtvz-vwuAUiY-jqFaQOg",
+                    "authorChannelId": {
+                        "value": "UC3ITtvz-vwuAUiY-jqFaQOg"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 3,
+                    "publishedAt": "2021-07-09T22:23:48Z",
+                    "updatedAt": "2021-07-09T22:23:48Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 1,
+            "isPublic": true
+        },
+        "replies": {
+            "comments": [
+                {
+                    "kind": "youtube#comment",
+                    "etag": "WsIFEH1kQH3pDLyil9iLmcBGr3I",
+                    "id": "UgzMjq_Ij1RjCm9AWxF4AaABAg.9PaNwW2NjFU9Q6vYO89zCz",
+                    "snippet": {
+                        "videoId": "RJS22DWgeq4",
+                        "textDisplay": "Yes!",
+                        "textOriginal": "Yes!",
+                        "parentId": "UgzMjq_Ij1RjCm9AWxF4AaABAg",
+                        "authorDisplayName": "Sandy Vasquez",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQh6sZKdfS2eLDELyfjYVyLTiiCfEa3WDQQ8c4taw=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UClCwW0IJWOaBDVddfuy1y4g",
+                        "authorChannelId": {
+                            "value": "UClCwW0IJWOaBDVddfuy1y4g"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2021-07-22T23:01:09Z",
+                        "updatedAt": "2021-07-22T23:01:09Z"
+                    }
+                }
+            ]
+        }
+    }
+]

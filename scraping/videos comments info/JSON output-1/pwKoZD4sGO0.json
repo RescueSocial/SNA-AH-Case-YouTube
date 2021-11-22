@@ -1,0 +1,756 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "-eI2bYwhvOgOA1TMzYjssCyUd5g",
+        "id": "UgxkCP0wFBhz1hJbSl94AaABAg",
+        "snippet": {
+            "videoId": "pwKoZD4sGO0",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "Z6Ny-LblXerU8NPShiLHSidAzsM",
+                "id": "UgxkCP0wFBhz1hJbSl94AaABAg",
+                "snippet": {
+                    "videoId": "pwKoZD4sGO0",
+                    "textDisplay": "What are your thoughts?",
+                    "textOriginal": "What are your thoughts?",
+                    "authorDisplayName": "InformOverload",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/TwgNy0VFBwUkPhlqVwmDwZoeHBPytuvuKqN5fwj_YyYtFEXDoNBurWhWhawNMn_KXAXayQxMZA=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UC-NINtNMPM75eaqh07RCy_Q",
+                    "authorChannelId": {
+                        "value": "UC-NINtNMPM75eaqh07RCy_Q"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 29,
+                    "publishedAt": "2021-06-01T17:03:07Z",
+                    "updatedAt": "2021-06-01T17:03:07Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 23,
+            "isPublic": true
+        },
+        "replies": {
+            "comments": [
+                {
+                    "kind": "youtube#comment",
+                    "etag": "4CwgoXml5sWWXhkQyTpaJcYbw9E",
+                    "id": "UgxkCP0wFBhz1hJbSl94AaABAg.9O2y1PlystE9OHhzgbz6i9",
+                    "snippet": {
+                        "videoId": "pwKoZD4sGO0",
+                        "textDisplay": "@Megan McKnight @@",
+                        "textOriginal": "@Megan McKnight @@",
+                        "parentId": "UgxkCP0wFBhz1hJbSl94AaABAg",
+                        "authorDisplayName": "Sarah Martinez",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS3tgnTpv6phBh1WE2NnBG6-8ZiCScXQWzok4NZ=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCeFgVxxCUwfChDt7X45nQkA",
+                        "authorChannelId": {
+                            "value": "UCeFgVxxCUwfChDt7X45nQkA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2021-06-07T10:31:32Z",
+                        "updatedAt": "2021-06-07T10:31:32Z"
+                    }
+                },
+                {
+                    "kind": "youtube#comment",
+                    "etag": "yjQ1Nz66_pO_mn6mchlFTo2EgL4",
+                    "id": "UgxkCP0wFBhz1hJbSl94AaABAg.9O2y1PlystE9OAR2EtQp1n",
+                    "snippet": {
+                        "videoId": "pwKoZD4sGO0",
+                        "textDisplay": "She really deserves some jail time.",
+                        "textOriginal": "She really deserves some jail time.",
+                        "parentId": "UgxkCP0wFBhz1hJbSl94AaABAg",
+                        "authorDisplayName": "Dujie Anna Lord",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSoxNOFeBmnxkYxfpvOroPcGY7mn52p93kgODlf=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCTlFJgMpleH_QIP9JlCBw0Q",
+                        "authorChannelId": {
+                            "value": "UCTlFJgMpleH_QIP9JlCBw0Q"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2021-06-04T14:40:03Z",
+                        "updatedAt": "2021-06-04T14:40:03Z"
+                    }
+                },
+                {
+                    "kind": "youtube#comment",
+                    "etag": "qKBmRpHTa-PkhO0BLLHVHAzs5lM",
+                    "id": "UgxkCP0wFBhz1hJbSl94AaABAg.9O2y1PlystE9OAE5AVwK6T",
+                    "snippet": {
+                        "videoId": "pwKoZD4sGO0",
+                        "textDisplay": "I have no thoughts, I\u2019m blonde.\ud83d\ude0a",
+                        "textOriginal": "I have no thoughts, I\u2019m blonde.\ud83d\ude0a",
+                        "parentId": "UgxkCP0wFBhz1hJbSl94AaABAg",
+                        "authorDisplayName": "Mik Hellen",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSCPryUPXRvzrmq3LQ66IdQzGj01xEki7D3sA=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCdeOsK62300sr3pzK2E2HRA",
+                        "authorChannelId": {
+                            "value": "UCdeOsK62300sr3pzK2E2HRA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2021-06-04T12:46:51Z",
+                        "updatedAt": "2021-06-04T12:46:51Z"
+                    }
+                },
+                {
+                    "kind": "youtube#comment",
+                    "etag": "MVdgDpC4HmeMNo45b4wQS8PPqcA",
+                    "id": "UgxkCP0wFBhz1hJbSl94AaABAg.9O2y1PlystE9O80PLm8ncI",
+                    "snippet": {
+                        "videoId": "pwKoZD4sGO0",
+                        "textDisplay": "You should talk a bit slower .. it&#39;s hard to understand you ... XX",
+                        "textOriginal": "You should talk a bit slower .. it's hard to understand you ... XX",
+                        "parentId": "UgxkCP0wFBhz1hJbSl94AaABAg",
+                        "authorDisplayName": "Sterretraan",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSOABg6oxHSspsMZVddrQqJ71jR1DIX33-s23qXJw=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCfZTxz58jV0yiejVNDIbvfA",
+                        "authorChannelId": {
+                            "value": "UCfZTxz58jV0yiejVNDIbvfA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2021-06-03T16:08:48Z",
+                        "updatedAt": "2021-06-03T16:08:48Z"
+                    }
+                },
+                {
+                    "kind": "youtube#comment",
+                    "etag": "q7U2No4BAjVXCe0RgUjiW5zimYA",
+                    "id": "UgxkCP0wFBhz1hJbSl94AaABAg.9O2y1PlystE9O4IvfBbqHM",
+                    "snippet": {
+                        "videoId": "pwKoZD4sGO0",
+                        "textDisplay": "@Lee Banning people jumped into believing her right away without getting all the facts first because she keeps playing the Iam the victim Iam innocent Johnny\u2019s the abuser card with the judge but then outside of the court she\u2019ll reveal he did nothing wrong. In other words people are just too quick to judge Johnny when it comes to Amber.",
+                        "textOriginal": "@Lee Banning people jumped into believing her right away without getting all the facts first because she keeps playing the Iam the victim Iam innocent Johnny\u2019s the abuser card with the judge but then outside of the court she\u2019ll reveal he did nothing wrong. In other words people are just too quick to judge Johnny when it comes to Amber.",
+                        "parentId": "UgxkCP0wFBhz1hJbSl94AaABAg",
+                        "authorDisplayName": "Megan McKnight",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQAytHqtCpKFjgG2av4CkEJ2wddJ2Rax3Ve8FQaZw=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCxfbqDhAcyqFDUVOF1SVxUw",
+                        "authorChannelId": {
+                            "value": "UCxfbqDhAcyqFDUVOF1SVxUw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2021-06-02T05:33:40Z",
+                        "updatedAt": "2021-06-02T05:33:40Z"
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "qlqCzonJGtS9sy1n0qcgJfo_oU4",
+        "id": "Ugz_I3bhVabVubTRnEl4AaABAg",
+        "snippet": {
+            "videoId": "pwKoZD4sGO0",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "EIkRrpWbjXkHxLqZQAON6nM7cL4",
+                "id": "Ugz_I3bhVabVubTRnEl4AaABAg",
+                "snippet": {
+                    "videoId": "pwKoZD4sGO0",
+                    "textDisplay": "Now thats what u call a jar of dirt",
+                    "textOriginal": "Now thats what u call a jar of dirt",
+                    "authorDisplayName": "sangwoo 360p roblox picture resolution",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/bVb4goPE5iECp1PVIVQBMAssEonKo_N6j10DpzLJ4CqH0qDVJ2iX1ESr599vsGGzaPy4zZw7=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCnT3vSfQDGKFv7-D5RY5Z8A",
+                    "authorChannelId": {
+                        "value": "UCnT3vSfQDGKFv7-D5RY5Z8A"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2021-10-06T10:30:09Z",
+                    "updatedAt": "2021-10-06T10:30:19Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "aQAJLv8JecP6ZTIdJi579nG7h4E",
+        "id": "UgwUMQm9T_2LlYrf1kt4AaABAg",
+        "snippet": {
+            "videoId": "pwKoZD4sGO0",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "5cbfK2Ih7kXLH1qFTJDnHwmPbJQ",
+                "id": "UgwUMQm9T_2LlYrf1kt4AaABAg",
+                "snippet": {
+                    "videoId": "pwKoZD4sGO0",
+                    "textDisplay": "All I have 2 say is...IF U WANNA GET SCENE, DON&#39;T B HEARD...BAH...BOYCOTT AMBER HEARD...and SHIT REALLY DOES RISE 2 THE TOP AND I KNOW A. TEARD DID",
+                    "textOriginal": "All I have 2 say is...IF U WANNA GET SCENE, DON'T B HEARD...BAH...BOYCOTT AMBER HEARD...and SHIT REALLY DOES RISE 2 THE TOP AND I KNOW A. TEARD DID",
+                    "authorDisplayName": "Dana Craig",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR9F9Gg8QBJwN0dXrnFKd0x-C2jjzOcpJb0yQldwg=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCvepM9W0RjCJsIRUelkhomg",
+                    "authorChannelId": {
+                        "value": "UCvepM9W0RjCJsIRUelkhomg"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2021-06-12T15:19:59Z",
+                    "updatedAt": "2021-06-12T15:19:59Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "c1h2k2FDzzyYli1BOHFIhhXOJZ8",
+        "id": "Ugwg7y83WcNMAp2ERM14AaABAg",
+        "snippet": {
+            "videoId": "pwKoZD4sGO0",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "Uc_H5xdOA0WMtxc5Yd7LxdiW1BE",
+                "id": "Ugwg7y83WcNMAp2ERM14AaABAg",
+                "snippet": {
+                    "videoId": "pwKoZD4sGO0",
+                    "textDisplay": "Why will they not charge her for Perjury?",
+                    "textOriginal": "Why will they not charge her for Perjury?",
+                    "authorDisplayName": "I FAMILYIH",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR592kUe9GcknEUiWX5WDmXpihLfzLH--ovUmvk=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCsJuW4HScKSAkg6GgJA960A",
+                    "authorChannelId": {
+                        "value": "UCsJuW4HScKSAkg6GgJA960A"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 2,
+                    "publishedAt": "2021-06-08T16:27:08Z",
+                    "updatedAt": "2021-06-08T16:27:08Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "m77Gd1kHTj5m5T5fFfieMaN0_U4",
+        "id": "UgyrwS-v1mVJqjvnIO14AaABAg",
+        "snippet": {
+            "videoId": "pwKoZD4sGO0",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "2w9DbREl3wYK7jiGRigVoiY1bAE",
+                "id": "UgyrwS-v1mVJqjvnIO14AaABAg",
+                "snippet": {
+                    "videoId": "pwKoZD4sGO0",
+                    "textDisplay": "Amber is mean to do this to Johnny Depp!",
+                    "textOriginal": "Amber is mean to do this to Johnny Depp!",
+                    "authorDisplayName": "sheila turner",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQGfEj8p3FlEyB97u-1e7uVGAQlNqgqDJtaE0SRaA=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UC8si0Fo4mTakZee7k882XgQ",
+                    "authorChannelId": {
+                        "value": "UC8si0Fo4mTakZee7k882XgQ"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2021-06-06T22:47:54Z",
+                    "updatedAt": "2021-06-06T22:47:54Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "COqbfuO_hvTr_PwdKc5KEcIWWfI",
+        "id": "Ugz9hdRMWJmROs1Lnfl4AaABAg",
+        "snippet": {
+            "videoId": "pwKoZD4sGO0",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "ffurReK-ifrCigOHnanIot1ja7c",
+                "id": "Ugz9hdRMWJmROs1Lnfl4AaABAg",
+                "snippet": {
+                    "videoId": "pwKoZD4sGO0",
+                    "textDisplay": "The audacity to suggest JD fans will be brought &quot;to violence&quot;. SHE is the violent one. That is LITERALLY the whole point of the case. lol",
+                    "textOriginal": "The audacity to suggest JD fans will be brought \"to violence\". SHE is the violent one. That is LITERALLY the whole point of the case. lol",
+                    "authorDisplayName": "TrueBliu Nineleven",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRU-dc-r99aXonf1WIsyEfJI2Jnx3jICsk6AsaBwA=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UC9pdfaFLJ1g1vbO4g7ilreg",
+                    "authorChannelId": {
+                        "value": "UC9pdfaFLJ1g1vbO4g7ilreg"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2021-06-06T19:47:30Z",
+                    "updatedAt": "2021-06-06T19:47:30Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "2cSjXri54i1YaCy_YjFdV5BgF5U",
+        "id": "Ugx6zODTDbXmNqOX25N4AaABAg",
+        "snippet": {
+            "videoId": "pwKoZD4sGO0",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "olcYbEUSvha8B6LSTJfW4VUwCDM",
+                "id": "Ugx6zODTDbXmNqOX25N4AaABAg",
+                "snippet": {
+                    "videoId": "pwKoZD4sGO0",
+                    "textDisplay": "Seriously AH is having emotional destress....she orchestrated a huge lie with help of others to ruin another person&#39;s life. ....she dug a huge hole and its getting bigger.... as for JD&#39;S fans acting violent ....thats ridiculous....the abuser here is AH ....and as for people siding with JD ....people are siding with the truth....AH is just ridiculous...JD has every right to defend himself from her allegations...especially when AH is lying through her teeth..... I would side with anyone who went through something like this.....I side with the truth..<br>Its appalling that she was the abuser and faked everything....even being the voice of the abused ...sickening <br><a href=\"http://www.youtube.com/results?search_query=%23justiceforjohnny\">#justiceforjohnny</a> <a href=\"http://www.youtube.com/results?search_query=%23amberheardisanabuser\">#amberheardisanabuser</a> <a href=\"http://www.youtube.com/results?search_query=%23amberheardisaliar\">#amberheardisaliar</a> <a href=\"http://www.youtube.com/results?search_query=%23aclubacksanabuser\">#aclubacksanabuser</a>",
+                    "textOriginal": "Seriously AH is having emotional destress....she orchestrated a huge lie with help of others to ruin another person's life. ....she dug a huge hole and its getting bigger.... as for JD'S fans acting violent ....thats ridiculous....the abuser here is AH ....and as for people siding with JD ....people are siding with the truth....AH is just ridiculous...JD has every right to defend himself from her allegations...especially when AH is lying through her teeth..... I would side with anyone who went through something like this.....I side with the truth..\nIts appalling that she was the abuser and faked everything....even being the voice of the abused ...sickening \n#justiceforjohnny #amberheardisanabuser #amberheardisaliar #aclubacksanabuser",
+                    "authorDisplayName": "Jackie Rios",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRJYHTn77u2hq8TS9L9h7sCPaQcYm81ZpqE8HjNdA=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCpOft73e5szF7IrckGsjcWw",
+                    "authorChannelId": {
+                        "value": "UCpOft73e5szF7IrckGsjcWw"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2021-06-06T10:21:14Z",
+                    "updatedAt": "2021-06-06T10:59:24Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "YaO3frreve5EDOIRtKRg8VeVDIg",
+        "id": "UgxXkoXGaEJ5morhTcd4AaABAg",
+        "snippet": {
+            "videoId": "pwKoZD4sGO0",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "io8h4PPGTflKM901nB7xUwqRYnE",
+                "id": "UgxXkoXGaEJ5morhTcd4AaABAg",
+                "snippet": {
+                    "videoId": "pwKoZD4sGO0",
+                    "textDisplay": "It has been AH fans who came for Youtubers covering the case and who are pro JD. They mass flag content, get channels banned and even go as far as releasing personal info of those people and threatening children (for reference: The Umbrella Guy).<br>So IMHO the only people who are in distress or suffering from incited violence is people standing up for JD.",
+                    "textOriginal": "It has been AH fans who came for Youtubers covering the case and who are pro JD. They mass flag content, get channels banned and even go as far as releasing personal info of those people and threatening children (for reference: The Umbrella Guy).\nSo IMHO the only people who are in distress or suffering from incited violence is people standing up for JD.",
+                    "authorDisplayName": "Miss Shadowplay",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/CXaOcN4K9UAMLX5YDFLWc34GyLy8-XYvgFWxtWWXLY4Di_NcWViF2Rph0IqGKcilm0wVZWHoeGQ=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCc2vlFTfYUcKoebyDyyp87w",
+                    "authorChannelId": {
+                        "value": "UCc2vlFTfYUcKoebyDyyp87w"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2021-06-06T10:18:35Z",
+                    "updatedAt": "2021-06-06T10:18:35Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "hVE2KukAFyL1K6uthUkklgn_Jls",
+        "id": "Ugx0NlE2kxyucWWVgKN4AaABAg",
+        "snippet": {
+            "videoId": "pwKoZD4sGO0",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "et_3vJzfkLtzYnM6Pu7EB_82w-A",
+                "id": "Ugx0NlE2kxyucWWVgKN4AaABAg",
+                "snippet": {
+                    "videoId": "pwKoZD4sGO0",
+                    "textDisplay": "\ud83d\udc9c\ud83c\udfa0\ud83d\udc9cLove Johnny \ud83d\udc9c\ud83c\udfa0\ud83d\udc9c",
+                    "textOriginal": "\ud83d\udc9c\ud83c\udfa0\ud83d\udc9cLove Johnny \ud83d\udc9c\ud83c\udfa0\ud83d\udc9c",
+                    "authorDisplayName": "Patty H0skins",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTG3Xx4Aw04SOUdVcjH4gAVQwZ2PEYbGNGZ=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCsNci80sTPwmdNMCNQTBkeQ",
+                    "authorChannelId": {
+                        "value": "UCsNci80sTPwmdNMCNQTBkeQ"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2021-06-06T06:29:33Z",
+                    "updatedAt": "2021-06-06T06:29:33Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "3WNHkhbgIlINovgt-_N8CBpicDE",
+        "id": "UgwD-91jooGS2ZBNQmt4AaABAg",
+        "snippet": {
+            "videoId": "pwKoZD4sGO0",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "aR3ty_eJqZxpanvvm7PmbAX58yU",
+                "id": "UgwD-91jooGS2ZBNQmt4AaABAg",
+                "snippet": {
+                    "videoId": "pwKoZD4sGO0",
+                    "textDisplay": "Im not sure what the story is there, with johnny depps texts to pual betteny. Want to know about that",
+                    "textOriginal": "Im not sure what the story is there, with johnny depps texts to pual betteny. Want to know about that",
+                    "authorDisplayName": "Priyal Jain",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTidC_xT7Uck6l7tnPIYFPUju0O-JuqZqfcOQAz=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCpvHpL2MJDqH1ylXQB1QGLg",
+                    "authorChannelId": {
+                        "value": "UCpvHpL2MJDqH1ylXQB1QGLg"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2021-06-06T05:32:26Z",
+                    "updatedAt": "2021-06-06T05:32:26Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "N-0vMhCAiTcZ0GrYmSqjlXWrgXI",
+        "id": "UgxVv1oudCR9pukQgZB4AaABAg",
+        "snippet": {
+            "videoId": "pwKoZD4sGO0",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "o0B_TEcgyCMC86TV1Uzd7bJkhkM",
+                "id": "UgxVv1oudCR9pukQgZB4AaABAg",
+                "snippet": {
+                    "videoId": "pwKoZD4sGO0",
+                    "textDisplay": "We demand justice for Johnny Depp\u270a\u270a\u270a\u2764\ufe0f",
+                    "textOriginal": "We demand justice for Johnny Depp\u270a\u270a\u270a\u2764\ufe0f",
+                    "authorDisplayName": "acadreading02",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSW_WZWaRJhP-qmwaURLL5hpmd71Yo300KjMg=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UC5zjytIFUiCN6UOVWT3vghw",
+                    "authorChannelId": {
+                        "value": "UC5zjytIFUiCN6UOVWT3vghw"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2021-06-05T22:13:32Z",
+                    "updatedAt": "2021-06-05T22:13:32Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "7kTpKWNfh-aiSYNYYN7CocyI68E",
+        "id": "UgxIol_cTreu4rsTnmV4AaABAg",
+        "snippet": {
+            "videoId": "pwKoZD4sGO0",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "ctb20K8zxr1zvMF5Qa7iKmyHG0M",
+                "id": "UgxIol_cTreu4rsTnmV4AaABAg",
+                "snippet": {
+                    "videoId": "pwKoZD4sGO0",
+                    "textDisplay": "First things first I\u2019m the realist",
+                    "textOriginal": "First things first I\u2019m the realist",
+                    "authorDisplayName": "Charlotte Jones",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQAvYLtkypApehMJoXnHJLvMY_UpTwErZDlMxXGRg=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCD18pPBy8U7uRywBLOsyOAw",
+                    "authorChannelId": {
+                        "value": "UCD18pPBy8U7uRywBLOsyOAw"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2021-06-05T19:56:00Z",
+                    "updatedAt": "2021-06-05T19:56:00Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "e7Nj13q-pvRavRIjb_Td69VnKag",
+        "id": "Ugw67Y4oGlHnOsIkmZl4AaABAg",
+        "snippet": {
+            "videoId": "pwKoZD4sGO0",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "vdg84JpOD-0RY9M5I-UBGhognLA",
+                "id": "Ugw67Y4oGlHnOsIkmZl4AaABAg",
+                "snippet": {
+                    "videoId": "pwKoZD4sGO0",
+                    "textDisplay": "Huh statute of limitations? What about discovery?!",
+                    "textOriginal": "Huh statute of limitations? What about discovery?!",
+                    "authorDisplayName": "Kadeem Liburd",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTCWiOO7_dazxmqbqL7g5LpbtEegN41rVmyesqvag=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCwHvlTERYx3KLMPcwYikTbg",
+                    "authorChannelId": {
+                        "value": "UCwHvlTERYx3KLMPcwYikTbg"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2021-06-05T19:20:32Z",
+                    "updatedAt": "2021-06-05T19:20:32Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "VEj0YT29FLQfitIKqhxyMNkHjC4",
+        "id": "UgwTfNOSAjD6EO6b9754AaABAg",
+        "snippet": {
+            "videoId": "pwKoZD4sGO0",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "GZGVQTPrM7nMn0uzLx3Ca_cErNc",
+                "id": "UgwTfNOSAjD6EO6b9754AaABAg",
+                "snippet": {
+                    "videoId": "pwKoZD4sGO0",
+                    "textDisplay": "Mr. Depp is a amazing actor and I loved his movies. This woman is trying so hard to avoid being caught lying about her horrible actions towards Mr. Depp, she should just face the fact that she&#39;s the bad guy and not Mr. Depp.",
+                    "textOriginal": "Mr. Depp is a amazing actor and I loved his movies. This woman is trying so hard to avoid being caught lying about her horrible actions towards Mr. Depp, she should just face the fact that she's the bad guy and not Mr. Depp.",
+                    "authorDisplayName": "Maria Ackerman",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR1gd0aG_FdhRTgTPkRtRNYHMSpK5FWqVo3jtF1wQ=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCYO6V4jI4eNKnTd6z0sXPCQ",
+                    "authorChannelId": {
+                        "value": "UCYO6V4jI4eNKnTd6z0sXPCQ"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2021-06-05T18:48:03Z",
+                    "updatedAt": "2021-06-05T18:48:03Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "GAouCkemg2pPFO0WlK-9uzIyO88",
+        "id": "UgxpgpFc8sqMOr4cql54AaABAg",
+        "snippet": {
+            "videoId": "pwKoZD4sGO0",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "2-lUYY37MPqM0F41pPUaiGyQYA0",
+                "id": "UgxpgpFc8sqMOr4cql54AaABAg",
+                "snippet": {
+                    "videoId": "pwKoZD4sGO0",
+                    "textDisplay": "Long live captain Jack Sparrow",
+                    "textOriginal": "Long live captain Jack Sparrow",
+                    "authorDisplayName": "Chapa Dissanayake",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQPdCA0wlxbXERIZqYsvoPffb5ZkkWTwgbMFl-ovw=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCkHwcZ7-1hqSTvkleo0-5wA",
+                    "authorChannelId": {
+                        "value": "UCkHwcZ7-1hqSTvkleo0-5wA"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2021-06-05T11:35:23Z",
+                    "updatedAt": "2021-06-05T11:35:23Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "0Z-FJSre97W-mO4SdYYPQoBt11A",
+        "id": "UgxzJDI0qz35eKzt0cB4AaABAg",
+        "snippet": {
+            "videoId": "pwKoZD4sGO0",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "QZDxuOVVr1zW7bjBE12XpydO74o",
+                "id": "UgxzJDI0qz35eKzt0cB4AaABAg",
+                "snippet": {
+                    "videoId": "pwKoZD4sGO0",
+                    "textDisplay": "Where is Charlotte?? I love her! But also. Amber Heard is awfu,l just awful a sick sad ,greedy and wanting person! Yuck for sure !!!",
+                    "textOriginal": "Where is Charlotte?? I love her! But also. Amber Heard is awfu,l just awful a sick sad ,greedy and wanting person! Yuck for sure !!!",
+                    "authorDisplayName": "saraphina true",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTX5b1FGXq5hzE75Pjphn0v2qesDRjJWrBv41oGkA=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UC-SgKi1KsQnkp60xzUN67KA",
+                    "authorChannelId": {
+                        "value": "UC-SgKi1KsQnkp60xzUN67KA"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2021-06-05T04:38:21Z",
+                    "updatedAt": "2021-06-05T04:38:21Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "mBEFwZn7yYeqmjKe25bPUnDTU9Y",
+        "id": "Ugw3HssVUWCsB67vrEl4AaABAg",
+        "snippet": {
+            "videoId": "pwKoZD4sGO0",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "VQkYRjt8RSMAsJY7YRBzE6b9WCU",
+                "id": "Ugw3HssVUWCsB67vrEl4AaABAg",
+                "snippet": {
+                    "videoId": "pwKoZD4sGO0",
+                    "textDisplay": "She&#39;s a terrible &quot;spokesperson&quot; for violence against women and I hope more of the truth is exposed. It&#39;s awful that she can just have &quot;her people&quot; write pretty much whatever they want, truth be d*mned. It&#39;s disgusting. We&#39;re supposed to be at a crucial place where victims can speak and be heard. But this terrible woman has single-handedly destroyed all the good work others have done on behalf of women AND men who have been victimized.",
+                    "textOriginal": "She's a terrible \"spokesperson\" for violence against women and I hope more of the truth is exposed. It's awful that she can just have \"her people\" write pretty much whatever they want, truth be d*mned. It's disgusting. We're supposed to be at a crucial place where victims can speak and be heard. But this terrible woman has single-handedly destroyed all the good work others have done on behalf of women AND men who have been victimized.",
+                    "authorDisplayName": "Aundria Cooper Premo",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/OKnwP3ofQzXA_sfBCqtNrr0vVNSbu3NBTUIQo21JEVRySMVfv1q4c7IIXsZVea1YXMjnm1cdSg=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCIRuKLSAxmr_zP3Xipm9gvQ",
+                    "authorChannelId": {
+                        "value": "UCIRuKLSAxmr_zP3Xipm9gvQ"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2021-06-04T15:12:51Z",
+                    "updatedAt": "2021-06-04T15:13:38Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "k0wz4JuDdPDspeRtYkodCSqQgVo",
+        "id": "UgzXJsD2pmb9r7YRsYV4AaABAg",
+        "snippet": {
+            "videoId": "pwKoZD4sGO0",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "P_KxluMJs3eODeqHUQX5bgdGfPQ",
+                "id": "UgzXJsD2pmb9r7YRsYV4AaABAg",
+                "snippet": {
+                    "videoId": "pwKoZD4sGO0",
+                    "textDisplay": "This stupid girl really think she&#39;s that genius to plan all this out but it backfired REALLLL QUICKKK \ud83d\ude02 <a href=\"http://www.youtube.com/results?search_query=%23cancelamberturd\">#CANCELAMBERTURD</a>",
+                    "textOriginal": "This stupid girl really think she's that genius to plan all this out but it backfired REALLLL QUICKKK \ud83d\ude02 #CANCELAMBERTURD",
+                    "authorDisplayName": "Ok.",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/9Vkpt3kfRiWU4s14Tm_G3zw4EyZ4vXQHszJ2HXQXZFnrOmrYaeIo9_mDJu9aov_ZIbq8g5wOiw=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCdfXgk-xecTCV5-_HCSVNgw",
+                    "authorChannelId": {
+                        "value": "UCdfXgk-xecTCV5-_HCSVNgw"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2021-06-04T15:01:16Z",
+                    "updatedAt": "2021-06-04T15:01:16Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "GWN5NqJhl8IT09theqk33EWLv2w",
+        "id": "UgxQagKwfLS4yx0Aqa14AaABAg",
+        "snippet": {
+            "videoId": "pwKoZD4sGO0",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "JXYjSiaazoa4MHrhq_2vfL_X20Y",
+                "id": "UgxQagKwfLS4yx0Aqa14AaABAg",
+                "snippet": {
+                    "videoId": "pwKoZD4sGO0",
+                    "textDisplay": "CANCEL AMBER HEARD<br><a href=\"http://www.youtube.com/results?search_query=%23justiceforjohnnydepp\">#justiceforjohnnydepp</a>",
+                    "textOriginal": "CANCEL AMBER HEARD\n#justiceforjohnnydepp",
+                    "authorDisplayName": "Jordan Ongel Stern",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/WVFPCdfmH0nW___EYysVByDFa_NwuJZ9BNsi3qUoJHCaEvz7iZ8NEoLaLUsrLLAS785mYupF=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCW6BTPxzpJitvq1Y9UGLJAw",
+                    "authorChannelId": {
+                        "value": "UCW6BTPxzpJitvq1Y9UGLJAw"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2021-06-04T14:26:45Z",
+                    "updatedAt": "2021-06-04T14:26:45Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "VXz9E_8zU6ajG4d1d5Ktw1T-c8o",
+        "id": "Ugwfy48IYoukRZ1HLu94AaABAg",
+        "snippet": {
+            "videoId": "pwKoZD4sGO0",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "3Qh5aI4hRV-nAADShuxZQ51lIgw",
+                "id": "Ugwfy48IYoukRZ1HLu94AaABAg",
+                "snippet": {
+                    "videoId": "pwKoZD4sGO0",
+                    "textDisplay": "Sorry..try as i might, i cannot listen to the &quot;news&quot; from this channel. In typical American fashion you speak like racing you&#39;d be a verbal Formula 1 I don&#39;t know why you guys are in such a friggin hurry to try and pronounce three words at once instead of speaking clearly and at normal human talking speed. The other dude is even worse than you, and he shouts. added to that.<br>Are you guys on a commission of words per second ?",
+                    "textOriginal": "Sorry..try as i might, i cannot listen to the \"news\" from this channel. In typical American fashion you speak like racing you'd be a verbal Formula 1 I don't know why you guys are in such a friggin hurry to try and pronounce three words at once instead of speaking clearly and at normal human talking speed. The other dude is even worse than you, and he shouts. added to that.\nAre you guys on a commission of words per second ?",
+                    "authorDisplayName": "HS K",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQcPH7i8BUewh7vDdAvSjwmQLdRjo4YLtxdjDv72Q=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCVFpEWARwqjjrE45QvBjJOA",
+                    "authorChannelId": {
+                        "value": "UCVFpEWARwqjjrE45QvBjJOA"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2021-06-04T00:43:47Z",
+                    "updatedAt": "2021-06-04T00:43:47Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }
+]
