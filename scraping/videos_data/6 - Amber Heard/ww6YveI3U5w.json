@@ -1,0 +1,81 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "fPuXSh0sAy3Y6Tr4uVkMR8jVdlw",
+        "id": "ww6YveI3U5w",
+        "snippet": {
+            "publishedAt": "2015-05-31T19:22:19Z",
+            "channelId": "UCbJQA9UmItBGR9jV3Mplqnw",
+            "title": "Amber Heard Tribute",
+            "description": "Modern blonde celebrity beauty to men.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/ww6YveI3U5w/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/ww6YveI3U5w/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/ww6YveI3U5w/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/ww6YveI3U5w/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/ww6YveI3U5w/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Tonita Queta Parks",
+            "tags": [
+                "Amber Heard (Celebrity)",
+                "Drive Angry (Film)",
+                "All The Boys Love Mandy Lane (Film)",
+                "Pineapple Express (Film)",
+                "Rum Diary",
+                "Paranoia (Film)",
+                "Zombieland (Film)",
+                "Alpha Dog"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Heard Tribute",
+                "description": "Modern blonde celebrity beauty to men."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT2M59S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "50167",
+            "likeCount": "400",
+            "dislikeCount": "26",
+            "favoriteCount": "0",
+            "commentCount": "18"
+        }
+    }
+]

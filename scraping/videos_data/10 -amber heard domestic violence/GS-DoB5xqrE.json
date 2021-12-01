@@ -1,0 +1,66 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "dRpLAbKGn6e_il9sBX6ka5qzsf0",
+        "id": "GS-DoB5xqrE",
+        "snippet": {
+            "publishedAt": "2020-02-05T21:24:56Z",
+            "channelId": "UCVvatXYUruJCKstNSll99lQ",
+            "title": "Listen as Amber Heard scoffs at Johnny Depp for claiming he's a domestic violence victim",
+            "description": "source: dailymail",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/GS-DoB5xqrE/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/GS-DoB5xqrE/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/GS-DoB5xqrE/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/GS-DoB5xqrE/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Hellstorms",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Listen as Amber Heard scoffs at Johnny Depp for claiming he's a domestic violence victim",
+                "description": "source: dailymail"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT31M7S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "6890",
+            "likeCount": "142",
+            "dislikeCount": "1",
+            "favoriteCount": "0",
+            "commentCount": "78"
+        }
+    }
+]

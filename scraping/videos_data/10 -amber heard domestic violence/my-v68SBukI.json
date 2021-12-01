@@ -1,0 +1,78 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "K4AjQUhrO_4ns-hf3ZVVmj-p4rY",
+        "id": "my-v68SBukI",
+        "snippet": {
+            "publishedAt": "2016-08-16T11:11:37Z",
+            "channelId": "UC9kMczoE2QQ11rRi1uuBAjQ",
+            "title": "Johnny Depp, domestic violence, actress, Amber Heard, actor, Billy Bob Thornton, movie",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/my-v68SBukI/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/my-v68SBukI/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/my-v68SBukI/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/my-v68SBukI/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/my-v68SBukI/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": " @\u304a\u306b\u304f\u307e\u30c1\u30e3\u30f3\u30cd\u30eb",
+            "tags": [
+                "Johnny Depp",
+                "domestic violence",
+                "actress",
+                "Amber Heard",
+                "actor",
+                "Billy Bob Thornton",
+                "movie",
+                "London Fields"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Johnny Depp, domestic violence, actress, Amber Heard, actor, Billy Bob Thornton, movie",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT1M19S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "21",
+            "favoriteCount": "0"
+        }
+    }
+]

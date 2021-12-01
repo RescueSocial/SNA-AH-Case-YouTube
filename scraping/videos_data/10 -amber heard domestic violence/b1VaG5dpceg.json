@@ -1,0 +1,72 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "2aLVAcrbacpLgnzhaMAsrmoqHNo",
+        "id": "b1VaG5dpceg",
+        "snippet": {
+            "publishedAt": "2020-02-03T19:55:42Z",
+            "channelId": "UCOflY1XMM1hzaSMWkX4Zj0g",
+            "title": "In Conversation with Tasya van Ree",
+            "description": "Tasya van Ree is best known for capturing the characters that inspire her through her camera\u2019s lens, yet some of her most significant creative moments are solitary and introspective. The enigmatic artist invites us into her serene Los Angeles home to observe those private moments \u2013 both in the darkroom and overlooking magnificent Malibu Canyon, which ignite van Ree\u2019s poetic creative spirit.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/b1VaG5dpceg/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/b1VaG5dpceg/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/b1VaG5dpceg/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/b1VaG5dpceg/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/b1VaG5dpceg/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Oliver Peoples",
+            "categoryId": "26",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "In Conversation with Tasya van Ree",
+                "description": "Tasya van Ree is best known for capturing the characters that inspire her through her camera\u2019s lens, yet some of her most significant creative moments are solitary and introspective. The enigmatic artist invites us into her serene Los Angeles home to observe those private moments \u2013 both in the darkroom and overlooking magnificent Malibu Canyon, which ignite van Ree\u2019s poetic creative spirit."
+            },
+            "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+            "duration": "PT2M3S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "10176",
+            "likeCount": "102",
+            "dislikeCount": "22",
+            "favoriteCount": "0",
+            "commentCount": "26"
+        }
+    }
+]

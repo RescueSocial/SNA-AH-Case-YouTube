@@ -1,0 +1,72 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "D_YgX-Lg8N3Y1zDoGhYbfvjqG74",
+        "id": "10dgLn6hNR0",
+        "snippet": {
+            "publishedAt": "2021-11-24T03:06:42Z",
+            "channelId": "UCiKE6mqbKmGGlNAtccn04MA",
+            "title": "WATCH LIVE: CBC Vancouver News at 6 for Nov. 23  \u2014 Southwest B.C. braces for more stormy weather",
+            "description": "Watch CBC Vancouver News at 6 with host Anita Bathe for the latest on the most important news stories happening across B.C. She\u2019s joined by meteorologist Johanna Wagstaffe who brings you the most up to date weather forecasts.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/10dgLn6hNR0/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/10dgLn6hNR0/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/10dgLn6hNR0/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/10dgLn6hNR0/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/10dgLn6hNR0/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "CBC Vancouver",
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "WATCH LIVE: CBC Vancouver News at 6 for Nov. 23  \u2014 Southwest B.C. braces for more stormy weather",
+                "description": "Watch CBC Vancouver News at 6 with host Anita Bathe for the latest on the most important news stories happening across B.C. She\u2019s joined by meteorologist Johanna Wagstaffe who brings you the most up to date weather forecasts."
+            },
+            "defaultAudioLanguage": "en-CA"
+        },
+        "contentDetails": {
+            "duration": "PT1H2M20S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "15488",
+            "likeCount": "79",
+            "dislikeCount": "9",
+            "favoriteCount": "0",
+            "commentCount": "8"
+        }
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "0PgfnvMk5zBPIowuKxbrOHTxmAc",
+        "id": "apwRQEphd00",
+        "snippet": {
+            "publishedAt": "2021-11-25T08:51:09Z",
+            "channelId": "UC0cETathpokW352nV6yXmWA",
+            "title": "STARR CHAT W/ Nana Ama McBrown | Nana Aba Anamoah | Starr FM",
+            "description": "WATCH: Nana Aba Anamoah sits with Nana Ama McBrown on Starr Chat",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/apwRQEphd00/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/apwRQEphd00/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/apwRQEphd00/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/apwRQEphd00/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/apwRQEphd00/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Starr103.5FM",
+            "tags": [
+                "#NanaAmaMcBrown",
+                "#NanaAba",
+                "#StarrChat"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "STARR CHAT W/ Nana Ama McBrown | Nana Aba Anamoah | Starr FM",
+                "description": "WATCH: Nana Aba Anamoah sits with Nana Ama McBrown on Starr Chat"
+            },
+            "defaultAudioLanguage": "en-GB"
+        },
+        "contentDetails": {
+            "duration": "PT1H36M12S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": false,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "3655",
+            "likeCount": "104",
+            "dislikeCount": "5",
+            "favoriteCount": "0",
+            "commentCount": "9"
+        }
+    }
+]

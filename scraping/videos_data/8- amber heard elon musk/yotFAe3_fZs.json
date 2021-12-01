@@ -1,0 +1,72 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "iU3Bh3JZLSen5Dgh3AkhiM-YTBI",
+        "id": "yotFAe3_fZs",
+        "snippet": {
+            "publishedAt": "2019-03-04T18:55:12Z",
+            "channelId": "UCmz5OJtgli-1XfSpeVINqXg",
+            "title": "Johnny Depp Claims Amber Heard Cheated on Him With Elon Musk",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/yotFAe3_fZs/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/yotFAe3_fZs/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/yotFAe3_fZs/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/yotFAe3_fZs/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/yotFAe3_fZs/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Primo Italia",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Johnny Depp Claims Amber Heard Cheated on Him With Elon Musk",
+                "description": ""
+            },
+            "defaultAudioLanguage": "es"
+        },
+        "contentDetails": {
+            "duration": "PT2M3S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "60",
+            "likeCount": "2",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

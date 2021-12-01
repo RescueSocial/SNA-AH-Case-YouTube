@@ -1,0 +1,60 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "QT6D3c7hzkbwzOXjj5T97Arv19M",
+        "id": "f9R6U57vqTk",
+        "snippet": {
+            "publishedAt": "2020-06-08T21:57:28Z",
+            "channelId": "UCy8YFzbkvYTQOQxjgE3UTBQ",
+            "title": "Factual Information on Domestic violence-(Amber Heard Playlist)",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/f9R6U57vqTk/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/f9R6U57vqTk/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/f9R6U57vqTk/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "The Amber Heard Playlist!!",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Factual Information on Domestic violence-(Amber Heard Playlist)",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT30M17S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "46",
+            "likeCount": "0",
+            "dislikeCount": "7",
+            "favoriteCount": "0"
+        }
+    }
+]

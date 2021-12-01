@@ -1,0 +1,81 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "R7jyFtDzcic3FjaE4YGL8jgWY1I",
+        "id": "XcMpAOOrJIk",
+        "snippet": {
+            "publishedAt": "2020-05-06T04:00:14Z",
+            "channelId": "UChs7lcuw4qOCxl3SJRPuidQ",
+            "title": "Latest News: Amber Heard pleaded guilty - Johnny Depp burst into tears",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/XcMpAOOrJIk/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/XcMpAOOrJIk/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/XcMpAOOrJIk/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/XcMpAOOrJIk/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/XcMpAOOrJIk/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "DT Media",
+            "tags": [
+                "DT Media",
+                "news",
+                "Latest News",
+                "Amber Heard",
+                "pleaded",
+                "guilty",
+                "Johnny Depp",
+                "burst into tears"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Latest News: Amber Heard pleaded guilty - Johnny Depp burst into tears",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT3M10S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": false,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "9268",
+            "likeCount": "32",
+            "dislikeCount": "173",
+            "favoriteCount": "0",
+            "commentCount": "21"
+        }
+    }
+]

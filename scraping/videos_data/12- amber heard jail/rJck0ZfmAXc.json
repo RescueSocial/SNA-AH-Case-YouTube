@@ -1,0 +1,69 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "szMfoowWfUI46p1Gl9vmlIkghFQ",
+        "id": "rJck0ZfmAXc",
+        "snippet": {
+            "publishedAt": "2016-10-12T22:38:53Z",
+            "channelId": "UCupvZG-5ko_eiXAupbDfxWw",
+            "title": "Donald Trump: Clinton 'has to go to jail'",
+            "description": "Donald Trump said Wednesday that Hillary Clinton \"has to go to jail\" because of the scandal over her email server, comments that mark a major departure from the American political tradition.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/rJck0ZfmAXc/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/rJck0ZfmAXc/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/rJck0ZfmAXc/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "CNN",
+            "tags": [
+                "CNN",
+                "News",
+                "CNN TV",
+                "CNN Newsroom",
+                "Situation Room",
+                "2016-elections"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Donald Trump: Clinton 'has to go to jail'",
+                "description": "Donald Trump said Wednesday that Hillary Clinton \"has to go to jail\" because of the scandal over her email server, comments that mark a major departure from the American political tradition."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT54S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "40796",
+            "likeCount": "468",
+            "dislikeCount": "153",
+            "favoriteCount": "0",
+            "commentCount": "200"
+        }
+    }
+]

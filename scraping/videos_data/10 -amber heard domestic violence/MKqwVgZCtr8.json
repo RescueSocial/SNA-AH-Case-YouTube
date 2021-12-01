@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "K3hEd7DMbIa286oxPhnc0KX3htI",
+        "id": "MKqwVgZCtr8",
+        "snippet": {
+            "publishedAt": "2021-11-29T13:45:55Z",
+            "channelId": "UCiJSxVuJQsidVO9vnIxBNyA",
+            "title": "School Board Meeting - 11/23/2021",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/MKqwVgZCtr8/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/MKqwVgZCtr8/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/MKqwVgZCtr8/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/MKqwVgZCtr8/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "VBSchools",
+            "tags": [
+                "yt:cc=on"
+            ],
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "School Board Meeting - 11/23/2021",
+                "description": ""
+            },
+            "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+            "duration": "PT6H21M28S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "true",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "372",
+            "likeCount": "4",
+            "dislikeCount": "3",
+            "favoriteCount": "0"
+        }
+    }
+]

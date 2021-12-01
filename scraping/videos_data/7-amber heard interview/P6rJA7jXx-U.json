@@ -1,0 +1,72 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "B_rtw8sS3LwuXL4TagbBHeAMR9c",
+        "id": "P6rJA7jXx-U",
+        "snippet": {
+            "publishedAt": "2019-06-04T12:26:08Z",
+            "channelId": "UCpqiQ8q14kT1sdlZ0gD0bGg",
+            "title": "Amber Heard interviewed for FUNer in Cannes",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/P6rJA7jXx-U/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/P6rJA7jXx-U/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/P6rJA7jXx-U/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/P6rJA7jXx-U/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Amber Heard Italia",
+            "tags": [
+                "amber heard",
+                "l'or\u00e9al paris",
+                "cannes",
+                "cannes film festival"
+            ],
+            "categoryId": "1",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Heard interviewed for FUNer in Cannes",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT2M16S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "9038",
+            "likeCount": "88",
+            "dislikeCount": "66",
+            "favoriteCount": "0",
+            "commentCount": "8"
+        }
+    }
+]

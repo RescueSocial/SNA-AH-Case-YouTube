@@ -1,0 +1,68 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "2WXCx3HJ-3dFuXVUIynBPLbTfh8",
+        "id": "DBDAjYgP4uM",
+        "snippet": {
+            "publishedAt": "2010-03-08T19:21:34Z",
+            "channelId": "UCt8QaQ3kCIgbICMUrkFuBrQ",
+            "title": "Van der Vorst ziet Sterren",
+            "description": "Johnny on Dutch TV",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/DBDAjYgP4uM/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/DBDAjYgP4uM/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/DBDAjYgP4uM/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "deepest4depp",
+            "tags": [
+                "johnny",
+                "depp",
+                "alice",
+                "in",
+                "wonderland"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Van der Vorst ziet Sterren",
+                "description": "Johnny on Dutch TV"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT9M5S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": false,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "22080",
+            "likeCount": "89",
+            "dislikeCount": "2",
+            "favoriteCount": "0",
+            "commentCount": "10"
+        }
+    }
+]

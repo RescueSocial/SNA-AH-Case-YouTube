@@ -1,0 +1,78 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "7m27BMA2zT6U1Qkohu8fxlUGIOQ",
+        "id": "uLua8dv4yLw",
+        "snippet": {
+            "publishedAt": "2016-05-26T21:21:48Z",
+            "channelId": "UCdtXPiqI2cLorKaPrfpKc4g",
+            "title": "Johnny Depp Responds To Amber Heard's Divorce Petition For Spousal Support",
+            "description": "ET has learned that the 52-year-old actor does not want to pay for the Heard's demands after she filed for divorce on Monday.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/uLua8dv4yLw/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/uLua8dv4yLw/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/uLua8dv4yLw/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/uLua8dv4yLw/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Entertainment Tonight",
+            "tags": [
+                "ET NOW",
+                "johnny depp",
+                "etonline",
+                "news",
+                "celebrity",
+                "ET Online",
+                "ETtrending",
+                "entertainment tonight",
+                "et",
+                "amber heard"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Johnny Depp Responds To Amber Heard's Divorce Petition For Spousal Support",
+                "description": "ET has learned that the 52-year-old actor does not want to pay for the Heard's demands after she filed for divorce on Monday."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT1M14S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "95367",
+            "likeCount": "336",
+            "dislikeCount": "33",
+            "favoriteCount": "0",
+            "commentCount": "178"
+        }
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "uDt1XlQwFxpIuO7it59ReUdvOtE",
+        "id": "IItoPzrqhlc",
+        "snippet": {
+            "publishedAt": "2015-06-20T11:31:43Z",
+            "channelId": "UCbp3fkS6cxI1aekmIPIDCGg",
+            "title": "Amber Heard Flips the Script in 'Magic Mike XXL'",
+            "description": "https://www.amberheardbrasil.com\n\n\n\u00a9 2015 AOL Inc. All rights reserved.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/IItoPzrqhlc/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/IItoPzrqhlc/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/IItoPzrqhlc/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/IItoPzrqhlc/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Amber Heard",
+            "tags": [
+                "Magic Mike XXL",
+                "amber heard",
+                "amber heard interview",
+                "amber heard magic mike xxl"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Heard Flips the Script in 'Magic Mike XXL'",
+                "description": "https://www.amberheardbrasil.com\n\n\n\u00a9 2015 AOL Inc. All rights reserved."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT3M9S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "11388",
+            "likeCount": "38",
+            "dislikeCount": "11",
+            "favoriteCount": "0",
+            "commentCount": "16"
+        }
+    }
+]

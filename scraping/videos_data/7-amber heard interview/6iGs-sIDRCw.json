@@ -1,0 +1,78 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "lmeHxaT4en_8LuZ7vNKUBbKvGY4",
+        "id": "6iGs-sIDRCw",
+        "snippet": {
+            "publishedAt": "2021-11-26T11:00:07Z",
+            "channelId": "UCCvcd0FYi58LwyTQP9LITpA",
+            "title": "Fentanyl Addict interview-Jenny",
+            "description": "Soft White Underbelly interview and portrait of Jenny, a fentanyl addict on Skid Row.\n\nHere's a link to a GoFundMe campaign to help some of the people seen in SWU interviews: https://gofund.me/1bc7491c",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/6iGs-sIDRCw/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/6iGs-sIDRCw/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/6iGs-sIDRCw/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/6iGs-sIDRCw/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/6iGs-sIDRCw/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Soft White Underbelly",
+            "tags": [
+                "swu",
+                "Addiction",
+                "Fentanyl",
+                "Fentanyl addict interview"
+            ],
+            "categoryId": "1",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Fentanyl Addict interview-Jenny",
+                "description": "Soft White Underbelly interview and portrait of Jenny, a fentanyl addict on Skid Row.\n\nHere's a link to a GoFundMe campaign to help some of the people seen in SWU interviews: https://gofund.me/1bc7491c"
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT21M49S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "84962",
+            "likeCount": "2277",
+            "dislikeCount": "91",
+            "favoriteCount": "0",
+            "commentCount": "603"
+        }
+    }
+]

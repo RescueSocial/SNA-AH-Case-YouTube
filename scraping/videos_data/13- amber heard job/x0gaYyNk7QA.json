@@ -1,0 +1,71 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "i9L_8ersI_16SBR-RGGAmDiuDfo",
+        "id": "x0gaYyNk7QA",
+        "snippet": {
+            "publishedAt": "2013-06-02T04:14:59Z",
+            "channelId": "UCRPCkXiDJUYyU-PfaJubo6g",
+            "title": "Bill Burr Epidemic of gold digging whores (HD)",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/x0gaYyNk7QA/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/x0gaYyNk7QA/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/x0gaYyNk7QA/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/x0gaYyNk7QA/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/x0gaYyNk7QA/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "MultiShadow1979",
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Bill Burr Epidemic of gold digging whores (HD)",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT11M50S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "9357233",
+            "likeCount": "127691",
+            "dislikeCount": "2990",
+            "favoriteCount": "0",
+            "commentCount": "7201"
+        }
+    }
+]

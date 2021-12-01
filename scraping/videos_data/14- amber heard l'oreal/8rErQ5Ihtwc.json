@@ -1,0 +1,66 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "SQc-JFfE4jbqP4Yr3hHSXNYWXGw",
+        "id": "8rErQ5Ihtwc",
+        "snippet": {
+            "publishedAt": "2018-05-17T14:38:22Z",
+            "channelId": "UCtMNeiW7rOdKOXhCexxQAyA",
+            "title": "Qui est Amber Heard, la sulfureuse ?",
+            "description": "Portrait vid\u00e9o de l'actrice am\u00e9ricaine Amber Heard.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/8rErQ5Ihtwc/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/8rErQ5Ihtwc/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/8rErQ5Ihtwc/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/8rErQ5Ihtwc/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Madame Figaro",
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Qui est Amber Heard, la sulfureuse ?",
+                "description": "Portrait vid\u00e9o de l'actrice am\u00e9ricaine Amber Heard."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT2M19S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "5629",
+            "likeCount": "16",
+            "dislikeCount": "9",
+            "favoriteCount": "0",
+            "commentCount": "1"
+        }
+    }
+]

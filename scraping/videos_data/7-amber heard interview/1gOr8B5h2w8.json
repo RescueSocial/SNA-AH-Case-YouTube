@@ -1,0 +1,80 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "fZ257c3_R9Mm_Bredc9cnt42UHg",
+        "id": "1gOr8B5h2w8",
+        "snippet": {
+            "publishedAt": "2013-10-01T20:22:02Z",
+            "channelId": "UCyMgqzz0cMmxSCAFqAq257Q",
+            "title": "PARANOIA interview: Amber Heard",
+            "description": "Natalia Higginson interviewde Amber Heard voor haar nieuwste film 'Paranoia'. De film komt op 22 januari in de Belgische bioscoopzalen.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/1gOr8B5h2w8/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/1gOr8B5h2w8/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/1gOr8B5h2w8/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/1gOr8B5h2w8/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/1gOr8B5h2w8/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "HLN.be",
+            "tags": [
+                "Amber Heard (TV Actor)",
+                "Interview (Ontology Class)",
+                "Paranoia",
+                "Paranoia (Film)",
+                "movies",
+                "movie",
+                "film"
+            ],
+            "categoryId": "1",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "PARANOIA interview: Amber Heard",
+                "description": "Natalia Higginson interviewde Amber Heard voor haar nieuwste film 'Paranoia'. De film komt op 22 januari in de Belgische bioscoopzalen."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT4M2S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "3616",
+            "likeCount": "8",
+            "dislikeCount": "3",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

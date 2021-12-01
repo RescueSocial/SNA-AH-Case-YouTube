@@ -1,0 +1,66 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "6Db9JmZNHus2-tGgqkWfs77JsaA",
+        "id": "Rrsi3yNTWHg",
+        "snippet": {
+            "publishedAt": "2021-11-30T09:26:30Z",
+            "channelId": "UCvJ2hbsJ1ieDgfePOoOhHDg",
+            "title": "Education & Communities Committee (Communities Business) 2 November 2021",
+            "description": "Inverclyde Council Education & Communities Committee (Communities Business) 2 November 2021. Agenda and minutes available at: https://www.inverclyde.gov.uk/meetings/meeting/2393",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/Rrsi3yNTWHg/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/Rrsi3yNTWHg/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/Rrsi3yNTWHg/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/Rrsi3yNTWHg/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Inverclyde Council",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Education & Communities Committee (Communities Business) 2 November 2021",
+                "description": "Inverclyde Council Education & Communities Committee (Communities Business) 2 November 2021. Agenda and minutes available at: https://www.inverclyde.gov.uk/meetings/meeting/2393"
+            },
+            "defaultAudioLanguage": "en-GB"
+        },
+        "contentDetails": {
+            "duration": "PT1H9M14S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "4",
+            "likeCount": "0",
+            "dislikeCount": "0",
+            "favoriteCount": "0"
+        }
+    }
+]

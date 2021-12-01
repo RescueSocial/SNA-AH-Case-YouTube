@@ -1,0 +1,61 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "eQojxWRdKiAJAB5q2ikeuCRf5nk",
+        "id": "HR6g3QJq2xE",
+        "snippet": {
+            "publishedAt": "2018-01-20T04:33:44Z",
+            "channelId": "UC3P91c8acoajLebnVYWeqYg",
+            "title": "\u2019Amber Heard en Elon Musk weer samen",
+            "description": "\u2019Amber Heard en Elon Musk weer samen",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/HR6g3QJq2xE/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/HR6g3QJq2xE/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/HR6g3QJq2xE/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "New Thinh",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "\u2019Amber Heard en Elon Musk weer samen",
+                "description": "\u2019Amber Heard en Elon Musk weer samen"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT2M10S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "5",
+            "likeCount": "0",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "5-1v-zV_B0pNwax3TM7xxZ_LDhY",
+        "id": "4tuJIcDHLrQ",
+        "snippet": {
+            "publishedAt": "2019-07-24T18:48:29Z",
+            "channelId": "UCRJNKeG_dGauXnLZuHnTjEA",
+            "title": "PODCAST | Amber Heard in The Conversation with Amanda de Cadenet (July 16, 2019)",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/4tuJIcDHLrQ/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/4tuJIcDHLrQ/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/4tuJIcDHLrQ/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/4tuJIcDHLrQ/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "amber heard online",
+            "tags": [
+                "amber heard",
+                "amanda de cadenet",
+                "spotify"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "PODCAST | Amber Heard in The Conversation with Amanda de Cadenet (July 16, 2019)",
+                "description": ""
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT34M20S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "2884",
+            "likeCount": "12",
+            "dislikeCount": "333",
+            "favoriteCount": "0",
+            "commentCount": "88"
+        }
+    }
+]

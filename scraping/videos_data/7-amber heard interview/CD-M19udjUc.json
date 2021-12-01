@@ -1,0 +1,66 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "5m0yMDAa3xZKDjQEC8WZ7BVFz0I",
+        "id": "CD-M19udjUc",
+        "snippet": {
+            "publishedAt": "2015-03-04T13:50:13Z",
+            "channelId": "UC56tfx_ikEKjlXNibPZobcw",
+            "title": "Amber Heard Interview   The Playboy Club",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/CD-M19udjUc/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/CD-M19udjUc/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/CD-M19udjUc/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/CD-M19udjUc/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "actress",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Heard Interview   The Playboy Club",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT1M8S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "6324",
+            "likeCount": "27",
+            "dislikeCount": "3",
+            "favoriteCount": "0",
+            "commentCount": "2"
+        }
+    }
+]

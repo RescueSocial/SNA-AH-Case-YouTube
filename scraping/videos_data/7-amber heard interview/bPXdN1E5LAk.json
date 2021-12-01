@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "OMqbWfDB5ki-1NbFUa7GnRjFd40",
+        "id": "bPXdN1E5LAk",
+        "snippet": {
+            "publishedAt": "2011-11-05T17:58:56Z",
+            "channelId": "UCOE2UXE3tVDkCarIfPWuGXA",
+            "title": "Amber talks to Fiona",
+            "description": "Amber Heard talks to Fiona Phillips",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/bPXdN1E5LAk/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/bPXdN1E5LAk/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/bPXdN1E5LAk/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/bPXdN1E5LAk/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "AmberLChat9",
+            "tags": [
+                "amber heard",
+                "fiona phillips"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber talks to Fiona",
+                "description": "Amber Heard talks to Fiona Phillips"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT5M26S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "113311",
+            "likeCount": "251",
+            "dislikeCount": "97",
+            "favoriteCount": "0",
+            "commentCount": "122"
+        }
+    }
+]

@@ -1,0 +1,76 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "i6AZc3wmpdD1_orMs6LulMIlMpM",
+        "id": "ZVH1nEZAtTI",
+        "snippet": {
+            "publishedAt": "2015-09-03T21:17:52Z",
+            "channelId": "UC9k-yiEpRHMNVOnOi_aQK8w",
+            "title": "Judge Joe Brown Furious After Jail Sentence: It Was Like a Slave Warehouse",
+            "description": "Judge Joe Brown was released from a Tennessee jail after serving a five-day sentence for contempt of court. He tells Inside Edition, \"A jail is like a slave warehouse.  You sleep on a steel bed with holes cut in the frame. Lights are on continuous... #InsideEdition",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/ZVH1nEZAtTI/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/ZVH1nEZAtTI/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/ZVH1nEZAtTI/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/ZVH1nEZAtTI/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/ZVH1nEZAtTI/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Inside Edition",
+            "tags": [
+                "prison",
+                "released",
+                "inside_edition"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Judge Joe Brown Furious After Jail Sentence: It Was Like a Slave Warehouse",
+                "description": "Judge Joe Brown was released from a Tennessee jail after serving a five-day sentence for contempt of court. He tells Inside Edition, \"A jail is like a slave warehouse.  You sleep on a steel bed with holes cut in the frame. Lights are on continuous... #InsideEdition"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT1M9S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "145614",
+            "likeCount": "1126",
+            "dislikeCount": "107",
+            "favoriteCount": "0",
+            "commentCount": "313"
+        }
+    }
+]

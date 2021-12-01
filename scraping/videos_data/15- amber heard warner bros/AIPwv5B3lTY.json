@@ -1,0 +1,74 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "Sl2DxO_b2pIgTDw7Ph8SlEgWdsM",
+        "id": "AIPwv5B3lTY",
+        "snippet": {
+            "publishedAt": "2015-02-10T21:52:34Z",
+            "channelId": "UCi-Z5K5YUAAiWNhP2x6UjNw",
+            "title": "Magic Mike XXL - Warner Bros. Trailer (www.musicacinetv.com)",
+            "description": "Trailer de film \u201cMagic Mike XXL\u201d, producci\u00f3n de Iron Horse Entertainment (II) y Warner Bros. Pictures. Es dirigido por Gregory Jacobs y protagonizado por Channing Tatum y Amber Heard. Subido por www.musicacinetv.com",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/AIPwv5B3lTY/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/AIPwv5B3lTY/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/AIPwv5B3lTY/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/AIPwv5B3lTY/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/AIPwv5B3lTY/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Francisco Maldonado",
+            "tags": [
+                "Magic Mike XXL"
+            ],
+            "categoryId": "1",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Magic Mike XXL - Warner Bros. Trailer (www.musicacinetv.com)",
+                "description": "Trailer de film \u201cMagic Mike XXL\u201d, producci\u00f3n de Iron Horse Entertainment (II) y Warner Bros. Pictures. Es dirigido por Gregory Jacobs y protagonizado por Channing Tatum y Amber Heard. Subido por www.musicacinetv.com"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT1M37S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "58",
+            "likeCount": "0",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

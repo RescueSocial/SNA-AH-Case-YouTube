@@ -1,0 +1,71 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "Cw_ge8LZIIONrDLFcUMqj-epfDk",
+        "id": "AXj4ALvE4GI",
+        "snippet": {
+            "publishedAt": "2021-10-04T00:27:10Z",
+            "channelId": "UCjZyUJ_QYcaX_7GUTjjZHdw",
+            "title": "Helen Mirren - L'Or\u00e9al Paris Le D\u00e9fil\u00e9 event - 03.10.2021",
+            "description": "The British actress Helen Mirren attending the L'Or\u00e9al Paris Le D\u00e9fil\u00e9 event in Paris, October 3rd 2021.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/AXj4ALvE4GI/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/AXj4ALvE4GI/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/AXj4ALvE4GI/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/AXj4ALvE4GI/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/AXj4ALvE4GI/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "People_in_pfw",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Helen Mirren - L'Or\u00e9al Paris Le D\u00e9fil\u00e9 event - 03.10.2021",
+                "description": "The British actress Helen Mirren attending the L'Or\u00e9al Paris Le D\u00e9fil\u00e9 event in Paris, October 3rd 2021."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT31S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "4912",
+            "likeCount": "9",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "4"
+        }
+    }
+]

@@ -1,0 +1,71 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "2OSdhPn4pK468CWMcyA_sKG-POU",
+        "id": "O8AxIFu0PHo",
+        "snippet": {
+            "publishedAt": "2020-02-08T03:15:42Z",
+            "channelId": "UCW3Vc0gEOccJrQC-a25nGdg",
+            "title": "Locks To Be Replaced At New Jail",
+            "description": "News4 has learned 1,800 locks will have to be replaced at Nashville's new jail. A man has now been accused of posing as a construction worker to infiltrate the new jail and steal keys.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/O8AxIFu0PHo/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/O8AxIFu0PHo/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/O8AxIFu0PHo/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/O8AxIFu0PHo/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/O8AxIFu0PHo/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "News4 WSMV Nashville",
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Locks To Be Replaced At New Jail",
+                "description": "News4 has learned 1,800 locks will have to be replaced at Nashville's new jail. A man has now been accused of posing as a construction worker to infiltrate the new jail and steal keys."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT1M53S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "46",
+            "likeCount": "0",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

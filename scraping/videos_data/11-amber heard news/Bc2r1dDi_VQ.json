@@ -1,0 +1,76 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "VYIb4toL6coJTgks7Ya9SvAeZzk",
+        "id": "Bc2r1dDi_VQ",
+        "snippet": {
+            "publishedAt": "2020-07-08T09:11:39Z",
+            "channelId": "UCg178cchFvhCClnLWSR5iAw",
+            "title": "Johnny Depp & Amber Heard - abuse court case (UK) - BBC News - 8th July 2020",
+            "description": "(Headlines) Libel case over the Sun\u2019s (newspaper) claim that star abused his ex-wife Amber Heard opens this week in the UK.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/Bc2r1dDi_VQ/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/Bc2r1dDi_VQ/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/Bc2r1dDi_VQ/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/Bc2r1dDi_VQ/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/Bc2r1dDi_VQ/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Mark 1333",
+            "tags": [
+                "Johnny Depp & Amber Heard court case (UK) - BBC News - 8th July 2020",
+                "Johnny Depp & Amber Heard - abuse court case (UK) - BBC News - 8th July 2020",
+                "sun newspaper johnny depp amber heard court case"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Johnny Depp & Amber Heard - abuse court case (UK) - BBC News - 8th July 2020",
+                "description": "(Headlines) Libel case over the Sun\u2019s (newspaper) claim that star abused his ex-wife Amber Heard opens this week in the UK."
+            },
+            "defaultAudioLanguage": "en-GB"
+        },
+        "contentDetails": {
+            "duration": "PT32S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "132",
+            "likeCount": "2",
+            "dislikeCount": "0",
+            "favoriteCount": "0"
+        }
+    }
+]

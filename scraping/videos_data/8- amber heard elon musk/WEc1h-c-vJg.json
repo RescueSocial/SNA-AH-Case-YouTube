@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "OXx3bNg_LYJa1iJWrhjsLx_UzJs",
+        "id": "WEc1h-c-vJg",
+        "snippet": {
+            "publishedAt": "2016-08-04T04:00:01Z",
+            "channelId": "UCNWsXxEbKkKXOYzw-SwaXoA",
+            "title": "Just how serious are Amber Heard and Elon Musk getting?",
+            "description": "Amber Heard says she's just friends with Elon Musk, but they've been traveling and attending events together.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/WEc1h-c-vJg/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/WEc1h-c-vJg/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/WEc1h-c-vJg/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/WEc1h-c-vJg/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/WEc1h-c-vJg/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Page Six",
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "Just how serious are Amber Heard and Elon Musk getting?",
+                "description": "Amber Heard says she's just friends with Elon Musk, but they've been traveling and attending events together."
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT1M58S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "2807",
+            "favoriteCount": "0"
+        }
+    }
+]

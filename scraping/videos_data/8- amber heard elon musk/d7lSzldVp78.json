@@ -1,0 +1,80 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "HBUIr2y5cCvkL8cZd3SfdtVXGiQ",
+        "id": "d7lSzldVp78",
+        "snippet": {
+            "publishedAt": "2017-11-18T02:55:32Z",
+            "channelId": "UC86dKaapQf97aXk967xUYyA",
+            "title": "Amber heard et elon musk : retrouvailles autour d\u2019un d\u00e9jeuner",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/d7lSzldVp78/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/d7lSzldVp78/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/d7lSzldVp78/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/d7lSzldVp78/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/d7lSzldVp78/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "John Brooks",
+            "tags": [
+                "Amber heard et",
+                "heard et elon",
+                "et elon musk",
+                "elon musk",
+                "musk retrouvailles",
+                "retrouvailles autour",
+                "retrouvailles autour dun"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber heard et elon musk : retrouvailles autour d\u2019un d\u00e9jeuner",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT1M51S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "3",
+            "likeCount": "0",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

@@ -1,0 +1,80 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "5tEkaDjurPUZFVWXY1NSq4FgGTQ",
+        "id": "bixGpiXuYOM",
+        "snippet": {
+            "publishedAt": "2015-04-22T15:46:32Z",
+            "channelId": "UCv7YFWATebnJ1ty4cwMKgsQ",
+            "title": "Sandra Bernhard Won't Watch Bruce Jenner's Interview with Diane Sawyer",
+            "description": "The hilarious Sandra Bernhard tells us about her guest-starring role on \"Two Broke Girls.\"\n\nThen, Sandra weighs in on Madonna's kiss with Drake and Johnny Depp and Amber Heard's relationship.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/bixGpiXuYOM/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/bixGpiXuYOM/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/bixGpiXuYOM/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/bixGpiXuYOM/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/bixGpiXuYOM/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "The Wendy Williams Show",
+            "tags": [
+                "Sandra Bernhard (Film Actor)",
+                "Johnny Depp (Celebrity)",
+                "madonna",
+                "Amber Heard (Celebrity)",
+                "drake",
+                "Bruce Jenner (Olympic Athlete)",
+                "Diane Sawyer (TV Writer)"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Sandra Bernhard Won't Watch Bruce Jenner's Interview with Diane Sawyer",
+                "description": "The hilarious Sandra Bernhard tells us about her guest-starring role on \"Two Broke Girls.\"\n\nThen, Sandra weighs in on Madonna's kiss with Drake and Johnny Depp and Amber Heard's relationship."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT8M22S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "639153",
+            "likeCount": "2751",
+            "dislikeCount": "398",
+            "favoriteCount": "0",
+            "commentCount": "502"
+        }
+    }
+]

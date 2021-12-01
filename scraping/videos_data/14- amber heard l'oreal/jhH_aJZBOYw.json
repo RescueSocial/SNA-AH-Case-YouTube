@@ -1,0 +1,77 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "md66-dHuL2JoX3qCrNLNZyR4svw",
+        "id": "jhH_aJZBOYw",
+        "snippet": {
+            "publishedAt": "2018-05-11T12:48:42Z",
+            "channelId": "UCKhGUjHHG_7345AlifXMllA",
+            "title": "L\u2019Or\u00e9al Paris sceglie Amber Heard",
+            "description": "Amber Heard si presenta al suo arrivo nel carnet delle affascinanti testimonial L\u2019Or\u00e9al Paris",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/jhH_aJZBOYw/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/jhH_aJZBOYw/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/jhH_aJZBOYw/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/jhH_aJZBOYw/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/jhH_aJZBOYw/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Daily Luxury",
+            "tags": [
+                "L\u2019Or\u00e9al Paris",
+                "Amber Heard"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "it",
+            "localized": {
+                "title": "L\u2019Or\u00e9al Paris sceglie Amber Heard",
+                "description": "Amber Heard si presenta al suo arrivo nel carnet delle affascinanti testimonial L\u2019Or\u00e9al Paris"
+            },
+            "defaultAudioLanguage": "it"
+        },
+        "contentDetails": {
+            "duration": "PT16S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "2376",
+            "likeCount": "37",
+            "dislikeCount": "56",
+            "favoriteCount": "0",
+            "commentCount": "16"
+        }
+    }
+]

@@ -1,0 +1,71 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "iB2lLlx10R8PhVOE7MBhXNlmh2o",
+        "id": "EsqQ0GDI8Jw",
+        "snippet": {
+            "publishedAt": "2021-10-20T14:56:03Z",
+            "channelId": "UCyHX5j6cvdDlDFarayCObRA",
+            "title": "Charges filed in meth trafficking case at Tipp. Co. jail",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/EsqQ0GDI8Jw/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/EsqQ0GDI8Jw/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/EsqQ0GDI8Jw/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/EsqQ0GDI8Jw/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/EsqQ0GDI8Jw/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "WLFITV",
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Charges filed in meth trafficking case at Tipp. Co. jail",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT1M4S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "96",
+            "likeCount": "4",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "thu5znoa2ItKgc5LVnZWPiQFiaw",
+        "id": "esVLLB7f7CM",
+        "snippet": {
+            "publishedAt": "2016-11-27T12:09:25Z",
+            "channelId": "UCbrs4z9mxeHsvU7zfe990cQ",
+            "title": "Amber Heard features in video on domestic violence",
+            "description": "Actress Amber Heard has featured in a video on domestic violence, where she can be seen sharing her experience and encouraging others to speak up.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/esVLLB7f7CM/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/esVLLB7f7CM/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/esVLLB7f7CM/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/esVLLB7f7CM/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/esVLLB7f7CM/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "9 Productions",
+            "tags": [
+                "Amber Heard",
+                "Actress"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "Amber Heard features in video on domestic violence",
+                "description": "Actress Amber Heard has featured in a video on domestic violence, where she can be seen sharing her experience and encouraging others to speak up."
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT32S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "6",
+            "likeCount": "0",
+            "dislikeCount": "1",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

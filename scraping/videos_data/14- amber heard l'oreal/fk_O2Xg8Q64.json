@@ -1,0 +1,71 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "W07LDd4foaupqIVj5d9gaSt3wtA",
+        "id": "fk_O2Xg8Q64",
+        "snippet": {
+            "publishedAt": "2021-11-27T05:00:11Z",
+            "channelId": "UClSAHKY9t1n_4NtfNZLS0WA",
+            "title": "Sindene podo kemekelen ora iso konsentrasi mergo ono ODGJ mlebu pagelaran ki seno nugroho",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/fk_O2Xg8Q64/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/fk_O2Xg8Q64/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/fk_O2Xg8Q64/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/fk_O2Xg8Q64/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/fk_O2Xg8Q64/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "MBOTO TV",
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Sindene podo kemekelen ora iso konsentrasi mergo ono ODGJ mlebu pagelaran ki seno nugroho",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT48M43S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "48755",
+            "likeCount": "232",
+            "dislikeCount": "38",
+            "favoriteCount": "0",
+            "commentCount": "12"
+        }
+    }
+]

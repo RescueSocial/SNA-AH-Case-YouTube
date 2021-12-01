@@ -1,0 +1,74 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "fKRnonqX_lW2fF9gGl7y00WpFr0",
+        "id": "kpDVkNIWqbw",
+        "snippet": {
+            "publishedAt": "2016-05-28T01:54:47Z",
+            "channelId": "UCkH1uDkyuO9sVjSqdqBygOg",
+            "title": "Amber Heard Files Domestic Violence Restraining Order Against Johnny Depp",
+            "description": "She claimed Depp hit her in the face with his iPhone and shattered various items around their home Saturday. Cristy Fajardo reports.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/kpDVkNIWqbw/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/kpDVkNIWqbw/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/kpDVkNIWqbw/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/kpDVkNIWqbw/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/kpDVkNIWqbw/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "CBS Los Angeles",
+            "tags": [
+                "CBS 2 News Evening"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Heard Files Domestic Violence Restraining Order Against Johnny Depp",
+                "description": "She claimed Depp hit her in the face with his iPhone and shattered various items around their home Saturday. Cristy Fajardo reports."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT1M53S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "3099",
+            "likeCount": "13",
+            "dislikeCount": "14",
+            "favoriteCount": "0",
+            "commentCount": "22"
+        }
+    }
+]

@@ -1,0 +1,84 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "okSMClgaC5wQUEZ7v4wYI6Mx0S4",
+        "id": "QNq9UHC6svs",
+        "snippet": {
+            "publishedAt": "2017-08-25T10:28:44Z",
+            "channelId": "UCmFE1G1HQoT06aMvelgK6Bw",
+            "title": "Elon Musk Dumps Amber Heard Over 'Countless Lies'",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/QNq9UHC6svs/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/QNq9UHC6svs/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/QNq9UHC6svs/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/QNq9UHC6svs/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/QNq9UHC6svs/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "C.B.Channel",
+            "tags": [
+                "'news'",
+                "'worldnews'",
+                "top news",
+                "Celebrity news",
+                "Celebrity",
+                "Elon Musk",
+                "Amber Heard",
+                "Countless Lies",
+                "Tesla",
+                "amber heard interview",
+                "split"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Elon Musk Dumps Amber Heard Over 'Countless Lies'",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT2M17S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "creativeCommon",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "54158",
+            "likeCount": "215",
+            "dislikeCount": "87",
+            "favoriteCount": "0",
+            "commentCount": "110"
+        }
+    }
+]

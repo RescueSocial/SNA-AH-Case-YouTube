@@ -1,0 +1,74 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "-DFTEFhzI5JPDLtt87rwzdY2fzo",
+        "id": "c-eFUdiz_jA",
+        "snippet": {
+            "publishedAt": "2013-01-24T00:13:52Z",
+            "channelId": "UCzj5pofLaoZmp4ILL9dg4dA",
+            "title": "GUESS Girl featuring Amber Heard",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/c-eFUdiz_jA/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/c-eFUdiz_jA/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/c-eFUdiz_jA/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/c-eFUdiz_jA/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "GUESS",
+            "tags": [
+                "Guess",
+                "GUESS Girl",
+                "Amber Heard",
+                "GUESS Fragrance",
+                "GUESS Fashion",
+                "GUESS Commercial"
+            ],
+            "categoryId": "26",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "GUESS Girl featuring Amber Heard",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT31S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "57677",
+            "likeCount": "317",
+            "dislikeCount": "52",
+            "favoriteCount": "0",
+            "commentCount": "75"
+        }
+    }
+]

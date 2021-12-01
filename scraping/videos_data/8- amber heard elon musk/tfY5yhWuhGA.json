@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "BiYLHe0CW2zJRy0WPgWjgZvvflY",
+        "id": "tfY5yhWuhGA",
+        "snippet": {
+            "publishedAt": "2017-04-24T11:22:30Z",
+            "channelId": "UCfCk_ylzLy6nz2NpW25DY5w",
+            "title": "Hollywoods nya superpar: Amber Heard och Elon Musk",
+            "description": "Sk\u00e5despelaren visar sin k\u00e4rlek f\u00f6r Tesla-miljard\u00e4ren",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/tfY5yhWuhGA/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/tfY5yhWuhGA/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/tfY5yhWuhGA/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/tfY5yhWuhGA/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/tfY5yhWuhGA/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Expressen",
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Hollywoods nya superpar: Amber Heard och Elon Musk",
+                "description": "Sk\u00e5despelaren visar sin k\u00e4rlek f\u00f6r Tesla-miljard\u00e4ren"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT33S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "694",
+            "likeCount": "3",
+            "dislikeCount": "1",
+            "favoriteCount": "0"
+        }
+    }
+]

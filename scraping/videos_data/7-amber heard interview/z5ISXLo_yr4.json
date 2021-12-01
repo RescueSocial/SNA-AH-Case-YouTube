@@ -1,0 +1,85 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "yocqDLBDqVjx08qR9GWxEVhe1fI",
+        "id": "z5ISXLo_yr4",
+        "snippet": {
+            "publishedAt": "2011-09-20T16:19:56Z",
+            "channelId": "UCsXb1jdMa3ybPw4eiT_2g-A",
+            "title": "NYLON TV + AMBER HEARD",
+            "description": "Sarah Morrison and Amber Heard talk The Rum Diary, The Playboy Club, and more.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/z5ISXLo_yr4/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/z5ISXLo_yr4/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/z5ISXLo_yr4/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/z5ISXLo_yr4/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/z5ISXLo_yr4/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "NYLON",
+            "tags": [
+                "nylon tv",
+                "nylon",
+                "nylon magazine",
+                "sarah morrison",
+                "amber heard",
+                "Nylon",
+                "NylonMagazine",
+                "Fashion",
+                "Magazine",
+                "NylonTV",
+                "Style",
+                "Celebrity"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "NYLON TV + AMBER HEARD",
+                "description": "Sarah Morrison and Amber Heard talk The Rum Diary, The Playboy Club, and more."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT1M27S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "161571",
+            "likeCount": "684",
+            "dislikeCount": "38",
+            "favoriteCount": "0",
+            "commentCount": "120"
+        }
+    }
+]

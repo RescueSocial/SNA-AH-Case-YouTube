@@ -1,0 +1,71 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "aZf3GMfrwsMr0nVXJf373kMRkbw",
+        "id": "DRpYc3XAXdw",
+        "snippet": {
+            "publishedAt": "2020-03-31T07:54:16Z",
+            "channelId": "UCCRqvbyuZZ71f-w2S0A41xg",
+            "title": "Johnny Depp: Amber Heard ile Elon Musk'\u0131n yaz\u0131\u015fmalar\u0131 yay\u0131nlans\u0131n",
+            "description": "#JohnnyDepp #AmberHeard #ElonMusk",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/DRpYc3XAXdw/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/DRpYc3XAXdw/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/DRpYc3XAXdw/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/DRpYc3XAXdw/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/DRpYc3XAXdw/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "eren deniz do\u011fan",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Johnny Depp: Amber Heard ile Elon Musk'\u0131n yaz\u0131\u015fmalar\u0131 yay\u0131nlans\u0131n",
+                "description": "#JohnnyDepp #AmberHeard #ElonMusk"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT6S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "18",
+            "likeCount": "0",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "1hduZcMZaYWi6ynsUk83b8jqnKU",
+        "id": "OxlcS4JddV8",
+        "snippet": {
+            "publishedAt": "2011-10-01T05:11:32Z",
+            "channelId": "UCRX7UEyE8kp35mPrgC2sosA",
+            "title": "James Franco & Amber Heard talk Pineapple Express at CC 2008 - JoBlo.com",
+            "description": "Actors James Franco and Amber Heard talk \"Pineapple Express\" at Comic-Con 2008.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/OxlcS4JddV8/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/OxlcS4JddV8/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/OxlcS4JddV8/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/OxlcS4JddV8/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "JoBlo Movie Trailers",
+            "tags": [
+                "pineapple express",
+                "seth rogen",
+                "james franco",
+                "amber heard",
+                "danny mcbride",
+                "stoner",
+                "comedy",
+                "joblo",
+                "comic con"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "James Franco & Amber Heard talk Pineapple Express at CC 2008 - JoBlo.com",
+                "description": "Actors James Franco and Amber Heard talk \"Pineapple Express\" at Comic-Con 2008."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT2M41S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "8981",
+            "likeCount": "18",
+            "dislikeCount": "4",
+            "favoriteCount": "0",
+            "commentCount": "4"
+        }
+    }
+]

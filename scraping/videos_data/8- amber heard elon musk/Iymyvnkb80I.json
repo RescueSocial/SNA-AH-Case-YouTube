@@ -1,0 +1,72 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "MybzTyQ3S8VKzE2TUgsmGm7lNDM",
+        "id": "Iymyvnkb80I",
+        "snippet": {
+            "publishedAt": "2020-06-19T14:47:16Z",
+            "channelId": "UClxOGZK9hoag1NAvrKnka7Q",
+            "title": "Johnny Depp, \u201cAmber Heard aveva una relazione a tre con Elon Musk e Cara Delevigne\u201d",
+            "description": "#JohnnyDepp,#AmberHeard,#ElonMusk,#CaraDelevigne",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/Iymyvnkb80I/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/Iymyvnkb80I/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/Iymyvnkb80I/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/Iymyvnkb80I/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "notizie 24h",
+            "tags": [
+                "Johnny Depp",
+                "Amber Heard",
+                "Elon Musk",
+                "Cara Delevigne"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Johnny Depp, \u201cAmber Heard aveva una relazione a tre con Elon Musk e Cara Delevigne\u201d",
+                "description": "#JohnnyDepp,#AmberHeard,#ElonMusk,#CaraDelevigne"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT1M5S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "12",
+            "likeCount": "0",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

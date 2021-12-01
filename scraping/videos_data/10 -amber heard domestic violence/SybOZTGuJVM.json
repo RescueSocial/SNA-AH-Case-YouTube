@@ -1,0 +1,74 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "iKHiSPZp1fJz5eawIPisQWwO47c",
+        "id": "SybOZTGuJVM",
+        "snippet": {
+            "publishedAt": "2020-02-06T03:58:27Z",
+            "channelId": "UC_sjgGI7OvY3BJzMPH2iC9A",
+            "title": "Johnny Depp ridiculed by Amber Heard in NEW bombshell audio",
+            "description": "Amber Heard ridicules Johnny Depp because he claims he's a domestic violence victim",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/SybOZTGuJVM/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/SybOZTGuJVM/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/SybOZTGuJVM/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/SybOZTGuJVM/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/SybOZTGuJVM/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Celeb Enews",
+            "tags": [
+                "Johnny Depp ridiculed by Amber Heard in NEW bombshell audio"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Johnny Depp ridiculed by Amber Heard in NEW bombshell audio",
+                "description": "Amber Heard ridicules Johnny Depp because he claims he's a domestic violence victim"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT5M54S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "940",
+            "likeCount": "15",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

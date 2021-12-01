@@ -1,0 +1,91 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "V8K6ORgWe-yEcoJn_VLUQxATQ-g",
+        "id": "rct9Zs_Yd-I",
+        "snippet": {
+            "publishedAt": "2020-03-25T04:00:09Z",
+            "channelId": "UCGHi_s4RrqUh4hsS4mLbiPg",
+            "title": "Thomas Rhett - Beer Can\u2019t Fix ft. Jon Pardi",
+            "description": "Music video by Thomas Rhett performing Beer Can\u2019t Fix. \u00a9 2020 Big Machine Label Group, LLC\n\nhttp://vevo.ly/r451Bx",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/rct9Zs_Yd-I/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/rct9Zs_Yd-I/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/rct9Zs_Yd-I/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/rct9Zs_Yd-I/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/rct9Zs_Yd-I/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "ThomasRhettVEVO",
+            "tags": [
+                "Thomas",
+                "Rhett",
+                "Beer",
+                "Can\u2019t",
+                "Fix",
+                "The",
+                "Valory",
+                "Music",
+                "Co.",
+                "LLC",
+                "Country"
+            ],
+            "categoryId": "10",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Thomas Rhett - Beer Can\u2019t Fix ft. Jon Pardi",
+                "description": "Music video by Thomas Rhett performing Beer Can\u2019t Fix. \u00a9 2020 Big Machine Label Group, LLC\n\nhttp://vevo.ly/r451Bx"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT3M36S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": true,
+            "regionRestriction": {
+                "blocked": [
+                    "IO",
+                    "KP",
+                    "SS"
+                ]
+            },
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "37883790",
+            "likeCount": "139711",
+            "dislikeCount": "6865",
+            "favoriteCount": "0",
+            "commentCount": "2811"
+        }
+    }
+]

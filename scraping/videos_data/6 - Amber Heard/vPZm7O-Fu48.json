@@ -1,0 +1,74 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "EET9Jb2hbcUlf7SJNLzgcozIJME",
+        "id": "vPZm7O-Fu48",
+        "snippet": {
+            "publishedAt": "2018-07-15T09:43:58Z",
+            "channelId": "UCkwIjo_kjA-R6FmpzQ9AP9Q",
+            "title": "Amber Heard is beautiful",
+            "description": "No copyright infringement intended",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/vPZm7O-Fu48/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/vPZm7O-Fu48/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/vPZm7O-Fu48/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/vPZm7O-Fu48/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/vPZm7O-Fu48/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Just Beauty",
+            "tags": [
+                "Amber Heard Beautiful"
+            ],
+            "categoryId": "1",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Heard is beautiful",
+                "description": "No copyright infringement intended"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT2M50S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "7531",
+            "likeCount": "104",
+            "dislikeCount": "22",
+            "favoriteCount": "0",
+            "commentCount": "14"
+        }
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "OrCEmyeDe91y8AmsV4d2Ml5Jo7g",
+        "id": "96HhJqhvR-M",
+        "snippet": {
+            "publishedAt": "2021-03-28T00:41:57Z",
+            "channelId": "UCOEFSWsktdvCps-zDNSD1yA",
+            "title": "You Can Learn To Judge For Yourself!!  (Amber Heard Playlist!!)",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/96HhJqhvR-M/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/96HhJqhvR-M/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/96HhJqhvR-M/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/96HhJqhvR-M/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "The Amber Heard Playlist!!Johnny Depp es racista",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "You Can Learn To Judge For Yourself!!  (Amber Heard Playlist!!)",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT33M36S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "15",
+            "likeCount": "0",
+            "dislikeCount": "1",
+            "favoriteCount": "0"
+        }
+    }
+]

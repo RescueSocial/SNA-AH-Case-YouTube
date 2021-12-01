@@ -1,0 +1,67 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "UDNeBpLGrN0rHxhjTkW1XMvbN9g",
+        "id": "NTnGem_kQj0",
+        "snippet": {
+            "publishedAt": "2020-07-18T01:08:43Z",
+            "channelId": "UCvmmAYXP3O2OlDC3alE1Hag",
+            "title": "You Can Learn To Judge For Yourself! (Amber Heard Playlist!!)",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/NTnGem_kQj0/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/NTnGem_kQj0/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/NTnGem_kQj0/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/NTnGem_kQj0/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "The Amber Heard Playlist!!",
+            "tags": [
+                "Johnny Depp Amber Heard"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "You Can Learn To Judge For Yourself! (Amber Heard Playlist!!)",
+                "description": ""
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT33M36S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "51",
+            "favoriteCount": "0"
+        }
+    }
+]

@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "3NVIQqpDWhXJKnzkX817XIfI2eE",
+        "id": "fhOyh1PfWlk",
+        "snippet": {
+            "publishedAt": "2020-12-22T05:15:06Z",
+            "channelId": "UCtD-2nsKZg6jyUviLNfGnAg",
+            "title": "Did Amber Heard Beat Up Her Girlfriend? (Amber Heard Playlist)",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/fhOyh1PfWlk/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/fhOyh1PfWlk/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/fhOyh1PfWlk/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/fhOyh1PfWlk/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/fhOyh1PfWlk/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "#JohnnyDeppIsRacist",
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Did Amber Heard Beat Up Her Girlfriend? (Amber Heard Playlist)",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT3M3S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": false,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "48",
+            "likeCount": "1",
+            "dislikeCount": "2",
+            "favoriteCount": "0"
+        }
+    }
+]

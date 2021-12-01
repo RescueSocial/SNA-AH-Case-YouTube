@@ -1,0 +1,75 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "2P7uUCtZb45ITKKr7TzHvil0zq8",
+        "id": "euorta3h62U",
+        "snippet": {
+            "publishedAt": "2021-11-25T01:45:23Z",
+            "channelId": "UCcTzK_2JDmFYGnUiaUleQYg",
+            "title": "All 3 Men Found \"GUILTY\" In The Ahmaud Arbery Case",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/euorta3h62U/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/euorta3h62U/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/euorta3h62U/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/euorta3h62U/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Lisa Cabrera",
+            "tags": [
+                "ahmaud arbery",
+                "news",
+                "ahmaud arbery trial",
+                "Verdict in Ahmaud Arbery trial",
+                "ahmaud arbery verdict",
+                "breaking news"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "All 3 Men Found \"GUILTY\" In The Ahmaud Arbery Case",
+                "description": ""
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT2H4M12S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "15329",
+            "likeCount": "1333",
+            "dislikeCount": "17",
+            "favoriteCount": "0",
+            "commentCount": "85"
+        }
+    }
+]

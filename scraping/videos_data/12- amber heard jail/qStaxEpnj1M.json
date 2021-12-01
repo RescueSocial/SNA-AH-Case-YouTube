@@ -1,0 +1,88 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "3qeRovFdiWHiLea-Z711S1lONkI",
+        "id": "qStaxEpnj1M",
+        "snippet": {
+            "publishedAt": "2017-08-18T23:54:14Z",
+            "channelId": "UCzQUP1qoWDoEbmsQxvdjxgQ",
+            "title": "Joe Rogan Experience #1000 - Joey Diaz & Tom Segura",
+            "description": "Joey \u201cCoCo\u201d Diaz is a Cuban-American stand up comedian and actor.  Joey also hosts his own podcast called \u201cThe Church of What\u2019s Happening Now\u201d. Tom Segura is a stand-up comedian, and hosts his own podcast with his wife, Christina Pazsitzky called Your Mom's House.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/qStaxEpnj1M/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/qStaxEpnj1M/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/qStaxEpnj1M/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/qStaxEpnj1M/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "PowerfulJRE",
+            "tags": [
+                "Joe Rogan Experience",
+                "podcast",
+                "JRE #1000",
+                "1000",
+                "Joey Diaz",
+                "Tom Segura",
+                "CoCo",
+                "Mad Flavor",
+                "The Church of What's Happening Now",
+                "Your Mom's House",
+                "Deathsquad",
+                "Freak Party",
+                "mma",
+                "UFC",
+                "Ultimate Fighting Championship",
+                "comedy",
+                "comedian",
+                "stand up",
+                "jokes",
+                "funny"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Joe Rogan Experience #1000 - Joey Diaz & Tom Segura",
+                "description": "Joey \u201cCoCo\u201d Diaz is a Cuban-American stand up comedian and actor.  Joey also hosts his own podcast called \u201cThe Church of What\u2019s Happening Now\u201d. Tom Segura is a stand-up comedian, and hosts his own podcast with his wife, Christina Pazsitzky called Your Mom's House."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT3H34M12S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "12736984",
+            "likeCount": "123000",
+            "dislikeCount": "7499",
+            "favoriteCount": "0",
+            "commentCount": "13676"
+        }
+    }
+]

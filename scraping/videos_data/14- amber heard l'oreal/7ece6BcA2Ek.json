@@ -1,0 +1,66 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "jL3V-f_rvPgyyE_rfs7iwiwwwME",
+        "id": "7ece6BcA2Ek",
+        "snippet": {
+            "publishedAt": "2009-08-20T19:32:11Z",
+            "channelId": "UCqex0rRFRYvpPwU6n-Jk3zA",
+            "title": "Amber Heard - Californication",
+            "description": " ",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/7ece6BcA2Ek/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/7ece6BcA2Ek/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/7ece6BcA2Ek/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "seriously315",
+            "tags": [
+                "Californication",
+                "Amber Heard",
+                "Hank Mood"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Heard - Californication",
+                "description": " "
+            }
+        },
+        "contentDetails": {
+            "duration": "PT49S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "51442",
+            "likeCount": "45",
+            "dislikeCount": "7",
+            "favoriteCount": "0",
+            "commentCount": "7"
+        }
+    }
+]
