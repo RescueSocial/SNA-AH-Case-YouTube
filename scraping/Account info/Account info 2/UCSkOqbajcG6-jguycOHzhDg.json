@@ -1,0 +1,66 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "Mb-4TIWlT5Ycr5iRzegO-bR_TQ0",
+        "id": "UCSkOqbajcG6-jguycOHzhDg",
+        "snippet": {
+            "title": "ML Studios",
+            "description": "Infotainment video platform.",
+            "customUrl": "mlstudiosmy",
+            "publishedAt": "2017-10-11T04:28:37Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLR3jTnc6YmmPJcsqPqOUK0CVoO22A_riaIYlCQB=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLR3jTnc6YmmPJcsqPqOUK0CVoO22A_riaIYlCQB=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLR3jTnc6YmmPJcsqPqOUK0CVoO22A_riaIYlCQB=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "ML Studios",
+                "description": "Infotainment video platform."
+            },
+            "country": "MY"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUSkOqbajcG6-jguycOHzhDg"
+            }
+        },
+        "statistics": {
+            "viewCount": "478665797",
+            "subscriberCount": "1230000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "6542"
+        },
+        "topicDetails": {},
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "ML Studios",
+                "description": "Infotainment video platform.",
+                "unsubscribedTrailer": "ydthYMok7Jg",
+                "country": "MY"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/Kc0sP3DdvB20hCksd5SkEJukyjuvK0wmIOkHGzrJ9UCzFdNCxy1uHAN_UHv0ALf7YCPkoVkaVA"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

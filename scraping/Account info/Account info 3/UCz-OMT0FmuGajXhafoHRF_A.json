@@ -1,0 +1,68 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "7Jhib4S2jo9fheb831b8tRv3iUQ",
+        "id": "UCz-OMT0FmuGajXhafoHRF_A",
+        "snippet": {
+            "title": "vibertrack media",
+            "description": "",
+            "publishedAt": "2020-07-13T15:41:15.287965Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/2-OVLbVz4ayoW8X39-OsYvgs94KfAd8lZPPky5OHq9UomueYvTElLUx34JpWvyGKKB6hkBcv=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/2-OVLbVz4ayoW8X39-OsYvgs94KfAd8lZPPky5OHq9UomueYvTElLUx34JpWvyGKKB6hkBcv=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/2-OVLbVz4ayoW8X39-OsYvgs94KfAd8lZPPky5OHq9UomueYvTElLUx34JpWvyGKKB6hkBcv=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "vibertrack media",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUz-OMT0FmuGajXhafoHRF_A"
+            }
+        },
+        "statistics": {
+            "viewCount": "61836",
+            "hiddenSubscriberCount": true,
+            "videoCount": "113"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "vibertrack media"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/4RxA0ZafKxJ4--CliwOZCHWlzMtrPwXWYfUcjLxf9a2eZNBU1139PLh0NeQrNU6NMrBWEQ-1kg"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

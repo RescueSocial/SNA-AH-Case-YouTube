@@ -1,0 +1,67 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "6fX8WUGDZz15BjMxJhq5rDK3uuI",
+        "id": "UCF-app7i03xbW7gQndSlQBg",
+        "snippet": {
+            "title": "iefimerida gr",
+            "description": "",
+            "publishedAt": "2014-11-17T18:14:01Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQUaDO0UaJwPqz5RQNMVCytVQwC48U4jc1Ga4AXUA=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQUaDO0UaJwPqz5RQNMVCytVQwC48U4jc1Ga4AXUA=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQUaDO0UaJwPqz5RQNMVCytVQwC48U4jc1Ga4AXUA=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "iefimerida gr",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUF-app7i03xbW7gQndSlQBg"
+            }
+        },
+        "statistics": {
+            "viewCount": "780724",
+            "subscriberCount": "168",
+            "hiddenSubscriberCount": false,
+            "videoCount": "187"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/05qt0",
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Politics",
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "iefimerida gr"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

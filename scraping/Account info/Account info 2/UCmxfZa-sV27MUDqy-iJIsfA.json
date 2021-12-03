@@ -1,0 +1,74 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "eskYkKUqp0Cdk_pwwzzLnsDZsBk",
+        "id": "UCmxfZa-sV27MUDqy-iJIsfA",
+        "snippet": {
+            "title": "Mr H Reviews",
+            "description": "Movie reviews & Explained movie universe videos, game playthroughs, comics, commentaries and more",
+            "customUrl": "mrhreviews",
+            "publishedAt": "2016-12-24T18:38:57Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRAu-1DPpH_oEzJscgENGfIgxQ2k1246ixp7Pz43w=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRAu-1DPpH_oEzJscgENGfIgxQ2k1246ixp7Pz43w=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRAu-1DPpH_oEzJscgENGfIgxQ2k1246ixp7Pz43w=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Mr H Reviews",
+                "description": "Movie reviews & Explained movie universe videos, game playthroughs, comics, commentaries and more"
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUmxfZa-sV27MUDqy-iJIsfA"
+            }
+        },
+        "statistics": {
+            "viewCount": "122141348",
+            "subscriberCount": "287000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "4529"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Mr H Reviews",
+                "description": "Movie reviews & Explained movie universe videos, game playthroughs, comics, commentaries and more",
+                "keywords": "Reviews movies \"movie news\" \"movie reviews\" \"pop culture\"",
+                "unsubscribedTrailer": "IEa9NPTiok4"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/eLkgtl0VdQuZ7Q75c9dUP4eXD1ZA5jyTpJ8toZ3IGAKG_qJbUudh3Qqu1nscZdv4-lJOTDIcaA"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

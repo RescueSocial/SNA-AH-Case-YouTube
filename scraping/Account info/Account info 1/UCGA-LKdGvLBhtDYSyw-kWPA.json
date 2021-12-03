@@ -1,0 +1,75 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "yADLVWXnGUOQlrgdRuKRYzw04a4",
+        "id": "UCGA-LKdGvLBhtDYSyw-kWPA",
+        "snippet": {
+            "title": "The Daily Mash 24h",
+            "description": "",
+            "publishedAt": "2009-01-18T20:11:42Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSAvuAKkzdDJ1-4QMqIS5YCJgPIvN58XCVr_XbK=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSAvuAKkzdDJ1-4QMqIS5YCJgPIvN58XCVr_XbK=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSAvuAKkzdDJ1-4QMqIS5YCJgPIvN58XCVr_XbK=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "The Daily Mash 24h",
+                "description": ""
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUGA-LKdGvLBhtDYSyw-kWPA"
+            }
+        },
+        "statistics": {
+            "viewCount": "705968",
+            "subscriberCount": "1050",
+            "hiddenSubscriberCount": false,
+            "videoCount": "4912"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/0f2f9",
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Television_program",
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "The Daily Mash 24h",
+                "unsubscribedTrailer": "f0k-zOVRWto",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "http://yt3.ggpht.com/tm7qyDdR39nhsla2zUYdD_cOV2Bn5xDd8EU58bo4OT3p5u7D_1Zhkd2xArcSfeZ1Cljgy8NlsQ"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

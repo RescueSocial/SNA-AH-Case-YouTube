@@ -1,0 +1,65 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "xvPpSWVQi9OOqUnSrNBv6G9b4-o",
+        "id": "UC6gPsZqqPnE0J0F2KarzKzQ",
+        "snippet": {
+            "title": "MK HOLLYWOOD SHORT",
+            "description": "",
+            "publishedAt": "2021-11-23T03:15:34.798954Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/CEU8Olfjr2DQnLhxWl_VgPH56AaKEr59qmagUtKw_EOs02onHXvoYlGWrO1zLf0Gk_5J4RfQN24=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/CEU8Olfjr2DQnLhxWl_VgPH56AaKEr59qmagUtKw_EOs02onHXvoYlGWrO1zLf0Gk_5J4RfQN24=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/CEU8Olfjr2DQnLhxWl_VgPH56AaKEr59qmagUtKw_EOs02onHXvoYlGWrO1zLf0Gk_5J4RfQN24=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "MK HOLLYWOOD SHORT",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU6gPsZqqPnE0J0F2KarzKzQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "1824",
+            "hiddenSubscriberCount": true,
+            "videoCount": "32"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "MK HOLLYWOOD SHORT"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

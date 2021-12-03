@@ -1,0 +1,76 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "J2L0Tz9UZl1PRtyO28gtZUyFtD4",
+        "id": "UCvc-15wNwGa-fMowwh-tTEA",
+        "snippet": {
+            "title": "John I",
+            "description": "English Learning",
+            "customUrl": "johnienglish",
+            "publishedAt": "2006-06-02T08:20:03Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRL6W6uwAGI_SJlpdedzLbGjTMMAJExcBsrHJZj=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRL6W6uwAGI_SJlpdedzLbGjTMMAJExcBsrHJZj=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRL6W6uwAGI_SJlpdedzLbGjTMMAJExcBsrHJZj=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "John I",
+                "description": "English Learning"
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUvc-15wNwGa-fMowwh-tTEA"
+            }
+        },
+        "statistics": {
+            "viewCount": "135950",
+            "subscriberCount": "1860",
+            "hiddenSubscriberCount": false,
+            "videoCount": "80"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/019_rr",
+                "/m/01k8wb"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                "https://en.wikipedia.org/wiki/Knowledge"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "John I",
+                "description": "English Learning",
+                "keywords": "English Learning",
+                "unsubscribedTrailer": "ZIpqbXfSe6A",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/pZE9y8MIGXwQpJevlwGokJXcsK40PebROG1Xfy-_LopCx0jpidUpCNWy1ymUpq6DiQ4W0DtjLA"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

@@ -1,0 +1,76 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "kTNtB9Jm9UuWhWUK0em2bAgxpu4",
+        "id": "UCT350j4u6alUKyF9eu2bGug",
+        "snippet": {
+            "title": "ABC10",
+            "description": "News for Northern California - including weather, traffic, sports and Originals content. The YouTube home of ABC10 in Sacramento!",
+            "customUrl": "abc10",
+            "publishedAt": "2016-03-18T21:38:40Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRqXJ1uoIc5tbC8jT1gEjUaty8no1-R8FDldWPywA=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRqXJ1uoIc5tbC8jT1gEjUaty8no1-R8FDldWPywA=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRqXJ1uoIc5tbC8jT1gEjUaty8no1-R8FDldWPywA=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "ABC10",
+                "description": "News for Northern California - including weather, traffic, sports and Originals content. The YouTube home of ABC10 in Sacramento!"
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUT350j4u6alUKyF9eu2bGug"
+            }
+        },
+        "statistics": {
+            "viewCount": "106540566",
+            "subscriberCount": "149000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "22501"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr",
+                "/m/06ntj"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society",
+                "https://en.wikipedia.org/wiki/Sport"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "ABC10",
+                "description": "News for Northern California - including weather, traffic, sports and Originals content. The YouTube home of ABC10 in Sacramento!",
+                "keywords": "KXTV ABC10 Sacramento",
+                "moderateComments": true,
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/d_raX7gq5Z9q5imVB7c6zCnx2O4YHOzyecyCi5SjvWo43CTbE7_Z86XAIGjUd1mpJPWVCSb3"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

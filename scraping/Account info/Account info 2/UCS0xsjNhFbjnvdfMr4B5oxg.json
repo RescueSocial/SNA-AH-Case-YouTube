@@ -1,0 +1,75 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "0rAyVcCAJ-uI1EJz5Dmu01-qOjM",
+        "id": "UCS0xsjNhFbjnvdfMr4B5oxg",
+        "snippet": {
+            "title": "F\u00fcr Neugierige",
+            "description": "Jeden Tag eine Neuigkeit aus der Welt der Bekannten - Klatsch und Tratsch und vieles mehr.",
+            "publishedAt": "2019-03-01T09:41:25Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLS20l-003TFh3dgE1LseAC8zPNypXF9ubA3MhI5=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLS20l-003TFh3dgE1LseAC8zPNypXF9ubA3MhI5=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLS20l-003TFh3dgE1LseAC8zPNypXF9ubA3MhI5=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "F\u00fcr Neugierige",
+                "description": "Jeden Tag eine Neuigkeit aus der Welt der Bekannten - Klatsch und Tratsch und vieles mehr."
+            },
+            "country": "DE"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUS0xsjNhFbjnvdfMr4B5oxg"
+            }
+        },
+        "statistics": {
+            "viewCount": "5859451",
+            "subscriberCount": "16400",
+            "hiddenSubscriberCount": false,
+            "videoCount": "429"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "F\u00fcr Neugierige",
+                "description": "Jeden Tag eine Neuigkeit aus der Welt der Bekannten - Klatsch und Tratsch und vieles mehr.",
+                "keywords": "Neugierige \"Klatsch und Tratsch\" Klatsch Tratsch neugierig promi-news \"amerikanische Stars\" \"amerikanische Schauspieler\" \"Musik Klatsch\" \"Kino Klatsch\" \"Kino Stars\"",
+                "moderateComments": true,
+                "country": "DE"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/I5Vwln6FMZvlTOEWDpn37BQfwls_7yPcD-WlpRSxQnxsX9x14yGpO5a43PzYnSGchNJptHA1VQ"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

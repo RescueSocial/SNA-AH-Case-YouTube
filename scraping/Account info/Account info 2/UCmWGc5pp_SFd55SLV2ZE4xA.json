@@ -1,0 +1,69 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "iIyCPsadskJjUdh1b4CbtQ_B0MY",
+        "id": "UCmWGc5pp_SFd55SLV2ZE4xA",
+        "snippet": {
+            "title": "Experience game for you",
+            "description": "",
+            "publishedAt": "2015-09-09T02:19:35Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSEi1uByH5MkOYfxEWOitdr9HXPRci8YoFctw=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSEi1uByH5MkOYfxEWOitdr9HXPRci8YoFctw=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSEi1uByH5MkOYfxEWOitdr9HXPRci8YoFctw=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Experience game for you",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUmWGc5pp_SFd55SLV2ZE4xA"
+            }
+        },
+        "statistics": {
+            "viewCount": "918129",
+            "subscriberCount": "976",
+            "hiddenSubscriberCount": false,
+            "videoCount": "2829"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Experience game for you"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/-c_U38fBbXoBqI_wLUWNjWbuy-m7Lu_qd96w0bijvVGNwbtswEMF6U02tR1gA71IHezaoSR7"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

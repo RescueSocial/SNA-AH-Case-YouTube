@@ -1,0 +1,80 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "_3Wc1NfCmgfG-if3GxMutX2v5cw",
+        "id": "UCPNc3eBxlI1BEINjaBxrBvA",
+        "snippet": {
+            "title": "Trending Zone",
+            "description": "",
+            "customUrl": "todaymobile",
+            "publishedAt": "2020-06-01T15:36:06.983994Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSkL7iuqhPSDv0yvqF1Q1Xwy9A55oxalzT65YyWuQ=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSkL7iuqhPSDv0yvqF1Q1Xwy9A55oxalzT65YyWuQ=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSkL7iuqhPSDv0yvqF1Q1Xwy9A55oxalzT65YyWuQ=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Trending Zone",
+                "description": ""
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUPNc3eBxlI1BEINjaBxrBvA"
+            }
+        },
+        "statistics": {
+            "viewCount": "124553",
+            "subscriberCount": "1310",
+            "hiddenSubscriberCount": false,
+            "videoCount": "102"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/03hf_rm",
+                "/m/0403l3g",
+                "/m/0bzvm2",
+                "/m/025zzc",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Strategy_video_game",
+                "https://en.wikipedia.org/wiki/Role-playing_video_game",
+                "https://en.wikipedia.org/wiki/Video_game_culture",
+                "https://en.wikipedia.org/wiki/Action_game",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Trending Zone",
+                "keywords": "\"Trending Zone\" \"Zone Trending\" TZ ZT Trending Zone",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/pKA9a7NNyjEi5JwlmG9bVlV0CMy9KXlw3lYDXLsfkKpO9Yj7_2Rm6qUgDIWY1Lga_r0DYoydiA"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

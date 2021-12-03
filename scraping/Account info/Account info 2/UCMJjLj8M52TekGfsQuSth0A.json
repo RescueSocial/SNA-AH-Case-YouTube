@@ -1,0 +1,67 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "DkLeiu86FtjpW5p73nQOdtcc1cU",
+        "id": "UCMJjLj8M52TekGfsQuSth0A",
+        "snippet": {
+            "title": "Best Quotes",
+            "description": "",
+            "publishedAt": "2019-03-25T20:00:53Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQmcNjl_Mnrt7iPEhfNqr4xkOa6UPCFbDkqZmD0=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQmcNjl_Mnrt7iPEhfNqr4xkOa6UPCFbDkqZmD0=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQmcNjl_Mnrt7iPEhfNqr4xkOa6UPCFbDkqZmD0=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Best Quotes",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUMJjLj8M52TekGfsQuSth0A"
+            }
+        },
+        "statistics": {
+            "viewCount": "54926",
+            "subscriberCount": "190",
+            "hiddenSubscriberCount": false,
+            "videoCount": "4912"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/01k8wb"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Knowledge"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Best Quotes"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/mBMuRfUatkMG0fIZ92qoMqZ6NVzyt615xGc8iYFIb-aeLNXgjAd1Rk6jL37vzoxDGD3iP6Ai"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

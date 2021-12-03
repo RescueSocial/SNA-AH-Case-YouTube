@@ -1,0 +1,69 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "0_aEepw3Ju57qxfmPwJui_8MU2A",
+        "id": "UC1K4zDtyAMtJq3PZ1RVmFuQ",
+        "snippet": {
+            "title": "News 4U",
+            "description": "",
+            "publishedAt": "2016-10-24T05:18:02Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSP_ASp1wMWvpHdOV1-53LnZtDzVXJeUVnqXLi-=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSP_ASp1wMWvpHdOV1-53LnZtDzVXJeUVnqXLi-=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSP_ASp1wMWvpHdOV1-53LnZtDzVXJeUVnqXLi-=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "News 4U",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU1K4zDtyAMtJq3PZ1RVmFuQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "453464",
+            "subscriberCount": "290",
+            "hiddenSubscriberCount": false,
+            "videoCount": "4560"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/04rlf",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Music",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "News 4U"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/kWztDKvNzlp3eJSQOHxHRjXdctwLa_e9OEDg4SgP_cr9IfJft3s2iaRwP5a1-vM_DHXPD5UF"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

@@ -1,0 +1,75 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "AxeEoZdUUtQNval6H8p0XXbDoXs",
+        "id": "UC9jj-YYSGUXvY2J2nYw9dNQ",
+        "snippet": {
+            "title": "Mashable Deals",
+            "description": "Breaking news, stunning sights, and incredible stories from around the world, with videos posted daily.",
+            "customUrl": "mashablenews",
+            "publishedAt": "2015-10-20T20:12:32Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLT0OBbLbV5cljQCsk6vcI28ErLqkuysIoA_JKriww=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLT0OBbLbV5cljQCsk6vcI28ErLqkuysIoA_JKriww=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLT0OBbLbV5cljQCsk6vcI28ErLqkuysIoA_JKriww=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Mashable Deals",
+                "description": "Breaking news, stunning sights, and incredible stories from around the world, with videos posted daily."
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU9jj-YYSGUXvY2J2nYw9dNQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "83929745",
+            "subscriberCount": "151000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "2569"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/019_rr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Mashable Deals",
+                "description": "Breaking news, stunning sights, and incredible stories from around the world, with videos posted daily.",
+                "keywords": "news \"breaking news\" \"mashable news\"",
+                "trackingAnalyticsAccountId": "UA-92124-45",
+                "moderateComments": true,
+                "unsubscribedTrailer": "JWLz27-7xn4",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/pmuRPjrB3N3RS55JIVM8TkeDv1wzI3Z8BXKMOafin6ygITBrdiSBxTMGkduZf6J5IbVpwxrljA"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

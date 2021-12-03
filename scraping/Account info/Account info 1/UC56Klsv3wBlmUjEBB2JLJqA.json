@@ -1,0 +1,76 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "w8HPCKjCNo96c3jKJ1YRRMEGq5A",
+        "id": "UC56Klsv3wBlmUjEBB2JLJqA",
+        "snippet": {
+            "title": "CONO USA",
+            "description": "CONO USA (CONO United State America)",
+            "customUrl": "conousa",
+            "publishedAt": "2021-01-18T01:37:28.684339Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/8T5yXnjGYRaiPgSE08hosf092K6TwVqCT6ikQr8RRTQUFFdIu53ucfQrka1d6zhuTG2engfAJAE=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/8T5yXnjGYRaiPgSE08hosf092K6TwVqCT6ikQr8RRTQUFFdIu53ucfQrka1d6zhuTG2engfAJAE=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/8T5yXnjGYRaiPgSE08hosf092K6TwVqCT6ikQr8RRTQUFFdIu53ucfQrka1d6zhuTG2engfAJAE=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "CONO USA",
+                "description": "CONO USA (CONO United State America)"
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU56Klsv3wBlmUjEBB2JLJqA"
+            }
+        },
+        "statistics": {
+            "viewCount": "480221",
+            "hiddenSubscriberCount": true,
+            "videoCount": "1336"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/04rlf",
+                "/m/02jjt",
+                "/m/02vxn",
+                "/m/019_rr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Music",
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "CONO USA",
+                "description": "CONO USA (CONO United State America)",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/zkp5UPDaVFXRzzpxULo_a96a1qBlccPZiauDpHadtZYRQjy6_fWapKobVi1nEEq-T0WYGRHIUQ"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

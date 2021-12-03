@@ -1,0 +1,69 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "zLnqaid4rEKpugRI3WmRQQ733zM",
+        "id": "UCfSid2F_I5J8AdhD_wcBqlw",
+        "snippet": {
+            "title": "Sheriff Reynolds",
+            "description": "",
+            "customUrl": "jonnyholbek",
+            "publishedAt": "2010-11-25T17:24:18Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLS3nLTCcotcSS6EF6Zmvd-416JGlPtmY-1gvMYp=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLS3nLTCcotcSS6EF6Zmvd-416JGlPtmY-1gvMYp=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLS3nLTCcotcSS6EF6Zmvd-416JGlPtmY-1gvMYp=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Sheriff Reynolds",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUfSid2F_I5J8AdhD_wcBqlw"
+            }
+        },
+        "statistics": {
+            "viewCount": "749195",
+            "subscriberCount": "379",
+            "hiddenSubscriberCount": false,
+            "videoCount": "21"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/04rlf",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Music",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Sheriff Reynolds"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

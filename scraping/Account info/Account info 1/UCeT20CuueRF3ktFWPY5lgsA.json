@@ -1,0 +1,65 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "bdZr09H0ekYuf76I-u8sB1UKb84",
+        "id": "UCeT20CuueRF3ktFWPY5lgsA",
+        "snippet": {
+            "title": "Reddit Show",
+            "description": "AskReddit!!!",
+            "publishedAt": "2020-11-11T07:31:30.158679Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLR5jQnvQIZ8ZPCgB33kcq-8mBIJ7divqTZMagCW=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLR5jQnvQIZ8ZPCgB33kcq-8mBIJ7divqTZMagCW=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLR5jQnvQIZ8ZPCgB33kcq-8mBIJ7divqTZMagCW=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Reddit Show",
+                "description": "AskReddit!!!"
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUeT20CuueRF3ktFWPY5lgsA"
+            }
+        },
+        "statistics": {
+            "viewCount": "265594678",
+            "subscriberCount": "245000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "1049"
+        },
+        "topicDetails": {},
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Reddit Show",
+                "description": "AskReddit!!!",
+                "keywords": "#reddit #askreddit #r/AskReddit",
+                "unsubscribedTrailer": "inVicUUczS8",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/if68ESD7-q9lX2dNS76O8xtY0HTfxikoHCXQj7TvKh0Cs_G4eBmNLmdg9yMhd-UfGUsfCFGWkQ"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

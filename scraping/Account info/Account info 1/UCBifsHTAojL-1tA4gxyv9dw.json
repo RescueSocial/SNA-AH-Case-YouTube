@@ -1,0 +1,56 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "KbtRhuhxWOSt0Qm0Osrc7Pzvh1w",
+        "id": "UCBifsHTAojL-1tA4gxyv9dw",
+        "snippet": {
+            "title": "truthseeker",
+            "description": "",
+            "publishedAt": "2020-04-11T20:56:51.000616Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSfth0GrYjLIIJYVi_Wr4fBv33fH4A6Hl79cf8U=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSfth0GrYjLIIJYVi_Wr4fBv33fH4A6Hl79cf8U=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSfth0GrYjLIIJYVi_Wr4fBv33fH4A6Hl79cf8U=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "truthseeker",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUBifsHTAojL-1tA4gxyv9dw"
+            }
+        },
+        "statistics": {
+            "viewCount": "1743316",
+            "subscriberCount": "1160",
+            "hiddenSubscriberCount": false,
+            "videoCount": "1"
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "truthseeker"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

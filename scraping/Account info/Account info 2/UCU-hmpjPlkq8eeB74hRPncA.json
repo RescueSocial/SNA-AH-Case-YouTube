@@ -1,0 +1,71 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "XcXB82xsr1pHZf9dOc-xpTtn9Rc",
+        "id": "UCU-hmpjPlkq8eeB74hRPncA",
+        "snippet": {
+            "title": "JohnnyJD Love",
+            "description": "",
+            "publishedAt": "2014-09-21T07:43:56Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTuPybM95pQx_zC0_TS6jf5Tog2MFF2fauV2VZUMA=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTuPybM95pQx_zC0_TS6jf5Tog2MFF2fauV2VZUMA=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTuPybM95pQx_zC0_TS6jf5Tog2MFF2fauV2VZUMA=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "JohnnyJD Love",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUU-hmpjPlkq8eeB74hRPncA"
+            }
+        },
+        "statistics": {
+            "viewCount": "146068",
+            "subscriberCount": "365",
+            "hiddenSubscriberCount": false,
+            "videoCount": "8"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/064t9",
+                "/m/02jjt",
+                "/m/04rlf"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Pop_music",
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Music"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "JohnnyJD Love"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/nhS5p3q0bp2VKmLyTvoO_GbQEz-nw3s_k29k8LQohpRuO_ORuFhVZtiLLy0APmxw-xBnGcP_5Q"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

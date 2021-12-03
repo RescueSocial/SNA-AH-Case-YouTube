@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "b709GlJvAmNfjxJBjWCg1K7KwFU",
+        "id": "UC_h-Fhd4EdT-Ui-KDQZlbQA",
+        "snippet": {
+            "title": "Sisi Velcheva",
+            "description": "",
+            "publishedAt": "2007-02-28T20:37:56Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRFzAVe0NrEz63MYZj6k3BY-XirXBC40wPESy1Wbg=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRFzAVe0NrEz63MYZj6k3BY-XirXBC40wPESy1Wbg=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRFzAVe0NrEz63MYZj6k3BY-XirXBC40wPESy1Wbg=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Sisi Velcheva",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU_h-Fhd4EdT-Ui-KDQZlbQA"
+            }
+        },
+        "statistics": {
+            "viewCount": "122725",
+            "subscriberCount": "75",
+            "hiddenSubscriberCount": false,
+            "videoCount": "38"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/04rlf",
+                "/m/064t9",
+                "/m/02vxn",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Music",
+                "https://en.wikipedia.org/wiki/Pop_music",
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Sisi Velcheva"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

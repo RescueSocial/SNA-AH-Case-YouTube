@@ -1,0 +1,72 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "F0FLxE_Srw5zXyrfaYvzxwvLUes",
+        "id": "UCvC5WwiD9YoqoxtoKzxS4DQ",
+        "snippet": {
+            "title": "Rebecca Cox",
+            "description": "",
+            "publishedAt": "2011-03-09T12:35:26Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLS7Ec11_hU9KjArjRzwlst6KdfNTHiSpQUPcFM=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLS7Ec11_hU9KjArjRzwlst6KdfNTHiSpQUPcFM=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLS7Ec11_hU9KjArjRzwlst6KdfNTHiSpQUPcFM=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Rebecca Cox",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUvC5WwiD9YoqoxtoKzxS4DQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "98889",
+            "subscriberCount": "36",
+            "hiddenSubscriberCount": false,
+            "videoCount": "33"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/019_rr",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Rebecca Cox",
+                "unsubscribedTrailer": "0bQ0UWdV054"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/O0a3ZkmaTVsUDwq7H3a8k0vhjv00ytrC6Zw0Y0P3RUhFtnTSS6Xh709xduuwQxcE3PbHjzMqsA"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

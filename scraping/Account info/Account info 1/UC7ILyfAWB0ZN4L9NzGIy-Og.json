@@ -1,0 +1,66 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "W4RiZG-1ybpxZLp4Rq6pBKwzT7U",
+        "id": "UC7ILyfAWB0ZN4L9NzGIy-Og",
+        "snippet": {
+            "title": "DVD Clips en Espa\u00f1ol",
+            "description": "",
+            "publishedAt": "2018-12-05T19:37:40Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTLYDUyqMigQALcaKJmmHfumCtIqZjjnO3v5A=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTLYDUyqMigQALcaKJmmHfumCtIqZjjnO3v5A=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTLYDUyqMigQALcaKJmmHfumCtIqZjjnO3v5A=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "DVD Clips en Espa\u00f1ol",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU7ILyfAWB0ZN4L9NzGIy-Og"
+            }
+        },
+        "statistics": {
+            "viewCount": "395404",
+            "subscriberCount": "347",
+            "hiddenSubscriberCount": false,
+            "videoCount": "99"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "DVD Clips en Espa\u00f1ol"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

@@ -1,0 +1,71 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "tU3ujIxeWwD8DoSegC8WkHYddCg",
+        "id": "UCMpwUEqgaE2G-BzM_MJuNeQ",
+        "snippet": {
+            "title": "Sweven's Trailer",
+            "description": "",
+            "publishedAt": "2014-05-24T18:06:07Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLS4Z58V_hWInX9Of1etAFiEaOm3vO-kbPQjB0RWsg=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLS4Z58V_hWInX9Of1etAFiEaOm3vO-kbPQjB0RWsg=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLS4Z58V_hWInX9Of1etAFiEaOm3vO-kbPQjB0RWsg=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Sweven's Trailer",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUMpwUEqgaE2G-BzM_MJuNeQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "2495512",
+            "subscriberCount": "12900",
+            "hiddenSubscriberCount": false,
+            "videoCount": "22"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02vxn",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Sweven's Trailer",
+                "unsubscribedTrailer": "9FflSoYeaTs"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/fTfjalJNWk0wQdrbLu_tdrI0FRUc69K8lzzLY5lCrIS8VLyDy4xOhM8ZFIHfGc-LtdgVvcfIFg"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

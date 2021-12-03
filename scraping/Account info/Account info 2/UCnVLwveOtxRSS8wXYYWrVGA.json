@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "XoW4K9lAT6dpFDv4ufRc15DjgLY",
+        "id": "UCnVLwveOtxRSS8wXYYWrVGA",
+        "snippet": {
+            "title": "MadMaggs",
+            "description": "",
+            "publishedAt": "2019-04-21T22:32:09Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQNNceOxkdV8r-h59pYWHFJKpySM0uLR6DjfA6g5w=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQNNceOxkdV8r-h59pYWHFJKpySM0uLR6DjfA6g5w=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQNNceOxkdV8r-h59pYWHFJKpySM0uLR6DjfA6g5w=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "MadMaggs",
+                "description": ""
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUnVLwveOtxRSS8wXYYWrVGA"
+            }
+        },
+        "statistics": {
+            "viewCount": "4707",
+            "subscriberCount": "80",
+            "hiddenSubscriberCount": false,
+            "videoCount": "67"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02vxn",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "MadMaggs",
+                "keywords": "Movie Podcast Reviews",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/1YCWYFQj0TOtXXhUR0YyFwHux5mLIxT_aZ3ac828k3zeihjKmSj0_G0yq37RMSBs96zE5FUF2w"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

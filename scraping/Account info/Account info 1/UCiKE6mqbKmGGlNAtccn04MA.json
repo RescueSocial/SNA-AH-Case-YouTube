@@ -1,0 +1,75 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "st6cDP5zFVAXWLiBAOvqPKougoE",
+        "id": "UCiKE6mqbKmGGlNAtccn04MA",
+        "snippet": {
+            "title": "CBC Vancouver",
+            "description": "Highlights from CBC Vancouver News, events, special programming, and behind-the-scenes fun.",
+            "customUrl": "cbcvancouver",
+            "publishedAt": "2011-08-31T20:05:45Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRL3ptLjsZ6TUy0we8gtmTaIeBaEuTbZLmjET7VAA=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRL3ptLjsZ6TUy0we8gtmTaIeBaEuTbZLmjET7VAA=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRL3ptLjsZ6TUy0we8gtmTaIeBaEuTbZLmjET7VAA=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "CBC Vancouver",
+                "description": "Highlights from CBC Vancouver News, events, special programming, and behind-the-scenes fun."
+            },
+            "country": "CA"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUiKE6mqbKmGGlNAtccn04MA"
+            }
+        },
+        "statistics": {
+            "viewCount": "13674697",
+            "subscriberCount": "35300",
+            "hiddenSubscriberCount": false,
+            "videoCount": "2560"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "CBC Vancouver",
+                "description": "Highlights from CBC Vancouver News, events, special programming, and behind-the-scenes fun.",
+                "keywords": "CBC Vancouver",
+                "moderateComments": true,
+                "unsubscribedTrailer": "1dBcKnnPoZY",
+                "country": "CA"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/4KxusijeD1QrsCkIr3Mwsa0KQd_2hSXvYiE_pnhD87HEtvFU04wP9HGHJCqEnE6kV3SsN7cprg"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

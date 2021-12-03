@@ -1,0 +1,66 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "KbregrvChTE0gkJA8_12Qs98twY",
+        "id": "UCWiEhxiVIzsayx-tKQogZGQ",
+        "snippet": {
+            "title": "bonkgh",
+            "description": "",
+            "publishedAt": "2011-10-22T23:13:56Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRnVAKId6zfaNuNfr4I5MsW83D8lhXDrK_z0g=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRnVAKId6zfaNuNfr4I5MsW83D8lhXDrK_z0g=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRnVAKId6zfaNuNfr4I5MsW83D8lhXDrK_z0g=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "bonkgh",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUWiEhxiVIzsayx-tKQogZGQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "9678",
+            "subscriberCount": "4",
+            "hiddenSubscriberCount": false,
+            "videoCount": "543"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/04rlf"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Music"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "bonkgh"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

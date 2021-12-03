@@ -1,0 +1,68 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "HPAG-vGUMjyZ6iMo_OiafSnmOQc",
+        "id": "UCKs7rWKkPb1l9U1JWUK2Jrg",
+        "snippet": {
+            "title": "HOLLYWOOD NEWS",
+            "description": "",
+            "publishedAt": "2017-05-12T13:32:52Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLT1APXhN5RomJwW47QS-7Sv89fYuI7y4UUCTbh_=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLT1APXhN5RomJwW47QS-7Sv89fYuI7y4UUCTbh_=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLT1APXhN5RomJwW47QS-7Sv89fYuI7y4UUCTbh_=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "HOLLYWOOD NEWS",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUKs7rWKkPb1l9U1JWUK2Jrg"
+            }
+        },
+        "statistics": {
+            "viewCount": "18167",
+            "hiddenSubscriberCount": true,
+            "videoCount": "339"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02vxn",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "HOLLYWOOD NEWS"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/85HcVCHOVbEqFDL3mOUKsieX61uUKiWPqF0lsOvO_p_Uj2PHMyAx8bsgMy3WAuw_ltdyXeGHg4w"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

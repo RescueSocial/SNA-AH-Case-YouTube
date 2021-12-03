@@ -1,0 +1,68 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "JH45wwVd3hCDhpJsq20D6TXOBik",
+        "id": "UC7DPNrme4X-rDPY-tFyX3Jg",
+        "snippet": {
+            "title": "World Message",
+            "description": "",
+            "publishedAt": "2017-07-31T14:54:54Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTSrAsAXr2uRvRPSLtC3EAgD69Gwbz3eMlDdYbw=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTSrAsAXr2uRvRPSLtC3EAgD69Gwbz3eMlDdYbw=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTSrAsAXr2uRvRPSLtC3EAgD69Gwbz3eMlDdYbw=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "World Message",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU7DPNrme4X-rDPY-tFyX3Jg"
+            }
+        },
+        "statistics": {
+            "viewCount": "88241",
+            "subscriberCount": "368",
+            "hiddenSubscriberCount": false,
+            "videoCount": "460"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/06ntj",
+                "/m/018w8"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Sport",
+                "https://en.wikipedia.org/wiki/Basketball"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "World Message"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

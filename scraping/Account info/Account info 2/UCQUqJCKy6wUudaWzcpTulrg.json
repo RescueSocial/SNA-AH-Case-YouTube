@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "FWgmTGs-T7g1n-sil8Ji0Zij_xA",
+        "id": "UCQUqJCKy6wUudaWzcpTulrg",
+        "snippet": {
+            "title": "Serious Life",
+            "description": "",
+            "publishedAt": "2019-02-28T02:12:30Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLS0P3g8Z-4AJA8f485b3udjHGFjxPceBNfqLEsH=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLS0P3g8Z-4AJA8f485b3udjHGFjxPceBNfqLEsH=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLS0P3g8Z-4AJA8f485b3udjHGFjxPceBNfqLEsH=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Serious Life",
+                "description": ""
+            },
+            "country": "RS"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUQUqJCKy6wUudaWzcpTulrg"
+            }
+        },
+        "statistics": {
+            "viewCount": "30509",
+            "subscriberCount": "101",
+            "hiddenSubscriberCount": false,
+            "videoCount": "32"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/0f2f9",
+                "/m/02jjt",
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Television_program",
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Serious Life",
+                "country": "RS"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

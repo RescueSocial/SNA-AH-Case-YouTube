@@ -1,0 +1,75 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "yCYfI6w2ZpWN9-0KvRwMhyOL0ao",
+        "id": "UC228Y4vvOMPieeT_XYTbe-A",
+        "snippet": {
+            "title": "Repzion",
+            "description": "",
+            "customUrl": "repzion",
+            "publishedAt": "2009-12-20T21:40:25Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQQDv2TFlPluCbiV_hYmxKjoYK26cZrHyiBP4EQog=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQQDv2TFlPluCbiV_hYmxKjoYK26cZrHyiBP4EQog=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQQDv2TFlPluCbiV_hYmxKjoYK26cZrHyiBP4EQog=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Repzion",
+                "description": ""
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU228Y4vvOMPieeT_XYTbe-A"
+            }
+        },
+        "statistics": {
+            "viewCount": "167343619",
+            "subscriberCount": "774000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "1531"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/019_rr",
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Repzion",
+                "keywords": "repzion",
+                "unsubscribedTrailer": "CmWFL4w4Fnw",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/Nt7b-r_fdD-i-JvpwZQgXjemFSpTmYXhap44wen79pMowZNFtbIYi77trQsNTfx1bEsBRawySdg"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

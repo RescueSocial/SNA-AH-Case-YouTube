@@ -1,0 +1,69 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "sin0jtxyp_XEFvAmr0BnhT8hYOE",
+        "id": "UCtXENyEO7IthZvpt7I30AAw",
+        "snippet": {
+            "title": "The Money Mogul",
+            "description": "",
+            "publishedAt": "2013-03-12T14:11:43Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSCXgfsBPkHj3IbqsZxsPx6GfPwYkMXvgBcC45-=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSCXgfsBPkHj3IbqsZxsPx6GfPwYkMXvgBcC45-=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSCXgfsBPkHj3IbqsZxsPx6GfPwYkMXvgBcC45-=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "The Money Mogul",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUtXENyEO7IthZvpt7I30AAw"
+            }
+        },
+        "statistics": {
+            "viewCount": "164394",
+            "subscriberCount": "2020",
+            "hiddenSubscriberCount": false,
+            "videoCount": "142"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr",
+                "/m/019_rr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "The Money Mogul"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/jlaMPY9_L9z01GTKKZY2u0l-AiXgYjy77-4oq7ECTb0y-ZmkDdAr_77LxiWzlezgFjhqrZt0QQ"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

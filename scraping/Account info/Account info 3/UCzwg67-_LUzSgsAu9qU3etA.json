@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "XLV45ytzKdU0VKED2bnA8HxoVAU",
+        "id": "UCzwg67-_LUzSgsAu9qU3etA",
+        "snippet": {
+            "title": "Diamond Rumors",
+            "description": "RUMORS NEWS",
+            "publishedAt": "2016-01-31T23:14:34Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRcrAA4IPogCcA8URPzWZDqEiuUt83GdD5v-xl6=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRcrAA4IPogCcA8URPzWZDqEiuUt83GdD5v-xl6=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRcrAA4IPogCcA8URPzWZDqEiuUt83GdD5v-xl6=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Diamond Rumors",
+                "description": "RUMORS NEWS"
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUzwg67-_LUzSgsAu9qU3etA"
+            }
+        },
+        "statistics": {
+            "viewCount": "411941",
+            "subscriberCount": "228",
+            "hiddenSubscriberCount": false,
+            "videoCount": "122"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/032tl",
+                "/m/019_rr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Fashion",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Diamond Rumors",
+                "description": "RUMORS NEWS",
+                "keywords": "\"entertainment happenings\" \"news & celebrity gossip\""
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/t4Y_qSOi6U5WC2I2MriNJ0cFdIWabHTcyTh0uH80T7SmFXWTxwwkoqGRubKj209EG8B4aqzstw"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

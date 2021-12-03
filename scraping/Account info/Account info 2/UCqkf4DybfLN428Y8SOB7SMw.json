@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "2TtMeWZIzJzUhvAlMlhQUGi0BAw",
+        "id": "UCqkf4DybfLN428Y8SOB7SMw",
+        "snippet": {
+            "title": "The Tommy Sotomayor Show",
+            "description": "",
+            "publishedAt": "2021-08-23T18:32:36.905735Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/sWnOp453YG_kR_fsR5yllEpkdun8sVodhGspzewT3Ma9arwYgpI-aXPDOhU9sV_vgjxEhiCi=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/sWnOp453YG_kR_fsR5yllEpkdun8sVodhGspzewT3Ma9arwYgpI-aXPDOhU9sV_vgjxEhiCi=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/sWnOp453YG_kR_fsR5yllEpkdun8sVodhGspzewT3Ma9arwYgpI-aXPDOhU9sV_vgjxEhiCi=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "The Tommy Sotomayor Show",
+                "description": ""
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUqkf4DybfLN428Y8SOB7SMw"
+            }
+        },
+        "statistics": {
+            "viewCount": "2811885",
+            "subscriberCount": "25000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "137"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "The Tommy Sotomayor Show",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/Fw_ndSbFa-OsYx_JOrpkpD0wrnbBFBZuvgegc33GV6N753tcE6A37k8vH-4nS5O45uHoVF1t4YQ"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

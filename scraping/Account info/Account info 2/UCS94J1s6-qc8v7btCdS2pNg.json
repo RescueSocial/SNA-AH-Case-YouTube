@@ -1,0 +1,75 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "g4x_Ah8wUrwWoXTGaHcjq_ZptHQ",
+        "id": "UCS94J1s6-qc8v7btCdS2pNg",
+        "snippet": {
+            "title": "Like Nastya Show",
+            "description": "",
+            "publishedAt": "2017-11-14T14:56:43Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/C0S2fy5ZGJ5FEJaykNdDnLUDJ8I9PzDEqZYT4snUJsBHnrl5KZJgmLx6JVOe0omgInpwrfFwsw=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/C0S2fy5ZGJ5FEJaykNdDnLUDJ8I9PzDEqZYT4snUJsBHnrl5KZJgmLx6JVOe0omgInpwrfFwsw=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/C0S2fy5ZGJ5FEJaykNdDnLUDJ8I9PzDEqZYT4snUJsBHnrl5KZJgmLx6JVOe0omgInpwrfFwsw=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Like Nastya Show",
+                "description": ""
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUS94J1s6-qc8v7btCdS2pNg"
+            }
+        },
+        "statistics": {
+            "viewCount": "17983358699",
+            "subscriberCount": "40100000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "490"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/03glg",
+                "/m/019_rr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Hobby",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": true
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Like Nastya Show",
+                "keywords": "toys \"for kids\" funny \"kid's videos\" \"play toys\" dolls \"pretend play\" \"funny videos\" \"family fun\" \"for children\" playing nastya stacy \"stacy toys\"",
+                "moderateComments": true,
+                "unsubscribedTrailer": "4NQ1JL93Po8",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/9T7afjoHJRFt65g0CPUcM2O5YOU2vO9uhoTDQdNwdX_LYCtT1B7kkpdJlOfPXmQw56ItMWmSkg"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

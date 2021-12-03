@@ -1,0 +1,78 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "RZqa0B_l56RSbpNz5s17a4_SfLI",
+        "id": "UCE4e5uSNdMhYy_ua4nA1nzA",
+        "snippet": {
+            "title": "BLACKAGEINC",
+            "description": "Your #1 Lifestyle Channel.",
+            "publishedAt": "2012-07-09T10:28:50Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQL_xvzxYIGfC1j8WC6EJUPppAGhejCuU5-oJh3=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQL_xvzxYIGfC1j8WC6EJUPppAGhejCuU5-oJh3=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQL_xvzxYIGfC1j8WC6EJUPppAGhejCuU5-oJh3=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "BLACKAGEINC",
+                "description": "Your #1 Lifestyle Channel."
+            },
+            "country": "KE"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUE4e5uSNdMhYy_ua4nA1nzA"
+            }
+        },
+        "statistics": {
+            "viewCount": "46557",
+            "hiddenSubscriberCount": true,
+            "videoCount": "4"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02vxn",
+                "/m/02jjt",
+                "/m/0glt670",
+                "/m/04rlf"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Hip_hop_music",
+                "https://en.wikipedia.org/wiki/Music"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": true
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "BLACKAGEINC",
+                "description": "Your #1 Lifestyle Channel.",
+                "keywords": "BLACKAGEINC",
+                "unsubscribedTrailer": "T0ExWB6-k0w",
+                "country": "KE"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/cYfMt-1cPap2yn9vSXra_Xzc4-1pvYCZ_xYDZO40F505W6vlXjGWHWPFZKW73Qvg9Z-ai6w2sQ"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

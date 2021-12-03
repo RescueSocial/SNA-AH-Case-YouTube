@@ -1,0 +1,69 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "uEzNx1-9CZe29sVJJcvx7WfLGnM",
+        "id": "UCSeHprDEz_3in9j7loXQJdg",
+        "snippet": {
+            "title": "Young Dumb Honey Bun",
+            "description": "",
+            "customUrl": "youngdumbhoneybun",
+            "publishedAt": "2017-10-12T16:47:30Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQo7-y0JOCMvLOA7zQKuZvclVqQpvoeBZ5GJkogHg=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQo7-y0JOCMvLOA7zQKuZvclVqQpvoeBZ5GJkogHg=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQo7-y0JOCMvLOA7zQKuZvclVqQpvoeBZ5GJkogHg=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Young Dumb Honey Bun",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUSeHprDEz_3in9j7loXQJdg"
+            }
+        },
+        "statistics": {
+            "viewCount": "13694501",
+            "subscriberCount": "83800",
+            "hiddenSubscriberCount": false,
+            "videoCount": "262"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/019_rr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Young Dumb Honey Bun"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/m2oCsFJjbqR_kMv4HiBlXblwd4m1yujRp1DCdmtMB7DO3gXorZNNsYfLs55QOUIzgGImYwpVCQ"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "tt1RGzB9lurVqV_bR32KwXDsGc0",
+        "id": "UCS8gM5S889oBPyN6K07ZC6A",
+        "snippet": {
+            "title": "Judge Jeffrey Middleton",
+            "description": "",
+            "publishedAt": "2020-04-16T12:42:02.436277Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRaSR4CpDwC8r8nVmySOqVQG7tuMwBlTNvismUE=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRaSR4CpDwC8r8nVmySOqVQG7tuMwBlTNvismUE=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRaSR4CpDwC8r8nVmySOqVQG7tuMwBlTNvismUE=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Judge Jeffrey Middleton",
+                "description": ""
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUS8gM5S889oBPyN6K07ZC6A"
+            }
+        },
+        "statistics": {
+            "viewCount": "1784739",
+            "subscriberCount": "25200",
+            "hiddenSubscriberCount": false,
+            "videoCount": "211"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Judge Jeffrey Middleton",
+                "country": "US"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

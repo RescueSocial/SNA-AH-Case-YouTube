@@ -1,0 +1,77 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "pPN2qbv3U3qJyZndU5KgiJoE4R8",
+        "id": "UCg7lal8IC-xPyKfgH4rdUcA",
+        "snippet": {
+            "title": "djvlad",
+            "description": "Exclusive, hard-hitting interviews from urban artists, actors and athletes.  Updated daily.",
+            "customUrl": "vladtv",
+            "publishedAt": "2006-07-10T23:54:13Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTp424IMDYwHrA5v9kLxYhXY5aRlV5NGCh5x6Us=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTp424IMDYwHrA5v9kLxYhXY5aRlV5NGCh5x6Us=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTp424IMDYwHrA5v9kLxYhXY5aRlV5NGCh5x6Us=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "djvlad",
+                "description": "Exclusive, hard-hitting interviews from urban artists, actors and athletes.  Updated daily."
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUg7lal8IC-xPyKfgH4rdUcA"
+            }
+        },
+        "statistics": {
+            "viewCount": "4072451519",
+            "subscriberCount": "4820000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "21455"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/04rlf"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Music"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "djvlad",
+                "description": "Exclusive, hard-hitting interviews from urban artists, actors and athletes.  Updated daily.",
+                "keywords": "vladtv dj vlad vladtv.com hip-hop rap \"dj vlad\"",
+                "trackingAnalyticsAccountId": "UA-6141937-6",
+                "unsubscribedTrailer": "MdbLYH93R_U",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/-u-i7Du5YZARucZsXtzusJ5n9FfDUKonyak5752YB-WzpQcByuGzdP5MRA7ERRbW31VJnRlr"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

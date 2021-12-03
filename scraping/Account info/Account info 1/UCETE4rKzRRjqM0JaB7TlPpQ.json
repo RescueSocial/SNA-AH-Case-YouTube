@@ -1,0 +1,74 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "u9Ja0vw1UbgEAXVr08mD918XZ60",
+        "id": "UCETE4rKzRRjqM0JaB7TlPpQ",
+        "snippet": {
+            "title": "KSAT 12",
+            "description": "This is the official YouTube Channel for KSAT 12 News in San Antonio, Texas.",
+            "publishedAt": "2017-04-25T15:58:18Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/MYJNni6V8z0HfRw5LaEglewlJ-tyZZpSDO8_Sctlv8cMtQZQ0fuzrll9lNyBAilStPcmxFdSvA=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/MYJNni6V8z0HfRw5LaEglewlJ-tyZZpSDO8_Sctlv8cMtQZQ0fuzrll9lNyBAilStPcmxFdSvA=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/MYJNni6V8z0HfRw5LaEglewlJ-tyZZpSDO8_Sctlv8cMtQZQ0fuzrll9lNyBAilStPcmxFdSvA=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "KSAT 12",
+                "description": "This is the official YouTube Channel for KSAT 12 News in San Antonio, Texas."
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUETE4rKzRRjqM0JaB7TlPpQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "166168119",
+            "subscriberCount": "159000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "65278"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "KSAT 12",
+                "description": "This is the official YouTube Channel for KSAT 12 News in San Antonio, Texas.",
+                "keywords": "\"San Antonio\" Texas KSAT \"KSAT 12\" KSAT.com \"Governor Greg Abbott\" \"Governor Abbott\" \"Border Crisis\"",
+                "trackingAnalyticsAccountId": "UA-17700582-22",
+                "unsubscribedTrailer": "S4KbPEdj2BU",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/y3skNA9nNzSV2sizMsoXrcd5Irh3bKcTqsle0gltEQF7knmtgTuZlt8_RJKvF-samk-8opoh"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

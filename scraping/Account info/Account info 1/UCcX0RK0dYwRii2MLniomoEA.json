@@ -1,0 +1,71 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "-p7AoT4EsH5mqhP6Yas_AYw3xcI",
+        "id": "UCcX0RK0dYwRii2MLniomoEA",
+        "snippet": {
+            "title": "CBR Presents",
+            "description": "",
+            "customUrl": "tvoncbr",
+            "publishedAt": "2015-09-18T23:19:16Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQIeIH3itFf9l7IfyDmlA5U6_QC6kjG46NFTLf_6A=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQIeIH3itFf9l7IfyDmlA5U6_QC6kjG46NFTLf_6A=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQIeIH3itFf9l7IfyDmlA5U6_QC6kjG46NFTLf_6A=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "CBR Presents",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUcX0RK0dYwRii2MLniomoEA"
+            }
+        },
+        "statistics": {
+            "viewCount": "21338040",
+            "subscriberCount": "25700",
+            "hiddenSubscriberCount": false,
+            "videoCount": "1471"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "CBR Presents",
+                "keywords": "TV television clips trailers superhero \"comic book\""
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/af0X0SrCWk2niX4c1912eSkzey4f47XPDBNWI-x63Q5zwr1GmVImKgBfZ2n5nYzYDQQeWwK3"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

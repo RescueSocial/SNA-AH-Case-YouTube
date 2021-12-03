@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "7Rehb0zHUsRFN4yJ7utm9bUnVhk",
+        "id": "UCmyKgLWiMnSoJJwr8j2Owlg",
+        "snippet": {
+            "title": "Ship Shop",
+            "description": "",
+            "customUrl": "shipshoptv",
+            "publishedAt": "2013-12-24T22:14:05Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLR3Ftc248-1gYblkodLyS93HTtaq7-ORAMu3q6l=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLR3Ftc248-1gYblkodLyS93HTtaq7-ORAMu3q6l=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLR3Ftc248-1gYblkodLyS93HTtaq7-ORAMu3q6l=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Ship Shop",
+                "description": ""
+            },
+            "country": "GB"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUmyKgLWiMnSoJJwr8j2Owlg"
+            }
+        },
+        "statistics": {
+            "viewCount": "609655",
+            "subscriberCount": "1900",
+            "hiddenSubscriberCount": false,
+            "videoCount": "217"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Ship Shop",
+                "keywords": "\"The Talko\" TMZ The \"Wendy Williams Show\" \"Chronicle Speaks\"",
+                "unsubscribedTrailer": "QZiPxQzYd6Q",
+                "country": "GB"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/726-RRDlysbDIFVFsNsz_3uvzIm6KJmsFix0i2bG-naVr7GdxFhwS6u3bJmJTtKEoQjv0qiVAw"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

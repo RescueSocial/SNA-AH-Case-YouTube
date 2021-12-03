@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "7G0-lO-HWTOpKfwBG2AvvMTZn28",
+        "id": "UCumz1IKf-ceX4TijGVgGaZg",
+        "snippet": {
+            "title": "NewsBOT Entertainment",
+            "description": "Entertainment news videos published every day.\n",
+            "publishedAt": "2021-03-09T01:08:31.111414Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRZhrSypB4VdFHNjOxVH4hJezTW_UcWJmXWqcl8=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRZhrSypB4VdFHNjOxVH4hJezTW_UcWJmXWqcl8=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRZhrSypB4VdFHNjOxVH4hJezTW_UcWJmXWqcl8=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "NewsBOT Entertainment",
+                "description": "Entertainment news videos published every day.\n"
+            },
+            "country": "GB"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUumz1IKf-ceX4TijGVgGaZg"
+            }
+        },
+        "statistics": {
+            "viewCount": "19992",
+            "subscriberCount": "41",
+            "hiddenSubscriberCount": false,
+            "videoCount": "3419"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "NewsBOT Entertainment",
+                "description": "Entertainment news videos published every day.\n",
+                "country": "GB"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/LRrm3ZfsEsiiovev6SlAvsmRMuJNPpbX4In1pxiM3RUDxPXA6lxGbiKfdWSd7z_N3s_4jYPT"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

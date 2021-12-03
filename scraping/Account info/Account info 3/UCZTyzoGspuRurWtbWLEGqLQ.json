@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "ncswZHkVY_GfEWX_6XX2JTB7syQ",
+        "id": "UCZTyzoGspuRurWtbWLEGqLQ",
+        "snippet": {
+            "title": "Christina Randall",
+            "description": "",
+            "publishedAt": "2016-07-29T16:28:22Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/k3REkwvihISB1UqN7yIcxLUm7QZXeCPnZXUOnwLqVtDAF5565OiycEV5r-L1XvcJOz2nq-Wn=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/k3REkwvihISB1UqN7yIcxLUm7QZXeCPnZXUOnwLqVtDAF5565OiycEV5r-L1XvcJOz2nq-Wn=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/k3REkwvihISB1UqN7yIcxLUm7QZXeCPnZXUOnwLqVtDAF5565OiycEV5r-L1XvcJOz2nq-Wn=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Christina Randall",
+                "description": ""
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUZTyzoGspuRurWtbWLEGqLQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "100981295",
+            "subscriberCount": "956000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "357"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr",
+                "/m/019_rr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Christina Randall",
+                "moderateComments": true,
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/Fcbgqrxbn3M3iASnrB_u6HUqCOp69T9LtgPJ6eaPy7yk3NA-q8F1nGu8PVzKoB4VvHt7F2ZQ"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

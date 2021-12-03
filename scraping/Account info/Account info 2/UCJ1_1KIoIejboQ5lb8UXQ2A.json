@@ -1,0 +1,68 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "zLREPNDSMAZ5Rf5WXh_ddHTHHhM",
+        "id": "UCJ1_1KIoIejboQ5lb8UXQ2A",
+        "snippet": {
+            "title": "Jessica Bailey",
+            "description": "",
+            "publishedAt": "2020-10-31T23:01:48.750419Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLROQ0qdO3gqneJ3d6DEEFvZij2UEnDC6TP3HuyJ=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLROQ0qdO3gqneJ3d6DEEFvZij2UEnDC6TP3HuyJ=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLROQ0qdO3gqneJ3d6DEEFvZij2UEnDC6TP3HuyJ=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Jessica Bailey",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUJ1_1KIoIejboQ5lb8UXQ2A"
+            }
+        },
+        "statistics": {
+            "viewCount": "543",
+            "hiddenSubscriberCount": true,
+            "videoCount": "8"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02vxn",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Jessica Bailey"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/P9-j34ajeDwO-tEyScvIOgLnwPgGVV7t0lbAeGRfH6XmnPGCZBkgmF5N-RtUyEkmT-Bv16MAUA"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

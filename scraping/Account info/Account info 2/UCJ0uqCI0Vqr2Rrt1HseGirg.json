@@ -1,0 +1,76 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "iAXxEBVzVPMqoW-ngxyC1URM8Lw",
+        "id": "UCJ0uqCI0Vqr2Rrt1HseGirg",
+        "snippet": {
+            "title": "The Late Late Show with James Corden",
+            "description": "This is the official YouTube channel for The Late Late Show with James Corden on CBS.",
+            "publishedAt": "2006-11-21T05:01:48Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQzrPkrOEMfeFBHIlCaRACEAO3PHjkpDpNkpBDiyQ=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQzrPkrOEMfeFBHIlCaRACEAO3PHjkpDpNkpBDiyQ=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQzrPkrOEMfeFBHIlCaRACEAO3PHjkpDpNkpBDiyQ=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "The Late Late Show with James Corden",
+                "description": "This is the official YouTube channel for The Late Late Show with James Corden on CBS."
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUJ0uqCI0Vqr2Rrt1HseGirg"
+            }
+        },
+        "statistics": {
+            "viewCount": "9567335015",
+            "subscriberCount": "27100000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "5011"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn",
+                "/m/0f2f9"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Television_program"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "The Late Late Show with James Corden",
+                "description": "This is the official YouTube channel for The Late Late Show with James Corden on CBS.",
+                "keywords": "\"james corden\" \"the late late show\" \"carpool karaoke\" \"late show\"",
+                "moderateComments": true,
+                "unsubscribedTrailer": "pRl2tawentY"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/oc-XebDATvZJQ8GIHMf898Wy6gcSl3YkZTwfRi-CeZselzZUZ3xRdm2Urb8c2qAZjqxEDrguWQ"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

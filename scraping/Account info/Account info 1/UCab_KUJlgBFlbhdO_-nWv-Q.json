@@ -1,0 +1,66 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "VP7Pl8DxY7AJRHO6Bzq6JnE-2Yg",
+        "id": "UCab_KUJlgBFlbhdO_-nWv-Q",
+        "snippet": {
+            "title": "News Now",
+            "description": "",
+            "publishedAt": "2009-07-31T19:17:46Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTLk34yVUv7fWHYp0K-I7bkxQ0oRKz6zpnxEcrr=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTLk34yVUv7fWHYp0K-I7bkxQ0oRKz6zpnxEcrr=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTLk34yVUv7fWHYp0K-I7bkxQ0oRKz6zpnxEcrr=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "News Now",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUab_KUJlgBFlbhdO_-nWv-Q"
+            }
+        },
+        "statistics": {
+            "viewCount": "175978",
+            "hiddenSubscriberCount": true,
+            "videoCount": "2734"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "News Now"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/56BzxmhBoD2wbbxd99SOWVXrTAiFM5v8s4uQWbztszHhbuMxixEfU0-3ZEKjtDtqeiDEIxOSLgE"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

@@ -1,0 +1,71 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "ho31Q25_rLntcXJyMMmaqlwZfIE",
+        "id": "UCmeRyZNSg0tPAw8F5zPSDZg",
+        "snippet": {
+            "title": "77 WABC",
+            "description": "",
+            "customUrl": "77wabcny",
+            "publishedAt": "2010-05-06T20:48:28Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSqh1SYxJDkr3atGzKKpd83EbdNBF2TioxhLKmvLw=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSqh1SYxJDkr3atGzKKpd83EbdNBF2TioxhLKmvLw=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSqh1SYxJDkr3atGzKKpd83EbdNBF2TioxhLKmvLw=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "77 WABC",
+                "description": ""
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUmeRyZNSg0tPAw8F5zPSDZg"
+            }
+        },
+        "statistics": {
+            "viewCount": "949984",
+            "subscriberCount": "5640",
+            "hiddenSubscriberCount": false,
+            "videoCount": "1617"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/05qt0",
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Politics",
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "77 WABC",
+                "keywords": "Radio WABC 770",
+                "country": "US"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

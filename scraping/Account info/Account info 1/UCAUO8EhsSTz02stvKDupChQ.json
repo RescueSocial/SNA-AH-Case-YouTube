@@ -1,0 +1,80 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "2IHTpWzJETaWgug9LjJK1kyNzl4",
+        "id": "UCAUO8EhsSTz02stvKDupChQ",
+        "snippet": {
+            "title": "MTV News",
+            "description": "Welcome to the official YouTube channel for MTV News featuring music, style, movies, celebs + more!",
+            "customUrl": "mtvnews",
+            "publishedAt": "2015-05-13T14:34:10Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/4N8NjOHu1DFzglP333KpL4IHGXcYW4QVJ4W4zaJU4BYqzLKMZkr6N4LLIrTeaAetTHMJMgqwdw=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/4N8NjOHu1DFzglP333KpL4IHGXcYW4QVJ4W4zaJU4BYqzLKMZkr6N4LLIrTeaAetTHMJMgqwdw=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/4N8NjOHu1DFzglP333KpL4IHGXcYW4QVJ4W4zaJU4BYqzLKMZkr6N4LLIrTeaAetTHMJMgqwdw=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "MTV News",
+                "description": "Welcome to the official YouTube channel for MTV News featuring music, style, movies, celebs + more!"
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUAUO8EhsSTz02stvKDupChQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "224721212",
+            "subscriberCount": "498000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "1317"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02vxn",
+                "/m/0f2f9",
+                "/m/04rlf",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Television_program",
+                "https://en.wikipedia.org/wiki/Music",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "MTV News",
+                "description": "Welcome to the official YouTube channel for MTV News featuring music, style, movies, celebs + more!",
+                "keywords": "\"MTV News\" Music Entertainment Celebrity Celebrities Interviews Movies \"Pop Culture\" \"Ultimate Source\"",
+                "unsubscribedTrailer": "W-B3C51-QJ8",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/01MDD4dx9fgLz1e5gnLIql1M4itj55UXpGI8dXjcZnBhmQmwhB0Yi20ZhnyNU76xkkYBRiGB"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

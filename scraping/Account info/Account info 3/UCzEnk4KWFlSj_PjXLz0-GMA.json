@@ -1,0 +1,76 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "pUNKf0gxmpQFaMVRQd33gpLtxfo",
+        "id": "UCzEnk4KWFlSj_PjXLz0-GMA",
+        "snippet": {
+            "title": "EmKay",
+            "description": "i make video",
+            "customUrl": "emkayreads",
+            "publishedAt": "2019-01-23T23:51:01Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/sQkZXovi1hdgiMPowmHZDUytpjRI0NtNMMDLrxTHm2DCNXpl9XD39YHyCXCFQVm_IXA12CdGP_0=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/sQkZXovi1hdgiMPowmHZDUytpjRI0NtNMMDLrxTHm2DCNXpl9XD39YHyCXCFQVm_IXA12CdGP_0=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/sQkZXovi1hdgiMPowmHZDUytpjRI0NtNMMDLrxTHm2DCNXpl9XD39YHyCXCFQVm_IXA12CdGP_0=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "EmKay",
+                "description": "i make video"
+            },
+            "country": "AU"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUzEnk4KWFlSj_PjXLz0-GMA"
+            }
+        },
+        "statistics": {
+            "viewCount": "1588775325",
+            "subscriberCount": "2720000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "1468"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/019_rr",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "EmKay",
+                "description": "i make video",
+                "country": "AU"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/QrbIY6ptjl8-rfPu5K0Kvjnpuw71h_ZG0Q1zEqLt7l_o31qXK8pv2kye9vKHcO_nUYSpqRjK"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

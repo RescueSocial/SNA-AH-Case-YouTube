@@ -1,0 +1,68 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "uP-E5wgRh4kMgJ3YewavNlvDFAk",
+        "id": "UCNSlzqQ6fhHPI_x7ClKhT2w",
+        "snippet": {
+            "title": "Lori J Whisler",
+            "description": "",
+            "publishedAt": "2018-02-12T07:26:02Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQaQeqZbjEcFTTlLVO55VhFiqzfiBkC1-itbYLxMg=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQaQeqZbjEcFTTlLVO55VhFiqzfiBkC1-itbYLxMg=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQaQeqZbjEcFTTlLVO55VhFiqzfiBkC1-itbYLxMg=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Lori J Whisler",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUNSlzqQ6fhHPI_x7ClKhT2w"
+            }
+        },
+        "statistics": {
+            "viewCount": "65784",
+            "subscriberCount": "946",
+            "hiddenSubscriberCount": false,
+            "videoCount": "2860"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Lori J Whisler"
+            },
+            "image": {
+                "bannerExternalUrl": "http://yt3.ggpht.com/vFSOkRr3Q5uAkQERDQrjJu2bQumkRBVnKEcxwbuTg44PBZsCTRbwubxT4-Y-QFND6n9kIVgHTA"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

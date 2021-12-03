@@ -1,0 +1,69 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "nnhL0Yuy-NZU1CJDVJs4oS8eccM",
+        "id": "UC3P91c8acoajLebnVYWeqYg",
+        "snippet": {
+            "title": "New Thinh",
+            "description": "",
+            "publishedAt": "2017-03-25T02:38:34Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSpSEvSc6lGZvmZUllUYnbyycXV1t9N5h_7=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSpSEvSc6lGZvmZUllUYnbyycXV1t9N5h_7=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSpSEvSc6lGZvmZUllUYnbyycXV1t9N5h_7=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "New Thinh",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU3P91c8acoajLebnVYWeqYg"
+            }
+        },
+        "statistics": {
+            "viewCount": "596472",
+            "subscriberCount": "805",
+            "hiddenSubscriberCount": false,
+            "videoCount": "679"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/0f2f9",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Television_program",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "New Thinh"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/_VdxMcoXZvO6U6QsiZ6a0t6Tsy1Ie3ivfJY5J2p_2kdZwUnDiyrHmdfFf0iwVJ6UfU2u5-As3w"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

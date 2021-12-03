@@ -1,0 +1,69 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "FqscrAsB1rqSutQ1T59xRaDu0Ws",
+        "id": "UCy0qJcSstbkUKjpI4rpf5KA",
+        "snippet": {
+            "title": "Sage Anderson",
+            "description": "",
+            "publishedAt": "2011-07-23T00:47:11Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLT1xIyqyZfRh3U9UMO3L9ClyamA1o2lqh-Kis8vdA=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLT1xIyqyZfRh3U9UMO3L9ClyamA1o2lqh-Kis8vdA=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLT1xIyqyZfRh3U9UMO3L9ClyamA1o2lqh-Kis8vdA=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Sage Anderson",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUy0qJcSstbkUKjpI4rpf5KA"
+            }
+        },
+        "statistics": {
+            "viewCount": "27628",
+            "hiddenSubscriberCount": true,
+            "videoCount": "3"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Sage Anderson",
+                "unsubscribedTrailer": "Wah4BOLuE4U"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/LiEDV7gSnRn7XL-i69GoUkCLZwoZTArF80hEDmWtT9Gc7v_wSycpY-UKqzZ5IMu6QFa-KAbSyxM"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

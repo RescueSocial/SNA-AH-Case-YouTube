@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "fjADu2tmmwTmuexdLfE-jWY8HvU",
+        "id": "UChey7iyRnGa6WgScGqzK3HA",
+        "snippet": {
+            "title": "Sarah Debenham",
+            "description": "I mostly edit videos for fun. You will find a random set of videos on anyone I find interesting - but mostly Johnny Depp",
+            "publishedAt": "2009-08-21T20:52:44Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSMfiltGvj-I04-wT-TjJkY6IikpmvFsArNJSMqPg=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSMfiltGvj-I04-wT-TjJkY6IikpmvFsArNJSMqPg=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSMfiltGvj-I04-wT-TjJkY6IikpmvFsArNJSMqPg=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Sarah Debenham",
+                "description": "I mostly edit videos for fun. You will find a random set of videos on anyone I find interesting - but mostly Johnny Depp"
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUhey7iyRnGa6WgScGqzK3HA"
+            }
+        },
+        "statistics": {
+            "viewCount": "18950704",
+            "subscriberCount": "6410",
+            "hiddenSubscriberCount": false,
+            "videoCount": "163"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/064t9",
+                "/m/06by7",
+                "/m/04rlf"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Pop_music",
+                "https://en.wikipedia.org/wiki/Rock_music",
+                "https://en.wikipedia.org/wiki/Music"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Sarah Debenham",
+                "description": "I mostly edit videos for fun. You will find a random set of videos on anyone I find interesting - but mostly Johnny Depp",
+                "keywords": "johnny depp \"21 jump street\"",
+                "unsubscribedTrailer": "gO_Q3Eyi6IU"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

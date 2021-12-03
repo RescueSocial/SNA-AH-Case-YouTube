@@ -1,0 +1,66 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "ehf2dszZZSap4msxUjssVNaZ50g",
+        "id": "UCRXATQcBp1WaWoxpBJcDw7g",
+        "snippet": {
+            "title": "ReginaldGomez",
+            "description": "",
+            "publishedAt": "2016-10-31T10:17:22Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQOZJSkfITjnTuqy1GBBhrp4cmeYfBBIy2zog=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQOZJSkfITjnTuqy1GBBhrp4cmeYfBBIy2zog=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQOZJSkfITjnTuqy1GBBhrp4cmeYfBBIy2zog=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "ReginaldGomez",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UURXATQcBp1WaWoxpBJcDw7g"
+            }
+        },
+        "statistics": {
+            "viewCount": "18685",
+            "subscriberCount": "75",
+            "hiddenSubscriberCount": false,
+            "videoCount": "270"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "ReginaldGomez"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "5pHcYWAYz-aixAz6Q4M6goui2DU",
+        "id": "UC4jUQ9CWvNK1gXA4Ey11iXA",
+        "snippet": {
+            "title": "pmorgancollection",
+            "description": "",
+            "publishedAt": "2011-05-13T17:09:13Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQ_K7R2ztIT5C_XMP9clI25GdBfCI5E_jFJIw=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQ_K7R2ztIT5C_XMP9clI25GdBfCI5E_jFJIw=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQ_K7R2ztIT5C_XMP9clI25GdBfCI5E_jFJIw=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "pmorgancollection",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU4jUQ9CWvNK1gXA4Ey11iXA"
+            }
+        },
+        "statistics": {
+            "viewCount": "452529",
+            "subscriberCount": "422",
+            "hiddenSubscriberCount": false,
+            "videoCount": "757"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/019_rr",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "pmorgancollection"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

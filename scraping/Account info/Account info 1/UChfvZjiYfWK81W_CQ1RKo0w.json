@@ -1,0 +1,71 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "RckFZxK3rg0MTMBDzOIbL160Oc0",
+        "id": "UChfvZjiYfWK81W_CQ1RKo0w",
+        "snippet": {
+            "title": "Xiko",
+            "description": "",
+            "publishedAt": "2009-10-20T06:43:41Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQxPpd3PmChVx211TM0nFpKierrqMJRMiVauKPj=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQxPpd3PmChVx211TM0nFpKierrqMJRMiVauKPj=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQxPpd3PmChVx211TM0nFpKierrqMJRMiVauKPj=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Xiko",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUhfvZjiYfWK81W_CQ1RKo0w"
+            }
+        },
+        "statistics": {
+            "viewCount": "187476",
+            "hiddenSubscriberCount": true,
+            "videoCount": "1470"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02vxn",
+                "/m/0f2f9",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Television_program",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Xiko",
+                "keywords": "News SK/CZ"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/ofBhKQmW7Kbw8QA6JX3giXrHU9QA8OA6ZqkMIlh64tUQsGYqRQERsoR9h3Qa1_021kgexHW9C30"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

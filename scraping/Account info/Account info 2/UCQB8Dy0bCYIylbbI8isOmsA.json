@@ -1,0 +1,72 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "BfnnYMBJ9UPKTi55mtrleE12Vs4",
+        "id": "UCQB8Dy0bCYIylbbI8isOmsA",
+        "snippet": {
+            "title": "Qualoty Street",
+            "description": "Welcome to Qualoty Street. Home of the Issues. Subscribe to learn about these issues.",
+            "publishedAt": "2016-04-19T10:54:57Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTN13K046oAnri7hyLCU1OT1YYGGVpaEdrzrcSo2w=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTN13K046oAnri7hyLCU1OT1YYGGVpaEdrzrcSo2w=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTN13K046oAnri7hyLCU1OT1YYGGVpaEdrzrcSo2w=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Qualoty Street",
+                "description": "Welcome to Qualoty Street. Home of the Issues. Subscribe to learn about these issues."
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUQB8Dy0bCYIylbbI8isOmsA"
+            }
+        },
+        "statistics": {
+            "viewCount": "230",
+            "subscriberCount": "2",
+            "hiddenSubscriberCount": false,
+            "videoCount": "9"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn",
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Qualoty Street",
+                "description": "Welcome to Qualoty Street. Home of the Issues. Subscribe to learn about these issues."
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/8y5vYN7MBFVEJ71o6r2bFGiPbaa77sXG3UPeFBqTzs-Hovyw-3XPPuVmMbJUJySvIeUklxYMmg"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

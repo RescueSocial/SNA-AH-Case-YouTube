@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "dSQU_Hrn8Z6q1jdZr-0UBMkKsOE",
+        "id": "UClfpeSZF_cVwLwuUPHmvnuQ",
+        "snippet": {
+            "title": "Kaudare World",
+            "description": "\u0926\u0941\u0928\u093f\u092f\u093e \u0915\u0947 \u092e\u0939\u093e\u0928 \u0939\u0938\u094d\u0924\u093f\u092f\u093e\u0902 \u0905\u092a\u0928\u0947 \u0935\u093f\u091a\u093e\u0930\u094b\u0902 \u0915\u093e \u0916\u091c\u093e\u0928\u093e \u0939\u092e\u093e\u0930\u0947 \u0932\u093f\u090f \u091b\u094b\u0921\u093c \u0917\u090f\u0964 \u0907\u0928\u0915\u0947 \u0935\u093f\u091a\u093e\u0930\u094b\u0902 \u0938\u0947 \u0939\u092e \u092c\u0939\u0941\u0924 \u0915\u0941\u091b \u0938\u0940\u0916 \u0938\u0915\u0924\u0947 \u0939\u0948 \u0914\u0930 \u0905\u092a\u0928\u0947 \u091c\u0940\u0935\u0928 \u0915\u094b \u090f\u0915 \u0928\u0908 \u0926\u093f\u0936\u093e \u0926\u0947 \u0938\u0915\u0924\u0947 \u0939\u0948\u0964 \u092e\u0948 \u0905\u092a\u0928\u0947 \u0935\u0940\u0921\u093f\u092f\u094b \u092e\u0947\u0902 \u0926\u0941\u0928\u093f\u092f\u093e \u0915\u0947 \u092e\u0939\u093e\u0928 \u0932\u094b\u0917\u094b \u0928\u0947 \u091c\u094b \u092e\u0939\u0924\u094d\u0935\u092a\u0942\u0930\u094d\u0923 \u092c\u093e\u0924\u0947\u0902 \u092c\u0924\u093e\u0908 \u0939\u0948 \u0909\u0928 \u092c\u093e\u0924\u094b\u0902 \u0915\u094b \u0906\u092a\u0915\u0947 \u0938\u093e\u092e\u0928\u0947 \u0938\u0930\u0932 \u0914\u0930 \u0906\u0938\u093e\u0928 \u0924\u0930\u0940\u0915\u093c\u0947 \u0938\u0947 \u0930\u0916\u0928\u0947 \u0915\u093f \u0915\u094b\u0936\u093f\u0936 \u0915\u0930\u0942\u0902\u0917\u093e\u0964",
+            "publishedAt": "2020-09-14T10:32:14.843683Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQtYcfnPUzqnyDnj3jlZGsUoST0e32ZKcCvnmR8=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQtYcfnPUzqnyDnj3jlZGsUoST0e32ZKcCvnmR8=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQtYcfnPUzqnyDnj3jlZGsUoST0e32ZKcCvnmR8=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Kaudare World",
+                "description": "\u0926\u0941\u0928\u093f\u092f\u093e \u0915\u0947 \u092e\u0939\u093e\u0928 \u0939\u0938\u094d\u0924\u093f\u092f\u093e\u0902 \u0905\u092a\u0928\u0947 \u0935\u093f\u091a\u093e\u0930\u094b\u0902 \u0915\u093e \u0916\u091c\u093e\u0928\u093e \u0939\u092e\u093e\u0930\u0947 \u0932\u093f\u090f \u091b\u094b\u0921\u093c \u0917\u090f\u0964 \u0907\u0928\u0915\u0947 \u0935\u093f\u091a\u093e\u0930\u094b\u0902 \u0938\u0947 \u0939\u092e \u092c\u0939\u0941\u0924 \u0915\u0941\u091b \u0938\u0940\u0916 \u0938\u0915\u0924\u0947 \u0939\u0948 \u0914\u0930 \u0905\u092a\u0928\u0947 \u091c\u0940\u0935\u0928 \u0915\u094b \u090f\u0915 \u0928\u0908 \u0926\u093f\u0936\u093e \u0926\u0947 \u0938\u0915\u0924\u0947 \u0939\u0948\u0964 \u092e\u0948 \u0905\u092a\u0928\u0947 \u0935\u0940\u0921\u093f\u092f\u094b \u092e\u0947\u0902 \u0926\u0941\u0928\u093f\u092f\u093e \u0915\u0947 \u092e\u0939\u093e\u0928 \u0932\u094b\u0917\u094b \u0928\u0947 \u091c\u094b \u092e\u0939\u0924\u094d\u0935\u092a\u0942\u0930\u094d\u0923 \u092c\u093e\u0924\u0947\u0902 \u092c\u0924\u093e\u0908 \u0939\u0948 \u0909\u0928 \u092c\u093e\u0924\u094b\u0902 \u0915\u094b \u0906\u092a\u0915\u0947 \u0938\u093e\u092e\u0928\u0947 \u0938\u0930\u0932 \u0914\u0930 \u0906\u0938\u093e\u0928 \u0924\u0930\u0940\u0915\u093c\u0947 \u0938\u0947 \u0930\u0916\u0928\u0947 \u0915\u093f \u0915\u094b\u0936\u093f\u0936 \u0915\u0930\u0942\u0902\u0917\u093e\u0964"
+            },
+            "country": "IN"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUlfpeSZF_cVwLwuUPHmvnuQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "80482",
+            "hiddenSubscriberCount": true,
+            "videoCount": "80"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/019_rr",
+                "/m/02wbm"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                "https://en.wikipedia.org/wiki/Food"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Kaudare World",
+                "description": "\u0926\u0941\u0928\u093f\u092f\u093e \u0915\u0947 \u092e\u0939\u093e\u0928 \u0939\u0938\u094d\u0924\u093f\u092f\u093e\u0902 \u0905\u092a\u0928\u0947 \u0935\u093f\u091a\u093e\u0930\u094b\u0902 \u0915\u093e \u0916\u091c\u093e\u0928\u093e \u0939\u092e\u093e\u0930\u0947 \u0932\u093f\u090f \u091b\u094b\u0921\u093c \u0917\u090f\u0964 \u0907\u0928\u0915\u0947 \u0935\u093f\u091a\u093e\u0930\u094b\u0902 \u0938\u0947 \u0939\u092e \u092c\u0939\u0941\u0924 \u0915\u0941\u091b \u0938\u0940\u0916 \u0938\u0915\u0924\u0947 \u0939\u0948 \u0914\u0930 \u0905\u092a\u0928\u0947 \u091c\u0940\u0935\u0928 \u0915\u094b \u090f\u0915 \u0928\u0908 \u0926\u093f\u0936\u093e \u0926\u0947 \u0938\u0915\u0924\u0947 \u0939\u0948\u0964 \u092e\u0948 \u0905\u092a\u0928\u0947 \u0935\u0940\u0921\u093f\u092f\u094b \u092e\u0947\u0902 \u0926\u0941\u0928\u093f\u092f\u093e \u0915\u0947 \u092e\u0939\u093e\u0928 \u0932\u094b\u0917\u094b \u0928\u0947 \u091c\u094b \u092e\u0939\u0924\u094d\u0935\u092a\u0942\u0930\u094d\u0923 \u092c\u093e\u0924\u0947\u0902 \u092c\u0924\u093e\u0908 \u0939\u0948 \u0909\u0928 \u092c\u093e\u0924\u094b\u0902 \u0915\u094b \u0906\u092a\u0915\u0947 \u0938\u093e\u092e\u0928\u0947 \u0938\u0930\u0932 \u0914\u0930 \u0906\u0938\u093e\u0928 \u0924\u0930\u0940\u0915\u093c\u0947 \u0938\u0947 \u0930\u0916\u0928\u0947 \u0915\u093f \u0915\u094b\u0936\u093f\u0936 \u0915\u0930\u0942\u0902\u0917\u093e\u0964",
+                "keywords": "\"Inspirational Quotes\" Motivational \"Motivational quotes\" \"Life changing video\" Muhaware inspirationalVideo \"Kaudare World\" \"Hindi kahani\" Sadguru \"Sandeep Maheshwari\" \"New life\"",
+                "unsubscribedTrailer": "phtleDwkI-w",
+                "country": "IN"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/Uyu-bFE8lMrQOzauS2n9AJ7BOqecRahcd8IYh0lHsKC1zGiql28XfjKKL5Zbqf0NivNvLkfl5tA"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "yllXeoXqa2xvzyd4jne9HrW1WPM",
+        "id": "UCN2GJkRecIu5gqrq1s9PdsA",
+        "snippet": {
+            "title": "Us News",
+            "description": "",
+            "publishedAt": "2014-08-16T10:15:23Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQ7054mA1iGYb24hG0EJ6OInqPtIS_X2d4eTDIv=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQ7054mA1iGYb24hG0EJ6OInqPtIS_X2d4eTDIv=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQ7054mA1iGYb24hG0EJ6OInqPtIS_X2d4eTDIv=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Us News",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUN2GJkRecIu5gqrq1s9PdsA"
+            }
+        },
+        "statistics": {
+            "viewCount": "275007",
+            "subscriberCount": "273",
+            "hiddenSubscriberCount": false,
+            "videoCount": "113"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Us News",
+                "unsubscribedTrailer": "B0srRIO3rAc"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/JcNmWcQRQBTjUvoh9c1qpVGObAnNMv11P_Xthxkl-718vAj-Yca73EwYotOaicBKW74ApnoRQw"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

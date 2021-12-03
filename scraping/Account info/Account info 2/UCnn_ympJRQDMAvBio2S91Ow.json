@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "LWRMdhn4ftmE5mlbT-u7hhGrl-Q",
+        "id": "UCnn_ympJRQDMAvBio2S91Ow",
+        "snippet": {
+            "title": "British Documentary",
+            "description": "",
+            "publishedAt": "2012-07-24T14:23:57Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/KD38XRErOxtu7y5NbQ9cMAQGL5RIR0T7ESf-LYxF1WW957y40LOBepATSV9eeMyTAHZpJgiM8g=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/KD38XRErOxtu7y5NbQ9cMAQGL5RIR0T7ESf-LYxF1WW957y40LOBepATSV9eeMyTAHZpJgiM8g=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/KD38XRErOxtu7y5NbQ9cMAQGL5RIR0T7ESf-LYxF1WW957y40LOBepATSV9eeMyTAHZpJgiM8g=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "British Documentary",
+                "description": ""
+            },
+            "country": "GB"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUnn_ympJRQDMAvBio2S91Ow"
+            }
+        },
+        "statistics": {
+            "viewCount": "15689037",
+            "subscriberCount": "139000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "1067"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "British Documentary",
+                "keywords": "\"Royal Family\" Documentary \"British Documentary\" \"British Royal\"",
+                "country": "GB"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/bsbtbdCj_OiT-i4yYBXbcRimRebzMsS9iSR8dBICbiOL6v33OSs4dCX1GnDi5QaU9h0XDNNCXHM"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

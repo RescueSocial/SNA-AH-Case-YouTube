@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "JCNbV3ez2zNqgbJI-9oD4uqFRWk",
+        "id": "UCycYfOSLuPwdKJx4fLrlJgA",
+        "snippet": {
+            "title": "Random Watch",
+            "description": "",
+            "publishedAt": "2020-11-20T10:39:18.852482Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/IxgUswUpD9D7ztz-13H_Dj2WkppisPTfgQ89u5MZFPUjhC9jUZ2EPylt2BSRuIgyyyKxP3KVPg=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/IxgUswUpD9D7ztz-13H_Dj2WkppisPTfgQ89u5MZFPUjhC9jUZ2EPylt2BSRuIgyyyKxP3KVPg=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/IxgUswUpD9D7ztz-13H_Dj2WkppisPTfgQ89u5MZFPUjhC9jUZ2EPylt2BSRuIgyyyKxP3KVPg=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Random Watch",
+                "description": ""
+            },
+            "country": "IN"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUycYfOSLuPwdKJx4fLrlJgA"
+            }
+        },
+        "statistics": {
+            "viewCount": "625643",
+            "hiddenSubscriberCount": true,
+            "videoCount": "136"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/019_rr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Random Watch",
+                "country": "IN"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/zsF5VFyIgh4VZWe7p03K-MtiiyGstoj4Ed1AX-RWUOLgDUTP_57zcuglByb7BwVTnQBB6n65EQ"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

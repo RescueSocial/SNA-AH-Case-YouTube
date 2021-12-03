@@ -1,0 +1,69 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "dy95BbCrLqJ9iyElVnxRGlVPlSI",
+        "id": "UCw8qguc9mbzm34Qh4c7Rg1g",
+        "snippet": {
+            "title": "VDT",
+            "description": "",
+            "publishedAt": "2016-11-29T03:20:02Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRoMA7qFS22DfXUjtSuKlzQ8qmvDOFzGvge-Wab=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRoMA7qFS22DfXUjtSuKlzQ8qmvDOFzGvge-Wab=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRoMA7qFS22DfXUjtSuKlzQ8qmvDOFzGvge-Wab=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "VDT",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUw8qguc9mbzm34Qh4c7Rg1g"
+            }
+        },
+        "statistics": {
+            "viewCount": "568908",
+            "subscriberCount": "1060",
+            "hiddenSubscriberCount": false,
+            "videoCount": "830"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/019_rr",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "VDT"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/iOePsjcX8FLEafK84p4PleqrzKDdHrZuJfc5DMqvFMVFF-a_27YpraToESdGtBs5QwZSKKVi"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

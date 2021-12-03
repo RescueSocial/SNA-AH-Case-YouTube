@@ -1,0 +1,69 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "m3V8oXwq8ywLjiX5AFslI5q4yGE",
+        "id": "UCgMtcYGO4WHJEt_f_k8LkKg",
+        "snippet": {
+            "title": "TheDinosaur Gang",
+            "description": "",
+            "publishedAt": "2019-04-21T06:11:29Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQoHJ2ucQZ7eDCOFIxZiuEd_GvF-tE-KNz3iRXh=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQoHJ2ucQZ7eDCOFIxZiuEd_GvF-tE-KNz3iRXh=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQoHJ2ucQZ7eDCOFIxZiuEd_GvF-tE-KNz3iRXh=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "TheDinosaur Gang",
+                "description": ""
+            },
+            "country": "IN"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUgMtcYGO4WHJEt_f_k8LkKg"
+            }
+        },
+        "statistics": {
+            "viewCount": "1817889",
+            "hiddenSubscriberCount": true,
+            "videoCount": "57"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn",
+                "/m/0f2f9"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Television_program"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "TheDinosaur Gang",
+                "country": "IN"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

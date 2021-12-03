@@ -1,0 +1,66 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "Jujs-8LAo5N6UgwdDTHAqq23i6k",
+        "id": "UCIZn3tny8DEDlsPFzX8fvWA",
+        "snippet": {
+            "title": "Umbul Martadilata",
+            "description": "",
+            "publishedAt": "2014-02-28T06:27:35Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQkGi-KWp_ftPy4rTwdr6yWsc_l6YYH6ed62A=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQkGi-KWp_ftPy4rTwdr6yWsc_l6YYH6ed62A=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQkGi-KWp_ftPy4rTwdr6yWsc_l6YYH6ed62A=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Umbul Martadilata",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUIZn3tny8DEDlsPFzX8fvWA"
+            }
+        },
+        "statistics": {
+            "viewCount": "967",
+            "subscriberCount": "1",
+            "hiddenSubscriberCount": false,
+            "videoCount": "5"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Umbul Martadilata"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

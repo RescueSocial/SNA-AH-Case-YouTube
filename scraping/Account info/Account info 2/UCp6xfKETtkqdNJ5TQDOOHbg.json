@@ -1,0 +1,74 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "i_QXJMS-HK0XJSoKnV22UeBa8ZA",
+        "id": "UCp6xfKETtkqdNJ5TQDOOHbg",
+        "snippet": {
+            "title": "The YouTube Underground",
+            "description": "Welcome to the arena, leave your feelings at the door.",
+            "customUrl": "yabadabadoo",
+            "publishedAt": "2016-10-26T11:40:07Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQT0f38aU0x0mcAGBEaKjNR7m5B8xWsc5HWXtdfzw=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQT0f38aU0x0mcAGBEaKjNR7m5B8xWsc5HWXtdfzw=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQT0f38aU0x0mcAGBEaKjNR7m5B8xWsc5HWXtdfzw=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "The YouTube Underground",
+                "description": "Welcome to the arena, leave your feelings at the door."
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUp6xfKETtkqdNJ5TQDOOHbg"
+            }
+        },
+        "statistics": {
+            "viewCount": "7190227",
+            "subscriberCount": "26000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "389"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/019_rr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "The YouTube Underground",
+                "description": "Welcome to the arena, leave your feelings at the door.",
+                "keywords": "Vlog Humor Comedy \"foodie beauty\" \"the youtube underground\" \"amberlynn reid\"",
+                "unsubscribedTrailer": "S5966e1RgKI",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/4Y7_LQ25eFUvvonVsFYqBhHAzh0cPJ27FvF_Hhnv7f1Lr9VK8um6zmbBKComtvqyMMa0G4_Upw"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

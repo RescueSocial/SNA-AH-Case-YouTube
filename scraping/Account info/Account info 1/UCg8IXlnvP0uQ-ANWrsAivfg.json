@@ -1,0 +1,66 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "s62TeB8-eX47rMrw_50anY8dG0U",
+        "id": "UCg8IXlnvP0uQ-ANWrsAivfg",
+        "snippet": {
+            "title": "Joaco Garc\u00eda",
+            "description": "",
+            "publishedAt": "2020-05-01T21:44:28.28942Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTT-ZDBq23Aqa7JZGOGXLt2BzsU0HzvCoEpKg=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTT-ZDBq23Aqa7JZGOGXLt2BzsU0HzvCoEpKg=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTT-ZDBq23Aqa7JZGOGXLt2BzsU0HzvCoEpKg=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Joaco Garc\u00eda",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUg8IXlnvP0uQ-ANWrsAivfg"
+            }
+        },
+        "statistics": {
+            "viewCount": "41487",
+            "subscriberCount": "86",
+            "hiddenSubscriberCount": false,
+            "videoCount": "563"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/04rlf"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Music"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Joaco Garc\u00eda"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

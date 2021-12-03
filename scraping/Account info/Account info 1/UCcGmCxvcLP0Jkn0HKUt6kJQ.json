@@ -1,0 +1,77 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "AMlhM6vu130Qay2HZ4W6ZzTSxBY",
+        "id": "UCcGmCxvcLP0Jkn0HKUt6kJQ",
+        "snippet": {
+            "title": "Douglas Nelson",
+            "description": "Videos from Douglas Nelson the host of The Mr Nailsin Show podcast.",
+            "customUrl": "mrnailsin",
+            "publishedAt": "2010-02-28T05:17:24Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTUtr7R0rho_dPu-G18fb3zSqWuoBCa1zAl42pyTg=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTUtr7R0rho_dPu-G18fb3zSqWuoBCa1zAl42pyTg=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTUtr7R0rho_dPu-G18fb3zSqWuoBCa1zAl42pyTg=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Douglas Nelson",
+                "description": "Videos from Douglas Nelson the host of The Mr Nailsin Show podcast."
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUcGmCxvcLP0Jkn0HKUt6kJQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "88092",
+            "subscriberCount": "451",
+            "hiddenSubscriberCount": false,
+            "videoCount": "2081"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn",
+                "/m/019_rr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Douglas Nelson",
+                "description": "Videos from Douglas Nelson the host of The Mr Nailsin Show podcast.",
+                "keywords": "Mr Nailsin",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/TqGcI0WGJ31OO8Jyw778D__jCBfKFtFWjvX2maKYypQZEmCXezQJrCWWlnfuqnXGs3a42mYf_Q"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "rEQ2k2qE4jKAibBWmbXPwfQ7pO4",
+        "id": "UC3PAykIfA37sYoFYk72iesQ",
+        "snippet": {
+            "title": "Hollywood Pipeline",
+            "description": "Daily Celebrity Content Brought to You Straight from Hollywood--We find the latest and greatest, so you don't have to!",
+            "customUrl": "hollywoodpipeline",
+            "publishedAt": "2017-06-08T01:50:47Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLR5sNTXX3bs4VUkMJANUh5GktAkcW33XEGht29ruA=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLR5sNTXX3bs4VUkMJANUh5GktAkcW33XEGht29ruA=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLR5sNTXX3bs4VUkMJANUh5GktAkcW33XEGht29ruA=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Hollywood Pipeline",
+                "description": "Daily Celebrity Content Brought to You Straight from Hollywood--We find the latest and greatest, so you don't have to!"
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU3PAykIfA37sYoFYk72iesQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "126520778",
+            "subscriberCount": "208000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "1029"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Hollywood Pipeline",
+                "description": "Daily Celebrity Content Brought to You Straight from Hollywood--We find the latest and greatest, so you don't have to!",
+                "keywords": "hollywood gossip entertainment news celebrity celebrities \"pop culture\" paparazzi photos videos breaking exclusive",
+                "unsubscribedTrailer": "AhOn7BYXTnI",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/qDQ4bzpCsdOQbYQ0yYw45S_GKfkna2_HhkleWiZTozROVoNP9fjJe-ytHma6H3vkOhM0ketB4pQ"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "KIQ5Az8Y2pXbUk-8Cb54YKE9erY",
+        "id": "UC5gMDlJM7xNKkQT9vTWH1LA",
+        "snippet": {
+            "title": "POTFS resurected",
+            "description": "",
+            "publishedAt": "2019-10-15T20:36:08.120653Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSg-DQCHoAx-zWN4ZGjcDKPlw27brqjCgCKIDTl=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSg-DQCHoAx-zWN4ZGjcDKPlw27brqjCgCKIDTl=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSg-DQCHoAx-zWN4ZGjcDKPlw27brqjCgCKIDTl=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "POTFS resurected",
+                "description": ""
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU5gMDlJM7xNKkQT9vTWH1LA"
+            }
+        },
+        "statistics": {
+            "viewCount": "301632",
+            "subscriberCount": "650",
+            "hiddenSubscriberCount": false,
+            "videoCount": "1498"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "POTFS resurected",
+                "country": "US"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

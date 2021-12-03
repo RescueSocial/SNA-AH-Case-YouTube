@@ -1,0 +1,72 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "as0XNtSdjrjsp0eFARkPBeMD8Lk",
+        "id": "UCYIcmpMvomDsjSPGrG7Yszw",
+        "snippet": {
+            "title": "Mr Wilderpeople",
+            "description": "1,500,000 Subscribers",
+            "publishedAt": "2015-08-15T16:28:56Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQBb3LfnmFKWAhI5H_nfF8_Kf2QvJOUrO4xBV9m=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQBb3LfnmFKWAhI5H_nfF8_Kf2QvJOUrO4xBV9m=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQBb3LfnmFKWAhI5H_nfF8_Kf2QvJOUrO4xBV9m=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Mr Wilderpeople",
+                "description": "1,500,000 Subscribers"
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUYIcmpMvomDsjSPGrG7Yszw"
+            }
+        },
+        "statistics": {
+            "viewCount": "2737203",
+            "subscriberCount": "2050",
+            "hiddenSubscriberCount": false,
+            "videoCount": "60"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn",
+                "/m/0f2f9"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Television_program"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Mr Wilderpeople",
+                "description": "1,500,000 Subscribers"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/osCqN-aNd8bDWR46Bm3fE2lupd1EYl9TxZskiwhqFbegipwjbdsJwxRDYnO9kA1bjBmLOEoc-w"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

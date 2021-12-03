@@ -1,0 +1,71 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "qbu4mPmSJkSPvZjOyS2hCL5zKW0",
+        "id": "UC2Bil0FhnT0IY3WToEm1uPw",
+        "snippet": {
+            "title": "David Webber",
+            "description": "Scenes and clips from movies and TV shows that I find entertaining.",
+            "customUrl": "davidwebber68",
+            "publishedAt": "2005-08-15T13:23:56Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRZbyfaDN5Y8QFrdRVqNjxrvMheU73r-mWW7k2eikE=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRZbyfaDN5Y8QFrdRVqNjxrvMheU73r-mWW7k2eikE=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRZbyfaDN5Y8QFrdRVqNjxrvMheU73r-mWW7k2eikE=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "David Webber",
+                "description": "Scenes and clips from movies and TV shows that I find entertaining."
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU2Bil0FhnT0IY3WToEm1uPw"
+            }
+        },
+        "statistics": {
+            "viewCount": "11039618",
+            "subscriberCount": "6760",
+            "hiddenSubscriberCount": false,
+            "videoCount": "72"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "David Webber",
+                "description": "Scenes and clips from movies and TV shows that I find entertaining."
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/wLetVsREI48QlhvVynr49B91ZLg5dfOoFPLPQnXv_lv7uVmzWiUxO9MrkLX5ac1__o2m9BKY"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

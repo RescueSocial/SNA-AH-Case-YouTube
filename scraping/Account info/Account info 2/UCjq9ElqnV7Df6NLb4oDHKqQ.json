@@ -1,0 +1,72 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "D53L7H-kaDp8IwNxeEyaM6Hstco",
+        "id": "UCjq9ElqnV7Df6NLb4oDHKqQ",
+        "snippet": {
+            "title": "KCENNews",
+            "description": "KCEN Channel 6 delivers stories from Central Texas and beyond to keep you informed, make you think, smile, LOL, or maybe even cry.",
+            "customUrl": "kcennews",
+            "publishedAt": "2017-02-17T03:08:54Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/puAvMsG2ATbEPEv4KgXr4wJFRmRlXHwaDnNfN36MSI98WLIBiiW5Jd84YRJlO6up9mf441Fw-ro=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/puAvMsG2ATbEPEv4KgXr4wJFRmRlXHwaDnNfN36MSI98WLIBiiW5Jd84YRJlO6up9mf441Fw-ro=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/puAvMsG2ATbEPEv4KgXr4wJFRmRlXHwaDnNfN36MSI98WLIBiiW5Jd84YRJlO6up9mf441Fw-ro=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "KCENNews",
+                "description": "KCEN Channel 6 delivers stories from Central Texas and beyond to keep you informed, make you think, smile, LOL, or maybe even cry."
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUjq9ElqnV7Df6NLb4oDHKqQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "19493103",
+            "subscriberCount": "33300",
+            "hiddenSubscriberCount": false,
+            "videoCount": "17016"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "KCENNews",
+                "description": "KCEN Channel 6 delivers stories from Central Texas and beyond to keep you informed, make you think, smile, LOL, or maybe even cry.",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/4TFg-3Es7-0StZFTzfNPIZbk9DrV7bIiYBEIQTLnxgGt_81dE-YrBbhxjyBL1AY81t-9KsUIbRI"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

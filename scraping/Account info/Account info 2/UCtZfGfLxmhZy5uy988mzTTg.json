@@ -1,0 +1,72 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "H6ws4znmvFNXHLwzM79pwC3n6FU",
+        "id": "UCtZfGfLxmhZy5uy988mzTTg",
+        "snippet": {
+            "title": "Mujer",
+            "description": "",
+            "publishedAt": "2021-02-08T16:35:13.095836Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSuFK3EQQbdp62ASeOpiV33kzjn02745qttHRfH=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSuFK3EQQbdp62ASeOpiV33kzjn02745qttHRfH=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSuFK3EQQbdp62ASeOpiV33kzjn02745qttHRfH=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Mujer",
+                "description": ""
+            },
+            "country": "MX"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUtZfGfLxmhZy5uy988mzTTg"
+            }
+        },
+        "statistics": {
+            "viewCount": "85207",
+            "subscriberCount": "439",
+            "hiddenSubscriberCount": false,
+            "videoCount": "1216"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/098wr",
+                "/m/0f2f9"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Society",
+                "https://en.wikipedia.org/wiki/Television_program"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Mujer",
+                "keywords": "mujer",
+                "country": "MX"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

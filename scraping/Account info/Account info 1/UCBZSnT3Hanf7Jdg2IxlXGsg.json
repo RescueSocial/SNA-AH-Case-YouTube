@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "VvFJwwak84z7F4HjCzHTfbuQShA",
+        "id": "UCBZSnT3Hanf7Jdg2IxlXGsg",
+        "snippet": {
+            "title": "Oheneba Media",
+            "description": "Oheneba Media",
+            "customUrl": "ohenebamedia",
+            "publishedAt": "2016-03-14T09:51:24Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQ2sQaFC9onNmVUajjz02Q2dykOpHrhDR4qdLhrcg=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQ2sQaFC9onNmVUajjz02Q2dykOpHrhDR4qdLhrcg=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQ2sQaFC9onNmVUajjz02Q2dykOpHrhDR4qdLhrcg=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Oheneba Media",
+                "description": "Oheneba Media"
+            },
+            "country": "GH"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUBZSnT3Hanf7Jdg2IxlXGsg"
+            }
+        },
+        "statistics": {
+            "viewCount": "22207329",
+            "hiddenSubscriberCount": true,
+            "videoCount": "1419"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Oheneba Media",
+                "description": "Oheneba Media",
+                "keywords": "Culture Entertainment Education ohenebamedia \"oheneba media\"",
+                "unsubscribedTrailer": "k7yFTMX1354",
+                "country": "GH"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/Dkp1Xgicf7-GRtWPd7GNTZ1jMLlwXblC0h35xIUYimOBt0LwMB3PRhfqLhQqWOGoQHkQeY6k"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

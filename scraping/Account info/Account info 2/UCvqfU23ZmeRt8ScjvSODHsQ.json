@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "mpMvPvFx9446shGLoWkkVrcU3Jw",
+        "id": "UCvqfU23ZmeRt8ScjvSODHsQ",
+        "snippet": {
+            "title": "Manny The Movie Guy",
+            "description": "Movie reviews, celebrity interviews, and news!  Your one-stop shop for everything movies!",
+            "customUrl": "mannythemovieguy",
+            "publishedAt": "2011-03-09T18:04:08Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRXoClJtWR_wGVURLQ_Res_1_qCBR5wt2U_6Khi7g=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRXoClJtWR_wGVURLQ_Res_1_qCBR5wt2U_6Khi7g=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRXoClJtWR_wGVURLQ_Res_1_qCBR5wt2U_6Khi7g=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Manny The Movie Guy",
+                "description": "Movie reviews, celebrity interviews, and news!  Your one-stop shop for everything movies!"
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUvqfU23ZmeRt8ScjvSODHsQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "6305677",
+            "subscriberCount": "6300",
+            "hiddenSubscriberCount": false,
+            "videoCount": "1532"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02vxn",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Manny The Movie Guy",
+                "description": "Movie reviews, celebrity interviews, and news!  Your one-stop shop for everything movies!",
+                "keywords": "Manny the Movie Guy film critic entertainment reporter presenter host interviewer Hollywood filipino gay asian celebrity interviews movie reviews critique philippines celebrities stars",
+                "unsubscribedTrailer": "oh5irNlPW8I"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/WRnrXNud-AVLV1Ghobab4rC_GPWrGYHQwWricH8Qo68ApazjgRf4vwpWimipJ0wjX3yWR4X0NA"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

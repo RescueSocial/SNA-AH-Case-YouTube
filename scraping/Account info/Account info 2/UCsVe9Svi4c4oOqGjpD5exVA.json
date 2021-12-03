@@ -1,0 +1,67 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "tM3YKztgpdgpuUv2mM4U_TckaVw",
+        "id": "UCsVe9Svi4c4oOqGjpD5exVA",
+        "snippet": {
+            "title": "anissjump",
+            "description": "",
+            "publishedAt": "2007-09-18T14:38:57Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQN8228EBmklZjGCAKzalQ9_eg25k2tyxptN6Wb=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQN8228EBmklZjGCAKzalQ9_eg25k2tyxptN6Wb=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQN8228EBmklZjGCAKzalQ9_eg25k2tyxptN6Wb=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "anissjump",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUsVe9Svi4c4oOqGjpD5exVA"
+            }
+        },
+        "statistics": {
+            "viewCount": "1666666",
+            "subscriberCount": "2030",
+            "hiddenSubscriberCount": false,
+            "videoCount": "17749"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/05qt0",
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Politics",
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "anissjump"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

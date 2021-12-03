@@ -1,0 +1,79 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "0eY62iPE4ir5I49gjOCBeDAcamc",
+        "id": "UClyPv5RRfYdUFv2SsgV5uMw",
+        "snippet": {
+            "title": "Kids Play",
+            "description": "Welcome to KidsPlay!\n\nKidsPlay is a place where kids can have fun and learn with our family friendly videos!",
+            "customUrl": "kidspretendplay",
+            "publishedAt": "2018-05-14T18:25:54Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSDdQOvBLAwRXDjy3aj9TgbzzdGBACmHdt_8N93dQ=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSDdQOvBLAwRXDjy3aj9TgbzzdGBACmHdt_8N93dQ=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSDdQOvBLAwRXDjy3aj9TgbzzdGBACmHdt_8N93dQ=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Kids Play",
+                "description": "Welcome to KidsPlay!\n\nKidsPlay is a place where kids can have fun and learn with our family friendly videos!"
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUlyPv5RRfYdUFv2SsgV5uMw"
+            }
+        },
+        "statistics": {
+            "viewCount": "7367750614",
+            "subscriberCount": "15400000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "509"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/03glg",
+                "/m/019_rr",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Hobby",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": true
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Kids Play",
+                "description": "Welcome to KidsPlay!\n\nKidsPlay is a place where kids can have fun and learn with our family friendly videos!",
+                "keywords": "kids play toys learn teach princess \"toys for kids\" \"kids play\" kidsplay family",
+                "moderateComments": true,
+                "unsubscribedTrailer": "N5zcItNkTZo",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/oyDtXpKjiEvlMFrTIWS95sITyAaOVYEdfmFn59HwwmvIlAyFslWGOKO7Wvww_pB7TKNETiABNEE"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

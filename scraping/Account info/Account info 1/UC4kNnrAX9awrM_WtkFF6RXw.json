@@ -1,0 +1,72 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "nXwJBUsSum8VrVU4Bt9AnRzn7ys",
+        "id": "UC4kNnrAX9awrM_WtkFF6RXw",
+        "snippet": {
+            "title": "Dr. Joy DeGruy",
+            "description": "",
+            "customUrl": "drjoydegruy",
+            "publishedAt": "2011-04-16T21:20:34Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQr3kLczJf7t_urLGcLwVNUv5z6ZIHyH2FLa1XX=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQr3kLczJf7t_urLGcLwVNUv5z6ZIHyH2FLa1XX=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQr3kLczJf7t_urLGcLwVNUv5z6ZIHyH2FLa1XX=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Dr. Joy DeGruy",
+                "description": ""
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU4kNnrAX9awrM_WtkFF6RXw"
+            }
+        },
+        "statistics": {
+            "viewCount": "367926",
+            "subscriberCount": "20900",
+            "hiddenSubscriberCount": false,
+            "videoCount": "50"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Dr. Joy DeGruy",
+                "unsubscribedTrailer": "HbywlgwLxm4",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/3RMjt3Du6m_FxeN94G82VKHFVBkOyaZDItb8KQ8CfjDSWUyXLSnB1Ur2hAMZGPRqvgunEJF_Xw"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

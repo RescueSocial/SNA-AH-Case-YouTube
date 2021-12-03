@@ -1,0 +1,68 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "vPeSPvKQ5Nw2kqbpYGrdGO0KLCo",
+        "id": "UCXWvLwNT17-VLe3HVJ-LXLQ",
+        "snippet": {
+            "title": "Irman N",
+            "description": "",
+            "publishedAt": "2012-01-06T07:26:30Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQ2lXgrJ_tjCMLkV3RBnfB2sZi4JypxgvXvKe_P4Ac=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQ2lXgrJ_tjCMLkV3RBnfB2sZi4JypxgvXvKe_P4Ac=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQ2lXgrJ_tjCMLkV3RBnfB2sZi4JypxgvXvKe_P4Ac=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Irman N",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUXWvLwNT17-VLe3HVJ-LXLQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "1390257",
+            "subscriberCount": "2400",
+            "hiddenSubscriberCount": false,
+            "videoCount": "2721"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/019_rr",
+                "/m/032tl"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                "https://en.wikipedia.org/wiki/Fashion"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Irman N"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

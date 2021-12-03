@@ -1,0 +1,68 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "0FZCSBzKuIypxIPikfBTjKVLcOc",
+        "id": "UCKnjJVc0H1g9O5utg1U-E6Q",
+        "snippet": {
+            "title": "Banter and friends",
+            "description": "",
+            "publishedAt": "2015-07-12T09:58:35Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSAaBB1zzOhNtxkYbo2YLp1y5rFnzCvkKlM6hB_=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSAaBB1zzOhNtxkYbo2YLp1y5rFnzCvkKlM6hB_=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSAaBB1zzOhNtxkYbo2YLp1y5rFnzCvkKlM6hB_=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Banter and friends",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUKnjJVc0H1g9O5utg1U-E6Q"
+            }
+        },
+        "statistics": {
+            "viewCount": "10705",
+            "subscriberCount": "149",
+            "hiddenSubscriberCount": false,
+            "videoCount": "59"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/019_rr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Banter and friends",
+                "unsubscribedTrailer": "O5L_gXyopfI"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/bXw51HuB5uhh_rnpMzRQtuMKXuITDlJUPkf4DmLxLh327EKo5L_BjlNv-1v1EptD3JoS5bqrSg"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

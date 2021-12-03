@@ -1,0 +1,71 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "vCzQBCClZXpzAh_67TOz_4Yo6Iw",
+        "id": "UCyErsn5XDx6OD9I1KtM1Z4w",
+        "snippet": {
+            "title": "Leo's Universe",
+            "description": "",
+            "publishedAt": "2015-09-07T23:42:36Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQSNe6tCmKkHTtDrXaoj7mvoI_hSlRmCtK1fCbC0w=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQSNe6tCmKkHTtDrXaoj7mvoI_hSlRmCtK1fCbC0w=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQSNe6tCmKkHTtDrXaoj7mvoI_hSlRmCtK1fCbC0w=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Leo's Universe",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUyErsn5XDx6OD9I1KtM1Z4w"
+            }
+        },
+        "statistics": {
+            "viewCount": "625520",
+            "subscriberCount": "1070",
+            "hiddenSubscriberCount": false,
+            "videoCount": "708"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/019_rr",
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Leo's Universe",
+                "keywords": "vlog"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/VjrU7JkK5UFAJCaBzprNxkqZYGTISrUdBuZ-Nad0PNOaGqwA7AmYa-jo5thOwJtechEQ1UrvFw"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

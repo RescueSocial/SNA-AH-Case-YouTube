@@ -1,0 +1,74 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "sq9N6Z2kp7bLwzr5CHEM9vt7WIw",
+        "id": "UCj9peGCfg5X6PrinJKAyCDw",
+        "snippet": {
+            "title": "Murad Merali",
+            "description": "Daily and consistent.",
+            "publishedAt": "2014-02-21T11:07:20Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSbER0tqNxZueM70_IKTcgcsGIntVm-6ZLwOWRC9og=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSbER0tqNxZueM70_IKTcgcsGIntVm-6ZLwOWRC9og=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSbER0tqNxZueM70_IKTcgcsGIntVm-6ZLwOWRC9og=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Murad Merali",
+                "description": "Daily and consistent."
+            },
+            "country": "GB"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUj9peGCfg5X6PrinJKAyCDw"
+            }
+        },
+        "statistics": {
+            "viewCount": "99224560",
+            "subscriberCount": "249000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "3698"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/019_rr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Murad Merali",
+                "description": "Daily and consistent.",
+                "unsubscribedTrailer": "Y1xGkrBCjpo",
+                "country": "GB"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/nQtsZqR7vu9CdTpezcueFZxg6KI21fEpg8f1gL7olHyP_iEApDn5SPvLI3GowKfhn9S8e97M"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

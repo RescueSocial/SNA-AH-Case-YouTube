@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "tm2XeTGLp7vkQns6M2n4cwf0nLs",
+        "id": "UCt20e9ZDOjEckJVSNe5u-YA",
+        "snippet": {
+            "title": "News & Ent",
+            "description": "",
+            "publishedAt": "2017-11-14T11:32:00Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQgy8Xj_g8tWv3x1VG-cwYpyJ7CghA-QiPMXZnr=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQgy8Xj_g8tWv3x1VG-cwYpyJ7CghA-QiPMXZnr=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQgy8Xj_g8tWv3x1VG-cwYpyJ7CghA-QiPMXZnr=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "News & Ent",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUt20e9ZDOjEckJVSNe5u-YA"
+            }
+        },
+        "statistics": {
+            "viewCount": "6114",
+            "hiddenSubscriberCount": true,
+            "videoCount": "43"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "News & Ent",
+                "keywords": "NEWS Entertainment",
+                "unsubscribedTrailer": "EXkIlyuF2O8"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/gX9PkuHGM0OWgPWDI5tGUMVf-JPFi4dbZRbpmG5Pm0SRMS5Av1iU0yODlL6fOdkLLi7dbxtukm4"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

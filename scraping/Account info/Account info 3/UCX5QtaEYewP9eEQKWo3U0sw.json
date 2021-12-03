@@ -1,0 +1,71 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "m1WXFxFmQTd3zMq-lf-8o3pUdzk",
+        "id": "UCX5QtaEYewP9eEQKWo3U0sw",
+        "snippet": {
+            "title": "Eswar Avis",
+            "description": "For crazy WhatsApp status",
+            "publishedAt": "2018-12-16T03:56:13Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSvxd-epXGSxvMGdVfBevVQl2SEBl1mLMYD9A_67w=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSvxd-epXGSxvMGdVfBevVQl2SEBl1mLMYD9A_67w=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSvxd-epXGSxvMGdVfBevVQl2SEBl1mLMYD9A_67w=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Eswar Avis",
+                "description": "For crazy WhatsApp status"
+            },
+            "country": "IN"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUX5QtaEYewP9eEQKWo3U0sw"
+            }
+        },
+        "statistics": {
+            "viewCount": "5980642",
+            "subscriberCount": "11100",
+            "hiddenSubscriberCount": false,
+            "videoCount": "99"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/04rlf",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Music",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Eswar Avis",
+                "description": "For crazy WhatsApp status",
+                "country": "IN"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

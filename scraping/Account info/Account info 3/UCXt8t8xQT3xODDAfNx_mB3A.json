@@ -1,0 +1,69 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "0UZO1VxSFtLsVdPDy0rMDtYmthU",
+        "id": "UCXt8t8xQT3xODDAfNx_mB3A",
+        "snippet": {
+            "title": "Celeb Under",
+            "description": "",
+            "publishedAt": "2021-09-08T02:45:36.76454Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/UDc2QwtrV3K6gnazaitQu8ZsKk0t1t1itgl59O7mwaUSiixrJ_jVbxNy4YXlWu3JpQhlAJWx=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/UDc2QwtrV3K6gnazaitQu8ZsKk0t1t1itgl59O7mwaUSiixrJ_jVbxNy4YXlWu3JpQhlAJWx=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/UDc2QwtrV3K6gnazaitQu8ZsKk0t1t1itgl59O7mwaUSiixrJ_jVbxNy4YXlWu3JpQhlAJWx=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Celeb Under",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUXt8t8xQT3xODDAfNx_mB3A"
+            }
+        },
+        "statistics": {
+            "viewCount": "485",
+            "subscriberCount": "7",
+            "hiddenSubscriberCount": false,
+            "videoCount": "21"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/019_rr",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Celeb Under"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/iYEqj3zzshXoKjJiIlpcZJxLlGDwEq9cYwQIbc2GkdDBFEkyA_NImz29352bcHSmUAi-8lTPsg"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

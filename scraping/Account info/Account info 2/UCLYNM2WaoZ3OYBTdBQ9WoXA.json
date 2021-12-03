@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "YzSF-RbowAao3jk7_shyU3soTPg",
+        "id": "UCLYNM2WaoZ3OYBTdBQ9WoXA",
+        "snippet": {
+            "title": "FilmJunkee",
+            "description": "",
+            "customUrl": "filmjunkeedave",
+            "publishedAt": "2015-01-02T20:30:18Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSX9gKhrNIvx90OYBx-r4oeu-n1DvpRHEKeD58RWw=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSX9gKhrNIvx90OYBx-r4oeu-n1DvpRHEKeD58RWw=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSX9gKhrNIvx90OYBx-r4oeu-n1DvpRHEKeD58RWw=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "FilmJunkee",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UULYNM2WaoZ3OYBTdBQ9WoXA"
+            }
+        },
+        "statistics": {
+            "viewCount": "6154622",
+            "subscriberCount": "9630",
+            "hiddenSubscriberCount": false,
+            "videoCount": "2223"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "FilmJunkee",
+                "keywords": "movies superhero comicbook batman",
+                "trackingAnalyticsAccountId": "UA-45987670-2",
+                "unsubscribedTrailer": "3r0IXBpyEtg"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/OJ78U3nJwHBut4SVGQ4hv6rQxMI8siNdV7rxkTXekXOrXcLos5XX8cJg4pKuJlkk7hlpy-qb"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

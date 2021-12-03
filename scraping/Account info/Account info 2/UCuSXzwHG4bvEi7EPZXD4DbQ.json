@@ -1,0 +1,71 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "HF4ywBlTeD2_xEqQoPzaW84hn2U",
+        "id": "UCuSXzwHG4bvEi7EPZXD4DbQ",
+        "snippet": {
+            "title": "Blue Mag",
+            "description": "",
+            "publishedAt": "2017-03-03T03:29:59Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQDsPGscMjFlppMj3EL5VdC9SHBNpAkOoD_VwJN=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQDsPGscMjFlppMj3EL5VdC9SHBNpAkOoD_VwJN=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQDsPGscMjFlppMj3EL5VdC9SHBNpAkOoD_VwJN=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Blue Mag",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUuSXzwHG4bvEi7EPZXD4DbQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "672538",
+            "subscriberCount": "583",
+            "hiddenSubscriberCount": false,
+            "videoCount": "2119"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02vxn",
+                "/m/02jjt",
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Blue Mag"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/pkJ8G5qimM1Y8fU2MOAMmpq9UzxNnb99W_PyZs9wnWIs8gfV1UMG_skcNV-lWKEfu6p80IGaaQ"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

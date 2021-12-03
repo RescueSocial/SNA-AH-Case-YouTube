@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "uTpv4rRtAiRV0ffQatpocEuF_Os",
+        "id": "UCXYFwUa9UJ8iMjxbbGRYe0Q",
+        "snippet": {
+            "title": "VIP A",
+            "description": "",
+            "publishedAt": "2015-01-29T10:55:51Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRIVU2PlrAvdoFHNu3u9OK9T6sXlbQKezoiDCZ-=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRIVU2PlrAvdoFHNu3u9OK9T6sXlbQKezoiDCZ-=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRIVU2PlrAvdoFHNu3u9OK9T6sXlbQKezoiDCZ-=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "VIP A",
+                "description": ""
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUXYFwUa9UJ8iMjxbbGRYe0Q"
+            }
+        },
+        "statistics": {
+            "viewCount": "6733895",
+            "subscriberCount": "14200",
+            "hiddenSubscriberCount": false,
+            "videoCount": "567"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02vxn",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "VIP A",
+                "moderateComments": true,
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/9TdptqQcRhEby085_Nf-IhFAk-Rha3-JzRdX1xYJrnCsGNGqi_jv-3smWQeTcE_CBZrcXs8hBQ"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

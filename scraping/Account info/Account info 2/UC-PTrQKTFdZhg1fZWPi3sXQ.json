@@ -1,0 +1,74 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "tZk2liPcmBXYa8CrJ9eAmMIDIVc",
+        "id": "UC-PTrQKTFdZhg1fZWPi3sXQ",
+        "snippet": {
+            "title": "Updated News Channel",
+            "description": "Updated news channel , this is Updated News channel for you . this is channel sharing hot  news  in the world ....",
+            "publishedAt": "2017-04-20T07:12:13Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLR0ExRZYHRYNzbgSMu4cKAeOtJGAz6p8b9hc9wLxQ=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLR0ExRZYHRYNzbgSMu4cKAeOtJGAz6p8b9hc9wLxQ=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLR0ExRZYHRYNzbgSMu4cKAeOtJGAz6p8b9hc9wLxQ=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Updated News Channel",
+                "description": "Updated news channel , this is Updated News channel for you . this is channel sharing hot  news  in the world ...."
+            },
+            "country": "VN"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU-PTrQKTFdZhg1fZWPi3sXQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "462401",
+            "subscriberCount": "551",
+            "hiddenSubscriberCount": false,
+            "videoCount": "392"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/04rlf"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Music"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Updated News Channel",
+                "description": "Updated news channel , this is Updated News channel for you . this is channel sharing hot  news  in the world ....",
+                "keywords": "Updated News Channel",
+                "unsubscribedTrailer": "ZuiqVScbPFs",
+                "country": "VN"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/rDlatZ_i2kFDvVLkxpt4Yihd_ZFlkvZYAnc_ceja6JZWzgPBACVCthNK6v4qpgrH8m_MWgEwdw"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

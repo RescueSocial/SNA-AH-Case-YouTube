@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "EUHUEZN6w70oL1nHfQrS-HwKspM",
+        "id": "UCpeubjJ3xtOxsavcsPfff6w",
+        "snippet": {
+            "title": "Celeb Gossip",
+            "description": "",
+            "publishedAt": "2015-06-09T23:07:42Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQBofPDG8-UMt_dvCDSIiTag1RzrfP48TzarHk4=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQBofPDG8-UMt_dvCDSIiTag1RzrfP48TzarHk4=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQBofPDG8-UMt_dvCDSIiTag1RzrfP48TzarHk4=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Celeb Gossip",
+                "description": ""
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUpeubjJ3xtOxsavcsPfff6w"
+            }
+        },
+        "statistics": {
+            "viewCount": "301516",
+            "subscriberCount": "729",
+            "hiddenSubscriberCount": false,
+            "videoCount": "42"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Celeb Gossip",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/waaI7cFrJirD2s0dz8ytWxeDGvLHGBerf_a-KVC9HBe0UJ5xU1fApxB21H8Gqh4q70VLiao7"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

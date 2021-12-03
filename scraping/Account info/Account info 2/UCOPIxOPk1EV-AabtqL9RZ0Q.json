@@ -1,0 +1,76 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "6wvLX0iFt5Mlec1lCqb1GRzo2o4",
+        "id": "UCOPIxOPk1EV-AabtqL9RZ0Q",
+        "snippet": {
+            "title": "The Show",
+            "description": "",
+            "publishedAt": "2016-09-08T17:38:31Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRw00pLanzn_K0pP0lfL9Ahf6AIQsS2wxfIXQyR=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRw00pLanzn_K0pP0lfL9Ahf6AIQsS2wxfIXQyR=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRw00pLanzn_K0pP0lfL9Ahf6AIQsS2wxfIXQyR=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "The Show",
+                "description": ""
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUOPIxOPk1EV-AabtqL9RZ0Q"
+            }
+        },
+        "statistics": {
+            "viewCount": "602213",
+            "subscriberCount": "6470",
+            "hiddenSubscriberCount": false,
+            "videoCount": "122"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/0403l3g",
+                "/m/02ntfj",
+                "/m/025zzc",
+                "/m/0bzvm2"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Role-playing_video_game",
+                "https://en.wikipedia.org/wiki/Action-adventure_game",
+                "https://en.wikipedia.org/wiki/Action_game",
+                "https://en.wikipedia.org/wiki/Video_game_culture"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "The Show",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/SJwnFLn44kHjYgE7syW9svIPlZQiXnv9p-7QBs4lUgCn2rEd6pt8lj_y69JfZ10lm0S2lu2q"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "AeZ-C9PD0lrrU7s868F3yjzv9sY",
+        "id": "UCL2qM7pLjnnPsc-5CfP7fEw",
+        "snippet": {
+            "title": "24/7- News",
+            "description": "",
+            "publishedAt": "2009-10-16T18:39:48Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSOiuv7W0VqCUqhaq_rym5Y9SUmTC9cxa6bINA=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSOiuv7W0VqCUqhaq_rym5Y9SUmTC9cxa6bINA=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSOiuv7W0VqCUqhaq_rym5Y9SUmTC9cxa6bINA=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "24/7- News",
+                "description": ""
+            },
+            "country": "SE"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUL2qM7pLjnnPsc-5CfP7fEw"
+            }
+        },
+        "statistics": {
+            "viewCount": "123662",
+            "hiddenSubscriberCount": true,
+            "videoCount": "2478"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr",
+                "/m/02jjt",
+                "/m/05qt0"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society",
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Politics"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "24/7- News",
+                "country": "SE"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/xoN89AaLX_gmJfOhS2O5RGMlfg-aKV-KaLdA93thDUsiyKplyGkRRmzpcS7mEvEnTXvwuBnByz0"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

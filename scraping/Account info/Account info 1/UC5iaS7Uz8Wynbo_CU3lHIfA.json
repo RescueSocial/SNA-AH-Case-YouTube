@@ -1,0 +1,68 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "F2urOudP9vVJ2OMRwkhpVjifGsM",
+        "id": "UC5iaS7Uz8Wynbo_CU3lHIfA",
+        "snippet": {
+            "title": "Sir NIGEL FARAGE",
+            "description": "",
+            "publishedAt": "2015-01-13T14:02:42Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTKE_j7l1G5oSEbTiMEeint0NPW9mDIEjIKziAuag=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTKE_j7l1G5oSEbTiMEeint0NPW9mDIEjIKziAuag=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTKE_j7l1G5oSEbTiMEeint0NPW9mDIEjIKziAuag=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Sir NIGEL FARAGE",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU5iaS7Uz8Wynbo_CU3lHIfA"
+            }
+        },
+        "statistics": {
+            "viewCount": "122181",
+            "subscriberCount": "93",
+            "hiddenSubscriberCount": false,
+            "videoCount": "38"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/019_rr",
+                "/m/098wr",
+                "/m/05qt0"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                "https://en.wikipedia.org/wiki/Society",
+                "https://en.wikipedia.org/wiki/Politics"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Sir NIGEL FARAGE"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "od1VKbrTJk0pTdU_1vQb2lYxDcY",
+        "id": "UCTRe_GkJBpl6dhM-pptlaVQ",
+        "snippet": {
+            "title": "Ninja status",
+            "description": "My 2nd channel\n\nhttps://youtube.com/channel/UC6mDBc8wMM4VTManepvOaSg\n",
+            "publishedAt": "2017-05-07T17:52:10Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/Ttyio5yNBxaaeZaMxNxUMWCe6tnVBUv4ZadtA1o5jD6yF9tVM4UjcYTQqgam1lH4FuiXESU5V9E=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/Ttyio5yNBxaaeZaMxNxUMWCe6tnVBUv4ZadtA1o5jD6yF9tVM4UjcYTQqgam1lH4FuiXESU5V9E=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/Ttyio5yNBxaaeZaMxNxUMWCe6tnVBUv4ZadtA1o5jD6yF9tVM4UjcYTQqgam1lH4FuiXESU5V9E=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Ninja status",
+                "description": "My 2nd channel\n\nhttps://youtube.com/channel/UC6mDBc8wMM4VTManepvOaSg\n"
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUTRe_GkJBpl6dhM-pptlaVQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "1145981",
+            "hiddenSubscriberCount": true,
+            "videoCount": "303"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/04rlf",
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Music",
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Ninja status",
+                "description": "My 2nd channel\n\nhttps://youtube.com/channel/UC6mDBc8wMM4VTManepvOaSg\n"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

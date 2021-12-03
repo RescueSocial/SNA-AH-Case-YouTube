@@ -1,0 +1,74 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "tZXEOIg0zno_GR7Ht9ZiyL_PbE0",
+        "id": "UCrM-POP9W65Iml8HD48YwIQ",
+        "snippet": {
+            "title": "BuzTv",
+            "description": "Your source for entertainment news, celebrities, celeb news, sports news and celebrity gossip.",
+            "publishedAt": "2016-09-13T15:25:41Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTtgJ-d5Q6BdnCaWor7HoHjknrcYBRkZhgg4EbX-A=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTtgJ-d5Q6BdnCaWor7HoHjknrcYBRkZhgg4EbX-A=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTtgJ-d5Q6BdnCaWor7HoHjknrcYBRkZhgg4EbX-A=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "BuzTv",
+                "description": "Your source for entertainment news, celebrities, celeb news, sports news and celebrity gossip."
+            },
+            "country": "IN"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUrM-POP9W65Iml8HD48YwIQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "2578697",
+            "subscriberCount": "2600",
+            "hiddenSubscriberCount": false,
+            "videoCount": "1168"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/019_rr",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "BuzTv",
+                "description": "Your source for entertainment news, celebrities, celeb news, sports news and celebrity gossip.",
+                "keywords": "\"celeb news\" \"celebrities gossip\" \"celebrities videos\"",
+                "country": "IN"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/uGWQUqilR0VdrEqwQLWreO5hxXx_DIVccvV2oVyxi4h2D2r_uU7rZhkSmcEuHsqG32pIja7E"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

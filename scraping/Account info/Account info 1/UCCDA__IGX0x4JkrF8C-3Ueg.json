@@ -1,0 +1,67 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "HkGuEfiU2tmxrTHJ8JOFV6acIYU",
+        "id": "UCCDA__IGX0x4JkrF8C-3Ueg",
+        "snippet": {
+            "title": "Maryland Girl",
+            "description": "Just sharing my thoughts on random topics and current events from a Christian point of view.",
+            "publishedAt": "2014-11-19T23:20:37Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLT3WTvONkKXkVD-r9fStRISFjOg8UobEm0XMw=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLT3WTvONkKXkVD-r9fStRISFjOg8UobEm0XMw=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLT3WTvONkKXkVD-r9fStRISFjOg8UobEm0XMw=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Maryland Girl",
+                "description": "Just sharing my thoughts on random topics and current events from a Christian point of view."
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUCDA__IGX0x4JkrF8C-3Ueg"
+            }
+        },
+        "statistics": {
+            "viewCount": "4341",
+            "subscriberCount": "36",
+            "hiddenSubscriberCount": false,
+            "videoCount": "16"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr",
+                "/m/019_rr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Maryland Girl",
+                "description": "Just sharing my thoughts on random topics and current events from a Christian point of view."
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

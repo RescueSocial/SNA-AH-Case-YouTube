@@ -1,0 +1,64 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "OxN7dBXKTNro_o0FbKBNKaAc5z0",
+        "id": "UCMZUoHiK9AEixU1MSEzDv-A",
+        "snippet": {
+            "title": "Abhishek shorts",
+            "description": "",
+            "publishedAt": "2020-03-15T10:41:35.624756Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/CaL0N_1C273RQzJNTqLRQH6M-HdJw6JtemvYgXnCMsf-oeoWjC1mf4rNvG3ojzQ3Kx7_cAoY=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/CaL0N_1C273RQzJNTqLRQH6M-HdJw6JtemvYgXnCMsf-oeoWjC1mf4rNvG3ojzQ3Kx7_cAoY=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/CaL0N_1C273RQzJNTqLRQH6M-HdJw6JtemvYgXnCMsf-oeoWjC1mf4rNvG3ojzQ3Kx7_cAoY=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Abhishek shorts",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUMZUoHiK9AEixU1MSEzDv-A"
+            }
+        },
+        "statistics": {
+            "viewCount": "1275",
+            "subscriberCount": "1",
+            "hiddenSubscriberCount": false,
+            "videoCount": "3"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/04rlf"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Music"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Abhishek shorts"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

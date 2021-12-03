@@ -1,0 +1,66 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "4AiOpUvPuDr8Pv8ebgbpFYWdclE",
+        "id": "UCZfaQRCtxT-F_UqklcGyOEw",
+        "snippet": {
+            "title": "jhon mike",
+            "description": "",
+            "publishedAt": "2012-08-07T18:32:15Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLReclBL762sTZnKhAjc6V3Vcchr4Yd3UcwcnA=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLReclBL762sTZnKhAjc6V3Vcchr4Yd3UcwcnA=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLReclBL762sTZnKhAjc6V3Vcchr4Yd3UcwcnA=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "jhon mike",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUZfaQRCtxT-F_UqklcGyOEw"
+            }
+        },
+        "statistics": {
+            "viewCount": "88664",
+            "subscriberCount": "80",
+            "hiddenSubscriberCount": false,
+            "videoCount": "489"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/04rlf"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Music"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "jhon mike"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

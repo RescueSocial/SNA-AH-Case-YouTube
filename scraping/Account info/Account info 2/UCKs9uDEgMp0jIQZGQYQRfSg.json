@@ -1,0 +1,66 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "cGdLLNiyqmUxTfnHNtrx2dTObZk",
+        "id": "UCKs9uDEgMp0jIQZGQYQRfSg",
+        "snippet": {
+            "title": "60 Second News",
+            "description": "Vines, memes, short videos and occasionaly introvert rants",
+            "customUrl": "60secondnews",
+            "publishedAt": "2020-01-24T22:16:42.053124Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTle65QlptNV7qTRDUqsOXZV3awUXY6_fOfaUoA=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTle65QlptNV7qTRDUqsOXZV3awUXY6_fOfaUoA=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTle65QlptNV7qTRDUqsOXZV3awUXY6_fOfaUoA=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "60 Second News",
+                "description": "Vines, memes, short videos and occasionaly introvert rants"
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUKs9uDEgMp0jIQZGQYQRfSg"
+            }
+        },
+        "statistics": {
+            "viewCount": "84998",
+            "subscriberCount": "188",
+            "hiddenSubscriberCount": false,
+            "videoCount": "269"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "60 Second News",
+                "description": "Vines, memes, short videos and occasionaly introvert rants"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

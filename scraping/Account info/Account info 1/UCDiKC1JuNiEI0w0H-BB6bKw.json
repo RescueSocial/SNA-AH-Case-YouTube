@@ -1,0 +1,72 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "Ya4zKNcSgUXWVkLK0tWkoqv9LuA",
+        "id": "UCDiKC1JuNiEI0w0H-BB6bKw",
+        "snippet": {
+            "title": "LET'S Talk Everything",
+            "description": "We talking about anything. ",
+            "publishedAt": "2010-03-10T02:35:02Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRsujF9ZLnMNeEu4jx3wH9-2OTjzh486fG9t2A9aQ=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRsujF9ZLnMNeEu4jx3wH9-2OTjzh486fG9t2A9aQ=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRsujF9ZLnMNeEu4jx3wH9-2OTjzh486fG9t2A9aQ=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "LET'S Talk Everything",
+                "description": "We talking about anything. "
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUDiKC1JuNiEI0w0H-BB6bKw"
+            }
+        },
+        "statistics": {
+            "viewCount": "17728",
+            "subscriberCount": "62",
+            "hiddenSubscriberCount": false,
+            "videoCount": "61"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr",
+                "/m/019_rr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "LET'S Talk Everything",
+                "description": "We talking about anything. ",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/irRSapJHJB-lWi6_RwJ5-r58uALWw7F8If9AfAXs38HzVk5M9YQTiyvtciYkhvFZrHl0dW_yxw"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

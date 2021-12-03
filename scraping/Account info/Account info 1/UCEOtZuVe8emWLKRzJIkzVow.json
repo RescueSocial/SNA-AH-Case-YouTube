@@ -1,0 +1,77 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "rD0Hvsdc-OYpa-EOFE2HU16had0",
+        "id": "UCEOtZuVe8emWLKRzJIkzVow",
+        "snippet": {
+            "title": "QuarterCast",
+            "description": "",
+            "publishedAt": "2019-12-16T21:41:05.650706Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQ6RAqjI5aPBOyxvCjdVugN21zkSvbflRIMRZX2=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQ6RAqjI5aPBOyxvCjdVugN21zkSvbflRIMRZX2=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQ6RAqjI5aPBOyxvCjdVugN21zkSvbflRIMRZX2=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "QuarterCast",
+                "description": ""
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUEOtZuVe8emWLKRzJIkzVow"
+            }
+        },
+        "statistics": {
+            "viewCount": "349999",
+            "subscriberCount": "12900",
+            "hiddenSubscriberCount": false,
+            "videoCount": "231"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/025zzc",
+                "/m/02ntfj",
+                "/m/0bzvm2",
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Action_game",
+                "https://en.wikipedia.org/wiki/Action-adventure_game",
+                "https://en.wikipedia.org/wiki/Video_game_culture",
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "QuarterCast",
+                "keywords": "movies \"video games\" \"star wars\" gaming entertainment news \"movie news\" \"video game news\" \"cyberpunk 2077\" cyberpunk \"gaming news\" entertainment \"cd projekt red\" \"angry joe\"",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/3VVgWLjFx3Jvj0_NGleUU9Bgnwuz3_0uhqPhs1oNlK0lgKbcB4hHbak4ocTRm4ZH8OVKo8mfhA"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

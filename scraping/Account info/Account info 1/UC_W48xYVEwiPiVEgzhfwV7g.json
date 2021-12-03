@@ -1,0 +1,67 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "WkNqRWbtFIrWq1ZJgkMD1h7o9y4",
+        "id": "UC_W48xYVEwiPiVEgzhfwV7g",
+        "snippet": {
+            "title": "RoxyGen",
+            "description": "",
+            "publishedAt": "2020-06-12T01:02:34.512905Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/8LfWKF3Db8Z2yokEXbcUHUNC2t2UtvgfxW0NBrqmirjnjY4cJmn3b3MIJ5bS0HssUF5i555kGw=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/8LfWKF3Db8Z2yokEXbcUHUNC2t2UtvgfxW0NBrqmirjnjY4cJmn3b3MIJ5bS0HssUF5i555kGw=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/8LfWKF3Db8Z2yokEXbcUHUNC2t2UtvgfxW0NBrqmirjnjY4cJmn3b3MIJ5bS0HssUF5i555kGw=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "RoxyGen",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU_W48xYVEwiPiVEgzhfwV7g"
+            }
+        },
+        "statistics": {
+            "viewCount": "1011325",
+            "subscriberCount": "3000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "271"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/019_rr",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "RoxyGen",
+                "unsubscribedTrailer": "AaE7Fr9kwbM"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

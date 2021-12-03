@@ -1,0 +1,71 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "pOMZegzdr9n0uCq-tZTw-7Ap-gk",
+        "id": "UC4L8zPgbx3ZATeWZ-iEIKiA",
+        "snippet": {
+            "title": "Zach Simmons",
+            "description": "",
+            "customUrl": "zachsimmonsyeahimfamous",
+            "publishedAt": "2012-10-02T17:05:36Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQtVx0xhbvmayEhYxXCbGDSmRRwnIAvpG-w7NToMw=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQtVx0xhbvmayEhYxXCbGDSmRRwnIAvpG-w7NToMw=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQtVx0xhbvmayEhYxXCbGDSmRRwnIAvpG-w7NToMw=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Zach Simmons",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU4L8zPgbx3ZATeWZ-iEIKiA"
+            }
+        },
+        "statistics": {
+            "viewCount": "20078009",
+            "subscriberCount": "28500",
+            "hiddenSubscriberCount": false,
+            "videoCount": "1425"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/0glt670",
+                "/m/064t9",
+                "/m/06j6l",
+                "/m/04rlf"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Hip_hop_music",
+                "https://en.wikipedia.org/wiki/Pop_music",
+                "https://en.wikipedia.org/wiki/Rhythm_and_blues",
+                "https://en.wikipedia.org/wiki/Music"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Zach Simmons"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "QOn8rH7E9ULTxGV1Np7zHShvMWk",
+        "id": "UClHofEiTcGYPMA9jqaFbmGA",
+        "snippet": {
+            "title": "TehMimi",
+            "description": "I don't even know what I'm doing with my life anymore.",
+            "customUrl": "tehmimi",
+            "publishedAt": "2008-10-03T22:20:13Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTanaaDk3XxIwV2mr0OteADuf17umX78GWEAP1bZg=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTanaaDk3XxIwV2mr0OteADuf17umX78GWEAP1bZg=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTanaaDk3XxIwV2mr0OteADuf17umX78GWEAP1bZg=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "TehMimi",
+                "description": "I don't even know what I'm doing with my life anymore."
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUlHofEiTcGYPMA9jqaFbmGA"
+            }
+        },
+        "statistics": {
+            "viewCount": "12314870",
+            "subscriberCount": "163000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "105"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/019_rr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "TehMimi",
+                "description": "I don't even know what I'm doing with my life anymore.",
+                "keywords": "TehMimi commentator commentary \"social commentary\" \"commentary community\"",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/rujruswAElw3CFoDn0RrcougdzpZN0Zk0iEoN7lcDMdqaWvd-TTBXmdq-DyR7pFIuJk2r-Eq4T0"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

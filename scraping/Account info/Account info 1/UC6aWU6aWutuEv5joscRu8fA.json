@@ -1,0 +1,66 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "-PqyKdN8iLnQrWqRDzOYKBp7Pxo",
+        "id": "UC6aWU6aWutuEv5joscRu8fA",
+        "snippet": {
+            "title": "dewltmn",
+            "description": "",
+            "publishedAt": "2006-10-01T15:12:24Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTDuBtJx68Qh_VAfugsOHOVlp6AkzzO3w2WNA=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTDuBtJx68Qh_VAfugsOHOVlp6AkzzO3w2WNA=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTDuBtJx68Qh_VAfugsOHOVlp6AkzzO3w2WNA=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "dewltmn",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU6aWU6aWutuEv5joscRu8fA"
+            }
+        },
+        "statistics": {
+            "viewCount": "150627",
+            "subscriberCount": "174",
+            "hiddenSubscriberCount": false,
+            "videoCount": "1422"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/04rlf"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Music"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "dewltmn"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

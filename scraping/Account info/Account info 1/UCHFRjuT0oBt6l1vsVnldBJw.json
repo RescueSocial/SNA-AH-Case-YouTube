@@ -1,0 +1,72 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "LOMxTnMiPST38-cNDP724HCpK8I",
+        "id": "UCHFRjuT0oBt6l1vsVnldBJw",
+        "snippet": {
+            "title": "Nairobi Chapel",
+            "description": "",
+            "publishedAt": "2014-04-25T06:54:40Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQ0Bl02ZddwvxrZOKXUjfqJKoC7Dj1vlVdV-oqs=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQ0Bl02ZddwvxrZOKXUjfqJKoC7Dj1vlVdV-oqs=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQ0Bl02ZddwvxrZOKXUjfqJKoC7Dj1vlVdV-oqs=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Nairobi Chapel",
+                "description": ""
+            },
+            "country": "KE"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUHFRjuT0oBt6l1vsVnldBJw"
+            }
+        },
+        "statistics": {
+            "viewCount": "867425",
+            "subscriberCount": "9260",
+            "hiddenSubscriberCount": false,
+            "videoCount": "709"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr",
+                "/m/06bvp",
+                "/m/02mscn",
+                "/m/04rlf"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society",
+                "https://en.wikipedia.org/wiki/Religion",
+                "https://en.wikipedia.org/wiki/Christian_music",
+                "https://en.wikipedia.org/wiki/Music"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Nairobi Chapel",
+                "country": "KE"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "bz51aBJYKRMwxOLCbbGtgebOicg",
+        "id": "UCxPZ3c5xIVuw9KSNFpGIzMw",
+        "snippet": {
+            "title": "Ms. Heloise",
+            "description": "",
+            "publishedAt": "2020-05-05T18:00:08.357957Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSpXraPdztSJKKUxjKE-LON3VJMMOWr_4jDNzWF=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSpXraPdztSJKKUxjKE-LON3VJMMOWr_4jDNzWF=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSpXraPdztSJKKUxjKE-LON3VJMMOWr_4jDNzWF=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Ms. Heloise",
+                "description": ""
+            },
+            "country": "NL"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUxPZ3c5xIVuw9KSNFpGIzMw"
+            }
+        },
+        "statistics": {
+            "viewCount": "170355",
+            "subscriberCount": "1300",
+            "hiddenSubscriberCount": false,
+            "videoCount": "3060"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/0f2f9",
+                "/m/02jjt",
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Television_program",
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Ms. Heloise",
+                "country": "NL"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/oEC6u4SjgF3rg_O1sG0NBm5u_z4UML8vfT3rcYqgnkbDo59Z_KTeuH0vKnSkrjayPtEaMIis6w"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

@@ -1,0 +1,76 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "E-uaog9NlqO0GnsRo-F5DmYT8Ao",
+        "id": "UCtVGGeUqfVHOK4Q6nAwYO3g",
+        "snippet": {
+            "title": "LaterClips",
+            "description": "Clips from Lew Later",
+            "customUrl": "laterclips",
+            "publishedAt": "2019-04-11T21:06:28Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQ2KzKGZzUIE-JARbTtsPnd7_mareCoIvIVH495=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQ2KzKGZzUIE-JARbTtsPnd7_mareCoIvIVH495=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQ2KzKGZzUIE-JARbTtsPnd7_mareCoIvIVH495=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "LaterClips",
+                "description": "Clips from Lew Later"
+            },
+            "country": "CA"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUtVGGeUqfVHOK4Q6nAwYO3g"
+            }
+        },
+        "statistics": {
+            "viewCount": "253320469",
+            "subscriberCount": "835000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "3608"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr",
+                "/m/019_rr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "LaterClips",
+                "description": "Clips from Lew Later",
+                "keywords": "\"lew later\" tech technology gadgets future smartphones",
+                "unsubscribedTrailer": "HxPb5ynoovY",
+                "country": "CA"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/IXrOY_KjOHoXKuCPtXP8o1xp5XCbEgYBhXtSNnhi1DviVzc0pOGD2bHjQYMr77TSnmdaaQq2"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

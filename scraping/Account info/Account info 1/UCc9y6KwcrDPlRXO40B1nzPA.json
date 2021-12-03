@@ -1,0 +1,72 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "mhjLQu-QeNglsDndMWL7IfXTUTk",
+        "id": "UCc9y6KwcrDPlRXO40B1nzPA",
+        "snippet": {
+            "title": "1St TV Showbiz",
+            "description": "",
+            "publishedAt": "2016-04-08T16:04:17Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSWveUd30DSStiJP6rPHmw3pLn0Y9hdesZK8ZHK=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSWveUd30DSStiJP6rPHmw3pLn0Y9hdesZK8ZHK=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSWveUd30DSStiJP6rPHmw3pLn0Y9hdesZK8ZHK=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "1St TV Showbiz",
+                "description": ""
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUc9y6KwcrDPlRXO40B1nzPA"
+            }
+        },
+        "statistics": {
+            "viewCount": "249706",
+            "subscriberCount": "307",
+            "hiddenSubscriberCount": false,
+            "videoCount": "866"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "1St TV Showbiz",
+                "keywords": "news \"top stories\" word u.s sports usa",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/KagaxqxdAkchq1HEa5-176WhIlW3Z4ZFWO9KfnJ0eoKi6fig5PiYPVI5CMKKFBnKD1WE_ZHE"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

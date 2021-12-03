@@ -1,0 +1,75 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "AnUYnSEDBFZYChFmljKtPcIbusg",
+        "id": "UC_D7dC1lgBYIisIYM_SF9jQ",
+        "snippet": {
+            "title": "EsTrending",
+            "description": "Noticias, entretenimiento, historias virales, personajes, curiosidades y m\u00e1s. Lo que es tendencia est\u00e1 en #EsTrending",
+            "customUrl": "estrending",
+            "publishedAt": "2015-04-10T22:14:22Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSdLOo2ceWAOM_cs3s_8U08GKcASi1ReQtl1HS-FQ=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSdLOo2ceWAOM_cs3s_8U08GKcASi1ReQtl1HS-FQ=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSdLOo2ceWAOM_cs3s_8U08GKcASi1ReQtl1HS-FQ=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "EsTrending",
+                "description": "Noticias, entretenimiento, historias virales, personajes, curiosidades y m\u00e1s. Lo que es tendencia est\u00e1 en #EsTrending"
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU_D7dC1lgBYIisIYM_SF9jQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "13259906",
+            "subscriberCount": "30600",
+            "hiddenSubscriberCount": false,
+            "videoCount": "1685"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02vxn",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "EsTrending",
+                "description": "Noticias, entretenimiento, historias virales, personajes, curiosidades y m\u00e1s. Lo que es tendencia est\u00e1 en #EsTrending",
+                "trackingAnalyticsAccountId": "UA-64020906-1",
+                "unsubscribedTrailer": "H4qpyTzoL7U",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/EL2Bj3IPdrjEZZZBtk_n9EXgVUEuEfQbI0aBbphcTxqqmTXkgdMIb2_4wN6EEwsbL3Zad8ZQKA"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

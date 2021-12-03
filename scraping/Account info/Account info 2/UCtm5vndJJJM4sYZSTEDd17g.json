@@ -1,0 +1,68 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "N_S8CxvXFSeFlzC7Fv90HAfs-z8",
+        "id": "UCtm5vndJJJM4sYZSTEDd17g",
+        "snippet": {
+            "title": "Denise Botor",
+            "description": "",
+            "customUrl": "denisebotor",
+            "publishedAt": "2017-01-15T09:31:29Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLS3gyiU0fVw7W0ehmW7yC36tBJyP_ehWhTjcPLx=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLS3gyiU0fVw7W0ehmW7yC36tBJyP_ehWhTjcPLx=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLS3gyiU0fVw7W0ehmW7yC36tBJyP_ehWhTjcPLx=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Denise Botor",
+                "description": ""
+            },
+            "country": "PH"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUtm5vndJJJM4sYZSTEDd17g"
+            }
+        },
+        "statistics": {
+            "viewCount": "319019",
+            "subscriberCount": "2430",
+            "hiddenSubscriberCount": false,
+            "videoCount": "56"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/019_rr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Denise Botor",
+                "country": "PH"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

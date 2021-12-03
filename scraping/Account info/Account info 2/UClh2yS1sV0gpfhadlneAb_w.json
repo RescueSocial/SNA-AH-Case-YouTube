@@ -1,0 +1,67 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "4VBYdoRpXbHgAgcSrsZdBpMtrzg",
+        "id": "UClh2yS1sV0gpfhadlneAb_w",
+        "snippet": {
+            "title": "24h News",
+            "description": "",
+            "publishedAt": "2017-02-23T06:22:44Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRG7UFKtHK49BfnHThgUroe8X-bwHXsQwzeONqR=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRG7UFKtHK49BfnHThgUroe8X-bwHXsQwzeONqR=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRG7UFKtHK49BfnHThgUroe8X-bwHXsQwzeONqR=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "24h News",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUlh2yS1sV0gpfhadlneAb_w"
+            }
+        },
+        "statistics": {
+            "viewCount": "2990756",
+            "subscriberCount": "4810",
+            "hiddenSubscriberCount": false,
+            "videoCount": "22737"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "24h News"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/TZ5O2m-hiyTKZMJYnoOzTuqmjv39BI77bzOq3gd8tsaguRYKqKnG3FLxdHG3n1B5ip44kyyEttY"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

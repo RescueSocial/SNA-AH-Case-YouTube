@@ -1,0 +1,64 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "iOjMcOjEg0RYRHwbh3cs5QH7I3E",
+        "id": "UCvLj9T8o8cA8_sxiwV6ufKA",
+        "snippet": {
+            "title": "Daily News",
+            "description": "",
+            "publishedAt": "2021-02-20T09:40:04.955466Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRWelyW2PhuVfCAvsoNe1jrvjvMCux9cyC1SQ=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRWelyW2PhuVfCAvsoNe1jrvjvMCux9cyC1SQ=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRWelyW2PhuVfCAvsoNe1jrvjvMCux9cyC1SQ=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Daily News",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUvLj9T8o8cA8_sxiwV6ufKA"
+            }
+        },
+        "statistics": {
+            "viewCount": "400",
+            "subscriberCount": "0",
+            "hiddenSubscriberCount": false,
+            "videoCount": "43"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Daily News"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

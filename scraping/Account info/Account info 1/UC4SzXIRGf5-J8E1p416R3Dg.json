@@ -1,0 +1,75 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "fp1X-4b2DeoXe0oEyFV95lEyx6c",
+        "id": "UC4SzXIRGf5-J8E1p416R3Dg",
+        "snippet": {
+            "title": "Fast News",
+            "description": "",
+            "publishedAt": "2020-04-21T22:11:53.965595Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTzJLrM2vOfnQvD5uJi4A45v9o5HDgWjX_71NgT=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTzJLrM2vOfnQvD5uJi4A45v9o5HDgWjX_71NgT=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTzJLrM2vOfnQvD5uJi4A45v9o5HDgWjX_71NgT=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Fast News",
+                "description": ""
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU4SzXIRGf5-J8E1p416R3Dg"
+            }
+        },
+        "statistics": {
+            "viewCount": "1446938",
+            "subscriberCount": "2300",
+            "hiddenSubscriberCount": false,
+            "videoCount": "7716"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr",
+                "/m/06ntj",
+                "/m/0jm_"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society",
+                "https://en.wikipedia.org/wiki/Sport",
+                "https://en.wikipedia.org/wiki/American_football"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Fast News",
+                "keywords": "news \"us news\" \"usa news\" \"american news\" \"kttc news\" \"west palm beach news\" \"ktla news live\" \"fox 6 news milwaukee\" \"wgn news chicago\" \"fox 4 news dallas\" \"pbs newshour youtube\" \"nytimes breaking news\" \"kennedy fox news\" \"wheeling news register\" \"raleigh news and observer\" news2you \"associated press news\" \"petoskey news review\" \"gillette news record\" \"msn news entertainment\" \"news today update\" \"news today msnbc\" \"news today local\" \"news world fox\" \"news today fox\" \"news today abc\"",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/MF2wq4sh_Rs1olbvXkG1z8VzzEQ-JnYbweSu6oKr4ufBFgD2VlQoZpMgGjeaR52SmicLepiaKds"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

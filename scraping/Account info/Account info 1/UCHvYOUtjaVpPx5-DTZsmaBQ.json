@@ -1,0 +1,69 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "OYOszC_c6gZUJH4331O4IlI_xFw",
+        "id": "UCHvYOUtjaVpPx5-DTZsmaBQ",
+        "snippet": {
+            "title": "Celebrity Life",
+            "description": "",
+            "publishedAt": "2021-03-13T17:19:06.104889Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSDn8wWaqdbO0UtXFz5Lum1_b-djD9B2CUatRHA=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSDn8wWaqdbO0UtXFz5Lum1_b-djD9B2CUatRHA=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSDn8wWaqdbO0UtXFz5Lum1_b-djD9B2CUatRHA=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Celebrity Life",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUHvYOUtjaVpPx5-DTZsmaBQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "531985108",
+            "subscriberCount": "238000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "1029"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/019_rr",
+                "/m/02jjt",
+                "/m/04rlf"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Music"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Celebrity Life"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

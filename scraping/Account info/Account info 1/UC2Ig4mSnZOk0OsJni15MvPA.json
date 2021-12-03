@@ -1,0 +1,69 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "ezkSTpYrhwhF68C7qrARqtJRUyc",
+        "id": "UC2Ig4mSnZOk0OsJni15MvPA",
+        "snippet": {
+            "title": "Sparkle",
+            "description": "",
+            "publishedAt": "2021-11-07T16:23:01.305586Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/88d_r2IqryL7IpBEqHQF3Yw0aZeUm_0pv0ihQgHbrsFApZd3K76twptJTHGEi8u81gkCoyg0_DA=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/88d_r2IqryL7IpBEqHQF3Yw0aZeUm_0pv0ihQgHbrsFApZd3K76twptJTHGEi8u81gkCoyg0_DA=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/88d_r2IqryL7IpBEqHQF3Yw0aZeUm_0pv0ihQgHbrsFApZd3K76twptJTHGEi8u81gkCoyg0_DA=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Sparkle",
+                "description": ""
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU2Ig4mSnZOk0OsJni15MvPA"
+            }
+        },
+        "statistics": {
+            "viewCount": "33",
+            "subscriberCount": "0",
+            "hiddenSubscriberCount": false,
+            "videoCount": "63"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Sparkle",
+                "keywords": "trailer trailers movie movies movieclips",
+                "country": "US"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

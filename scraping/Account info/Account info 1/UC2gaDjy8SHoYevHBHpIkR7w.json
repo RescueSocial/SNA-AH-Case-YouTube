@@ -1,0 +1,77 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "jZsnP3a8qy-MgC50tg7OswJWrKg",
+        "id": "UC2gaDjy8SHoYevHBHpIkR7w",
+        "snippet": {
+            "title": "Celeb Central",
+            "description": "",
+            "customUrl": "celebcentraltv",
+            "publishedAt": "2010-01-10T04:51:24Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSZSIA9qPA5YpnAMsblGkG9PGVBjKu3PzZvVkV1=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSZSIA9qPA5YpnAMsblGkG9PGVBjKu3PzZvVkV1=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSZSIA9qPA5YpnAMsblGkG9PGVBjKu3PzZvVkV1=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Celeb Central",
+                "description": ""
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU2gaDjy8SHoYevHBHpIkR7w"
+            }
+        },
+        "statistics": {
+            "viewCount": "3441498",
+            "subscriberCount": "16400",
+            "hiddenSubscriberCount": false,
+            "videoCount": "50"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn",
+                "/m/0f2f9"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Television_program"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Celeb Central",
+                "keywords": "\"Celeb Central\"",
+                "unsubscribedTrailer": "3beBArjSd60",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/yVp2TfvNkVb2ox4RWeIhsRygVZbooPDApFD8c6SxuyxbokXPCwWpHRM48PE8IxAZ2BTTerpNfg"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

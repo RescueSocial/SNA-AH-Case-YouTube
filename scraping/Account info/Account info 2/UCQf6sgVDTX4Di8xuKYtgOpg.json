@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "cCa3gY8sfPjmlUarFgz0NlLlzDU",
+        "id": "UCQf6sgVDTX4Di8xuKYtgOpg",
+        "snippet": {
+            "title": "art",
+            "description": "",
+            "customUrl": "artofficial",
+            "publishedAt": "2016-08-29T12:24:47Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRNTxSzVcs-Ioui6LAJ0TssRKH4pj2qvVBrOwYqog=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRNTxSzVcs-Ioui6LAJ0TssRKH4pj2qvVBrOwYqog=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRNTxSzVcs-Ioui6LAJ0TssRKH4pj2qvVBrOwYqog=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "art",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUQf6sgVDTX4Di8xuKYtgOpg"
+            }
+        },
+        "statistics": {
+            "viewCount": "5563049",
+            "subscriberCount": "5080",
+            "hiddenSubscriberCount": false,
+            "videoCount": "46"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/04rlf",
+                "/m/064t9",
+                "/m/05rwpb"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Music",
+                "https://en.wikipedia.org/wiki/Pop_music",
+                "https://en.wikipedia.org/wiki/Independent_music"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "art",
+                "unsubscribedTrailer": "TYO4rg_rZ9w"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/Mj7tKwvLaWv39RRnWUQdN8DYgFfpH7-l1HzvJu-wVvRdRZLGWPT9dKD059NON8UlKlZ5e5ok"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

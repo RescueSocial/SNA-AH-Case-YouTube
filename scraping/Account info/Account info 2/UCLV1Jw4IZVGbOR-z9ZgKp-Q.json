@@ -1,0 +1,66 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "QNaR4hdgvWcJQAXS5UBei6HaoAE",
+        "id": "UCLV1Jw4IZVGbOR-z9ZgKp-Q",
+        "snippet": {
+            "title": "neideavelar",
+            "description": "",
+            "publishedAt": "2010-08-15T00:12:14Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRT_061ha8lniFwGpWxhztyGZORRml4nV77JA=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRT_061ha8lniFwGpWxhztyGZORRml4nV77JA=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRT_061ha8lniFwGpWxhztyGZORRml4nV77JA=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "neideavelar",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UULV1Jw4IZVGbOR-z9ZgKp-Q"
+            }
+        },
+        "statistics": {
+            "viewCount": "922431",
+            "subscriberCount": "372",
+            "hiddenSubscriberCount": false,
+            "videoCount": "15"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/064t9",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Pop_music",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "neideavelar"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

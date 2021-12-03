@@ -1,0 +1,68 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "CadAUfC1WJ8W1f8iSE75Urighk4",
+        "id": "UC6KnKTMVr44BIrNeo8bSwfw",
+        "snippet": {
+            "title": "ali veli",
+            "description": "",
+            "publishedAt": "2016-11-22T14:25:35Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTvn4C-lKvcLN_HMd08PZa25ROBBcDFxGIWjg=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTvn4C-lKvcLN_HMd08PZa25ROBBcDFxGIWjg=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTvn4C-lKvcLN_HMd08PZa25ROBBcDFxGIWjg=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "ali veli",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU6KnKTMVr44BIrNeo8bSwfw"
+            }
+        },
+        "statistics": {
+            "viewCount": "758742",
+            "subscriberCount": "227",
+            "hiddenSubscriberCount": false,
+            "videoCount": "178"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr",
+                "/m/02jjt",
+                "/m/019_rr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society",
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "ali veli"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

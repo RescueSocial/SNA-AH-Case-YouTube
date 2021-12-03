@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "_3wzjelXE413zQHP4ABG2IER5hw",
+        "id": "UCzlicyYuPMjtF9VVvJr-PeA",
+        "snippet": {
+            "title": "Crazed Culture",
+            "description": "\n",
+            "customUrl": "crazedculture",
+            "publishedAt": "2018-03-21T19:18:37Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSlUCXCP20lyKtqkI36NdVx75Ni4TqV2mI_mANV=s88-c-k-c0x00ffffff-no-rj-mo",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSlUCXCP20lyKtqkI36NdVx75Ni4TqV2mI_mANV=s240-c-k-c0x00ffffff-no-rj-mo",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSlUCXCP20lyKtqkI36NdVx75Ni4TqV2mI_mANV=s800-c-k-c0x00ffffff-no-rj-mo",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Crazed Culture",
+                "description": "\n"
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUzlicyYuPMjtF9VVvJr-PeA"
+            }
+        },
+        "statistics": {
+            "viewCount": "12071194",
+            "hiddenSubscriberCount": true,
+            "videoCount": "106"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/0f2f9",
+                "/m/04rlf"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Television_program",
+                "https://en.wikipedia.org/wiki/Music"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Crazed Culture",
+                "description": "\n",
+                "keywords": "Music \"Hot Hut\" celebrities \"top 10\" \"top 5\" reaction news \"entertainment news\"",
+                "country": "US"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

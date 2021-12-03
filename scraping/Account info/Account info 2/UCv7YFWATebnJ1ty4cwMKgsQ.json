@@ -1,0 +1,78 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "lMpHFvxCR4aRDMBDlVId0qJnKDg",
+        "id": "UCv7YFWATebnJ1ty4cwMKgsQ",
+        "snippet": {
+            "title": "The Wendy Williams Show",
+            "description": "The official Youtube channel of \"The Wendy Williams Show.\"\r\nwww.wendyshow.com",
+            "publishedAt": "2009-04-29T14:04:17Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/GaNr_sdTpQ02Pux2JApnfaTbHyxPnJrfckiPdehjdicfRkCwEf3aQgZHULRluaD30tsYxAst3Q=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/GaNr_sdTpQ02Pux2JApnfaTbHyxPnJrfckiPdehjdicfRkCwEf3aQgZHULRluaD30tsYxAst3Q=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/GaNr_sdTpQ02Pux2JApnfaTbHyxPnJrfckiPdehjdicfRkCwEf3aQgZHULRluaD30tsYxAst3Q=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "The Wendy Williams Show",
+                "description": "The official Youtube channel of \"The Wendy Williams Show.\"\r\nwww.wendyshow.com"
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUv7YFWATebnJ1ty4cwMKgsQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "1403373420",
+            "subscriberCount": "2670000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "6679"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/0f2f9",
+                "/m/02vxn",
+                "/m/02jjt",
+                "/m/019_rr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Television_program",
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "The Wendy Williams Show",
+                "description": "The official Youtube channel of \"The Wendy Williams Show.\"\r\nwww.wendyshow.com",
+                "keywords": "\"wendy williams\" \"wendy williams show\" wendy williams show live experience how you doin talk gossip",
+                "trackingAnalyticsAccountId": "UA-42097071-1",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/gT5qV-7urGWLCo4Hyea8acsrz7Ws0wx4w-LpFkmXrZkTpaTZBrYBIZWr_aZncd7inI3cvpuA"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

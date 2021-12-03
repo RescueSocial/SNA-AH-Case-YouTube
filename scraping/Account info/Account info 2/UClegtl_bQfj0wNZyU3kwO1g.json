@@ -1,0 +1,72 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "m9cMGrMKSc1-m2ImyHz5WZ01I6k",
+        "id": "UClegtl_bQfj0wNZyU3kwO1g",
+        "snippet": {
+            "title": "HoneyBeeeeez",
+            "description": "",
+            "customUrl": "honeybeeeeez",
+            "publishedAt": "2013-05-27T17:45:39Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSNNMljGiO_dmqWNw321OJKwsyuv02PqIbPyMdz=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSNNMljGiO_dmqWNw321OJKwsyuv02PqIbPyMdz=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSNNMljGiO_dmqWNw321OJKwsyuv02PqIbPyMdz=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "HoneyBeeeeez",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUlegtl_bQfj0wNZyU3kwO1g"
+            }
+        },
+        "statistics": {
+            "viewCount": "11787781",
+            "subscriberCount": "4530",
+            "hiddenSubscriberCount": false,
+            "videoCount": "176"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "HoneyBeeeeez",
+                "keywords": "movies celebs film trailers interviews",
+                "unsubscribedTrailer": "1Id2vgX5tJI"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/WHj1huP3K8N-7reFSWSY4nqQir8-s-ZXlrMkoJKptIICPqmERkAljSYDKEr7PSjoTG7vZ0jO"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "wOkBV63_b86YLP8Mvaj0nPPoS_I",
+        "id": "UCJoqUVyb9ZbIbBQmXxmsR8w",
+        "snippet": {
+            "title": "What Trend",
+            "description": "",
+            "publishedAt": "2011-10-15T14:12:21Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSRJK2oUMHmY6CYY72IlYNCp-cMwiE0ZnstJTVk=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSRJK2oUMHmY6CYY72IlYNCp-cMwiE0ZnstJTVk=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSRJK2oUMHmY6CYY72IlYNCp-cMwiE0ZnstJTVk=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "What Trend",
+                "description": ""
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUJoqUVyb9ZbIbBQmXxmsR8w"
+            }
+        },
+        "statistics": {
+            "viewCount": "6831556",
+            "subscriberCount": "5180",
+            "hiddenSubscriberCount": false,
+            "videoCount": "413"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/019_rr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "What Trend",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/0jU8d3Mm7hS7CWpdIBFZbH7f9kCymPKEaU5L6hXoVBITiVjdsmeR1tQ3sMZGmkPcpBrS-fZEJw"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

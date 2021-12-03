@@ -1,0 +1,76 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "vHR5SFZ47Chu8keO_tyqDWUNnfs",
+        "id": "UCUwneOC8l4m9T0ype97vFIA",
+        "snippet": {
+            "title": "Kurono",
+            "description": "Hello there\nThis is an archive channel\nGlad i could help",
+            "publishedAt": "2017-05-17T21:01:30Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRikCqDoYpVNwSyQ2_MYny0JTZVp0MvZHqIHeuaLg=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRikCqDoYpVNwSyQ2_MYny0JTZVp0MvZHqIHeuaLg=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRikCqDoYpVNwSyQ2_MYny0JTZVp0MvZHqIHeuaLg=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Kurono",
+                "description": "Hello there\nThis is an archive channel\nGlad i could help"
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUUwneOC8l4m9T0ype97vFIA"
+            }
+        },
+        "statistics": {
+            "viewCount": "918825",
+            "subscriberCount": "6410",
+            "hiddenSubscriberCount": false,
+            "videoCount": "540"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr",
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society",
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Kurono",
+                "description": "Hello there\nThis is an archive channel\nGlad i could help",
+                "moderateComments": true,
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/aTysDX7DTEoarPrc_qHFDASs1v3efsUS-1wnmfjhNwax4iE3lJPnyW4WDgBb65m4TjzY1E1umg"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

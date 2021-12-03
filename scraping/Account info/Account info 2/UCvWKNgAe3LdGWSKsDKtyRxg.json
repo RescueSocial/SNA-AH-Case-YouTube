@@ -1,0 +1,68 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "XoYcS8SakDTmFy7zF_56kpHcgAY",
+        "id": "UCvWKNgAe3LdGWSKsDKtyRxg",
+        "snippet": {
+            "title": "Disney",
+            "description": "",
+            "publishedAt": "2009-12-03T08:26:04Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTUJJgLHi1yEq-DepugT2_GgH1oE_TAlhjVBzKu=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTUJJgLHi1yEq-DepugT2_GgH1oE_TAlhjVBzKu=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTUJJgLHi1yEq-DepugT2_GgH1oE_TAlhjVBzKu=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Disney",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUvWKNgAe3LdGWSKsDKtyRxg"
+            }
+        },
+        "statistics": {
+            "viewCount": "600900",
+            "subscriberCount": "2380",
+            "hiddenSubscriberCount": false,
+            "videoCount": "230"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Disney",
+                "keywords": "Spoof Parody Movie Screen Team Angie Chad",
+                "moderateComments": true
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "8yu6ete8W_cWCF7XWrtbayOrz2w",
+        "id": "UCkT7-WHt8KwQ1vo5tYfhlQg",
+        "snippet": {
+            "title": "Cineplex Movies",
+            "description": "Movie trailers, exclusive interviews, advance tickets and more. For showtimes, visit Cineplex.com or download the Cineplex app.",
+            "publishedAt": "2009-09-22T19:02:17Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/PNTXa-eH6knzxT_OsBvh7YM8wEzCUqG2mBfZ-HSaS7uZPdbCsWttBRNte7UNdJ6T7UaZJHko=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/PNTXa-eH6knzxT_OsBvh7YM8wEzCUqG2mBfZ-HSaS7uZPdbCsWttBRNte7UNdJ6T7UaZJHko=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/PNTXa-eH6knzxT_OsBvh7YM8wEzCUqG2mBfZ-HSaS7uZPdbCsWttBRNte7UNdJ6T7UaZJHko=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Cineplex Movies",
+                "description": "Movie trailers, exclusive interviews, advance tickets and more. For showtimes, visit Cineplex.com or download the Cineplex app."
+            },
+            "country": "CA"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUkT7-WHt8KwQ1vo5tYfhlQg"
+            }
+        },
+        "statistics": {
+            "viewCount": "8346936",
+            "subscriberCount": "21100",
+            "hiddenSubscriberCount": false,
+            "videoCount": "1203"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Cineplex Movies",
+                "description": "Movie trailers, exclusive interviews, advance tickets and more. For showtimes, visit Cineplex.com or download the Cineplex app.",
+                "keywords": "cineplex movies ticketing blogs entertainment \"pop-culture films\" videos trailers \"met opera\" celebrity",
+                "trackingAnalyticsAccountId": "UA-87936847-1",
+                "moderateComments": true,
+                "unsubscribedTrailer": "yy4ELaVwcx0",
+                "country": "CA"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/mm-IsmCkbFfoIugTfh0YQZcEjLXvV5BJ7LfrMZpHqsQABLevvGK6lneuzBBMSDuA3ECJJwpP"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

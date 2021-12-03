@@ -1,0 +1,71 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "ugeWR207CZL7OlaKA-sZ7YJHPOg",
+        "id": "UCg1F7ERraXw58ZEp_SN1SlQ",
+        "snippet": {
+            "title": "Aussie Gossip",
+            "description": "Check out our channel for the juiciest and freshest gossip and news!",
+            "publishedAt": "2015-11-17T06:08:12Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLS7ykqfa-RQb6nH5GDGEo6nnU1w_OKQu2T0_d8sfg=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLS7ykqfa-RQb6nH5GDGEo6nnU1w_OKQu2T0_d8sfg=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLS7ykqfa-RQb6nH5GDGEo6nnU1w_OKQu2T0_d8sfg=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Aussie Gossip",
+                "description": "Check out our channel for the juiciest and freshest gossip and news!"
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUg1F7ERraXw58ZEp_SN1SlQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "280949",
+            "hiddenSubscriberCount": true,
+            "videoCount": "230"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/019_rr",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Aussie Gossip",
+                "description": "Check out our channel for the juiciest and freshest gossip and news!",
+                "keywords": "gossip celebrities celebrity entertainment",
+                "moderateComments": true
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/FLdc3clEWj29MoIS83hXPJMCPU6BBrv0t_sIG2B_5PySfZyvYd8hUR2Ha_-01fRsn0RaFUap"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

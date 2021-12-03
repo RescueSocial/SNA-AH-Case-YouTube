@@ -1,0 +1,75 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "8_BiB_nQpPQPQiyHoDumWnpsbw0",
+        "id": "UCjdnhWbqBTLyEGSs2Tg18QQ",
+        "snippet": {
+            "title": "Veuer",
+            "description": "Veuer is a new social media driven news brand from ZMG. The series offers a unique look at trending and breaking stories through the lens of social media.",
+            "customUrl": "veuer",
+            "publishedAt": "2015-08-20T21:33:42Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSz0zLNHW-YpPwp2vUfaCffHEZcYqPVUk0AKMoHJg=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSz0zLNHW-YpPwp2vUfaCffHEZcYqPVUk0AKMoHJg=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSz0zLNHW-YpPwp2vUfaCffHEZcYqPVUk0AKMoHJg=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Veuer",
+                "description": "Veuer is a new social media driven news brand from ZMG. The series offers a unique look at trending and breaking stories through the lens of social media."
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUjdnhWbqBTLyEGSs2Tg18QQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "16432015",
+            "subscriberCount": "14200",
+            "hiddenSubscriberCount": false,
+            "videoCount": "9159"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr",
+                "/m/05qt0"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society",
+                "https://en.wikipedia.org/wiki/Politics"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Veuer",
+                "description": "Veuer is a new social media driven news brand from ZMG. The series offers a unique look at trending and breaking stories through the lens of social media.",
+                "keywords": "news entertainment sports politics business viral videos veuer",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/geE2n38ddjaiUUS6TS0kC2MQQcy1oUZggN7JJaE-uR69sNNDiNwux_tcyt1AIZgMqMOwthBvxAQ"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

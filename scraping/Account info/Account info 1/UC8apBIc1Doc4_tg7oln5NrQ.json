@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "tf7NjEHrvvAmxR2OGY35gYeXQck",
+        "id": "UC8apBIc1Doc4_tg7oln5NrQ",
+        "snippet": {
+            "title": "Latest news",
+            "description": "\"Latest news\" - delivers breaking news, headlines and top stories from business, politics, entertainment and more in the US and worldwide.",
+            "publishedAt": "2019-03-28T10:13:51Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRX5IOBqGw7TvlL-tBtq9xw4In5CKUeka0zir11=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRX5IOBqGw7TvlL-tBtq9xw4In5CKUeka0zir11=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRX5IOBqGw7TvlL-tBtq9xw4In5CKUeka0zir11=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Latest news",
+                "description": "\"Latest news\" - delivers breaking news, headlines and top stories from business, politics, entertainment and more in the US and worldwide."
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU8apBIc1Doc4_tg7oln5NrQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "2092877",
+            "subscriberCount": "856",
+            "hiddenSubscriberCount": false,
+            "videoCount": "914"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr",
+                "/m/019_rr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Latest news",
+                "description": "\"Latest news\" - delivers breaking news, headlines and top stories from business, politics, entertainment and more in the US and worldwide.",
+                "keywords": "\"video news\" News \"News today\" \"Popular news\" \"Last news\" \"News release\" \"interesting news items\" \"Good news\" U.S. Trump",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/yZLTwDZGWV0mZYlN-8r0X7l-mC3PPPbRJULiXXxV9NS88yjhT1fy5s-QmwKN_RP_DHPjbFFUuw"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

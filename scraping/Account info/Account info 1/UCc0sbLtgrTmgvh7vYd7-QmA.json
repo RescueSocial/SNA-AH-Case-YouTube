@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "G2GkhhoYWWYBHluoqqMHd82cD6o",
+        "id": "UCc0sbLtgrTmgvh7vYd7-QmA",
+        "snippet": {
+            "title": "Science and more",
+            "description": "",
+            "publishedAt": "2017-02-04T15:37:50Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLS8gmXuFKl9LOfGC2eW4KGPtoeLPJBB68LbCRAz=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLS8gmXuFKl9LOfGC2eW4KGPtoeLPJBB68LbCRAz=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLS8gmXuFKl9LOfGC2eW4KGPtoeLPJBB68LbCRAz=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Science and more",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUc0sbLtgrTmgvh7vYd7-QmA"
+            }
+        },
+        "statistics": {
+            "viewCount": "5115232",
+            "subscriberCount": "5030",
+            "hiddenSubscriberCount": false,
+            "videoCount": "5023"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/07c1v",
+                "/m/019_rr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Technology",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Science and more",
+                "keywords": "Science research documentary news health \"science and health\""
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/p72uAJd7cjbg__IHtudPr4QhjZxITqyj-BQhmHmjG2nivt_4lMTlmF8mxcn5hTPMohLn8A_VvPg"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

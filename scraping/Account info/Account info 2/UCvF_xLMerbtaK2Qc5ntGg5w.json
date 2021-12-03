@@ -1,0 +1,69 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "n5wmTqUAh48wY5_JKQspWythK8E",
+        "id": "UCvF_xLMerbtaK2Qc5ntGg5w",
+        "snippet": {
+            "title": "Wholesome Content",
+            "description": "",
+            "publishedAt": "2013-04-12T01:18:13Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/AM5bNFPdeyrKSCAayn3UtLQ2CGIzl2n6IuahIpTCfoUgD_a1xW8Ae3OYh0XBfJme6l9IB7xb3g=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/AM5bNFPdeyrKSCAayn3UtLQ2CGIzl2n6IuahIpTCfoUgD_a1xW8Ae3OYh0XBfJme6l9IB7xb3g=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/AM5bNFPdeyrKSCAayn3UtLQ2CGIzl2n6IuahIpTCfoUgD_a1xW8Ae3OYh0XBfJme6l9IB7xb3g=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Wholesome Content",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUvF_xLMerbtaK2Qc5ntGg5w"
+            }
+        },
+        "statistics": {
+            "viewCount": "16876",
+            "subscriberCount": "22",
+            "hiddenSubscriberCount": false,
+            "videoCount": "5"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/019_rr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Wholesome Content"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/XXRN3dD6hh8XC2fV-Bf_h5Z3YeD7UsAa3Z0CgjPobJBwVx8zyrj7IKTR24anPariO4FT9u5x"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

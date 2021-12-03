@@ -1,0 +1,66 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "UWZxPHDRLAZpxVCGbIOUWwP3qiE",
+        "id": "UCxkR6LOu5QV7Ua9-UJIKBBg",
+        "snippet": {
+            "title": "Autostraddle Dotcom",
+            "description": "",
+            "publishedAt": "2009-03-29T18:34:34Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRpVmWW70lfPU8dDOi228pozC935CATpwxvwsxC=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRpVmWW70lfPU8dDOi228pozC935CATpwxvwsxC=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRpVmWW70lfPU8dDOi228pozC935CATpwxvwsxC=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Autostraddle Dotcom",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUxkR6LOu5QV7Ua9-UJIKBBg"
+            }
+        },
+        "statistics": {
+            "viewCount": "790170",
+            "subscriberCount": "2280",
+            "hiddenSubscriberCount": false,
+            "videoCount": "29"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/019_rr",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Autostraddle Dotcom"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

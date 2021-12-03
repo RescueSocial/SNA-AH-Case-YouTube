@@ -1,0 +1,75 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "cPiOUedG_9fGpq5BOn_l9D6GQYk",
+        "id": "UC4lSkgDGwMr0Ysnl46hd62w",
+        "snippet": {
+            "title": "Celebable",
+            "description": "Your go to channel for the latest babble about celebrities\n",
+            "customUrl": "celebable123",
+            "publishedAt": "2020-11-24T13:29:56.690209Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/MenXADqhpSfilH_yyah7ik9pfLh6MytWU51UQqF-5Es2tANfhkJfjLxOGrgNDfoKb9xIH8kH=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/MenXADqhpSfilH_yyah7ik9pfLh6MytWU51UQqF-5Es2tANfhkJfjLxOGrgNDfoKb9xIH8kH=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/MenXADqhpSfilH_yyah7ik9pfLh6MytWU51UQqF-5Es2tANfhkJfjLxOGrgNDfoKb9xIH8kH=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Celebable",
+                "description": "Your go to channel for the latest babble about celebrities\n"
+            },
+            "country": "RO"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU4lSkgDGwMr0Ysnl46hd62w"
+            }
+        },
+        "statistics": {
+            "viewCount": "23841",
+            "subscriberCount": "1060",
+            "hiddenSubscriberCount": false,
+            "videoCount": "39"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/0f2f9"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Television_program"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Celebable",
+                "description": "Your go to channel for the latest babble about celebrities\n",
+                "keywords": "celebable celebrities entertainment",
+                "country": "RO"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/i65I5YalCl8Nd3ufUTk3Dc897D5L4gfxDPhOwQ4lw3jtZPLCMCgyVU8QwnD1cOA3DawlM4mZA3g"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

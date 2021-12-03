@@ -1,0 +1,71 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "YV4WZKIBqI49zzxDnvkzqc2MLF0",
+        "id": "UCFMfY2uoV9PDDE3QVrzgiSg",
+        "snippet": {
+            "title": "Beste Listen! - Tops und Rankings",
+            "description": "",
+            "publishedAt": "2018-02-23T09:19:48Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRBYGet7_XUwfQgdk1RXtWhKVaqff1ruuoBhFr-=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRBYGet7_XUwfQgdk1RXtWhKVaqff1ruuoBhFr-=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRBYGet7_XUwfQgdk1RXtWhKVaqff1ruuoBhFr-=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Beste Listen! - Tops und Rankings",
+                "description": ""
+            },
+            "country": "DE"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUFMfY2uoV9PDDE3QVrzgiSg"
+            }
+        },
+        "statistics": {
+            "viewCount": "564631",
+            "hiddenSubscriberCount": true,
+            "videoCount": "3712"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02vxn",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Beste Listen! - Tops und Rankings",
+                "country": "DE"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/XfHSkS5atcHa18F_UD-BpefgOppHgWJYTO9nhwV-PKEvsiXSWhtpjwB5a2upI0AdWswl6CFWzw"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

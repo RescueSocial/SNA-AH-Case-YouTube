@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "YipwXDrIvv466rAHECM7NQ4dvN8",
+        "id": "UCZZHPXsg6LopvdOKF7qM6cQ",
+        "snippet": {
+            "title": "H3 Podcast Highlights",
+            "description": "",
+            "customUrl": "h3podcasthighlights",
+            "publishedAt": "2017-08-30T04:13:46Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSlER-lk-dFwQl2lFiSnTJ8cfLBLL-5c9DfZbecng=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSlER-lk-dFwQl2lFiSnTJ8cfLBLL-5c9DfZbecng=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSlER-lk-dFwQl2lFiSnTJ8cfLBLL-5c9DfZbecng=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "H3 Podcast Highlights",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUZZHPXsg6LopvdOKF7qM6cQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "806394191",
+            "subscriberCount": "1650000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "2331"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr",
+                "/m/02vxn",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society",
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "H3 Podcast Highlights"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/6X167-TWUYMGcmTGSKzXIH6Pk6a4bCcw0Ej9rBUAxnLQNlaZvXxcRtY18lPtejVHtJsJR8ik"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

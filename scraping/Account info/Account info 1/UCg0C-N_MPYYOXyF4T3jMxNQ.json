@@ -1,0 +1,69 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "-60D0-9mkoLr5kJQlOdUdYTaEjU",
+        "id": "UCg0C-N_MPYYOXyF4T3jMxNQ",
+        "snippet": {
+            "title": "Incredibly Average",
+            "description": "",
+            "publishedAt": "2018-10-31T22:06:18Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTP2XJHf8-_xMjpIHwkGJkRa8MQ043GZ3uz6_Sz=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTP2XJHf8-_xMjpIHwkGJkRa8MQ043GZ3uz6_Sz=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTP2XJHf8-_xMjpIHwkGJkRa8MQ043GZ3uz6_Sz=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Incredibly Average",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUg0C-N_MPYYOXyF4T3jMxNQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "13298491",
+            "subscriberCount": "70100",
+            "hiddenSubscriberCount": false,
+            "videoCount": "14"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Incredibly Average"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/nlum8UtaFJSpin32KYqk94gVrtNCPn_oguWojpAabGu-5yqMU0LNTjUt7toWUbDuZO1DAR32"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

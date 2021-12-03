@@ -1,0 +1,72 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "U_w2qlq2E1p-i86wcYcjkHhOFT4",
+        "id": "UCvhTVTM_b7Dt2pN-jC94HzA",
+        "snippet": {
+            "title": "The nerd Corner",
+            "description": "Your place for comic book and Star Wars news\n",
+            "publishedAt": "2020-04-12T18:17:12.611562Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTo1XwfylziqrO9fkkX0FguG8R85pxfCeMUEmWkmg=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTo1XwfylziqrO9fkkX0FguG8R85pxfCeMUEmWkmg=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTo1XwfylziqrO9fkkX0FguG8R85pxfCeMUEmWkmg=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "The nerd Corner",
+                "description": "Your place for comic book and Star Wars news\n"
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUvhTVTM_b7Dt2pN-jC94HzA"
+            }
+        },
+        "statistics": {
+            "viewCount": "85",
+            "subscriberCount": "1",
+            "hiddenSubscriberCount": false,
+            "videoCount": "25"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn",
+                "/m/019_rr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "The nerd Corner",
+                "description": "Your place for comic book and Star Wars news\n"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/JekYvldyMDotd2vsQYMr7Ypgpi3KmTNuatHf_fXpdmOtGxsz45szxaTGFpZmateEZ1ZHrhhxJZQ"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

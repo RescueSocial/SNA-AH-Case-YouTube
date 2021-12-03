@@ -1,0 +1,76 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "8uDZg0vQXPBmPLziasK2OU6p4lg",
+        "id": "UCZ8Sxmkweh65HetaZfR8YuA",
+        "snippet": {
+            "title": "The Hollywood Reporter",
+            "description": "The premier destination and most-widely trusted resource for entertainment news, reviews, videos and analysis.",
+            "customUrl": "hollywoodreporter",
+            "publishedAt": "2008-01-23T06:43:15Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/7FPGaZ3f81d6IXj-eZwD5_f8UhKNFTMg6jvesjs42nnEwTKrFGnIBGqxbP0QZs2MyAKF2zQHmFA=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/7FPGaZ3f81d6IXj-eZwD5_f8UhKNFTMg6jvesjs42nnEwTKrFGnIBGqxbP0QZs2MyAKF2zQHmFA=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/7FPGaZ3f81d6IXj-eZwD5_f8UhKNFTMg6jvesjs42nnEwTKrFGnIBGqxbP0QZs2MyAKF2zQHmFA=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "The Hollywood Reporter",
+                "description": "The premier destination and most-widely trusted resource for entertainment news, reviews, videos and analysis."
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUZ8Sxmkweh65HetaZfR8YuA"
+            }
+        },
+        "statistics": {
+            "viewCount": "378499826",
+            "subscriberCount": "901000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "6004"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02vxn",
+                "/m/0f2f9",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Television_program",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "The Hollywood Reporter",
+                "description": "The premier destination and most-widely trusted resource for entertainment news, reviews, videos and analysis.",
+                "keywords": "THR \"the hollywood reporter\" \"hollywood reporter\" roundtables \"hollywood reporter roundtables\" \"box office reports\" \"up close with the hollywood reports\" entertainment movies awards film tv celebrity celebrities \"pop culture\" culture \"hollywood news\" television streaming \"box office\" \"celebrity gossip\"",
+                "trackingAnalyticsAccountId": "UA-6367557-1",
+                "unsubscribedTrailer": "ueuzwmKZ5-Q"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/Wy1qaL-4oFMDLQIxLk-dU2M1H1ZBq04SDoEwTq4dMXntfISL3B6pZdgG29_W4Z3NzJX-ABiT"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

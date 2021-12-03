@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "tEWghXptCUpw1cvsLcMkaL8kp-o",
+        "id": "UCowT0LDUEtJOiKmGSVvqOhA",
+        "snippet": {
+            "title": "Smileplease Baba",
+            "description": "\n",
+            "publishedAt": "2021-05-05T19:28:58.500069Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRva-fjsoBYPTDFijbVVAwBnYqHZdtjAp-ilidy=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRva-fjsoBYPTDFijbVVAwBnYqHZdtjAp-ilidy=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRva-fjsoBYPTDFijbVVAwBnYqHZdtjAp-ilidy=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Smileplease Baba",
+                "description": "\n"
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUowT0LDUEtJOiKmGSVvqOhA"
+            }
+        },
+        "statistics": {
+            "viewCount": "190974",
+            "hiddenSubscriberCount": true,
+            "videoCount": "98"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Smileplease Baba",
+                "description": "\n",
+                "unsubscribedTrailer": "E00_i04hNBM",
+                "country": "US"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

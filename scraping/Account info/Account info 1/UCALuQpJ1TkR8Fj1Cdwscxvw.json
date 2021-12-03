@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "udGLpi_iD_1qkoASkzs2MMMk2NA",
+        "id": "UCALuQpJ1TkR8Fj1Cdwscxvw",
+        "snippet": {
+            "title": "Beth Patton",
+            "description": "",
+            "publishedAt": "2016-07-29T11:50:22Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRuTJMbrs2zoYL7dnY5W9b1JQWPznyuJTKH88Mj=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRuTJMbrs2zoYL7dnY5W9b1JQWPznyuJTKH88Mj=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRuTJMbrs2zoYL7dnY5W9b1JQWPznyuJTKH88Mj=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Beth Patton",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUALuQpJ1TkR8Fj1Cdwscxvw"
+            }
+        },
+        "statistics": {
+            "viewCount": "2122302",
+            "subscriberCount": "3340",
+            "hiddenSubscriberCount": false,
+            "videoCount": "24972"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/0f2f9"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Television_program"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Beth Patton"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/xUJp0la7658XwjeCmFWaSbesFMEcK62vEjUcteSsBAT4YAbcE0HwcaywM5zjtDttnby77TKGfMs"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

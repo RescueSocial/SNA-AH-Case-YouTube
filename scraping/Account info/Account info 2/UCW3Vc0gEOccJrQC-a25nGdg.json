@@ -1,0 +1,74 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "ZhNOBknn99y2WAevaqo6uayp2LA",
+        "id": "UCW3Vc0gEOccJrQC-a25nGdg",
+        "snippet": {
+            "title": "News4 WSMV Nashville",
+            "description": "",
+            "customUrl": "wsmv4",
+            "publishedAt": "2013-11-08T22:04:53Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQYn8OOpJ8UnxX866xBO3gE1xcVKwi3Ygd138W2Sw=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQYn8OOpJ8UnxX866xBO3gE1xcVKwi3Ygd138W2Sw=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQYn8OOpJ8UnxX866xBO3gE1xcVKwi3Ygd138W2Sw=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "News4 WSMV Nashville",
+                "description": ""
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUW3Vc0gEOccJrQC-a25nGdg"
+            }
+        },
+        "statistics": {
+            "viewCount": "14387349",
+            "subscriberCount": "43100",
+            "hiddenSubscriberCount": false,
+            "videoCount": "10795"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "News4 WSMV Nashville",
+                "keywords": "WSMV Nashville news4",
+                "moderateComments": true,
+                "unsubscribedTrailer": "Y6SPShC4-4s",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/PGsFos8kxQY5LKL_QSWTKtRhQj7YznWGuYWFE8QYXJE34ji8bb0awqbKZmCqmwYiJQPUVpg7lSQ"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

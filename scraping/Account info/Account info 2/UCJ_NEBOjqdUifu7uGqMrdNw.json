@@ -1,0 +1,71 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "L5JWPGa84-h-3XkbBAxd0VI0GGQ",
+        "id": "UCJ_NEBOjqdUifu7uGqMrdNw",
+        "snippet": {
+            "title": "Make America Great Again",
+            "description": "",
+            "publishedAt": "2016-11-23T11:41:48Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQ-cb1Q3hoSCTZmM8zQQC_3Xhp3UaDPtoAipuHK=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQ-cb1Q3hoSCTZmM8zQQC_3Xhp3UaDPtoAipuHK=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQ-cb1Q3hoSCTZmM8zQQC_3Xhp3UaDPtoAipuHK=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Make America Great Again",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUJ_NEBOjqdUifu7uGqMrdNw"
+            }
+        },
+        "statistics": {
+            "viewCount": "205252",
+            "subscriberCount": "237",
+            "hiddenSubscriberCount": false,
+            "videoCount": "97"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/019_rr",
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Make America Great Again"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/e_rdhmbbCGGxO70IOStwdQd663TO3vvoVrKA7nVS1ti_zZWYuICmEcWa_vIGgenRcYkebvR3lg"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

@@ -18,8 +18,6 @@
 
 > __total.csv__ | file: all videos scraped IDs, I use it to prevent duplication before get data in JSON.
 
-> __videos_id_to_scrap.csv__ | file: hte videos IDs used to scrape videos info (from files given by Christina)
-
 > __config.py , helper.py__ | file: helper functions used in jupyter notebooks
 
 > __~$uTube VIDEO OSINT – General Witness Friends Workers.docx__ | file: file contain searching keywords 

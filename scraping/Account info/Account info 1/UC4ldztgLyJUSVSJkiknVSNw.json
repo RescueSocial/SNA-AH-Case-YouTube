@@ -1,0 +1,69 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "TI23XZfPDYrXk3mPZYfMIPdu9W0",
+        "id": "UC4ldztgLyJUSVSJkiknVSNw",
+        "snippet": {
+            "title": "Ashleigh Kman",
+            "description": "",
+            "publishedAt": "2009-07-24T01:36:35Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRK4EtELCGXGib-9xSjfG-zp9sOgH6e_WwPnQ=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRK4EtELCGXGib-9xSjfG-zp9sOgH6e_WwPnQ=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRK4EtELCGXGib-9xSjfG-zp9sOgH6e_WwPnQ=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Ashleigh Kman",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU4ldztgLyJUSVSJkiknVSNw"
+            }
+        },
+        "statistics": {
+            "viewCount": "268525",
+            "subscriberCount": "1180",
+            "hiddenSubscriberCount": false,
+            "videoCount": "5031"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/0f2f9",
+                "/m/019_rr",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Television_program",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Ashleigh Kman"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

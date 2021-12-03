@@ -1,0 +1,71 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "OmeJLhR7HlWMXeT6hmmhTEx5XJg",
+        "id": "UCPZb1f7mKXuH3nOcOOpju5Q",
+        "snippet": {
+            "title": "Redditz",
+            "description": "",
+            "publishedAt": "2014-04-22T22:26:28Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQlHryuHzISsnW1J9m-toxMS-tBiYEjyJRmpZaU=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQlHryuHzISsnW1J9m-toxMS-tBiYEjyJRmpZaU=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQlHryuHzISsnW1J9m-toxMS-tBiYEjyJRmpZaU=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Redditz",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUPZb1f7mKXuH3nOcOOpju5Q"
+            }
+        },
+        "statistics": {
+            "viewCount": "566782",
+            "subscriberCount": "347",
+            "hiddenSubscriberCount": false,
+            "videoCount": "53"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/098wr",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Society",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Redditz"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/BsnAmCznf9B_ndom99Y5ElLErSff0YvlIcMhUD-Jx7lTvnuxmKVbJ3Gr5KJsfc7s42S69AHTIg"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

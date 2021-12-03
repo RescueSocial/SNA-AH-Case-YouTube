@@ -1,0 +1,74 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "gNqvmZgBYehoC2P7kJ7jS-Mw9X4",
+        "id": "UCSEPQ3deCXfo2D-fzU5xyVg",
+        "snippet": {
+            "title": "It\u2019s Bintou",
+            "description": "\u2728Welcome \u2728",
+            "publishedAt": "2017-01-04T18:19:56Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQQsy3E0PHCtwYXMXjzyD9yNosc-RxOLA2R-iQ6bg=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQQsy3E0PHCtwYXMXjzyD9yNosc-RxOLA2R-iQ6bg=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQQsy3E0PHCtwYXMXjzyD9yNosc-RxOLA2R-iQ6bg=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "It\u2019s Bintou",
+                "description": "\u2728Welcome \u2728"
+            },
+            "country": "CA"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUSEPQ3deCXfo2D-fzU5xyVg"
+            }
+        },
+        "statistics": {
+            "viewCount": "3713701",
+            "subscriberCount": "44400",
+            "hiddenSubscriberCount": false,
+            "videoCount": "154"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/019_rr",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "It\u2019s Bintou",
+                "description": "\u2728Welcome \u2728",
+                "keywords": "storytime lifestyle",
+                "country": "CA"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/dKCtVvdGMRkAqVu1FLml89ylENq_wsiF7_cj-_WQ22j4Q3RaZIlzqKL6cwFg-lzXAZ3kfLN35Kk"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

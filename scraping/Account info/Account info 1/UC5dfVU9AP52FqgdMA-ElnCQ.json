@@ -1,0 +1,68 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "WEkUDnsOPE8cxMTURxH8PL-_pzQ",
+        "id": "UC5dfVU9AP52FqgdMA-ElnCQ",
+        "snippet": {
+            "title": "G4ViralVideos",
+            "description": "",
+            "publishedAt": "2013-02-04T20:16:08Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTpvhplJ49TVahAQMeLFVZvycz2J8ZAoyI7AA=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTpvhplJ49TVahAQMeLFVZvycz2J8ZAoyI7AA=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTpvhplJ49TVahAQMeLFVZvycz2J8ZAoyI7AA=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "G4ViralVideos",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU5dfVU9AP52FqgdMA-ElnCQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "52147174",
+            "subscriberCount": "39700",
+            "hiddenSubscriberCount": false,
+            "videoCount": "15"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/019_rr",
+                "/m/098wr",
+                "/m/04rlf"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                "https://en.wikipedia.org/wiki/Society",
+                "https://en.wikipedia.org/wiki/Music"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "G4ViralVideos"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

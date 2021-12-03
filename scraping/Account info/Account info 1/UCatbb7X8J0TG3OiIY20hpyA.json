@@ -1,0 +1,76 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "Upmr6Vn3mebTxR4RA-B3cCk2NGI",
+        "id": "UCatbb7X8J0TG3OiIY20hpyA",
+        "snippet": {
+            "title": "Yahoo Entertainment",
+            "description": "Yahoo Entertainment is your one-stop source for movies, TV, music, and celebrity news.",
+            "customUrl": "yahooentertainment",
+            "publishedAt": "2013-09-18T15:42:15Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLR_COrAOjB2o743Umj7rdvjDdtgzyzee8EjndOvzg=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLR_COrAOjB2o743Umj7rdvjDdtgzyzee8EjndOvzg=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLR_COrAOjB2o743Umj7rdvjDdtgzyzee8EjndOvzg=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Yahoo Entertainment",
+                "description": "Yahoo Entertainment is your one-stop source for movies, TV, music, and celebrity news."
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUatbb7X8J0TG3OiIY20hpyA"
+            }
+        },
+        "statistics": {
+            "viewCount": "47040226",
+            "subscriberCount": "51400",
+            "hiddenSubscriberCount": false,
+            "videoCount": "657"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02vxn",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Yahoo Entertainment",
+                "description": "Yahoo Entertainment is your one-stop source for movies, TV, music, and celebrity news.",
+                "keywords": "Official Yahoo Movies Channel",
+                "moderateComments": true,
+                "unsubscribedTrailer": "PLmwpg4BLC8",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/94VKNe3GcL_AID_Q8QOAFUVkH229zxvVySqL7jTHUbPRiU54x2pzKYDOQZ_qEBlPHARPMEzEyCE"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

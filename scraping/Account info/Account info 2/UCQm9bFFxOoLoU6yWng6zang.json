@@ -1,0 +1,66 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "OdqzeXHrsq3WWATH663igORrP4Y",
+        "id": "UCQm9bFFxOoLoU6yWng6zang",
+        "snippet": {
+            "title": "UniquelyMade",
+            "description": "",
+            "publishedAt": "2011-04-15T01:27:05Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQCw4Fe5KcwiAn9WOeIhWaVo9mHxWSLwnsWHw=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQCw4Fe5KcwiAn9WOeIhWaVo9mHxWSLwnsWHw=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQCw4Fe5KcwiAn9WOeIhWaVo9mHxWSLwnsWHw=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "UniquelyMade",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUQm9bFFxOoLoU6yWng6zang"
+            }
+        },
+        "statistics": {
+            "viewCount": "17107",
+            "subscriberCount": "299",
+            "hiddenSubscriberCount": false,
+            "videoCount": "9"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/06ntj",
+                "/m/0bzvm2"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Sport",
+                "https://en.wikipedia.org/wiki/Video_game_culture"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "UniquelyMade"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

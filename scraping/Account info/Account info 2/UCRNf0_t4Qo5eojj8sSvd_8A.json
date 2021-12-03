@@ -1,0 +1,72 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "lVtNIBuHt_x4N1UKT5_Q7Iki4-0",
+        "id": "UCRNf0_t4Qo5eojj8sSvd_8A",
+        "snippet": {
+            "title": "13WMAZ",
+            "description": "",
+            "customUrl": "13wmaz",
+            "publishedAt": "2017-02-17T02:57:46Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQgIuWCxg0s5xnlwxep7UCV_yrQeP09AfPL8WZH7g=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQgIuWCxg0s5xnlwxep7UCV_yrQeP09AfPL8WZH7g=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQgIuWCxg0s5xnlwxep7UCV_yrQeP09AfPL8WZH7g=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "13WMAZ",
+                "description": ""
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UURNf0_t4Qo5eojj8sSvd_8A"
+            }
+        },
+        "statistics": {
+            "viewCount": "17913994",
+            "subscriberCount": "30200",
+            "hiddenSubscriberCount": false,
+            "videoCount": "14719"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "13WMAZ",
+                "moderateComments": true,
+                "unsubscribedTrailer": "MdAaxP5gEwI",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/HffFgd9-UaPmWZzL5ThdzPHUMxdrKTJTEynRU5yefRocEYBLRXo6k3AhR8JLlbv-47UD2orD-w"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

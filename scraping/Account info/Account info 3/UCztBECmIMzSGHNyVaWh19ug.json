@@ -1,0 +1,72 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "e8-c_JxmnWe3KSCEAQ79KMukbAs",
+        "id": "UCztBECmIMzSGHNyVaWh19ug",
+        "snippet": {
+            "title": "Cosmopolis Cine",
+            "description": "",
+            "customUrl": "cosmopoliscine",
+            "publishedAt": "2015-05-04T16:00:18Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTo3hMHgkYicObeiO_TyM-7Ja0xinpPKej2XRUg=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTo3hMHgkYicObeiO_TyM-7Ja0xinpPKej2XRUg=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTo3hMHgkYicObeiO_TyM-7Ja0xinpPKej2XRUg=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Cosmopolis Cine",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUztBECmIMzSGHNyVaWh19ug"
+            }
+        },
+        "statistics": {
+            "viewCount": "150360797",
+            "subscriberCount": "957000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "1095"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02vxn",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Cosmopolis Cine",
+                "unsubscribedTrailer": "BABAIxzH_8k"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/V3z4o5UDMZDxS-m2hf4ZIzbbOOGTjpmZ_tCQgfmE56_cYLWCAMrYt5YJWMtehpQvmB9YCNaAjQ"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

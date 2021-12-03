@@ -1,0 +1,72 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "0hZS4J57kgpwPNAjdbuRhmMiL1o",
+        "id": "UC62XKn6Htc8tjNVBAoiriIg",
+        "snippet": {
+            "title": "NewsWeek",
+            "description": "",
+            "publishedAt": "2007-12-30T03:44:53Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTanDBq3Ac12LAi7iqDc3YsB5s7ICyAl1xrpxE-=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTanDBq3Ac12LAi7iqDc3YsB5s7ICyAl1xrpxE-=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTanDBq3Ac12LAi7iqDc3YsB5s7ICyAl1xrpxE-=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "NewsWeek",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU62XKn6Htc8tjNVBAoiriIg"
+            }
+        },
+        "statistics": {
+            "viewCount": "1875370",
+            "subscriberCount": "1550",
+            "hiddenSubscriberCount": false,
+            "videoCount": "6459"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/0403l3g",
+                "/m/0bzvm2",
+                "/m/03hf_rm"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Role-playing_video_game",
+                "https://en.wikipedia.org/wiki/Video_game_culture",
+                "https://en.wikipedia.org/wiki/Strategy_video_game"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "NewsWeek"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/ZpobXfhzF3gOsfYm3YFXHkQ40rFryNEuY6KqqFA1U3CH3nKh0aAXDQYpsVwdR_M1N9oo9i3d3Q"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

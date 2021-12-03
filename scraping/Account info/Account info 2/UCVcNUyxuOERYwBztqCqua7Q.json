@@ -1,0 +1,59 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "-fDCyBlnhzPqWY-BuXdP3oyjn08",
+        "id": "UCVcNUyxuOERYwBztqCqua7Q",
+        "snippet": {
+            "title": "tango cherry",
+            "description": "",
+            "publishedAt": "2020-11-01T00:11:42.702215Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQbP5dtKL6eRbhrpa8n_HEUSIy21-8masTW6AcE=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQbP5dtKL6eRbhrpa8n_HEUSIy21-8masTW6AcE=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQbP5dtKL6eRbhrpa8n_HEUSIy21-8masTW6AcE=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "tango cherry",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUVcNUyxuOERYwBztqCqua7Q"
+            }
+        },
+        "statistics": {
+            "viewCount": "25",
+            "subscriberCount": "1",
+            "hiddenSubscriberCount": false,
+            "videoCount": "1"
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "tango cherry"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/UhNk7dlnEhOJxenGae8GviFBH_zgkqIkSyAN5uwSzrudtMiGWpossmZGt8qglgDI0riryV6ImA"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

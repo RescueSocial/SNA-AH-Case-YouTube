@@ -1,0 +1,57 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "yjYsTDvxVKmRih3G1U_48M8MBk0",
+        "id": "UCos9SEOxvUbckVfr3eQISzw",
+        "snippet": {
+            "title": "The Original Teaser",
+            "description": "GET THE ORIGINALS!!!",
+            "publishedAt": "2018-07-21T02:45:36Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSnHPDeRKM6O-lBIhXqoZB8k2_QK8avX8pQi-Jj=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSnHPDeRKM6O-lBIhXqoZB8k2_QK8avX8pQi-Jj=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSnHPDeRKM6O-lBIhXqoZB8k2_QK8avX8pQi-Jj=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "The Original Teaser",
+                "description": "GET THE ORIGINALS!!!"
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUos9SEOxvUbckVfr3eQISzw"
+            }
+        },
+        "statistics": {
+            "viewCount": "14",
+            "subscriberCount": "4",
+            "hiddenSubscriberCount": false,
+            "videoCount": "1"
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "The Original Teaser",
+                "description": "GET THE ORIGINALS!!!"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

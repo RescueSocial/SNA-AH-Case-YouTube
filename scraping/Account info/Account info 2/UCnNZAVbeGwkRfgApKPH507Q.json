@@ -1,0 +1,75 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "yA5WgZJszFV9zo0EXFfPemaU1w8",
+        "id": "UCnNZAVbeGwkRfgApKPH507Q",
+        "snippet": {
+            "title": "Jake's Takes",
+            "description": "Emmy-Winner Jake Hamilton interviews Hollywood's biggest stars on \"Jake's Takes!\"",
+            "publishedAt": "2008-08-21T16:32:46Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLT4r6rctQXb-bPkRQ6mQVFB0_6Rm4BNav6Cs5yaig=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLT4r6rctQXb-bPkRQ6mQVFB0_6Rm4BNav6Cs5yaig=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLT4r6rctQXb-bPkRQ6mQVFB0_6Rm4BNav6Cs5yaig=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Jake's Takes",
+                "description": "Emmy-Winner Jake Hamilton interviews Hollywood's biggest stars on \"Jake's Takes!\""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUnNZAVbeGwkRfgApKPH507Q"
+            }
+        },
+        "statistics": {
+            "viewCount": "75701263",
+            "subscriberCount": "105000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "874"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02vxn",
+                "/m/0f2f9",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Television_program",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Jake's Takes",
+                "description": "Emmy-Winner Jake Hamilton interviews Hollywood's biggest stars on \"Jake's Takes!\"",
+                "keywords": "\"Jake Hamilton\" \"Jake's Takes\" celebrities interviews movies Hollywood actors actresses director",
+                "moderateComments": true,
+                "unsubscribedTrailer": "7G2QopNcHao"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/S84H2Hc1OjBCO9teZNwDsc6gJWpvfQ48RQZwP70yrCNcw23_hNkLmkOZqcW7m8wxjg7Dg3G3"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

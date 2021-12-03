@@ -1,0 +1,69 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "fsIZ0nieO-tlCjZEqk9D97RKU3U",
+        "id": "UC0tsYkrfiuj_8nV962jBdmw",
+        "snippet": {
+            "title": "Jam Channel",
+            "description": "",
+            "publishedAt": "2020-10-30T12:00:07.212427Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRqW1nuBxMqTF8MUQUo5cXyhvJHx-uzbQn4NIOZ=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRqW1nuBxMqTF8MUQUo5cXyhvJHx-uzbQn4NIOZ=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRqW1nuBxMqTF8MUQUo5cXyhvJHx-uzbQn4NIOZ=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Jam Channel",
+                "description": ""
+            },
+            "country": "GB"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU0tsYkrfiuj_8nV962jBdmw"
+            }
+        },
+        "statistics": {
+            "viewCount": "1195",
+            "subscriberCount": "13",
+            "hiddenSubscriberCount": false,
+            "videoCount": "11"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02vxn",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Jam Channel",
+                "keywords": "Film Review Media Podcast Cinema Television University Friends",
+                "country": "GB"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

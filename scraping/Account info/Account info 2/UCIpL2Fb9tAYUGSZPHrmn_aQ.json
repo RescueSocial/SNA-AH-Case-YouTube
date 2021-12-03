@@ -1,0 +1,65 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "ZDjNJCMh-jL1u1WQZifeOAUTXhQ",
+        "id": "UCIpL2Fb9tAYUGSZPHrmn_aQ",
+        "snippet": {
+            "title": "Amber Turd",
+            "description": " ",
+            "publishedAt": "2020-07-19T06:05:45.800194Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQPC7QhjXBISIvJKuVePn9wUoy8lc2sQiOjp83F=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQPC7QhjXBISIvJKuVePn9wUoy8lc2sQiOjp83F=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQPC7QhjXBISIvJKuVePn9wUoy8lc2sQiOjp83F=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Amber Turd",
+                "description": " "
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUIpL2Fb9tAYUGSZPHrmn_aQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "851575",
+            "subscriberCount": "633",
+            "hiddenSubscriberCount": false,
+            "videoCount": "2"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Amber Turd",
+                "description": " "
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

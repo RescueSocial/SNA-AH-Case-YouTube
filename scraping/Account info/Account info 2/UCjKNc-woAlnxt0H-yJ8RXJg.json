@@ -1,0 +1,67 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "p7PsvTrMSb54imXmpyQA20-dZy0",
+        "id": "UCjKNc-woAlnxt0H-yJ8RXJg",
+        "snippet": {
+            "title": "Incredibly Incredible",
+            "description": "",
+            "publishedAt": "2020-10-22T21:21:54.407414Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTdE4u57DY4DMdgMtMLsYu60vIJvF_t_GUpk3Q5=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTdE4u57DY4DMdgMtMLsYu60vIJvF_t_GUpk3Q5=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTdE4u57DY4DMdgMtMLsYu60vIJvF_t_GUpk3Q5=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Incredibly Incredible",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUjKNc-woAlnxt0H-yJ8RXJg"
+            }
+        },
+        "statistics": {
+            "viewCount": "111316",
+            "hiddenSubscriberCount": true,
+            "videoCount": "38"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Incredibly Incredible",
+                "moderateComments": true
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

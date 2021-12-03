@@ -1,0 +1,71 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "RiLwzwX8jE0YyrO1H972_hTMA68",
+        "id": "UCWIAbK_LN2oqdNETA2LJCrg",
+        "snippet": {
+            "title": "barry king",
+            "description": "",
+            "publishedAt": "2012-05-16T19:08:58Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTQr5skmWwC7ftIko3z1nehKDChkjxZiRxcy88v=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTQr5skmWwC7ftIko3z1nehKDChkjxZiRxcy88v=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTQr5skmWwC7ftIko3z1nehKDChkjxZiRxcy88v=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "barry king",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUWIAbK_LN2oqdNETA2LJCrg"
+            }
+        },
+        "statistics": {
+            "viewCount": "3277927",
+            "subscriberCount": "4070",
+            "hiddenSubscriberCount": false,
+            "videoCount": "11130"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/019_rr",
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "barry king"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/zkVtMQUg1LeeQW6esCvTcVSTW7MEbJ4PdOfAWMrNvtMy-v2bfS9vH_2iO12HepBA4te2DTe9ZA"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

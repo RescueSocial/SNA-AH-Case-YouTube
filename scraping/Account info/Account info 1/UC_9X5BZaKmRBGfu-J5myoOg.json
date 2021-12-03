@@ -1,0 +1,71 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "HTg6yWY2sI3mdvJCuHDf31uOoVU",
+        "id": "UC_9X5BZaKmRBGfu-J5myoOg",
+        "snippet": {
+            "title": "The Entertainment Outlet",
+            "description": "channel where I cover all things DC, Marvel, and entertainment related!",
+            "customUrl": "theentertainmentoutlet",
+            "publishedAt": "2020-11-29T20:19:11.466832Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSCPYDhdwsT3m7zOeEoKpF0OUqOM9nUNFTzHqyZ=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSCPYDhdwsT3m7zOeEoKpF0OUqOM9nUNFTzHqyZ=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSCPYDhdwsT3m7zOeEoKpF0OUqOM9nUNFTzHqyZ=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "The Entertainment Outlet",
+                "description": "channel where I cover all things DC, Marvel, and entertainment related!"
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU_9X5BZaKmRBGfu-J5myoOg"
+            }
+        },
+        "statistics": {
+            "viewCount": "20999",
+            "subscriberCount": "115",
+            "hiddenSubscriberCount": false,
+            "videoCount": "290"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "The Entertainment Outlet",
+                "description": "channel where I cover all things DC, Marvel, and entertainment related!"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/3apfAviRghxNQRj6An2gIrPSz1M5tIP3bQDc-LulYNuv-NHIYkRuahq9FDAITNGGGU0M8ALFFQ"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

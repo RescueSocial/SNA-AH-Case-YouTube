@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "2t56-58xfZ5JsYe0MfOCpAC6S5Y",
+        "id": "UCk_wmXvLDO4wg7a_dxbjZAA",
+        "snippet": {
+            "title": "Movies talk",
+            "description": "Latest Hollywood movies updates",
+            "publishedAt": "2012-12-18T18:30:37Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSALdhiIJbf6bcL91BKeIPJjRQl8-1MdJOXy0lAHA=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSALdhiIJbf6bcL91BKeIPJjRQl8-1MdJOXy0lAHA=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSALdhiIJbf6bcL91BKeIPJjRQl8-1MdJOXy0lAHA=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Movies talk",
+                "description": "Latest Hollywood movies updates"
+            },
+            "country": "IN"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUk_wmXvLDO4wg7a_dxbjZAA"
+            }
+        },
+        "statistics": {
+            "viewCount": "145382855",
+            "subscriberCount": "617000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "3152"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Movies talk",
+                "description": "Latest Hollywood movies updates",
+                "country": "IN"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/9vshnCRmT6LWMNVTqmnWoZ2-FPBTdIXeVUBfvfP24WWy0ObFVQmHyqJZ4YqxHbkM2ke0LxiSSA"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

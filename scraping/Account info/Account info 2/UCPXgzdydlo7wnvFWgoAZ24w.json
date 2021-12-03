@@ -1,0 +1,59 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "3Cl4R6N-60h7oNcGJXoYPwf-5O8",
+        "id": "UCPXgzdydlo7wnvFWgoAZ24w",
+        "snippet": {
+            "title": "Sigma Xavier",
+            "description": "",
+            "publishedAt": "2006-03-12T02:24:47Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/WV2WXTRoJgUCoyPWPsqDTOlAczVzEhNtJ94b_OzNGoNX2HPyu7Pi1B-YcbNAqL2cmuGB5m4U=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/WV2WXTRoJgUCoyPWPsqDTOlAczVzEhNtJ94b_OzNGoNX2HPyu7Pi1B-YcbNAqL2cmuGB5m4U=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/WV2WXTRoJgUCoyPWPsqDTOlAczVzEhNtJ94b_OzNGoNX2HPyu7Pi1B-YcbNAqL2cmuGB5m4U=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Sigma Xavier",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUPXgzdydlo7wnvFWgoAZ24w"
+            }
+        },
+        "statistics": {
+            "viewCount": "8130023",
+            "subscriberCount": "6070",
+            "hiddenSubscriberCount": false,
+            "videoCount": "2"
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Sigma Xavier"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/C8tzmy7Sno6bbrFup7qxzl2hnDJGocsslShTQblsDvwQiVQ85QGFnXFh5SziCg7oHkKUw0n90g"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "8CHZ63UZ2pY8o-z8sYkhPd6EJrM",
+        "id": "UCI2nii8A04VuJDO56iNFKlw",
+        "snippet": {
+            "title": "Garfield Speaks",
+            "description": "",
+            "publishedAt": "2021-06-30T09:27:02.466448Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/Ropull5z5UBpU8RHFNl1Lu4EPrFiBaT8JUjNrxVHEdUCuBZio3u0xOg0KOgxL_7qrSIAAInUFA=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/Ropull5z5UBpU8RHFNl1Lu4EPrFiBaT8JUjNrxVHEdUCuBZio3u0xOg0KOgxL_7qrSIAAInUFA=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/Ropull5z5UBpU8RHFNl1Lu4EPrFiBaT8JUjNrxVHEdUCuBZio3u0xOg0KOgxL_7qrSIAAInUFA=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Garfield Speaks",
+                "description": ""
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUI2nii8A04VuJDO56iNFKlw"
+            }
+        },
+        "statistics": {
+            "viewCount": "40977",
+            "hiddenSubscriberCount": true,
+            "videoCount": "124"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Garfield Speaks",
+                "keywords": "\"garfield speaks\" bxbeastboy",
+                "country": "US"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

@@ -1,0 +1,81 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "d8aBQ0EHyybYbPDz4gltPsfqhzc",
+        "id": "UCbW18JZRgko_mOGm5er8Yzg",
+        "snippet": {
+            "title": "OneDirectionVEVO",
+            "description": "One Direction on Vevo - Official Music Videos, Live Performances, Interviews and more...",
+            "publishedAt": "2010-12-04T21:25:34Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSFBSwphWiZqUpi2-jLevVvZbZh0P4coFq1TfQ1Y_E=s88-c-k-c0x00ffffff-no-rj-mo",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSFBSwphWiZqUpi2-jLevVvZbZh0P4coFq1TfQ1Y_E=s240-c-k-c0x00ffffff-no-rj-mo",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSFBSwphWiZqUpi2-jLevVvZbZh0P4coFq1TfQ1Y_E=s800-c-k-c0x00ffffff-no-rj-mo",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "OneDirectionVEVO",
+                "description": "One Direction on Vevo - Official Music Videos, Live Performances, Interviews and more..."
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUbW18JZRgko_mOGm5er8Yzg"
+            }
+        },
+        "statistics": {
+            "viewCount": "11073802369",
+            "subscriberCount": "22100000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "266"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/04rlf",
+                "/m/064t9"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Music",
+                "https://en.wikipedia.org/wiki/Pop_music"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "OneDirectionVEVO",
+                "description": "One Direction on Vevo - Official Music Videos, Live Performances, Interviews and more...",
+                "keywords": "vevo music video official",
+                "unsubscribedTrailer": "yjmp8CoZBIo",
+                "defaultLanguage": "en"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/T_y8xME1D6mlO5g0xXe_dqSs9sPlWyraDKdrxlfUO1AHlmWkIQhxpoLNt6yF_SnUukezSNLL"
+            }
+        },
+        "contentOwnerDetails": {},
+        "localizations": {
+            "en_US": {
+                "title": "OneDirectionVEVO",
+                "description": "One Direction on Vevo - Official Music Videos, Live Performances, Interviews and more..."
+            }
+        }
+    }
+]

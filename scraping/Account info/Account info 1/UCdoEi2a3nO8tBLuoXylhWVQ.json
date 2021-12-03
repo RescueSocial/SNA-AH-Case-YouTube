@@ -1,0 +1,85 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "CKJhxfdgJuX1U97_eq-PSb567YI",
+        "id": "UCdoEi2a3nO8tBLuoXylhWVQ",
+        "snippet": {
+            "title": "HYBRID TV",
+            "description": "hi,\nHere you will get the reviews of movies and web series\nHollywood movie\nsouth movie\nBollywood",
+            "publishedAt": "2020-07-04T06:35:19.499723Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLS_MRbOfowG4ANAu9v6OwNwyS5Ry7pQlfNEc-bc=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLS_MRbOfowG4ANAu9v6OwNwyS5Ry7pQlfNEc-bc=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLS_MRbOfowG4ANAu9v6OwNwyS5Ry7pQlfNEc-bc=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "defaultLanguage": "hi",
+            "localized": {
+                "title": "HYBRID TV",
+                "description": "hi,\nHere you will get the reviews of movies and web series\nHollywood movie\nsouth movie\nBollywood"
+            },
+            "country": "IN"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUdoEi2a3nO8tBLuoXylhWVQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "18150",
+            "subscriberCount": "1430",
+            "hiddenSubscriberCount": false,
+            "videoCount": "59"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02vxn",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "HYBRID TV",
+                "description": "hi,\nHere you will get the reviews of movies and web series\nHollywood movie\nsouth movie\nBollywood",
+                "keywords": "\"movie list\" \"movie review\"",
+                "defaultLanguage": "hi",
+                "country": "IN"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/gaP6ql6fa2eD_n6ClvMeHwuoU1eI-pdy8Yxpt0Lk3laXhDySVKTyBErVpt8Ql_MpAlI6FKR9"
+            }
+        },
+        "contentOwnerDetails": {},
+        "localizations": {
+            "hi_IN": {
+                "title": "HYBRID TV",
+                "description": "hi,\nHere you will get the reviews of movies and web series\nHollywood movie\nsouth movie\nBollywood"
+            },
+            "en_US": {
+                "title": "Underrated Movies Explainer 2.0",
+                "description": ""
+            }
+        }
+    }
+]

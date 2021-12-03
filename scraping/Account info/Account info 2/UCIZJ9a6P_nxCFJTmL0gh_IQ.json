@@ -1,0 +1,76 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "locgRtlPAS-65_8FecLXVlYChdo",
+        "id": "UCIZJ9a6P_nxCFJTmL0gh_IQ",
+        "snippet": {
+            "title": "Al Arabiya English",
+            "description": "Al Arabiya's English News Channel",
+            "customUrl": "alarabiyaenglish",
+            "publishedAt": "2011-07-05T16:56:22Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRTzfQagop5uCAeCaVnxfFEhWR5jT3kCNzWawHzcQ=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRTzfQagop5uCAeCaVnxfFEhWR5jT3kCNzWawHzcQ=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRTzfQagop5uCAeCaVnxfFEhWR5jT3kCNzWawHzcQ=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Al Arabiya English",
+                "description": "Al Arabiya's English News Channel"
+            },
+            "country": "SA"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUIZJ9a6P_nxCFJTmL0gh_IQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "54884083",
+            "subscriberCount": "234000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "1174"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr",
+                "/m/05qt0"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society",
+                "https://en.wikipedia.org/wiki/Politics"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Al Arabiya English",
+                "description": "Al Arabiya's English News Channel",
+                "keywords": "Al Arabiya English AlArabiya News Channel MBC",
+                "unsubscribedTrailer": "D3qBnJw8-Vg",
+                "country": "SA"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/gE4KSHHk-jpSKtIz4ldpNF-FDQw-jjWHjFgEk4HAArSms53geDaAcV1G0Bsaoy5iD6-307xM-g8"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

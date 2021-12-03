@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "YXksaI0qatO_ckctmmdPCaJTmh8",
+        "id": "UCzsyElojxdnUZ_aKQTVazGA",
+        "snippet": {
+            "title": "Five cookie",
+            "description": "",
+            "publishedAt": "2018-02-16T15:06:32Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/mbvEpvjcl13EhW2mUObJ4_vDw6q7WzZHqCz2iBqHeC5T3rvF4pnsyTxq-mO1YnGU8w4Wptth7g=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/mbvEpvjcl13EhW2mUObJ4_vDw6q7WzZHqCz2iBqHeC5T3rvF4pnsyTxq-mO1YnGU8w4Wptth7g=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/mbvEpvjcl13EhW2mUObJ4_vDw6q7WzZHqCz2iBqHeC5T3rvF4pnsyTxq-mO1YnGU8w4Wptth7g=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Five cookie",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUzsyElojxdnUZ_aKQTVazGA"
+            }
+        },
+        "statistics": {
+            "viewCount": "346841",
+            "subscriberCount": "1460",
+            "hiddenSubscriberCount": false,
+            "videoCount": "9"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02vxn",
+                "/m/02jjt",
+                "/m/07c1v",
+                "/m/019_rr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Technology",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Five cookie"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

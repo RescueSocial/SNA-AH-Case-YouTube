@@ -1,0 +1,57 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "X1dnOxULpOg1eKpPwvc2TIw80sQ",
+        "id": "UC7-Rsdw2Pts0-tHxi_-Cc1g",
+        "snippet": {
+            "title": "Micha\u0142 Nogielski",
+            "description": "",
+            "publishedAt": "2011-11-07T21:59:45Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQgK_gO80zzzVVp8Rw8tgAh3QYnnlrTKSGpaw=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQgK_gO80zzzVVp8Rw8tgAh3QYnnlrTKSGpaw=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQgK_gO80zzzVVp8Rw8tgAh3QYnnlrTKSGpaw=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Micha\u0142 Nogielski",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU7-Rsdw2Pts0-tHxi_-Cc1g"
+            }
+        },
+        "statistics": {
+            "viewCount": "14854",
+            "subscriberCount": "14",
+            "hiddenSubscriberCount": false,
+            "videoCount": "140"
+        },
+        "topicDetails": {},
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Micha\u0142 Nogielski"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

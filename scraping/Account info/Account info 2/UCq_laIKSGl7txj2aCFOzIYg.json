@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "uj5Td9-gFODxzjwaSbZIpgal2T0",
+        "id": "UCq_laIKSGl7txj2aCFOzIYg",
+        "snippet": {
+            "title": "Hot News",
+            "description": "",
+            "customUrl": "hotnewtube",
+            "publishedAt": "2015-08-10T16:25:48Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLT7X2T8DVlVw0uhUu_E8oXvDiA46hS1LCnzQxwcjA=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLT7X2T8DVlVw0uhUu_E8oXvDiA46hS1LCnzQxwcjA=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLT7X2T8DVlVw0uhUu_E8oXvDiA46hS1LCnzQxwcjA=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Hot News",
+                "description": ""
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUq_laIKSGl7txj2aCFOzIYg"
+            }
+        },
+        "statistics": {
+            "viewCount": "3908904",
+            "hiddenSubscriberCount": true,
+            "videoCount": "702"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Hot News",
+                "unsubscribedTrailer": "k-s7lKMjDfo",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/HtTpl8UP-gnfe7FPYWVN5MyKgMu6C0FC5k-mH78aAtO8rdc4XbgJgLomSxpNtEEKh7k6eRJxmw"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

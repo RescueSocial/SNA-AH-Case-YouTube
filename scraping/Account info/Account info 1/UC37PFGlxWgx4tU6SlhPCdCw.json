@@ -1,0 +1,76 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "SynJ3LvwvsM-6VMcNxcufih9rss",
+        "id": "UC37PFGlxWgx4tU6SlhPCdCw",
+        "snippet": {
+            "title": "whatever",
+            "description": "Oh well, whatever, nevermind.",
+            "publishedAt": "2005-09-30T15:17:02Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQJFYKMx_mODQv0JsK-gS5tIYuzmDJj9lzw6_TJTw=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQJFYKMx_mODQv0JsK-gS5tIYuzmDJj9lzw6_TJTw=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQJFYKMx_mODQv0JsK-gS5tIYuzmDJj9lzw6_TJTw=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "whatever",
+                "description": "Oh well, whatever, nevermind."
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU37PFGlxWgx4tU6SlhPCdCw"
+            }
+        },
+        "statistics": {
+            "viewCount": "928974871",
+            "subscriberCount": "3890000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "180"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/019_rr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "whatever",
+                "description": "Oh well, whatever, nevermind.",
+                "keywords": "pranks prank whatever comedy funny \"hidden camera\"",
+                "trackingAnalyticsAccountId": "UA-62102309-1",
+                "unsubscribedTrailer": "fzBcfV-FcMM",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/1SLlQKt8MEYSMWapeBwHMf91u6ceHCIZGVJVIZGqtvmBKOSpxw80K3cvXXpYOC1gJ9qLquhqnZ4"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

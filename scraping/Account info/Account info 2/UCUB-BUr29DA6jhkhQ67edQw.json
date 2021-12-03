@@ -1,0 +1,59 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "q2pS5SUmHL1dc1ZhMIk7Ddh824A",
+        "id": "UCUB-BUr29DA6jhkhQ67edQw",
+        "snippet": {
+            "title": "TTW",
+            "description": "",
+            "publishedAt": "2017-06-13T22:28:20Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTeQ0HjVMF7lYNA67dgZZ--Vqcyk7qGqPuTBVe6=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTeQ0HjVMF7lYNA67dgZZ--Vqcyk7qGqPuTBVe6=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTeQ0HjVMF7lYNA67dgZZ--Vqcyk7qGqPuTBVe6=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "TTW",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUUB-BUr29DA6jhkhQ67edQw"
+            }
+        },
+        "statistics": {
+            "viewCount": "10540307",
+            "subscriberCount": "14000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "2"
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "TTW"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/8p-bGqj6SrvcA2OgGrT9F6iCgg2d6DUhbyJovlTMdnvJDNFlq-a6J6eI6c1lSnnrfVrPfCTXYgg"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

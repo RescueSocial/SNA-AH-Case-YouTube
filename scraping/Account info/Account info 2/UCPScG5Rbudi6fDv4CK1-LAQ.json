@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "ZqlHDB3UR6u_OpDD2DA90wBY7Nc",
+        "id": "UCPScG5Rbudi6fDv4CK1-LAQ",
+        "snippet": {
+            "title": "Paige Wassel",
+            "description": "Paige Wassel or Paige Waffle, whatever you prefer.",
+            "publishedAt": "2011-11-27T05:47:18Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLR3zvyOyxVKALAETqW_SfBxCQmHtQF3rN9_knVWqQ=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLR3zvyOyxVKALAETqW_SfBxCQmHtQF3rN9_knVWqQ=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLR3zvyOyxVKALAETqW_SfBxCQmHtQF3rN9_knVWqQ=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Paige Wassel",
+                "description": "Paige Wassel or Paige Waffle, whatever you prefer."
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUPScG5Rbudi6fDv4CK1-LAQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "2956127",
+            "subscriberCount": "45700",
+            "hiddenSubscriberCount": false,
+            "videoCount": "50"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/03glg",
+                "/m/019_rr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Hobby",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Paige Wassel",
+                "description": "Paige Wassel or Paige Waffle, whatever you prefer."
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/vUhjcd-w6rU-OhmSHhKDaTlrTBPexJM1U7mI7q40aCo50lu0U2yvumWUgT6q18wtqj0qe90ekw"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

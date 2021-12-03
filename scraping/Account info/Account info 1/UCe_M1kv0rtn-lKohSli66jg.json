@@ -1,0 +1,56 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "Zh29PkrG9sBp0jxjMWehZXUd7bA",
+        "id": "UCe_M1kv0rtn-lKohSli66jg",
+        "snippet": {
+            "title": "kworldk",
+            "description": "",
+            "publishedAt": "2011-11-18T00:33:48Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLT7-ff54GrdkmAgYINNx_9KDroNkXGjaDvc=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLT7-ff54GrdkmAgYINNx_9KDroNkXGjaDvc=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLT7-ff54GrdkmAgYINNx_9KDroNkXGjaDvc=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "kworldk",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUe_M1kv0rtn-lKohSli66jg"
+            }
+        },
+        "statistics": {
+            "viewCount": "3744862",
+            "subscriberCount": "1420",
+            "hiddenSubscriberCount": false,
+            "videoCount": "1"
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "kworldk"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "qzOkNM0IknrFaRrGCI187Fdyyf4",
+        "id": "UCUqs0iLumESUa1MBXssLf_w",
+        "snippet": {
+            "title": "Phylicia Lyn",
+            "description": "Welcome to the channel of Phylicia Lyn. Get into it. ",
+            "customUrl": "phylicialyn",
+            "publishedAt": "2011-07-19T21:24:23Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSv_VVLWAbTCIcyfO6E17PwLXSVRkY8RIan_9WOQw=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSv_VVLWAbTCIcyfO6E17PwLXSVRkY8RIan_9WOQw=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSv_VVLWAbTCIcyfO6E17PwLXSVRkY8RIan_9WOQw=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Phylicia Lyn",
+                "description": "Welcome to the channel of Phylicia Lyn. Get into it. "
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUUqs0iLumESUa1MBXssLf_w"
+            }
+        },
+        "statistics": {
+            "viewCount": "115639",
+            "subscriberCount": "1170",
+            "hiddenSubscriberCount": false,
+            "videoCount": "124"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/019_rr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Phylicia Lyn",
+                "description": "Welcome to the channel of Phylicia Lyn. Get into it. ",
+                "keywords": "\"Phylicia Lyn\"",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/e6IlLYwArCbzeyg45Oj7H_C6cMcT813RWSAuHnJ7ghLo2WLkRhcsiDQ9U5lJ9iojptuN_GVc2g"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

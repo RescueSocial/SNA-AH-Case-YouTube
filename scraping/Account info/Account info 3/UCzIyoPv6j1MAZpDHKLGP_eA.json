@@ -1,0 +1,72 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "Co8kYCoq7sNQalkXRs5dW5rgqro",
+        "id": "UCzIyoPv6j1MAZpDHKLGP_eA",
+        "snippet": {
+            "title": "Morgan Wallen",
+            "description": "",
+            "customUrl": "morganwallenofficial",
+            "publishedAt": "2010-12-01T04:20:37Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/4TC0myq2SOKZUIaaGJIhbkEPhsADuQfk121eWfZs3gol2uCI4qNf_2LQ1mHwNwh_0Abp6ppD-w=s88-c-k-c0x00ffffff-no-nd-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/4TC0myq2SOKZUIaaGJIhbkEPhsADuQfk121eWfZs3gol2uCI4qNf_2LQ1mHwNwh_0Abp6ppD-w=s240-c-k-c0x00ffffff-no-nd-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/4TC0myq2SOKZUIaaGJIhbkEPhsADuQfk121eWfZs3gol2uCI4qNf_2LQ1mHwNwh_0Abp6ppD-w=s800-c-k-c0x00ffffff-no-nd-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Morgan Wallen",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUzIyoPv6j1MAZpDHKLGP_eA"
+            }
+        },
+        "statistics": {
+            "viewCount": "1568615518",
+            "subscriberCount": "1280000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "69"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/01lyv",
+                "/m/04rlf"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Country_music",
+                "https://en.wikipedia.org/wiki/Music"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Morgan Wallen",
+                "unsubscribedTrailer": "ZsEjZKNzt9E"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/b5r-QIN52pFlGiAgfxo5GFAcgsebs387Sm3kiL3OJZUaxPC4OeZkfLPMC3-ijvpvIEPt7A4B"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

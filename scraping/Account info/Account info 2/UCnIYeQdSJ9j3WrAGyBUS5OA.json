@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "KiSrnPsfksOv67Aq3-QDbBR6RMA",
+        "id": "UCnIYeQdSJ9j3WrAGyBUS5OA",
+        "snippet": {
+            "title": "Ape Huncho",
+            "description": "Crime Reporter. ",
+            "customUrl": "apehuncho",
+            "publishedAt": "2019-10-30T19:35:44.246379Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/5hXCKOFCMwgryocRBP02Bekgs7M8OdAPxeIXs92kh4ylrRRPKtBV1tQ74MbPAFucQRGZhzzTQw=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/5hXCKOFCMwgryocRBP02Bekgs7M8OdAPxeIXs92kh4ylrRRPKtBV1tQ74MbPAFucQRGZhzzTQw=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/5hXCKOFCMwgryocRBP02Bekgs7M8OdAPxeIXs92kh4ylrRRPKtBV1tQ74MbPAFucQRGZhzzTQw=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Ape Huncho",
+                "description": "Crime Reporter. "
+            },
+            "country": "GB"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUnIYeQdSJ9j3WrAGyBUS5OA"
+            }
+        },
+        "statistics": {
+            "viewCount": "63643100",
+            "subscriberCount": "272000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "662"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Ape Huncho",
+                "description": "Crime Reporter. ",
+                "unsubscribedTrailer": "M4YpnKBn8ok",
+                "country": "GB"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/3EwgJJ2A7-3I8ceCyg-zOFo5SIjdXnRLWZodF9j7dZEXYZVPcQvnI6o7BV6errXEmPo_5vXftA"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

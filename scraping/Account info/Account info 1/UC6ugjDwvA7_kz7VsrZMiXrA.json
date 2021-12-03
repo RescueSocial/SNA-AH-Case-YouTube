@@ -1,0 +1,71 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "-UfrTG0LCI_xrEr4KcR08PsNFEM",
+        "id": "UC6ugjDwvA7_kz7VsrZMiXrA",
+        "snippet": {
+            "title": "Mr T",
+            "description": "",
+            "publishedAt": "2016-12-22T06:04:55Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQYt1biuoPMSKTK2iJIDuZYotH7SOkCT7rjpgNp=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQYt1biuoPMSKTK2iJIDuZYotH7SOkCT7rjpgNp=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQYt1biuoPMSKTK2iJIDuZYotH7SOkCT7rjpgNp=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Mr T",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU6ugjDwvA7_kz7VsrZMiXrA"
+            }
+        },
+        "statistics": {
+            "viewCount": "637499",
+            "hiddenSubscriberCount": true,
+            "videoCount": "5610"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/019_rr",
+                "/m/02jjt",
+                "/m/0f2f9"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Television_program"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Mr T",
+                "keywords": "On football TV"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/yDVej5tL6yJP-_3MhOe0rWjTIZwXx78UuVUngdv5FBgsqwXi1l4rhZ-3MxXgL6u9WQNgmWHiWg"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "myloed-1a17gjLynRx1H_F3AcuE",
+        "id": "UCNOKSr8CNSpECVxuNyKk8lQ",
+        "snippet": {
+            "title": "Just for Fun",
+            "description": "",
+            "publishedAt": "2016-05-30T18:20:40Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQ437jlYOBeCZUx5YqcYsvcnKYrnObiqt0n3w=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQ437jlYOBeCZUx5YqcYsvcnKYrnObiqt0n3w=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQ437jlYOBeCZUx5YqcYsvcnKYrnObiqt0n3w=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Just for Fun",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUNOKSr8CNSpECVxuNyKk8lQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "114560",
+            "subscriberCount": "100",
+            "hiddenSubscriberCount": false,
+            "videoCount": "110"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/06ntj"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Sport"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Just for Fun",
+                "keywords": "Just for Fun"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

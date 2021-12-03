@@ -1,0 +1,79 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "T9RQ4hTEnJoSaTFCyc2ylP5wenA",
+        "id": "UCMtFAi84ehTSYSE9XoHefig",
+        "snippet": {
+            "title": "The Late Show with Stephen Colbert",
+            "description": "Welcome to the official YouTube channel for \"The Late Show with Stephen Colbert\"! Weeknights at 11:35pm/10:35c",
+            "customUrl": "colbertlateshow",
+            "publishedAt": "2015-05-27T23:19:52Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQ6nTKU3tP0olNHGfw26Y579s8j2j67QcVoplsM6w=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQ6nTKU3tP0olNHGfw26Y579s8j2j67QcVoplsM6w=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQ6nTKU3tP0olNHGfw26Y579s8j2j67QcVoplsM6w=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "The Late Show with Stephen Colbert",
+                "description": "Welcome to the official YouTube channel for \"The Late Show with Stephen Colbert\"! Weeknights at 11:35pm/10:35c"
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUMtFAi84ehTSYSE9XoHefig"
+            }
+        },
+        "statistics": {
+            "viewCount": "8083337992",
+            "subscriberCount": "8670000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "8785"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02vxn",
+                "/m/0f2f9",
+                "/m/098wr",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Television_program",
+                "https://en.wikipedia.org/wiki/Society",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "The Late Show with Stephen Colbert",
+                "description": "Welcome to the official YouTube channel for \"The Late Show with Stephen Colbert\"! Weeknights at 11:35pm/10:35c",
+                "keywords": "colbert \"late show\" comedy",
+                "moderateComments": true,
+                "unsubscribedTrailer": "zfcB2q0_hAI"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/ytw0wI7z7gMRwY83hf5zgRqUakIoVi-mqHhs6Qw04Ah-sPlDu4k3JbPjUOSFHOI1BYQVX8kwXFc"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

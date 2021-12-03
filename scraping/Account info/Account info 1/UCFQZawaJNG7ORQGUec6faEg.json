@@ -1,0 +1,56 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "U0cfpSpUBGoNbJcpd8S6cIOLByA",
+        "id": "UCFQZawaJNG7ORQGUec6faEg",
+        "snippet": {
+            "title": "Liv",
+            "description": "",
+            "publishedAt": "2020-09-17T02:17:41.40387Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRcEXGUIZhkQyqWMYSeaFYbqUXgU3_-dv6xsg=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRcEXGUIZhkQyqWMYSeaFYbqUXgU3_-dv6xsg=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRcEXGUIZhkQyqWMYSeaFYbqUXgU3_-dv6xsg=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Liv",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUFQZawaJNG7ORQGUec6faEg"
+            }
+        },
+        "statistics": {
+            "viewCount": "838062",
+            "subscriberCount": "647",
+            "hiddenSubscriberCount": false,
+            "videoCount": "1"
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Liv"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

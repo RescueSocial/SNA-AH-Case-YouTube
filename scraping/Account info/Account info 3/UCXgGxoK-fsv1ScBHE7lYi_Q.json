@@ -1,0 +1,78 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "Eu_ZFFtZvYn8Fx6QQc0Ff_Jij64",
+        "id": "UCXgGxoK-fsv1ScBHE7lYi_Q",
+        "snippet": {
+            "title": "Repzilla",
+            "description": "I make videos in the field of entertainment, current events, news, health and fitness.",
+            "customUrl": "repzilla",
+            "publishedAt": "2015-11-06T20:07:30Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTvGvMwx8e2OXyTAixOkn6RHOl-3jik-n0HYPTV=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTvGvMwx8e2OXyTAixOkn6RHOl-3jik-n0HYPTV=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTvGvMwx8e2OXyTAixOkn6RHOl-3jik-n0HYPTV=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Repzilla",
+                "description": "I make videos in the field of entertainment, current events, news, health and fitness."
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUXgGxoK-fsv1ScBHE7lYi_Q"
+            }
+        },
+        "statistics": {
+            "viewCount": "30587708",
+            "subscriberCount": "192000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "827"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr",
+                "/m/019_rr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Repzilla",
+                "description": "I make videos in the field of entertainment, current events, news, health and fitness.",
+                "keywords": "repzilla commentary \"social commentary\" news",
+                "trackingAnalyticsAccountId": "UA-101760148-1",
+                "moderateComments": true,
+                "unsubscribedTrailer": "AApGqk9OxVA",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/O-sD_xjWSAb-GIy36-j-TwgMrZMSQV1dxmnhhP4QOJAxlHlgev9TxCXWEvDu_KMHa7tJn7tHwQ"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

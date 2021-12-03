@@ -1,0 +1,69 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "_5GGocNiiehF_H-9dmEWqSgYp08",
+        "id": "UC25vIS749wwzwExQFwvpHeQ",
+        "snippet": {
+            "title": "Daily News",
+            "description": "",
+            "publishedAt": "2017-02-23T09:15:47Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRAiUW0RFlHFdyF0YO0sAh-FiaFkcLqrXin-KMy=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRAiUW0RFlHFdyF0YO0sAh-FiaFkcLqrXin-KMy=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRAiUW0RFlHFdyF0YO0sAh-FiaFkcLqrXin-KMy=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Daily News",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU25vIS749wwzwExQFwvpHeQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "252004",
+            "subscriberCount": "586",
+            "hiddenSubscriberCount": false,
+            "videoCount": "3644"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Daily News"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/_sI6MVvfVD4sA4eCEXhbGCSRWL3IAKsmoWG3kgOpkwzEY76YS81kcKRFc1n4T-4vQ_OMcTsYjA"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

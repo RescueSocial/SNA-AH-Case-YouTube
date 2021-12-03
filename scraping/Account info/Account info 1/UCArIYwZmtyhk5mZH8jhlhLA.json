@@ -1,0 +1,74 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "3pnmo39ALKR9iKCqimePbbFLCTk",
+        "id": "UCArIYwZmtyhk5mZH8jhlhLA",
+        "snippet": {
+            "title": "The Lone Wolf",
+            "description": "",
+            "customUrl": "thelonewolfrises",
+            "publishedAt": "2020-07-05T07:05:40.806942Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/rt0StJrkF1SJWDLmHLLRnVgGQsN5A6FDTGn9lDt_R7RuzCRlcoqye_Jp2MHNw2EzY6pVxw2ALQ=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/rt0StJrkF1SJWDLmHLLRnVgGQsN5A6FDTGn9lDt_R7RuzCRlcoqye_Jp2MHNw2EzY6pVxw2ALQ=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/rt0StJrkF1SJWDLmHLLRnVgGQsN5A6FDTGn9lDt_R7RuzCRlcoqye_Jp2MHNw2EzY6pVxw2ALQ=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "The Lone Wolf",
+                "description": ""
+            },
+            "country": "IN"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUArIYwZmtyhk5mZH8jhlhLA"
+            }
+        },
+        "statistics": {
+            "viewCount": "5382804",
+            "subscriberCount": "3870",
+            "hiddenSubscriberCount": false,
+            "videoCount": "2845"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "The Lone Wolf",
+                "unsubscribedTrailer": "AO1YXvprhRQ",
+                "country": "IN"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/xlGcB1m-6Rg0d1TcVG5aKIco6iJvshtHbWDsuONQ_-FBwpRZjJdu1Ko0qmfb636iRjK3LxXk"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

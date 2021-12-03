@@ -1,0 +1,69 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "YSMPAGLAjRrmqooERPEx-EmBz0E",
+        "id": "UCyMgqzz0cMmxSCAFqAq257Q",
+        "snippet": {
+            "title": "HLN.be",
+            "description": "Hier vind je video's van HLN.BE, de grootste nieuwssite van Vlaanderen.",
+            "publishedAt": "2008-09-17T14:55:01Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSZkVHgUfDEbFx0kkF_YZCnURAq9zGoDhE3MJdqIw=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSZkVHgUfDEbFx0kkF_YZCnURAq9zGoDhE3MJdqIw=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSZkVHgUfDEbFx0kkF_YZCnURAq9zGoDhE3MJdqIw=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "HLN.be",
+                "description": "Hier vind je video's van HLN.BE, de grootste nieuwssite van Vlaanderen."
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUyMgqzz0cMmxSCAFqAq257Q"
+            }
+        },
+        "statistics": {
+            "viewCount": "3620362",
+            "subscriberCount": "1440",
+            "hiddenSubscriberCount": false,
+            "videoCount": "281"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "HLN.be",
+                "description": "Hier vind je video's van HLN.BE, de grootste nieuwssite van Vlaanderen.",
+                "keywords": "HLN.BE HLNBE het laatste nieuws",
+                "unsubscribedTrailer": "HkRmB4sfJbE"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

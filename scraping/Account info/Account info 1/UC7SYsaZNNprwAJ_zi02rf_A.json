@@ -1,0 +1,76 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "K37bscleBlSCQmyQAl-N0RiKjGs",
+        "id": "UC7SYsaZNNprwAJ_zi02rf_A",
+        "snippet": {
+            "title": "Empire Magazine",
+            "description": "Official YouTube home of the world's biggest (and best) movie magazine and website.",
+            "customUrl": "empiremagazine",
+            "publishedAt": "2007-10-26T14:56:54Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSf4r_CrRG4fRRJLA4FFMVQ8RiljsmW0xdMcV1hFw=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSf4r_CrRG4fRRJLA4FFMVQ8RiljsmW0xdMcV1hFw=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSf4r_CrRG4fRRJLA4FFMVQ8RiljsmW0xdMcV1hFw=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Empire Magazine",
+                "description": "Official YouTube home of the world's biggest (and best) movie magazine and website."
+            },
+            "country": "GB"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU7SYsaZNNprwAJ_zi02rf_A"
+            }
+        },
+        "statistics": {
+            "viewCount": "55158586",
+            "subscriberCount": "73200",
+            "hiddenSubscriberCount": false,
+            "videoCount": "1769"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Empire Magazine",
+                "description": "Official YouTube home of the world's biggest (and best) movie magazine and website.",
+                "keywords": "Empire Magazine empireonline empireonline.com movies magazine interviews films actors film review reviews",
+                "unsubscribedTrailer": "NJKi37_ieLE",
+                "country": "GB"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/cI6sQpiGAiAaS_I7LRcwiOoZyp01Mh32nTLD-QcBAvqhg-wP1RThSew3TAFdjN0loNf3KHjq"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

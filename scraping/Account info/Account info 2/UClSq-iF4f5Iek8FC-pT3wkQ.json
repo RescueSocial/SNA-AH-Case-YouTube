@@ -1,0 +1,72 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "sLfE1m9YQeyuw6nxK5TwDt94HSo",
+        "id": "UClSq-iF4f5Iek8FC-pT3wkQ",
+        "snippet": {
+            "title": "SHOWGEEK",
+            "description": "\n",
+            "publishedAt": "2019-09-13T13:07:02Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLT89_tXdUADogaQ0cuclJX_9wkYtjyxGvCV88NR=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLT89_tXdUADogaQ0cuclJX_9wkYtjyxGvCV88NR=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLT89_tXdUADogaQ0cuclJX_9wkYtjyxGvCV88NR=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "SHOWGEEK",
+                "description": "\n"
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUlSq-iF4f5Iek8FC-pT3wkQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "77082",
+            "subscriberCount": "1510",
+            "hiddenSubscriberCount": false,
+            "videoCount": "38"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn",
+                "/m/0f2f9"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Television_program"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "SHOWGEEK",
+                "description": "\n"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/e370UOUlwzCc5Nukn6bF8rREOkIHuDcGWwgyQUv5cLndjt7YvFhg9aPpjGwx8h_03KH29GlCyg"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

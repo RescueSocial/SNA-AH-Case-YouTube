@@ -1,0 +1,78 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "Lh2_QxGf505jhIPGE4guJpnUGOc",
+        "id": "UCl7KcCEsWBL1Ix-2YgHmQTw",
+        "snippet": {
+            "title": "Steamy",
+            "description": "Subscribe For More",
+            "customUrl": "steamysteam123",
+            "publishedAt": "2018-09-09T12:41:40Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSLvjfSKMaCqLUtFT8kOtkOwSjCEZtuPwZQWz5lIg=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSLvjfSKMaCqLUtFT8kOtkOwSjCEZtuPwZQWz5lIg=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSLvjfSKMaCqLUtFT8kOtkOwSjCEZtuPwZQWz5lIg=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Steamy",
+                "description": "Subscribe For More"
+            },
+            "country": "CA"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUl7KcCEsWBL1Ix-2YgHmQTw"
+            }
+        },
+        "statistics": {
+            "viewCount": "10588744",
+            "subscriberCount": "76800",
+            "hiddenSubscriberCount": false,
+            "videoCount": "24"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/0f2f9",
+                "/m/02jjt",
+                "/m/02vxn",
+                "/m/019_rr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Television_program",
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Steamy",
+                "description": "Subscribe For More",
+                "unsubscribedTrailer": "aRh170rIfIc",
+                "country": "CA"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/pSwL1JYXDRnkkkz9rSsm73tvCoQ-bUzGbJXiz3on2nwH1xvv6ei7zsCT8CTgKSyUi_BWBJ29"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

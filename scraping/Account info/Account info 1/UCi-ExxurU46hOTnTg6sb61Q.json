@@ -1,0 +1,72 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "wEorZJeLRWLhrD0vTp_NqfeWfkI",
+        "id": "UCi-ExxurU46hOTnTg6sb61Q",
+        "snippet": {
+            "title": "KiddNation",
+            "description": "The best videos from the Kidd Kraddick Morning Show! Featuring Kellie, Big Al, J-Si and Jenna!",
+            "publishedAt": "2011-03-22T00:39:42Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLR8P4g3exddXEHM6dL4GUbAW-qgyaK7zaaFwJON=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLR8P4g3exddXEHM6dL4GUbAW-qgyaK7zaaFwJON=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLR8P4g3exddXEHM6dL4GUbAW-qgyaK7zaaFwJON=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "KiddNation",
+                "description": "The best videos from the Kidd Kraddick Morning Show! Featuring Kellie, Big Al, J-Si and Jenna!"
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUi-ExxurU46hOTnTg6sb61Q"
+            }
+        },
+        "statistics": {
+            "viewCount": "64483022",
+            "subscriberCount": "84500",
+            "hiddenSubscriberCount": false,
+            "videoCount": "4870"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "KiddNation",
+                "description": "The best videos from the Kidd Kraddick Morning Show! Featuring Kellie, Big Al, J-Si and Jenna!",
+                "keywords": "\"Kidd Kraddick\" \"Kellie Rasberry\" \"Big Al Mack\" KiddNation \"Kidd Kraddick in the Morning\" \"Kidd Kraddick Morning Show\"",
+                "unsubscribedTrailer": "tGVf3LljrZc",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/6vNasgTk_yKLQ_AExNnrjjHt7a9SdHR1nN7-zmSEAxpxYvIjcfaP9Fr_W-XS_dSBmAM9bL21"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

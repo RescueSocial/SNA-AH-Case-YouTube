@@ -1,0 +1,71 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "f-x80agWdMlhUtnsOr8iyY9B2ZA",
+        "id": "UCq3hBt71fezQ2dzAKY_3wIw",
+        "snippet": {
+            "title": "F2R",
+            "description": "",
+            "publishedAt": "2019-09-27T00:24:36Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRew5ntSgmWEpoBKzHRQ30c1vx217C7M3hJHlA=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRew5ntSgmWEpoBKzHRQ30c1vx217C7M3hJHlA=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRew5ntSgmWEpoBKzHRQ30c1vx217C7M3hJHlA=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "F2R",
+                "description": ""
+            },
+            "country": "TR"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUq3hBt71fezQ2dzAKY_3wIw"
+            }
+        },
+        "statistics": {
+            "viewCount": "769748",
+            "subscriberCount": "3460",
+            "hiddenSubscriberCount": false,
+            "videoCount": "140"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "F2R",
+                "country": "TR"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/hlJSgeulAWrwLlYHdWq2W--5b_1R6PljE_EtWNS1kAgFfrIiKKxN9nOpRZhiwBB93dc1phF7SpM"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

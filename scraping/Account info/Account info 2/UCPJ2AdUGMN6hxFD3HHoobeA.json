@@ -1,0 +1,69 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "201GSFqthdsOxfQLQHkiyGXJBFQ",
+        "id": "UCPJ2AdUGMN6hxFD3HHoobeA",
+        "snippet": {
+            "title": "Ashiq Hasan",
+            "description": "",
+            "customUrl": "ashiqhasan",
+            "publishedAt": "2014-02-03T07:11:51Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLS-vvO8SzN16uWFdYXEZRgC4zIYFc-3M1nvlRkySw=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLS-vvO8SzN16uWFdYXEZRgC4zIYFc-3M1nvlRkySw=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLS-vvO8SzN16uWFdYXEZRgC4zIYFc-3M1nvlRkySw=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Ashiq Hasan",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUPJ2AdUGMN6hxFD3HHoobeA"
+            }
+        },
+        "statistics": {
+            "viewCount": "9633",
+            "subscriberCount": "27",
+            "hiddenSubscriberCount": false,
+            "videoCount": "4"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/04rlf"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Music"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Ashiq Hasan",
+                "keywords": "Ash"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/-FjqRpMj5cYx6uJ-aqhIugnfY_hm4u7V26SnM14trKYMZmAiIwk_x_2LvvA0_s8eH61jPPZDww"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

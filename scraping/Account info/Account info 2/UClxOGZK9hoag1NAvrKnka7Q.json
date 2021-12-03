@@ -1,0 +1,67 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "lK0oTfuysZ3DPe7HBjikHic_590",
+        "id": "UClxOGZK9hoag1NAvrKnka7Q",
+        "snippet": {
+            "title": "notizie 24h",
+            "description": "",
+            "publishedAt": "2014-11-29T04:42:53Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSk5zZhC0SLcZ6NZTqCEKIeGFjyJljZ5O99FPu_Cw=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSk5zZhC0SLcZ6NZTqCEKIeGFjyJljZ5O99FPu_Cw=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSk5zZhC0SLcZ6NZTqCEKIeGFjyJljZ5O99FPu_Cw=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "notizie 24h",
+                "description": ""
+            },
+            "country": "IT"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUlxOGZK9hoag1NAvrKnka7Q"
+            }
+        },
+        "statistics": {
+            "viewCount": "151333",
+            "hiddenSubscriberCount": true,
+            "videoCount": "555"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "notizie 24h",
+                "country": "IT"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

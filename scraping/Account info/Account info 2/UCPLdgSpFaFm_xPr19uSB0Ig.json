@@ -1,0 +1,71 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "VAAs0mcaZEp6Q-utx9EDYW3h0Oc",
+        "id": "UCPLdgSpFaFm_xPr19uSB0Ig",
+        "snippet": {
+            "title": "Blored",
+            "description": "",
+            "publishedAt": "2019-05-29T16:02:23Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/Le1beJwm9aBx4qqtJ-leRCG6KViKoWnXtLhgJmK5f_kaOXEYbdOvtY41k8I5IKDP4uiooyeVuA=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/Le1beJwm9aBx4qqtJ-leRCG6KViKoWnXtLhgJmK5f_kaOXEYbdOvtY41k8I5IKDP4uiooyeVuA=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/Le1beJwm9aBx4qqtJ-leRCG6KViKoWnXtLhgJmK5f_kaOXEYbdOvtY41k8I5IKDP4uiooyeVuA=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Blored",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUPLdgSpFaFm_xPr19uSB0Ig"
+            }
+        },
+        "statistics": {
+            "viewCount": "63977",
+            "subscriberCount": "150",
+            "hiddenSubscriberCount": false,
+            "videoCount": "70"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn",
+                "/m/04rlf"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Music"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Blored"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/I1anNiXoJRIrF7vPB9uflvnDCYanMpV-xHTLnyXJvPmaEbZG1nUiCm1u2VVX1lw3Ptr8H3fV8w"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

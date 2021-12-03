@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "y1aPYSzlyrwGcXClyj4xqS2QXtc",
+        "id": "UCIYVU7fPs_n6gJIBso3ryeg",
+        "snippet": {
+            "title": "NBC2 News",
+            "description": "Video clips from NBC2 News in Fort Myers, Florida. Send your story ideas to newstips@nbc-2.com.",
+            "publishedAt": "2014-07-18T17:27:21Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLThlzdku4XoE8MFKy-9J6Ire_vIgqnYKGmRx77f3w=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLThlzdku4XoE8MFKy-9J6Ire_vIgqnYKGmRx77f3w=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLThlzdku4XoE8MFKy-9J6Ire_vIgqnYKGmRx77f3w=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "NBC2 News",
+                "description": "Video clips from NBC2 News in Fort Myers, Florida. Send your story ideas to newstips@nbc-2.com."
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUIYVU7fPs_n6gJIBso3ryeg"
+            }
+        },
+        "statistics": {
+            "viewCount": "76401431",
+            "subscriberCount": "153000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "26709"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "NBC2 News",
+                "description": "Video clips from NBC2 News in Fort Myers, Florida. Send your story ideas to newstips@nbc-2.com.",
+                "keywords": "NBC2 \"Southwest Florida\"",
+                "trackingAnalyticsAccountId": "UA-1355374-1",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/T1H96vdvLgsb63PmY2JCgL7xCjQCv_9zoiqc34ro6W9XstdQnlGjf6b-9LTlo-yaCowRWSI_ng"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

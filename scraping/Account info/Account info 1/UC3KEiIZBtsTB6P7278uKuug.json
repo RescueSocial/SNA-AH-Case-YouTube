@@ -1,0 +1,74 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "vRrlqaEN5eHvCPA5ArGhNEtgs_w",
+        "id": "UC3KEiIZBtsTB6P7278uKuug",
+        "snippet": {
+            "title": "Warner Bros Polska",
+            "description": "Oficjalny kana\u0142 Warner Bros. Entertainment Polska",
+            "publishedAt": "2011-02-16T13:20:56Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLR2formxLmqIkll7pIunUAQQdp0ABFzr13bvTvFQA=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLR2formxLmqIkll7pIunUAQQdp0ABFzr13bvTvFQA=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLR2formxLmqIkll7pIunUAQQdp0ABFzr13bvTvFQA=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Warner Bros Polska",
+                "description": "Oficjalny kana\u0142 Warner Bros. Entertainment Polska"
+            },
+            "country": "PL"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU3KEiIZBtsTB6P7278uKuug"
+            }
+        },
+        "statistics": {
+            "viewCount": "236596861",
+            "subscriberCount": "191000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "2015"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Warner Bros Polska",
+                "description": "Oficjalny kana\u0142 Warner Bros. Entertainment Polska",
+                "keywords": "Warner Bros Entertainment Polska film kino rozrywka",
+                "unsubscribedTrailer": "6a5a4H0eaMs",
+                "country": "PL"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/_pNoG0xtJc_a15gw6WWsVBf-fOFKDXKExtb6we73KbP1LwcuDSZWsMhqS4hFzNhmc7iOZD-h3Q"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

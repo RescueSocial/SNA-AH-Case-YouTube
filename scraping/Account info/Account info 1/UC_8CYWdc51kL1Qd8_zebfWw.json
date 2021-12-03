@@ -1,0 +1,65 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "xWr6iNXqkArshVUNim8LEc8a1Ww",
+        "id": "UC_8CYWdc51kL1Qd8_zebfWw",
+        "snippet": {
+            "title": "Stream News",
+            "description": "",
+            "publishedAt": "2020-11-22T02:38:09.978102Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQ7PBXzHPLqzcwenJz4u6V5DIjMQ8l1_jSsFw=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQ7PBXzHPLqzcwenJz4u6V5DIjMQ8l1_jSsFw=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQ7PBXzHPLqzcwenJz4u6V5DIjMQ8l1_jSsFw=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Stream News",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU_8CYWdc51kL1Qd8_zebfWw"
+            }
+        },
+        "statistics": {
+            "viewCount": "761325",
+            "subscriberCount": "2020",
+            "hiddenSubscriberCount": false,
+            "videoCount": "6274"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Stream News"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

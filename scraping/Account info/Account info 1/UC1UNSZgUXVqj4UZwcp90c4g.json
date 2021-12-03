@@ -1,0 +1,69 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "o3tMEFu1zbSDY-fVxQ4xjDtTtHE",
+        "id": "UC1UNSZgUXVqj4UZwcp90c4g",
+        "snippet": {
+            "title": "Wizarding world NEWS",
+            "description": "",
+            "publishedAt": "2020-08-18T13:05:26.501814Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTzVo8852XmFyyGLztrFkY6oSIAuQPlX5ESBWowFA=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTzVo8852XmFyyGLztrFkY6oSIAuQPlX5ESBWowFA=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTzVo8852XmFyyGLztrFkY6oSIAuQPlX5ESBWowFA=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Wizarding world NEWS",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU1UNSZgUXVqj4UZwcp90c4g"
+            }
+        },
+        "statistics": {
+            "viewCount": "1130",
+            "subscriberCount": "16",
+            "hiddenSubscriberCount": false,
+            "videoCount": "9"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02vxn",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Wizarding world NEWS"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/9UeFc0ERCLPh8GaEVlG2MjlZutk43lmLi8MrM_FdoNWoDGkXWmRbCIlPDVi3uN2UijKSlOHL8w"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

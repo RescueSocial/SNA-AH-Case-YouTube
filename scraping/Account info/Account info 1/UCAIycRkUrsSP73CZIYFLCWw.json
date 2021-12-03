@@ -1,0 +1,72 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "H5Q5klDAl1XEtGR4_kkKyzljQGQ",
+        "id": "UCAIycRkUrsSP73CZIYFLCWw",
+        "snippet": {
+            "title": "Lifeisabirdsong",
+            "description": "",
+            "publishedAt": "2011-12-22T14:43:58Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLR3BtX2pcaiMpa_wqueOQRizk7XMSMFABf_BQ=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLR3BtX2pcaiMpa_wqueOQRizk7XMSMFABf_BQ=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLR3BtX2pcaiMpa_wqueOQRizk7XMSMFABf_BQ=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Lifeisabirdsong",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUAIycRkUrsSP73CZIYFLCWw"
+            }
+        },
+        "statistics": {
+            "viewCount": "13378234",
+            "subscriberCount": "10500",
+            "hiddenSubscriberCount": false,
+            "videoCount": "16"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn",
+                "/m/04rlf",
+                "/m/064t9",
+                "/m/06by7"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Music",
+                "https://en.wikipedia.org/wiki/Pop_music",
+                "https://en.wikipedia.org/wiki/Rock_music"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Lifeisabirdsong"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

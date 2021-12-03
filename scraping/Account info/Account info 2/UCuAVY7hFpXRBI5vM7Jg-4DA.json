@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "W5jhaZxlXouTr4SRJLj6A4WbRCw",
+        "id": "UCuAVY7hFpXRBI5vM7Jg-4DA",
+        "snippet": {
+            "title": "VidTeam",
+            "description": "Get update news and your pure entertainment.",
+            "publishedAt": "2016-05-16T17:22:57Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTFp-wVR9o31v_cprn4R6o9tY7dXxYnkjzZTtSY=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTFp-wVR9o31v_cprn4R6o9tY7dXxYnkjzZTtSY=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTFp-wVR9o31v_cprn4R6o9tY7dXxYnkjzZTtSY=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "VidTeam",
+                "description": "Get update news and your pure entertainment."
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUuAVY7hFpXRBI5vM7Jg-4DA"
+            }
+        },
+        "statistics": {
+            "viewCount": "18028",
+            "subscriberCount": "112",
+            "hiddenSubscriberCount": false,
+            "videoCount": "8"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/07c1v",
+                "/m/098wr",
+                "/m/019_rr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Technology",
+                "https://en.wikipedia.org/wiki/Society",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "VidTeam",
+                "description": "Get update news and your pure entertainment.",
+                "keywords": "Video Team"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/gHJq1amFgkRwSejRe_b54xWn9gBCL6HfDZTfhTJo9RZtPa3uWDgLxqEzGL8yN739ZRiHdij6oA"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

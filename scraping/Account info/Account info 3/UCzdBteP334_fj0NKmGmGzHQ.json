@@ -1,0 +1,67 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "_gmQ2nNehjLNfHpuQaFjdJpXHKk",
+        "id": "UCzdBteP334_fj0NKmGmGzHQ",
+        "snippet": {
+            "title": "High Thing",
+            "description": "",
+            "publishedAt": "2016-01-29T20:57:59Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRW7gx2vo19ZZAsgCFeI5cEP3sRkl0n6F3loQoz=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRW7gx2vo19ZZAsgCFeI5cEP3sRkl0n6F3loQoz=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRW7gx2vo19ZZAsgCFeI5cEP3sRkl0n6F3loQoz=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "High Thing",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUzdBteP334_fj0NKmGmGzHQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "73472",
+            "subscriberCount": "278",
+            "hiddenSubscriberCount": false,
+            "videoCount": "2581"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "High Thing"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/cOpAmYM-_D9pjpFK9eRs78Fe5yHAX_jh3WXUPUXqwWxCn-nErSnU4sowYHRzz-x0iO5uqIhuHQ"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

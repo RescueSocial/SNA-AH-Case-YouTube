@@ -1,0 +1,74 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "lLkblnzx_SYgjmqyxvZCeHnpwig",
+        "id": "UCSn_LLxhycqVHYEaxHV4AKw",
+        "snippet": {
+            "title": "thomasLUVjaymes",
+            "description": "",
+            "customUrl": "thomasluvjaymes",
+            "publishedAt": "2009-07-05T14:26:38Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLS-k-R49DXTS5Jw-MOelSyhG3dBwtKWyPcsq5iS=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLS-k-R49DXTS5Jw-MOelSyhG3dBwtKWyPcsq5iS=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLS-k-R49DXTS5Jw-MOelSyhG3dBwtKWyPcsq5iS=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "thomasLUVjaymes",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUSn_LLxhycqVHYEaxHV4AKw"
+            }
+        },
+        "statistics": {
+            "viewCount": "295104",
+            "subscriberCount": "229",
+            "hiddenSubscriberCount": false,
+            "videoCount": "44"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/04rlf",
+                "/m/064t9",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Music",
+                "https://en.wikipedia.org/wiki/Pop_music",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "thomasLUVjaymes"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/GpdiEEY2q9UdMsgxaImFeFUZeVg-OBqQz3HGq6Iv5KR8HphnOZchL01y0Dj_fT0CWwtVJcBu"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

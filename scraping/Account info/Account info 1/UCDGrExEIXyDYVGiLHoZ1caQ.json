@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "pJ2EfPL1LlKwcWGYVoCTDyKEgK0",
+        "id": "UCDGrExEIXyDYVGiLHoZ1caQ",
+        "snippet": {
+            "title": "Hollywood news",
+            "description": "",
+            "publishedAt": "2016-04-14T17:10:37Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLR1oEDii-0Sl-rgMWSRAlCOmHtXNBLFvxjB-PK2=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLR1oEDii-0Sl-rgMWSRAlCOmHtXNBLFvxjB-PK2=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLR1oEDii-0Sl-rgMWSRAlCOmHtXNBLFvxjB-PK2=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Hollywood news",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUDGrExEIXyDYVGiLHoZ1caQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "500243",
+            "subscriberCount": "215",
+            "hiddenSubscriberCount": false,
+            "videoCount": "344"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/04rlf",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Music",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Hollywood news",
+                "keywords": "hollywood news"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/FvuGL93bbic-UOiDDrQF1Eo0Fowfehic5PgqYWednuILdLWJOI0ix-fhDoYV9Gb33c42PcN4Eg"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

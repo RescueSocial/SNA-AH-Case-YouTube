@@ -1,0 +1,65 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "ALmRnd593Der-NiQbHaVSm-MPmM",
+        "id": "UCgbVeU_cHAFCyx5_J6RSgHg",
+        "snippet": {
+            "title": "Daniel",
+            "description": "Videos sin sentido",
+            "publishedAt": "2016-06-27T23:22:26Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQgA_5GpwAQQE1ja6BVXkL_PunEhV31AI3Ed6RbPg=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQgA_5GpwAQQE1ja6BVXkL_PunEhV31AI3Ed6RbPg=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQgA_5GpwAQQE1ja6BVXkL_PunEhV31AI3Ed6RbPg=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Daniel",
+                "description": "Videos sin sentido"
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUgbVeU_cHAFCyx5_J6RSgHg"
+            }
+        },
+        "statistics": {
+            "viewCount": "145515",
+            "subscriberCount": "209",
+            "hiddenSubscriberCount": false,
+            "videoCount": "2"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Daniel",
+                "description": "Videos sin sentido"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

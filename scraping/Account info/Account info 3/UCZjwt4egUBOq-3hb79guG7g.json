@@ -1,0 +1,74 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "sbYYW0JIksEATEPoSWbyCHrxYws",
+        "id": "UCZjwt4egUBOq-3hb79guG7g",
+        "snippet": {
+            "title": "Fashion Culture",
+            "description": "celebrity stars",
+            "publishedAt": "2017-04-22T12:51:24Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTMOo_-cwLTcdBIazgCkzEmmHOzrrpgqBxeywOO=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTMOo_-cwLTcdBIazgCkzEmmHOzrrpgqBxeywOO=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTMOo_-cwLTcdBIazgCkzEmmHOzrrpgqBxeywOO=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Fashion Culture",
+                "description": "celebrity stars"
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUZjwt4egUBOq-3hb79guG7g"
+            }
+        },
+        "statistics": {
+            "viewCount": "16715",
+            "hiddenSubscriberCount": true,
+            "videoCount": "7"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/098wr",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Society",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Fashion Culture",
+                "description": "celebrity stars",
+                "keywords": "celebrity",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/O1itVy1yvh0BLnQF7DOZQWVBjrekXfi6JO4vEFXcK2BtsuDqFoXq0cdRSqN5PFhDLF7s81qmqQ"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

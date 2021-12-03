@@ -1,0 +1,71 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "t9chTD2x2ds7byD29V_wsVU8r60",
+        "id": "UCaSYvS2wtA3TNk6YMe3oc-A",
+        "snippet": {
+            "title": "Celeb Mas",
+            "description": "",
+            "customUrl": "celebmas",
+            "publishedAt": "2015-08-21T05:09:42Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQXmJtq569R_ezbh2nV6izfvB5d4iX8OwDbud3F=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQXmJtq569R_ezbh2nV6izfvB5d4iX8OwDbud3F=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQXmJtq569R_ezbh2nV6izfvB5d4iX8OwDbud3F=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Celeb Mas",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUaSYvS2wtA3TNk6YMe3oc-A"
+            }
+        },
+        "statistics": {
+            "viewCount": "12585914",
+            "hiddenSubscriberCount": true,
+            "videoCount": "2566"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/019_rr",
+                "/m/032tl",
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                "https://en.wikipedia.org/wiki/Fashion",
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Celeb Mas",
+                "keywords": "celebrities famosos \"red carpet\" \"alfombra roja\" \"noticias de celebrities\" \"celebrity news\" \"entertainment news\""
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "PGv7wG8Ht1QB0wWCBLpZvD0GLB0",
+        "id": "UCVBZ7bN9BPx3LkMkWSMQL1g",
+        "snippet": {
+            "title": "Celebrity News",
+            "description": "Celebrity News is the information channel for celebrities around the world.",
+            "publishedAt": "2017-06-11T10:51:07Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSRUQ7u_bVXnkSXdqVIk4zjPaVWq_PsnUk_x2QD=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSRUQ7u_bVXnkSXdqVIk4zjPaVWq_PsnUk_x2QD=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSRUQ7u_bVXnkSXdqVIk4zjPaVWq_PsnUk_x2QD=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Celebrity News",
+                "description": "Celebrity News is the information channel for celebrities around the world."
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUVBZ7bN9BPx3LkMkWSMQL1g"
+            }
+        },
+        "statistics": {
+            "viewCount": "30929564",
+            "subscriberCount": "75700",
+            "hiddenSubscriberCount": false,
+            "videoCount": "24701"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr",
+                "/m/02jjt",
+                "/m/05qt0"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society",
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Politics"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Celebrity News",
+                "description": "Celebrity News is the information channel for celebrities around the world.",
+                "unsubscribedTrailer": "AusqHnSVmjs"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/gbH5n023lCpAsST69LbJt4inwYyO1avRq8SiCRsY3-knO8QjwCbfcTK_z9RICx91Hk49aivQ9Q"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

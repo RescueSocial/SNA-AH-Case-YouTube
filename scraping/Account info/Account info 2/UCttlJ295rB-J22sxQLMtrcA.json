@@ -1,0 +1,72 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "99-EmZrKW_DWhQBLDgO3sL4yGyc",
+        "id": "UCttlJ295rB-J22sxQLMtrcA",
+        "snippet": {
+            "title": "Celebrity Axcess",
+            "description": "",
+            "publishedAt": "2021-07-06T02:37:46.499847Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/IniVBmajHMP46YrvnPlSiaqOL2iqa3jQ7D-GKZUaNSCYqPxz4UefsyWl8PKf3MkYvbk7kVhHhPs=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/IniVBmajHMP46YrvnPlSiaqOL2iqa3jQ7D-GKZUaNSCYqPxz4UefsyWl8PKf3MkYvbk7kVhHhPs=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/IniVBmajHMP46YrvnPlSiaqOL2iqa3jQ7D-GKZUaNSCYqPxz4UefsyWl8PKf3MkYvbk7kVhHhPs=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Celebrity Axcess",
+                "description": ""
+            },
+            "country": "RS"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUttlJ295rB-J22sxQLMtrcA"
+            }
+        },
+        "statistics": {
+            "viewCount": "25130",
+            "subscriberCount": "1670",
+            "hiddenSubscriberCount": false,
+            "videoCount": "32"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/0f2f9",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Television_program",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Celebrity Axcess",
+                "country": "RS"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/3O2wOI20IEdsvwZhYMTY7sAuYNxpTCfK4dXM7PNzp8vCvhw9DrYYIIHAyGe4O4f1qFMjeqB4d3U"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

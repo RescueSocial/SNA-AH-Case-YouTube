@@ -1,0 +1,79 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "kHK9Om3qUCi8NCoVfcTJjwFhsD8",
+        "id": "UCrarjdQIwb7S_vX8AvqWP9Q",
+        "snippet": {
+            "title": "DIZZY VIDEOS",
+            "description": "Silly, Sarcastic & Stupid",
+            "customUrl": "dizzyvideos",
+            "publishedAt": "2017-07-06T21:56:30Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLS2tFPkmNBk7ljVZt5LMRct69I4XTpckEQ0XQANbA=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLS2tFPkmNBk7ljVZt5LMRct69I4XTpckEQ0XQANbA=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLS2tFPkmNBk7ljVZt5LMRct69I4XTpckEQ0XQANbA=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "DIZZY VIDEOS",
+                "description": "Silly, Sarcastic & Stupid"
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUrarjdQIwb7S_vX8AvqWP9Q"
+            }
+        },
+        "statistics": {
+            "viewCount": "29578",
+            "subscriberCount": "483",
+            "hiddenSubscriberCount": false,
+            "videoCount": "94"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02wbm",
+                "/m/019_rr",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Food",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "DIZZY VIDEOS",
+                "description": "Silly, Sarcastic & Stupid",
+                "keywords": "dizzy videos \"dizzy videos\" luis \"luis santiago\" \"luis dizzy videos\" \"luis santiago dizzy videos\" \"south sioux city\" \"sioux city\" guachinango nebraska ssc jalisco",
+                "moderateComments": true,
+                "unsubscribedTrailer": "FxhGVXJjnHE",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/kUuw_xRlYHpoukCH2Qi00PFKkXe307ztgX0Nd0Jb5gFadgkAV3zZqFVDt8EhfKpSpm0jC-gaTA"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

@@ -1,0 +1,75 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "Yfv4bFOx-UUT383Fo88BuH-xy9w",
+        "id": "UCYyDbdaja1UDNdFSwUrYVGA",
+        "snippet": {
+            "title": "John Campea",
+            "description": "John Campea - Movie News, TV Reviews, Tech Stuff",
+            "customUrl": "johncampea",
+            "publishedAt": "2006-02-18T13:56:49Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTrF5UkGBJ7XszBjPYP0tNT7l3su_IjIKkGLJkG=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTrF5UkGBJ7XszBjPYP0tNT7l3su_IjIKkGLJkG=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTrF5UkGBJ7XszBjPYP0tNT7l3su_IjIKkGLJkG=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "John Campea",
+                "description": "John Campea - Movie News, TV Reviews, Tech Stuff"
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUYyDbdaja1UDNdFSwUrYVGA"
+            }
+        },
+        "statistics": {
+            "viewCount": "179222836",
+            "subscriberCount": "262000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "7501"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "John Campea",
+                "description": "John Campea - Movie News, TV Reviews, Tech Stuff",
+                "keywords": "John Campea",
+                "moderateComments": true,
+                "unsubscribedTrailer": "dGQSngQU47w"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/BsUy9JLzaUAn1kQwo_WjM19ffyIjmVz0pS6IJvJSEd8N_e4zD1Lj91ndzGRbSUw3FERKm6q2"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "IJJJ3AJ0CsehjS1oZz9CDi00joI",
+        "id": "UCOflY1XMM1hzaSMWkX4Zj0g",
+        "snippet": {
+            "title": "Oliver Peoples",
+            "description": "",
+            "publishedAt": "2020-01-28T23:50:05.56696Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRHh-Y0TAQWm3Z36hItzyKDF8ruG5HERc_X2Eap=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRHh-Y0TAQWm3Z36hItzyKDF8ruG5HERc_X2Eap=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRHh-Y0TAQWm3Z36hItzyKDF8ruG5HERc_X2Eap=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Oliver Peoples",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUOflY1XMM1hzaSMWkX4Zj0g"
+            }
+        },
+        "statistics": {
+            "viewCount": "2436467",
+            "subscriberCount": "1020",
+            "hiddenSubscriberCount": false,
+            "videoCount": "34"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/019_rr",
+                "/m/04rlf",
+                "/m/02jjt",
+                "/m/032tl"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                "https://en.wikipedia.org/wiki/Music",
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Fashion"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Oliver Peoples",
+                "unsubscribedTrailer": "pw0CaLeJW8s"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/sZW-VWJ_kAzqF0gxh-Iqsp6UmJok0Tc4eslqKq2QarvOddDsFqnvjWl-71S_g5z6iGNYn5PhPDI"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

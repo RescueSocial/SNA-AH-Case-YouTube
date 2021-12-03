@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "Lp5GuOc4LTtJxezUWc6SUMdvogk",
+        "id": "UCzEAC4xGrhpShopTYgBhGJA",
+        "snippet": {
+            "title": "One News PH",
+            "description": "ONE News is the premier news channel of Cignal TV.",
+            "customUrl": "onenewsph",
+            "publishedAt": "2018-05-02T07:27:28Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSeIjOG6Nt6bslW-Z69je2CpBSYPmYv5Kz3S-aT5Q=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSeIjOG6Nt6bslW-Z69je2CpBSYPmYv5Kz3S-aT5Q=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSeIjOG6Nt6bslW-Z69je2CpBSYPmYv5Kz3S-aT5Q=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "One News PH",
+                "description": "ONE News is the premier news channel of Cignal TV."
+            },
+            "country": "PH"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUzEAC4xGrhpShopTYgBhGJA"
+            }
+        },
+        "statistics": {
+            "viewCount": "31804478",
+            "subscriberCount": "104000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "26514"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "One News PH",
+                "description": "ONE News is the premier news channel of Cignal TV.",
+                "keywords": "onenews 1news bloomberg businessworld philstar philippine star n5e news5 aksyon raffytulfo tv5 newsroom5 edlingao news5e",
+                "country": "PH"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/AHZPi-EVYjSIPg7u42s2iDD3KI4xZ486Ez3eYkwZqEvlCYDYJJjLfUSRCR4x4POq5PsDDrL6"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "8n7jpoFYDxoYAksQyLTYjLPuWZE",
+        "id": "UCttaY36RawHanX0Jdkf9ZLg",
+        "snippet": {
+            "title": "ArtsEdMaryland",
+            "description": "",
+            "publishedAt": "2010-01-25T19:30:06Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSd6GcTHIvYj02T42p3I0DCelhvYvhhR81DUa6W=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSd6GcTHIvYj02T42p3I0DCelhvYvhhR81DUa6W=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSd6GcTHIvYj02T42p3I0DCelhvYvhhR81DUa6W=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "ArtsEdMaryland",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUttaY36RawHanX0Jdkf9ZLg"
+            }
+        },
+        "statistics": {
+            "viewCount": "18720",
+            "subscriberCount": "58",
+            "hiddenSubscriberCount": false,
+            "videoCount": "38"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/01k8wb",
+                "/m/019_rr",
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Knowledge",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "ArtsEdMaryland"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

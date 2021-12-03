@@ -1,0 +1,69 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "ct-8AEpR733SMIj2esQBQ61YVR4",
+        "id": "UC6eC9mEH0NOs1Koc47h392Q",
+        "snippet": {
+            "title": "Everything for you",
+            "description": "",
+            "publishedAt": "2021-11-05T01:54:53.463025Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/JU_1KWrDYbOwL8MhsoW2cldrRGR7hf2kSM8eJMLroMNGC5Usns1sRkfON5X5SZJUnezGD20B=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/JU_1KWrDYbOwL8MhsoW2cldrRGR7hf2kSM8eJMLroMNGC5Usns1sRkfON5X5SZJUnezGD20B=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/JU_1KWrDYbOwL8MhsoW2cldrRGR7hf2kSM8eJMLroMNGC5Usns1sRkfON5X5SZJUnezGD20B=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Everything for you",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU6eC9mEH0NOs1Koc47h392Q"
+            }
+        },
+        "statistics": {
+            "viewCount": "1188",
+            "subscriberCount": "1",
+            "hiddenSubscriberCount": false,
+            "videoCount": "35"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/019_rr",
+                "/m/07c1v"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                "https://en.wikipedia.org/wiki/Technology"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Everything for you"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/P9OTNPcJmotR2MSDfHMgegc7JYYYitEHQTheD_miSaqsFpDHE5WDBsWmVD4VhL9EkmTZZm9L"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

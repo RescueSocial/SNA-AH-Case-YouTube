@@ -1,0 +1,69 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "8SZ2WhL7mBwn1ze57Yr_-j6Ih7Q",
+        "id": "UCaoRMF5-DhnMQCKSxstyaHw",
+        "snippet": {
+            "title": "Jill Coil",
+            "description": "",
+            "publishedAt": "2021-04-16T05:38:11.381192Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ttHwDE5AsnyHeCE_mBIpwS2hi4aLEerT-xHqvKB4fA0Q63okjvrPWDAUDcPPafGamK5PeeMNMw=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ttHwDE5AsnyHeCE_mBIpwS2hi4aLEerT-xHqvKB4fA0Q63okjvrPWDAUDcPPafGamK5PeeMNMw=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ttHwDE5AsnyHeCE_mBIpwS2hi4aLEerT-xHqvKB4fA0Q63okjvrPWDAUDcPPafGamK5PeeMNMw=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Jill Coil",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUaoRMF5-DhnMQCKSxstyaHw"
+            }
+        },
+        "statistics": {
+            "viewCount": "332",
+            "subscriberCount": "14",
+            "hiddenSubscriberCount": false,
+            "videoCount": "33"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/06bvp",
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Religion",
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Jill Coil"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/yVwon3BmRFFEyPjL732wDWBQhrDO3hLgqPwbT4yBRWXjnUNf0FU4eLeOSqclZRlv-DjOmiaHjA"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

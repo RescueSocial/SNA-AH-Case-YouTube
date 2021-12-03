@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "YxkLSbVURZO-3MMyBnvTwud_qdc",
+        "id": "UClrMnC8PI91QFiafqRReUWA",
+        "snippet": {
+            "title": "Berita TV",
+            "description": "",
+            "publishedAt": "2019-05-03T16:26:48Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQwDUKRX787-2SYVNyai8u3A8H6Fq32VT9_lA=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQwDUKRX787-2SYVNyai8u3A8H6Fq32VT9_lA=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQwDUKRX787-2SYVNyai8u3A8H6Fq32VT9_lA=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Berita TV",
+                "description": ""
+            },
+            "country": "VN"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUlrMnC8PI91QFiafqRReUWA"
+            }
+        },
+        "statistics": {
+            "viewCount": "845930",
+            "hiddenSubscriberCount": true,
+            "videoCount": "4362"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/04rlf",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Music",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Berita TV",
+                "country": "VN"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/kvS4GGtDIlBRyLTNpuDXoCikNhyQCDhsvA0loxByft2kCO6rkYKVmfHz2ram3zV_cvNOiAY58w"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

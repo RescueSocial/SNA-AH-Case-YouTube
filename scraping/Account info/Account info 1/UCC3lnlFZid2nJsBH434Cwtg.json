@@ -1,0 +1,69 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "ZFUoVVy3aWHdfT4YOBTMGs_GvQg",
+        "id": "UCC3lnlFZid2nJsBH434Cwtg",
+        "snippet": {
+            "title": "Hollywood News",
+            "description": "",
+            "publishedAt": "2010-06-02T01:25:12Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTV2EqtPLosa90iM4owktQWm5uIwcBWeF3Gx32B=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTV2EqtPLosa90iM4owktQWm5uIwcBWeF3Gx32B=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTV2EqtPLosa90iM4owktQWm5uIwcBWeF3Gx32B=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Hollywood News",
+                "description": ""
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUC3lnlFZid2nJsBH434Cwtg"
+            }
+        },
+        "statistics": {
+            "viewCount": "784865",
+            "hiddenSubscriberCount": true,
+            "videoCount": "6091"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Hollywood News",
+                "unsubscribedTrailer": "ICfXCA-U8Jo",
+                "country": "US"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

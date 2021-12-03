@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "dkH1kZPWn1M8HCiX76PFrSX8DrM",
+        "id": "UCE1FNH2OV72xkV30hqo38rA",
+        "snippet": {
+            "title": "breaking fastnews",
+            "description": "",
+            "publishedAt": "2015-05-18T14:23:09Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSewnw6BG1-sxS7KFrEmt-1SQnhJ6SEhwDIclLn=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSewnw6BG1-sxS7KFrEmt-1SQnhJ6SEhwDIclLn=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSewnw6BG1-sxS7KFrEmt-1SQnhJ6SEhwDIclLn=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "breaking fastnews",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUE1FNH2OV72xkV30hqo38rA"
+            }
+        },
+        "statistics": {
+            "viewCount": "527108",
+            "subscriberCount": "399",
+            "hiddenSubscriberCount": false,
+            "videoCount": "226"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/019_rr",
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "breaking fastnews",
+                "unsubscribedTrailer": "meNUtIQZ27w"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/qg6Vu0ZYTJZJdNuHXwiR4c_1jocNeVxWaDNOBNqEPxAySs7z9GWRvAt3am_szYsJEb8Q83pR"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

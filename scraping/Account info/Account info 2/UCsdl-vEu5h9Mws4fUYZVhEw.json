@@ -1,0 +1,72 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "3cGhvfDfX7fpIp5JvLL73tT8Zik",
+        "id": "UCsdl-vEu5h9Mws4fUYZVhEw",
+        "snippet": {
+            "title": "3DaysToKill",
+            "description": "3 Days To Kill | Kevin Costner, Amber Heard, Hailee Steinfeld",
+            "publishedAt": "2013-12-07T01:14:46Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQW-K94WqAT95hTJsPTxDo0BOo7cAT1yK8TsVlE=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQW-K94WqAT95hTJsPTxDo0BOo7cAT1yK8TsVlE=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQW-K94WqAT95hTJsPTxDo0BOo7cAT1yK8TsVlE=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "3DaysToKill",
+                "description": "3 Days To Kill | Kevin Costner, Amber Heard, Hailee Steinfeld"
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUsdl-vEu5h9Mws4fUYZVhEw"
+            }
+        },
+        "statistics": {
+            "viewCount": "1728164",
+            "subscriberCount": "813",
+            "hiddenSubscriberCount": false,
+            "videoCount": "13"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02vxn",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "3DaysToKill",
+                "description": "3 Days To Kill | Kevin Costner, Amber Heard, Hailee Steinfeld",
+                "keywords": "\"3 days to kill\" \"kevin coster\" \"hailee steinfeld\" \"amber heard\" \"three days to kill\" action movie \"in theaters\" family \"father daughter\"",
+                "unsubscribedTrailer": "g9TjLUXtKa8"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/fz0boHl1GMZQ3bhaOinBcp9-SCflkUgpDbjGrOq-AKZZv2zHDwGCIX2lxZrrdABI1HJeaJ3fCA"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

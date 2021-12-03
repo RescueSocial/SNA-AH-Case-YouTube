@@ -1,0 +1,69 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "euqFM7QCVpBHolbzS9qM4dIMZ7A",
+        "id": "UCbOCpVc_PPVTEEvI8Wlvjag",
+        "snippet": {
+            "title": "Radar Online",
+            "description": "",
+            "publishedAt": "2017-02-22T20:15:24Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTFGur9W2owWg586oMhJf447uZQR5DtEi-ByEgE=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTFGur9W2owWg586oMhJf447uZQR5DtEi-ByEgE=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTFGur9W2owWg586oMhJf447uZQR5DtEi-ByEgE=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Radar Online",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUbOCpVc_PPVTEEvI8Wlvjag"
+            }
+        },
+        "statistics": {
+            "viewCount": "337029",
+            "subscriberCount": "611",
+            "hiddenSubscriberCount": false,
+            "videoCount": "5807"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Radar Online"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/i8N_tOKna5HUuR1N5LB4nn2Q0dytGPhDqLJM4_4m70FBsNldfyhl0JBLLb9WDYUYi3xEzd6R"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

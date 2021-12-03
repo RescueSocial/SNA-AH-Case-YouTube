@@ -1,0 +1,74 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "KkXDvsMhi60X6tPv3XqEDxB5JB8",
+        "id": "UCUeip16a2wAgTKf7bPRclXg",
+        "snippet": {
+            "title": "Jennifer Matthews",
+            "description": "I make videos and stuff.",
+            "customUrl": "jennifermatthew",
+            "publishedAt": "2017-04-16T16:35:31Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQyH1MDlBTccDPXJawugH2R622KwY0oe8nAtd99ow=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQyH1MDlBTccDPXJawugH2R622KwY0oe8nAtd99ow=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQyH1MDlBTccDPXJawugH2R622KwY0oe8nAtd99ow=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Jennifer Matthews",
+                "description": "I make videos and stuff."
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUUeip16a2wAgTKf7bPRclXg"
+            }
+        },
+        "statistics": {
+            "viewCount": "200402",
+            "subscriberCount": "1490",
+            "hiddenSubscriberCount": false,
+            "videoCount": "94"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/019_rr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Jennifer Matthews",
+                "description": "I make videos and stuff.",
+                "keywords": "Comedy \"Sketch Comedy\" Funny \"Jennifer Matthew\"",
+                "unsubscribedTrailer": "wWAmtwDqX7M",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/f0-e0Usi-DOzqgSMgiiKCzPe4C3_X0w_i_iCstxrWzjWVPD5QHbfEx3wcID0YBzJBaXGeKdWBA"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

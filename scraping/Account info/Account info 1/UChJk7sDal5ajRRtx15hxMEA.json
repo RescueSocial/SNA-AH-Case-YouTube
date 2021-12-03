@@ -1,0 +1,74 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "515Q5fJl27uWcclgnQAeE4C3jBY",
+        "id": "UChJk7sDal5ajRRtx15hxMEA",
+        "snippet": {
+            "title": "The Gossip Story",
+            "description": "",
+            "publishedAt": "2017-12-29T05:09:46Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLT8u-EmHMod1tZe_oFlwWzZZ__1L80Nkck50Ch8=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLT8u-EmHMod1tZe_oFlwWzZZ__1L80Nkck50Ch8=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLT8u-EmHMod1tZe_oFlwWzZZ__1L80Nkck50Ch8=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "The Gossip Story",
+                "description": ""
+            },
+            "country": "PK"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUhJk7sDal5ajRRtx15hxMEA"
+            }
+        },
+        "statistics": {
+            "viewCount": "831",
+            "subscriberCount": "0",
+            "hiddenSubscriberCount": false,
+            "videoCount": "21"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/06ntj",
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Sport",
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "The Gossip Story",
+                "unsubscribedTrailer": "vD56rE75AA8",
+                "country": "PK"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/THJWhtBWV49wnTPEDFCTP6ImbfTqvcD8wZzp_-cQFcWLiA9wYqGOQsw9C29-iU2ycLdRcnruVQ"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

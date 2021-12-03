@@ -1,0 +1,72 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "FqENFx7GZQhSl-OGWlVcWoduF9I",
+        "id": "UCEJ-o86l0hTxTSlY8eNWxXw",
+        "snippet": {
+            "title": "Ochit News",
+            "description": "",
+            "publishedAt": "2020-04-22T07:05:00.925233Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQ3S6K0M_D20uCg8VbqPAhDiRhGd3syargjxjqE=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQ3S6K0M_D20uCg8VbqPAhDiRhGd3syargjxjqE=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQ3S6K0M_D20uCg8VbqPAhDiRhGd3syargjxjqE=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Ochit News",
+                "description": ""
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUEJ-o86l0hTxTSlY8eNWxXw"
+            }
+        },
+        "statistics": {
+            "viewCount": "4182",
+            "subscriberCount": "5",
+            "hiddenSubscriberCount": false,
+            "videoCount": "74"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/06ntj"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Sport"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Ochit News",
+                "keywords": "news",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/GY3JIoUYhtoGW5OPJV8mOXjGQ6eCKWWuyVcnKI3IVvVAqG6PkTjIGqsE4vpuOlwwxfsSa4G3JrE"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

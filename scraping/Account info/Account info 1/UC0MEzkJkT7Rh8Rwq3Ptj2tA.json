@@ -1,0 +1,68 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "CrdK0aGMgpAo0DIm1SR4XoO8OAQ",
+        "id": "UC0MEzkJkT7Rh8Rwq3Ptj2tA",
+        "snippet": {
+            "title": "Kole's Vblog",
+            "description": "",
+            "publishedAt": "2016-12-06T10:02:35Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTbCAdL4YyTBAaMrwnVPeYhQV7-upveZZaGpl5s=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTbCAdL4YyTBAaMrwnVPeYhQV7-upveZZaGpl5s=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTbCAdL4YyTBAaMrwnVPeYhQV7-upveZZaGpl5s=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Kole's Vblog",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU0MEzkJkT7Rh8Rwq3Ptj2tA"
+            }
+        },
+        "statistics": {
+            "viewCount": "993979",
+            "hiddenSubscriberCount": true,
+            "videoCount": "5020"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/0f2f9"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Television_program"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Kole's Vblog"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/8D_LTMPPyBYECkaKejIEEY2PM1v6puq5f5g8xAyyXDlsSACjnScGGwvrFs5X4AiU_cbX6LCC"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

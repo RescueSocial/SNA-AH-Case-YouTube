@@ -1,0 +1,72 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "cp_BFHpbzoT_ppkp5U9BTSCQRmo",
+        "id": "UCiZsyfSV-0v_arTKYyw9_zA",
+        "snippet": {
+            "title": "Celebrity Tonight",
+            "description": "",
+            "customUrl": "celebritynewstonight",
+            "publishedAt": "2015-07-09T11:59:03Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTIkH4fCZN6yL274lFeQaOLOIHOslSoksCPHfZETw=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTIkH4fCZN6yL274lFeQaOLOIHOslSoksCPHfZETw=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTIkH4fCZN6yL274lFeQaOLOIHOslSoksCPHfZETw=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Celebrity Tonight",
+                "description": ""
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUiZsyfSV-0v_arTKYyw9_zA"
+            }
+        },
+        "statistics": {
+            "viewCount": "1370019",
+            "subscriberCount": "3630",
+            "hiddenSubscriberCount": false,
+            "videoCount": "1908"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Celebrity Tonight",
+                "keywords": "people \"people magazine\" \"magazine hollywood\" \"hollywood movies\" \"magazine news\" oscars \"Beauty Tips\" \"Beauty fashion\" \"old fashioned\" entertainment \"entertainment tonight\" \"entertainment news\" \"red carpet\" celebrities \"celebrity news\" \"famous people\" \"Crime News\" \"celeb news\" news",
+                "unsubscribedTrailer": "LlRFFB7_1kA",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/v0qaQkhLL075jjUYQ_tdgKqtElN09lXdZDFJhILaVt2o2DR99kBd95O5SfOYQfUEKtHNI4WK"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

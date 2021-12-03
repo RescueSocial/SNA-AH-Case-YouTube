@@ -1,0 +1,72 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "NdARX2nJJn_qY7EdyoiNT0SdBCs",
+        "id": "UCyJcYvbiPMYACvYFa_nZuZA",
+        "snippet": {
+            "title": "MK Tech world",
+            "description": "All entertainment/status/funny video",
+            "publishedAt": "2020-04-27T18:33:16.878498Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSInu6XLMV9bVu5Fd0ULpsHdc2jaiwTaIMWS9M5lQ=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSInu6XLMV9bVu5Fd0ULpsHdc2jaiwTaIMWS9M5lQ=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSInu6XLMV9bVu5Fd0ULpsHdc2jaiwTaIMWS9M5lQ=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "MK Tech world",
+                "description": "All entertainment/status/funny video"
+            },
+            "country": "IN"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUyJcYvbiPMYACvYFa_nZuZA"
+            }
+        },
+        "statistics": {
+            "viewCount": "29948",
+            "subscriberCount": "271",
+            "hiddenSubscriberCount": false,
+            "videoCount": "66"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/04rlf",
+                "/m/028sqc"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Music",
+                "https://en.wikipedia.org/wiki/Music_of_Asia"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "MK Tech world",
+                "description": "All entertainment/status/funny video",
+                "keywords": "\"MK tech world\" \"mk tech\" world \"MK tech world\" \"MK tech world\"",
+                "unsubscribedTrailer": "ODGbw5C0a-c",
+                "country": "IN"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "upfEVEww2kIu7sSoYJymsW-IQZU",
+        "id": "UCE6tRonxI8GnBSbqn5irC7A",
+        "snippet": {
+            "title": "Reds Only",
+            "description": "",
+            "publishedAt": "2014-07-05T11:22:07Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSRoPi2N-OzlVSZKJnnH4-Nlh9jAO1YXYYzU9PF=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSRoPi2N-OzlVSZKJnnH4-Nlh9jAO1YXYYzU9PF=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSRoPi2N-OzlVSZKJnnH4-Nlh9jAO1YXYYzU9PF=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Reds Only",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUE6tRonxI8GnBSbqn5irC7A"
+            }
+        },
+        "statistics": {
+            "viewCount": "2126973",
+            "subscriberCount": "2790",
+            "hiddenSubscriberCount": false,
+            "videoCount": "3"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Reds Only"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

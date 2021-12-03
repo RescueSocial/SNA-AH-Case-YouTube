@@ -1,0 +1,72 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "SsbU5qKREJZRqXoCGP5LFBFizQc",
+        "id": "UCMfq7HjpbcZjoMlkOwUrUgQ",
+        "snippet": {
+            "title": "Prophet's Profit",
+            "description": "",
+            "publishedAt": "2016-05-03T16:56:19Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRpuJyWypN4xM5WVOUbTYb-aK4l4c16cucvgLcMbA=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRpuJyWypN4xM5WVOUbTYb-aK4l4c16cucvgLcMbA=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRpuJyWypN4xM5WVOUbTYb-aK4l4c16cucvgLcMbA=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Prophet's Profit",
+                "description": ""
+            },
+            "country": "SI"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUMfq7HjpbcZjoMlkOwUrUgQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "4404925",
+            "subscriberCount": "58700",
+            "hiddenSubscriberCount": false,
+            "videoCount": "64"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Prophet's Profit",
+                "country": "SI"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/BC1rDrPtc-_8cHgTHA7yOfG_V65kHfcUaVY4XA8ITTQ0XlAA_ooTs_TlkBy0U_Ic4LSlMvhVfFU"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

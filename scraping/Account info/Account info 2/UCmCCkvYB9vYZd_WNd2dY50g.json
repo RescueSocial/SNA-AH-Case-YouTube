@@ -1,0 +1,66 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "d-8B4I_9veEvDhXkN4a09YQDD9M",
+        "id": "UCmCCkvYB9vYZd_WNd2dY50g",
+        "snippet": {
+            "title": "K K Beats",
+            "description": "",
+            "publishedAt": "2020-06-29T06:18:54.96998Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSwfBQ7IkzVboeimeyji8JTYDfemHgb9fLoXSNg-A=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSwfBQ7IkzVboeimeyji8JTYDfemHgb9fLoXSNg-A=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSwfBQ7IkzVboeimeyji8JTYDfemHgb9fLoXSNg-A=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "K K Beats",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUmCCkvYB9vYZd_WNd2dY50g"
+            }
+        },
+        "statistics": {
+            "viewCount": "581",
+            "subscriberCount": "13",
+            "hiddenSubscriberCount": false,
+            "videoCount": "28"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/04rlf"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Music"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "K K Beats"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

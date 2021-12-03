@@ -1,0 +1,65 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "dj7d4DN9Jtm6SLw-H5aSvyM7u1I",
+        "id": "UCna9xXPjpvLC1o1VqNSuq_w",
+        "snippet": {
+            "title": "Movies Life",
+            "description": "",
+            "publishedAt": "2020-08-17T19:16:23.352289Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSz4wffPO2Dwyyfzfuy1YN71l0hEIceyQiGIV1W=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSz4wffPO2Dwyyfzfuy1YN71l0hEIceyQiGIV1W=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSz4wffPO2Dwyyfzfuy1YN71l0hEIceyQiGIV1W=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Movies Life",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUna9xXPjpvLC1o1VqNSuq_w"
+            }
+        },
+        "statistics": {
+            "viewCount": "13998",
+            "hiddenSubscriberCount": true,
+            "videoCount": "142"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Movies Life"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

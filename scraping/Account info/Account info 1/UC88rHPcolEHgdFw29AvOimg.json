@@ -1,0 +1,77 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "U6dvf7hXE_h4pCUWwL3S1bwThjQ",
+        "id": "UC88rHPcolEHgdFw29AvOimg",
+        "snippet": {
+            "title": "Merry Mayhem",
+            "description": "We're here to discuss current events and pop culture news.",
+            "customUrl": "merrymayhem",
+            "publishedAt": "2009-01-13T04:33:34Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSX8DGnjPV1CIrVQRZY7MVbNh0SqrB0orlpuJGBDg=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSX8DGnjPV1CIrVQRZY7MVbNh0SqrB0orlpuJGBDg=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSX8DGnjPV1CIrVQRZY7MVbNh0SqrB0orlpuJGBDg=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Merry Mayhem",
+                "description": "We're here to discuss current events and pop culture news."
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU88rHPcolEHgdFw29AvOimg"
+            }
+        },
+        "statistics": {
+            "viewCount": "474633",
+            "subscriberCount": "8460",
+            "hiddenSubscriberCount": false,
+            "videoCount": "339"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Merry Mayhem",
+                "description": "We're here to discuss current events and pop culture news.",
+                "keywords": "Merry Mayhem \"Merry Mayhem\" Karaoke \"Fandom Menace\" shenanigans",
+                "moderateComments": true,
+                "unsubscribedTrailer": "6Iy1rLS80xg",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/SBCMX8Rk5_GpyUf03jJRpz-gw5gVtcnnH2rPm9kdLOUagb4EJRx9PnrnyqBLty610xmRMJgh"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

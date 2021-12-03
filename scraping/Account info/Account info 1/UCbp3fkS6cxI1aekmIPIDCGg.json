@@ -1,0 +1,68 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "U47XGZ_e7e_TBy38ErWw5khx3jQ",
+        "id": "UCbp3fkS6cxI1aekmIPIDCGg",
+        "snippet": {
+            "title": "Amber Heard",
+            "description": "",
+            "customUrl": "amberheardbr",
+            "publishedAt": "2015-02-19T19:48:18Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTyjwBP03HlS7zKAex43wOxlos-va7wOd3x4_On=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTyjwBP03HlS7zKAex43wOxlos-va7wOd3x4_On=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTyjwBP03HlS7zKAex43wOxlos-va7wOd3x4_On=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Amber Heard",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUbp3fkS6cxI1aekmIPIDCGg"
+            }
+        },
+        "statistics": {
+            "viewCount": "268464",
+            "subscriberCount": "525",
+            "hiddenSubscriberCount": false,
+            "videoCount": "36"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Amber Heard",
+                "keywords": "Amber Heard"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

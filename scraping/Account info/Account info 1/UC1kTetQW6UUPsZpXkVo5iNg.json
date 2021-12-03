@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "moMsB4SK9Ve7vUjqkalpg_IesVI",
+        "id": "UC1kTetQW6UUPsZpXkVo5iNg",
+        "snippet": {
+            "title": "Trending Videos",
+            "description": "Welcome to Trending Videos.\n\nPlease Like and Subscribe the Channel. Thanks!!",
+            "publishedAt": "2016-08-16T23:19:57Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSgwmdQymHsnBur977EnEBsZ7qYPRHJ5y1wJd4H=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSgwmdQymHsnBur977EnEBsZ7qYPRHJ5y1wJd4H=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSgwmdQymHsnBur977EnEBsZ7qYPRHJ5y1wJd4H=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Trending Videos",
+                "description": "Welcome to Trending Videos.\n\nPlease Like and Subscribe the Channel. Thanks!!"
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU1kTetQW6UUPsZpXkVo5iNg"
+            }
+        },
+        "statistics": {
+            "viewCount": "2546162",
+            "hiddenSubscriberCount": true,
+            "videoCount": "245"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Trending Videos",
+                "description": "Welcome to Trending Videos.\n\nPlease Like and Subscribe the Channel. Thanks!!",
+                "keywords": "\"Trending Videos\" \"Game of Thrones\" Avengers InfinityWar Endgame Marvel \"Kids Funny\" Incredibles2 \"Jack Jack\" \"Daenerys Targaryen\" GOT",
+                "unsubscribedTrailer": "X989CgxgfXo",
+                "country": "US"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

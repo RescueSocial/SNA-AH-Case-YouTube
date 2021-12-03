@@ -1,0 +1,67 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "jd2Ar1d5aAd1b4xitXYfpWtIm2Q",
+        "id": "UCqV_Ym_qdqfE2CF0ZGlQeSg",
+        "snippet": {
+            "title": "5128scscsc",
+            "description": "",
+            "publishedAt": "2009-03-30T04:18:10Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQULq_ptaYcDjZFqYmhhqcVVXDSaeBYBkkLxA=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQULq_ptaYcDjZFqYmhhqcVVXDSaeBYBkkLxA=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQULq_ptaYcDjZFqYmhhqcVVXDSaeBYBkkLxA=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "5128scscsc",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUqV_Ym_qdqfE2CF0ZGlQeSg"
+            }
+        },
+        "statistics": {
+            "viewCount": "488793",
+            "subscriberCount": "2190",
+            "hiddenSubscriberCount": false,
+            "videoCount": "5400"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "5128scscsc"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

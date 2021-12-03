@@ -1,0 +1,69 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "AcDDzBprOGLFiOCbo2zw0xVWRHw",
+        "id": "UCAjuNg3wPDs1MVwdrRyOcBw",
+        "snippet": {
+            "title": "PLAY FILMS Peliculas HD Latino",
+            "description": "",
+            "publishedAt": "2017-03-27T05:24:13Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQc0o6i1Dz6WzGQEcxppLZzyPO9aAvbVP4T7sHEMQ=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQc0o6i1Dz6WzGQEcxppLZzyPO9aAvbVP4T7sHEMQ=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQc0o6i1Dz6WzGQEcxppLZzyPO9aAvbVP4T7sHEMQ=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "PLAY FILMS Peliculas HD Latino",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUAjuNg3wPDs1MVwdrRyOcBw"
+            }
+        },
+        "statistics": {
+            "viewCount": "220",
+            "subscriberCount": "3",
+            "hiddenSubscriberCount": false,
+            "videoCount": "16"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02vxn",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "PLAY FILMS Peliculas HD Latino"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/MAmrX5IacyQbGntolw4Y3ao3pWSCxw3WgJyE6LxLA_W7AYEABL2yo7gFMEFFvrQ2JF8UxXc"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

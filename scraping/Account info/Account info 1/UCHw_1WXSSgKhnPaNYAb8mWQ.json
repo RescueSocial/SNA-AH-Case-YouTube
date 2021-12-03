@@ -1,0 +1,68 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "QdT2idaEiGDvnd70uQNYpoq9bjo",
+        "id": "UCHw_1WXSSgKhnPaNYAb8mWQ",
+        "snippet": {
+            "title": "Entertainment Show",
+            "description": "",
+            "publishedAt": "2015-07-06T16:07:42Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSQlg6tjMXHyVuEZAzBFpA-4gXm9bO5l5HP=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSQlg6tjMXHyVuEZAzBFpA-4gXm9bO5l5HP=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSQlg6tjMXHyVuEZAzBFpA-4gXm9bO5l5HP=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Entertainment Show",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUHw_1WXSSgKhnPaNYAb8mWQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "631708",
+            "subscriberCount": "1320",
+            "hiddenSubscriberCount": false,
+            "videoCount": "415"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/019_rr",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Entertainment Show"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

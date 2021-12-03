@@ -1,0 +1,76 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "YfthoZtXKcmhtubFDhJlbIE5D50",
+        "id": "UC3uyGOSfgQFpBK7KI6qAgdA",
+        "snippet": {
+            "title": "SkayWol",
+            "description": "",
+            "publishedAt": "2019-05-10T03:00:16Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLR4bmhWFaETdh77_AH7gn6hKHGh50e271mi3vEVzQ=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLR4bmhWFaETdh77_AH7gn6hKHGh50e271mi3vEVzQ=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLR4bmhWFaETdh77_AH7gn6hKHGh50e271mi3vEVzQ=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "SkayWol",
+                "description": ""
+            },
+            "country": "ES"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU3uyGOSfgQFpBK7KI6qAgdA"
+            }
+        },
+        "statistics": {
+            "viewCount": "122167",
+            "subscriberCount": "510",
+            "hiddenSubscriberCount": false,
+            "videoCount": "135"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02vxn",
+                "/m/025zzc",
+                "/m/02jjt",
+                "/m/02ntfj"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Action_game",
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Action-adventure_game"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "SkayWol",
+                "country": "ES"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/TeTd4SV4CYf4sGwuvbSaae_vSpV1TSNo52Jrm00PGeZC9U_qH1p7LrwyCCPMufgRGRQmAQkRSA"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

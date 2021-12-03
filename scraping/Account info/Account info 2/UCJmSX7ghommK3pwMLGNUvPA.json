@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "E28a1vx6F3vnBaP5Dp13DUWqLmE",
+        "id": "UCJmSX7ghommK3pwMLGNUvPA",
+        "snippet": {
+            "title": "Wochit News",
+            "description": "Wochit News serves up the latest news as soon as it happens.  See everything from crime to disaster, politics to business right as stories break!\n\nCreate your own videos at Wochit.com",
+            "customUrl": "wochitgeneralnews",
+            "publishedAt": "2012-12-20T12:52:31Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRelXMAG3LmyVXC4gWdw7IHDine3CGvsA_cM4EeGg=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRelXMAG3LmyVXC4gWdw7IHDine3CGvsA_cM4EeGg=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRelXMAG3LmyVXC4gWdw7IHDine3CGvsA_cM4EeGg=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Wochit News",
+                "description": "Wochit News serves up the latest news as soon as it happens.  See everything from crime to disaster, politics to business right as stories break!\n\nCreate your own videos at Wochit.com"
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUJmSX7ghommK3pwMLGNUvPA"
+            }
+        },
+        "statistics": {
+            "viewCount": "101829817",
+            "subscriberCount": "160000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "3359"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr",
+                "/m/05qt0"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society",
+                "https://en.wikipedia.org/wiki/Politics"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Wochit News",
+                "description": "Wochit News serves up the latest news as soon as it happens.  See everything from crime to disaster, politics to business right as stories break!\n\nCreate your own videos at Wochit.com",
+                "keywords": "news \"breaking news\" politics international",
+                "unsubscribedTrailer": "Ea_f1QDF84Q"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/Zq50DVi_Gvxig2pguf90nbXmPMSQLTMBd2DpLvxU1OKbT9u2pWpv562VKYGJcBFcX1jF-Dtq"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

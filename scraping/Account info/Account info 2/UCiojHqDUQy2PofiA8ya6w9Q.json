@@ -1,0 +1,69 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "jIBqqh49pHK6zoO3H7ojikNo9e0",
+        "id": "UCiojHqDUQy2PofiA8ya6w9Q",
+        "snippet": {
+            "title": "TopMovieScenes",
+            "description": "",
+            "publishedAt": "2019-03-13T03:37:14Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTuHvNDpVIsQ1Uu_S3JUl7MpLr3omWqikqXO4FL=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTuHvNDpVIsQ1Uu_S3JUl7MpLr3omWqikqXO4FL=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTuHvNDpVIsQ1Uu_S3JUl7MpLr3omWqikqXO4FL=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "TopMovieScenes",
+                "description": ""
+            },
+            "country": "GB"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUiojHqDUQy2PofiA8ya6w9Q"
+            }
+        },
+        "statistics": {
+            "viewCount": "16361",
+            "hiddenSubscriberCount": true,
+            "videoCount": "6"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "TopMovieScenes",
+                "keywords": "TopMovieSceneS \"ending scene\" \"action movie\" \"superhero movie\" \"after credit scene\"",
+                "unsubscribedTrailer": "AEyuVrRgINY",
+                "country": "GB"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

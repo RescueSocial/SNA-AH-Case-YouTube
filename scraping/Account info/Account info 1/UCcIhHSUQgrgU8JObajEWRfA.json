@@ -1,0 +1,75 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "uZztXhNrz9gPgMRPCtl5R-Kv-4o",
+        "id": "UCcIhHSUQgrgU8JObajEWRfA",
+        "snippet": {
+            "title": "EL Lobo",
+            "description": "Hola amigo bienvenidos a mi canal",
+            "publishedAt": "2015-07-24T19:36:52Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQnyaNKhdC5psGisyIczG-z4CfEPf_5CWnqvYFI=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQnyaNKhdC5psGisyIczG-z4CfEPf_5CWnqvYFI=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQnyaNKhdC5psGisyIczG-z4CfEPf_5CWnqvYFI=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "EL Lobo",
+                "description": "Hola amigo bienvenidos a mi canal"
+            },
+            "country": "EC"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUcIhHSUQgrgU8JObajEWRfA"
+            }
+        },
+        "statistics": {
+            "viewCount": "993442",
+            "subscriberCount": "1710",
+            "hiddenSubscriberCount": false,
+            "videoCount": "25"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn",
+                "/m/019_rr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "EL Lobo",
+                "description": "Hola amigo bienvenidos a mi canal",
+                "unsubscribedTrailer": "LmjY5unmyhA",
+                "country": "EC"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/_IMl7Qi705-eQ_qJwwTJboYtM6-snnM5DfY_3vh6mEweazKV5tkS-tKYxmcOd2t6ZITA6WstOA"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

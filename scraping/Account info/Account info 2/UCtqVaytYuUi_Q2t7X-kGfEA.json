@@ -1,0 +1,56 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "3AQbZnUgW9ShLPjHqoOttwNd_4Y",
+        "id": "UCtqVaytYuUi_Q2t7X-kGfEA",
+        "snippet": {
+            "title": "TeenMom Truth",
+            "description": "",
+            "publishedAt": "2019-11-11T01:45:50.523497Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRyFRT-cp0gv8o_5hBqlerh44KroMoi2Hn7=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRyFRT-cp0gv8o_5hBqlerh44KroMoi2Hn7=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRyFRT-cp0gv8o_5hBqlerh44KroMoi2Hn7=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "TeenMom Truth",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUtqVaytYuUi_Q2t7X-kGfEA"
+            }
+        },
+        "statistics": {
+            "viewCount": "10850",
+            "subscriberCount": "33",
+            "hiddenSubscriberCount": false,
+            "videoCount": "1"
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "TeenMom Truth"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

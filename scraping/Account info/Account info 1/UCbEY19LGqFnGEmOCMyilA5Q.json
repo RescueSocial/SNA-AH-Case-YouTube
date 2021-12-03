@@ -1,0 +1,69 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "PBjg7gQBxPIQ492vacy1je29cb8",
+        "id": "UCbEY19LGqFnGEmOCMyilA5Q",
+        "snippet": {
+            "title": "Chitra Vahini",
+            "description": "",
+            "publishedAt": "2016-05-12T05:40:41Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTqwXwKRTCPpyjLfmcOlhz3w-jGstT_GIzSGakL=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTqwXwKRTCPpyjLfmcOlhz3w-jGstT_GIzSGakL=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTqwXwKRTCPpyjLfmcOlhz3w-jGstT_GIzSGakL=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Chitra Vahini",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUbEY19LGqFnGEmOCMyilA5Q"
+            }
+        },
+        "statistics": {
+            "viewCount": "9249163",
+            "subscriberCount": "17400",
+            "hiddenSubscriberCount": false,
+            "videoCount": "414"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Chitra Vahini"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/TgYMvTk2UIVUXhdc5Fr8VePe03Ud7aHmzo4ValUHnNz_9QWeXy7KjZj4MCJyd7wScAlqBWqMzQ"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "MQ72TTOZrNFre-CkV1vCcJLDZiY",
+        "id": "UCZoaqlm2kXtaW4_5PmAQ4WA",
+        "snippet": {
+            "title": "Tube Curator",
+            "description": "Welcome to the channel.",
+            "customUrl": "tubecurator",
+            "publishedAt": "2017-02-15T11:54:45Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSU_4_YjZQfmCVBdo4TavFfUsA0mDDrl5NIcbiOBQ=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSU_4_YjZQfmCVBdo4TavFfUsA0mDDrl5NIcbiOBQ=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSU_4_YjZQfmCVBdo4TavFfUsA0mDDrl5NIcbiOBQ=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Tube Curator",
+                "description": "Welcome to the channel."
+            },
+            "country": "BD"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUZoaqlm2kXtaW4_5PmAQ4WA"
+            }
+        },
+        "statistics": {
+            "viewCount": "104757",
+            "subscriberCount": "3410",
+            "hiddenSubscriberCount": false,
+            "videoCount": "53"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/019_rr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Tube Curator",
+                "description": "Welcome to the channel.",
+                "keywords": "\"Tube Curator\" curator tube \"health tips\" \"online game\" \"best videos\"",
+                "trackingAnalyticsAccountId": "UA-106876795-1",
+                "country": "BD"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/vQMmb0i1jHq6vk6Zic5fdCce3veZSNkhuACPE2FJQaFJv6Yd07Ovht7_KTgnXHX8mriktykqOA"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

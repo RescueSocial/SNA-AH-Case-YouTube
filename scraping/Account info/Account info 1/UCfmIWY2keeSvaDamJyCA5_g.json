@@ -1,0 +1,68 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "xE_JARrUqt9w7kLS58LdK0m55vw",
+        "id": "UCfmIWY2keeSvaDamJyCA5_g",
+        "snippet": {
+            "title": "Derek Zulauf DVM",
+            "description": "",
+            "publishedAt": "2010-07-25T14:07:11Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQC0Q1ZeGf9SIVFVW3whEbxWl1_vNYJviYhHg=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQC0Q1ZeGf9SIVFVW3whEbxWl1_vNYJviYhHg=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQC0Q1ZeGf9SIVFVW3whEbxWl1_vNYJviYhHg=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Derek Zulauf DVM",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUfmIWY2keeSvaDamJyCA5_g"
+            }
+        },
+        "statistics": {
+            "viewCount": "59437",
+            "subscriberCount": "93",
+            "hiddenSubscriberCount": false,
+            "videoCount": "633"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr",
+                "/m/02jjt",
+                "/m/05qt0"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society",
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Politics"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Derek Zulauf DVM"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "D7B-qWstB0aUeN6LrBQQMtZKdkg",
+        "id": "UCmz5OJtgli-1XfSpeVINqXg",
+        "snippet": {
+            "title": "Primo Italia",
+            "description": "",
+            "publishedAt": "2019-01-19T08:56:44Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQTYNKzZv4bt-7rKbXHH0YDbVJ8bvqh2ZWEVvMJ=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQTYNKzZv4bt-7rKbXHH0YDbVJ8bvqh2ZWEVvMJ=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQTYNKzZv4bt-7rKbXHH0YDbVJ8bvqh2ZWEVvMJ=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Primo Italia",
+                "description": ""
+            },
+            "country": "GB"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUmz5OJtgli-1XfSpeVINqXg"
+            }
+        },
+        "statistics": {
+            "viewCount": "4638",
+            "subscriberCount": "7",
+            "hiddenSubscriberCount": false,
+            "videoCount": "551"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/019_rr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Primo Italia",
+                "country": "GB"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

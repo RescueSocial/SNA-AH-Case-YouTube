@@ -1,0 +1,80 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "Wt8k7p-5khPLm6v2vck-Do2zjCM",
+        "id": "UCftwRNsjfRo08xYE31tkiyw",
+        "snippet": {
+            "title": "WIRED",
+            "description": "WIRED is where tomorrow is realized.",
+            "customUrl": "wired",
+            "publishedAt": "2005-09-23T03:09:26Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLT1ZPXzhEYhBxuN9V_pxPkPiTdH-JhxujfV1HKGTAQ=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLT1ZPXzhEYhBxuN9V_pxPkPiTdH-JhxujfV1HKGTAQ=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLT1ZPXzhEYhBxuN9V_pxPkPiTdH-JhxujfV1HKGTAQ=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "WIRED",
+                "description": "WIRED is where tomorrow is realized."
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUftwRNsjfRo08xYE31tkiyw"
+            }
+        },
+        "statistics": {
+            "viewCount": "2768983356",
+            "subscriberCount": "8560000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "3288"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/019_rr",
+                "/m/02jjt",
+                "/m/01k8wb"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Knowledge"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "WIRED",
+                "description": "WIRED is where tomorrow is realized.",
+                "keywords": "wired technology tech gadgets \"autocomplete interview\"",
+                "trackingAnalyticsAccountId": "UA-37483026-29",
+                "moderateComments": true,
+                "unsubscribedTrailer": "cJkx-OLgLzo",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/82622wme_OHXkBeJhgEjS_AE2PW5LQOvBZFBC5A7bqD_z4VPqSXYV9E5gjfGz5E1gJzpTnQmBQ"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

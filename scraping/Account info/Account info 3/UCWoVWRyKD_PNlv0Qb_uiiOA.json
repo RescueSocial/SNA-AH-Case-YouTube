@@ -1,0 +1,67 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "Ei6ynpgY20X7wRg8oXWJcYR-eqU",
+        "id": "UCWoVWRyKD_PNlv0Qb_uiiOA",
+        "snippet": {
+            "title": "FHLTV NETWORK",
+            "description": "",
+            "publishedAt": "2019-10-23T09:36:50.558842Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQE8Oq01XNZbe2f7T-BACZkqEpDRte-GsvqqbCk=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQE8Oq01XNZbe2f7T-BACZkqEpDRte-GsvqqbCk=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQE8Oq01XNZbe2f7T-BACZkqEpDRte-GsvqqbCk=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "FHLTV NETWORK",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUWoVWRyKD_PNlv0Qb_uiiOA"
+            }
+        },
+        "statistics": {
+            "viewCount": "1198",
+            "hiddenSubscriberCount": true,
+            "videoCount": "10"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr",
+                "/m/02jjt",
+                "/m/019_rr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society",
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "FHLTV NETWORK"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "k6eE4So3JPbDYmddy1MOBki8ZdA",
+        "id": "UCtZxDBnmqFO79Gho7odw-Dg",
+        "snippet": {
+            "title": "Lanell Low",
+            "description": "",
+            "publishedAt": "2015-06-23T15:53:14Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLR-GgBsc3a0rMtAHke_zmlZrPLFaVCq4RDAjuuF=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLR-GgBsc3a0rMtAHke_zmlZrPLFaVCq4RDAjuuF=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLR-GgBsc3a0rMtAHke_zmlZrPLFaVCq4RDAjuuF=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Lanell Low",
+                "description": ""
+            },
+            "country": "GB"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUtZxDBnmqFO79Gho7odw-Dg"
+            }
+        },
+        "statistics": {
+            "viewCount": "1396361",
+            "subscriberCount": "1080",
+            "hiddenSubscriberCount": false,
+            "videoCount": "5134"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02vxn",
+                "/m/02jjt",
+                "/m/0f2f9"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Television_program"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Lanell Low",
+                "country": "GB"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/VrF3za3KlAD1XXdjU54VSqOfkKpIY9OSKXVjfBrq35_C_z0pizDLSq8t-19pZ3sqaI4y4luKUA"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

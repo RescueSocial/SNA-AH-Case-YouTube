@@ -1,0 +1,67 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "RjU5kmHklQ3L5mXy1Mf5yO2RLsU",
+        "id": "UCsWASHPyNqEGEdUw0W8WYgA",
+        "snippet": {
+            "title": "amberheardsource",
+            "description": "",
+            "publishedAt": "2011-02-25T04:36:09Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQPRk8xpvU-50qvWK1B7y-78-FpM3itzdiHStfL=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQPRk8xpvU-50qvWK1B7y-78-FpM3itzdiHStfL=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQPRk8xpvU-50qvWK1B7y-78-FpM3itzdiHStfL=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "amberheardsource",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUsWASHPyNqEGEdUw0W8WYgA"
+            }
+        },
+        "statistics": {
+            "viewCount": "29426",
+            "subscriberCount": "42",
+            "hiddenSubscriberCount": false,
+            "videoCount": "7"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "amberheardsource",
+                "keywords": "\"Amber Heard\" Amber Heard \"Drive Angry\" \"All The Boys Love Mandy Lane\" \"Alpha Dog\" Amberheardsource"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

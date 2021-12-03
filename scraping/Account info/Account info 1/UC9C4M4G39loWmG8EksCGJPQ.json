@@ -1,0 +1,76 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "WilT7FxSpRtuQ0xhRXfkKv-AE_s",
+        "id": "UC9C4M4G39loWmG8EksCGJPQ",
+        "snippet": {
+            "title": "cool4you",
+            "description": "",
+            "publishedAt": "2018-12-05T23:04:10Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQG9P0XengMxIECVYmrzAWWre_PkaWTpkHMYL56=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQG9P0XengMxIECVYmrzAWWre_PkaWTpkHMYL56=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQG9P0XengMxIECVYmrzAWWre_PkaWTpkHMYL56=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "cool4you",
+                "description": ""
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU9C4M4G39loWmG8EksCGJPQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "272837",
+            "subscriberCount": "380",
+            "hiddenSubscriberCount": false,
+            "videoCount": "16"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/0f2f9",
+                "/m/04rlf",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Television_program",
+                "https://en.wikipedia.org/wiki/Music",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "cool4you",
+                "keywords": "Games Gaming \"Game of Thrones\" Movies Cinema Stars",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/E2aUSSFZE77mw6oZtVwh4unJV51obJt4xK3s2oJ-IZfjBfY5hjRhf7dxHezttQTpzoqVaqPo-W8"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

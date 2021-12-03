@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "pnpf08UZXKQo0u3XsJME1ziubf8",
+        "id": "UCE7g4Z4nsGDydbc4sAfjEqQ",
+        "snippet": {
+            "title": "Swan Lake",
+            "description": "",
+            "customUrl": "swanlaketv",
+            "publishedAt": "2013-04-08T16:47:44Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/UzmhUlepcDPoUSw_I3Mt5yUduDzkKVEg6Em9bX4HWYCqSFi3WPC_NyieMaKzTPUyx_x3tGnCMw=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/UzmhUlepcDPoUSw_I3Mt5yUduDzkKVEg6Em9bX4HWYCqSFi3WPC_NyieMaKzTPUyx_x3tGnCMw=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/UzmhUlepcDPoUSw_I3Mt5yUduDzkKVEg6Em9bX4HWYCqSFi3WPC_NyieMaKzTPUyx_x3tGnCMw=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Swan Lake",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUE7g4Z4nsGDydbc4sAfjEqQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "1069251",
+            "subscriberCount": "1730",
+            "hiddenSubscriberCount": false,
+            "videoCount": "52"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/04rlf"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Music"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Swan Lake",
+                "unsubscribedTrailer": "spjaXSS-3GE"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/siBnQyX9RDnKG_NvsuHqw4leC3R0g6NaOc0aKki-7PdZBeqj3K-SLhzJGzPfeUc5kxqfH5K5Lkw"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

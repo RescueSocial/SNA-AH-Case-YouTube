@@ -1,0 +1,72 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "LcvYrDjq6ubI7FW0Tmd_6erXQ74",
+        "id": "UCK6e7sXvE7Vl1HLrX0t64sQ",
+        "snippet": {
+            "title": "UK HOT SHOW",
+            "description": "",
+            "customUrl": "ukhotshow",
+            "publishedAt": "2017-10-03T05:22:19Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRFnAc-J7MokNdPu4m-bfyXuLGMZyymWKFzva7t=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRFnAc-J7MokNdPu4m-bfyXuLGMZyymWKFzva7t=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRFnAc-J7MokNdPu4m-bfyXuLGMZyymWKFzva7t=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "UK HOT SHOW",
+                "description": ""
+            },
+            "country": "GB"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUK6e7sXvE7Vl1HLrX0t64sQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "1601364",
+            "subscriberCount": "1670",
+            "hiddenSubscriberCount": false,
+            "videoCount": "2273"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/019_rr",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "UK HOT SHOW",
+                "country": "GB"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/_ZFlxlLb2JDLrrBEUQo-qFWr-FkB5vWhd-hC32RREKGLj6dztt9AHEGfT_0rIkcNW-802Olm"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

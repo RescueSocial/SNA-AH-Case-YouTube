@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "k8PgVYxfqJnVe10TVXpZzHKzhFc",
+        "id": "UC8g0oCed9y47zHlAtiokviA",
+        "snippet": {
+            "title": "Celebrity News",
+            "description": "",
+            "publishedAt": "2017-11-04T11:46:27Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQ0Mq6lJg32UccLlZLA-j_ksM1QaG1Mnzymr_Rr=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQ0Mq6lJg32UccLlZLA-j_ksM1QaG1Mnzymr_Rr=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQ0Mq6lJg32UccLlZLA-j_ksM1QaG1Mnzymr_Rr=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Celebrity News",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU8g0oCed9y47zHlAtiokviA"
+            }
+        },
+        "statistics": {
+            "viewCount": "2112679",
+            "subscriberCount": "2300",
+            "hiddenSubscriberCount": false,
+            "videoCount": "5072"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/019_rr",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Celebrity News"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/xR1-YyyxGiX0CYQSwhWYqQFp_RpmIO4tvWFb1-Z4Mwf4g_2AL0F5Iw3ZH6rIHBF2fFMGq4z-NQ"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

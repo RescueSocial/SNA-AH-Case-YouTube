@@ -1,0 +1,66 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "P0LRbEWjg1yUpCD4HR9HiSnW5kg",
+        "id": "UCNWVoMKRr63-nlItezqerpQ",
+        "snippet": {
+            "title": "lola amis",
+            "description": "",
+            "publishedAt": "2015-07-11T07:33:00Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRrSluehZbDEoo4YmDJKqb_WzoCqzh8-l-K3Q=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRrSluehZbDEoo4YmDJKqb_WzoCqzh8-l-K3Q=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRrSluehZbDEoo4YmDJKqb_WzoCqzh8-l-K3Q=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "lola amis",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUNWVoMKRr63-nlItezqerpQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "819699",
+            "subscriberCount": "501",
+            "hiddenSubscriberCount": false,
+            "videoCount": "24"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02vxn",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "lola amis"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

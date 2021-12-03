@@ -1,0 +1,66 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "PtWHtQiUunp__iHpzmWVbqoXBIE",
+        "id": "UCXN0SJDWW4EGeoVCLAfLYkQ",
+        "snippet": {
+            "title": "Amber Heard Network",
+            "description": "",
+            "publishedAt": "2021-05-16T11:29:51.741425Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/bVAoDOn7vaUgUdUpwF2TP6XoRILonzwgjSlTE0LlpuvIpmqRZymQfU8T2zJXaltTbGvvJ9-djQ=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/bVAoDOn7vaUgUdUpwF2TP6XoRILonzwgjSlTE0LlpuvIpmqRZymQfU8T2zJXaltTbGvvJ9-djQ=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/bVAoDOn7vaUgUdUpwF2TP6XoRILonzwgjSlTE0LlpuvIpmqRZymQfU8T2zJXaltTbGvvJ9-djQ=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Amber Heard Network",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUXN0SJDWW4EGeoVCLAfLYkQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "1560",
+            "subscriberCount": "28",
+            "hiddenSubscriberCount": false,
+            "videoCount": "14"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/019_rr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Amber Heard Network"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

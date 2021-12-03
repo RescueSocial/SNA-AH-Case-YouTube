@@ -1,0 +1,67 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "usflMHiPs7ISkoDkCtdRrbHebbM",
+        "id": "UC_ddr3VheJPGOoW-XkKH8gA",
+        "snippet": {
+            "title": "Michael Numer",
+            "description": "Numer Talk",
+            "publishedAt": "2020-11-02T18:20:16.359718Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTeVjtIIjMjwlhn_IwHfP0NpLpFol__iXCzUcsS=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTeVjtIIjMjwlhn_IwHfP0NpLpFol__iXCzUcsS=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTeVjtIIjMjwlhn_IwHfP0NpLpFol__iXCzUcsS=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Michael Numer",
+                "description": "Numer Talk"
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU_ddr3VheJPGOoW-XkKH8gA"
+            }
+        },
+        "statistics": {
+            "viewCount": "1858250",
+            "subscriberCount": "6200",
+            "hiddenSubscriberCount": false,
+            "videoCount": "1132"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/019_rr",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Michael Numer",
+                "description": "Numer Talk"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

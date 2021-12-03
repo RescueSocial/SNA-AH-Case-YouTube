@@ -1,0 +1,66 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "arXA0s3N4BIXAQoP1qZnKkUBXqY",
+        "id": "UCmEyIsnz-WIoE9GQNMVEIpA",
+        "snippet": {
+            "title": "Vokall",
+            "description": "",
+            "publishedAt": "2021-08-10T06:22:09.548354Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLS-JGy5YebQW_U7nip9KRNuFrLRN008VdnSnuOhOdPty7lHpozy20EnaRkTXHfW=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLS-JGy5YebQW_U7nip9KRNuFrLRN008VdnSnuOhOdPty7lHpozy20EnaRkTXHfW=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLS-JGy5YebQW_U7nip9KRNuFrLRN008VdnSnuOhOdPty7lHpozy20EnaRkTXHfW=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Vokall",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUmEyIsnz-WIoE9GQNMVEIpA"
+            }
+        },
+        "statistics": {
+            "viewCount": "47",
+            "subscriberCount": "0",
+            "hiddenSubscriberCount": false,
+            "videoCount": "3"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Vokall"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

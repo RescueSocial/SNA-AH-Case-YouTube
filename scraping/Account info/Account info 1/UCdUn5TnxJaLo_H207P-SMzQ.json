@@ -1,0 +1,68 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "p00NiAFzxm3a6tzjFu3c1ukRis4",
+        "id": "UCdUn5TnxJaLo_H207P-SMzQ",
+        "snippet": {
+            "title": "myself prangya",
+            "description": "",
+            "publishedAt": "2020-11-21T22:41:23.568019Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLS2ZzdhEQR8iqgDc0EBre2oJWfxBXyW3KJ4TfB0Nw=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLS2ZzdhEQR8iqgDc0EBre2oJWfxBXyW3KJ4TfB0Nw=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLS2ZzdhEQR8iqgDc0EBre2oJWfxBXyW3KJ4TfB0Nw=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "myself prangya",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUdUn5TnxJaLo_H207P-SMzQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "1401",
+            "subscriberCount": "62",
+            "hiddenSubscriberCount": false,
+            "videoCount": "15"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/04rlf",
+                "/m/019_rr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Music",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "myself prangya"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

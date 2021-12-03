@@ -1,0 +1,64 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "Xv3WLXPaqxJM_GJ-HGOPW3_0yhY",
+        "id": "UCSCTyu_ptjtVHwNZz1F6KSQ",
+        "snippet": {
+            "title": "Tamatha Kamper",
+            "description": "",
+            "publishedAt": "2013-11-19T11:45:33Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTeiaSp-mzZ3LWm1Hc4FFssp3lYH0z9xDP27ePY=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTeiaSp-mzZ3LWm1Hc4FFssp3lYH0z9xDP27ePY=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTeiaSp-mzZ3LWm1Hc4FFssp3lYH0z9xDP27ePY=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Tamatha Kamper",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUSCTyu_ptjtVHwNZz1F6KSQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "497251",
+            "subscriberCount": "366",
+            "hiddenSubscriberCount": false,
+            "videoCount": "1742"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Tamatha Kamper"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

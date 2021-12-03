@@ -1,0 +1,64 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "Eml9Ev0cI_EqUS3VeiF61taDtRo",
+        "id": "UCOE2UXE3tVDkCarIfPWuGXA",
+        "snippet": {
+            "title": "AmberLChat9",
+            "description": "",
+            "publishedAt": "2011-11-05T17:02:05Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQvs7T_Un302yeddQ9Jf1slh92i_GPX1_bvfA=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQvs7T_Un302yeddQ9Jf1slh92i_GPX1_bvfA=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQvs7T_Un302yeddQ9Jf1slh92i_GPX1_bvfA=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "AmberLChat9",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUOE2UXE3tVDkCarIfPWuGXA"
+            }
+        },
+        "statistics": {
+            "viewCount": "120018",
+            "subscriberCount": "39",
+            "hiddenSubscriberCount": false,
+            "videoCount": "2"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "AmberLChat9"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

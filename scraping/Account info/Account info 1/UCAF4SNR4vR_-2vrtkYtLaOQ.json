@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "rwFKnIkx1jK1DpkrMo1GBdtIPB0",
+        "id": "UCAF4SNR4vR_-2vrtkYtLaOQ",
+        "snippet": {
+            "title": "Kevin T",
+            "description": "",
+            "publishedAt": "2014-05-07T19:23:07Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSwmseNR0CwKVhsxAV9YvqrNjZq0gx_zgm0hN62oQ=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSwmseNR0CwKVhsxAV9YvqrNjZq0gx_zgm0hN62oQ=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSwmseNR0CwKVhsxAV9YvqrNjZq0gx_zgm0hN62oQ=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Kevin T",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUAF4SNR4vR_-2vrtkYtLaOQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "438887",
+            "subscriberCount": "1420",
+            "hiddenSubscriberCount": false,
+            "videoCount": "8"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Kevin T",
+                "keywords": "YEAH"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/R1-LPSAvtsgG4632VrxQV5xCTlmBUa7tmTCudQdgfjXbEZNlmoVPYAuxdeds9vkJuqL9Ctnymq0"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

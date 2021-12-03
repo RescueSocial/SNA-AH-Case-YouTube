@@ -1,0 +1,81 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "P15dEvLzS6bHfvFGBoMDQVUJ2TE",
+        "id": "UCuVgoagmU3hmfMwtxG9s4Sw",
+        "snippet": {
+            "title": "Optimus",
+            "description": "Hi, welcome to my channel! I'm Optimus, and I'm a GOAT. If you're reading this, make sure to hit that subscribe button and turn on notifications, and have an awesome day!",
+            "customUrl": "optimushd",
+            "publishedAt": "2012-04-05T03:52:50Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSo4VpXqG55fK9OHWOqNQjZIReU5lLv-1Dp75zQfA=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSo4VpXqG55fK9OHWOqNQjZIReU5lLv-1Dp75zQfA=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSo4VpXqG55fK9OHWOqNQjZIReU5lLv-1Dp75zQfA=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Optimus",
+                "description": "Hi, welcome to my channel! I'm Optimus, and I'm a GOAT. If you're reading this, make sure to hit that subscribe button and turn on notifications, and have an awesome day!"
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUuVgoagmU3hmfMwtxG9s4Sw"
+            }
+        },
+        "statistics": {
+            "viewCount": "344061523",
+            "subscriberCount": "1190000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "1429"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02ntfj",
+                "/m/0bzvm2",
+                "/m/025zzc",
+                "/m/0403l3g"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Action-adventure_game",
+                "https://en.wikipedia.org/wiki/Video_game_culture",
+                "https://en.wikipedia.org/wiki/Action_game",
+                "https://en.wikipedia.org/wiki/Role-playing_video_game"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Optimus",
+                "description": "Hi, welcome to my channel! I'm Optimus, and I'm a GOAT. If you're reading this, make sure to hit that subscribe button and turn on notifications, and have an awesome day!",
+                "keywords": "Optimus Game Theory Criticism Rant Commentary Minecraft Died Call of Duty \"Game Theory\" \"The Day That Minecraft Died\" Twitter News Gameplay Daily",
+                "moderateComments": true,
+                "unsubscribedTrailer": "Ewm9s4oP0mk",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/LMyJWEYPZiRDptrhAd-N5lMZMBitiyzvwwSwbmhnZSkoj0XjTHr48RcwAqXk6Xuuax6U-T23Rg"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

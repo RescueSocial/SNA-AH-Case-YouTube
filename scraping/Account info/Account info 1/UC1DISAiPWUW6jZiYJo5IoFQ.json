@@ -1,0 +1,69 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "7qnoLZ4VaqP7uY25pOZHJqF8oaE",
+        "id": "UC1DISAiPWUW6jZiYJo5IoFQ",
+        "snippet": {
+            "title": "RawakVidz",
+            "description": "Random videos for fun",
+            "publishedAt": "2017-10-26T16:22:53Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/t7rFN-_5QG5B4LMNBJjP7miHKJWdRtkO6mL5w7ONnlHFr74RaOPB3htLJBbswPjizy2a1e6dXA=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/t7rFN-_5QG5B4LMNBJjP7miHKJWdRtkO6mL5w7ONnlHFr74RaOPB3htLJBbswPjizy2a1e6dXA=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/t7rFN-_5QG5B4LMNBJjP7miHKJWdRtkO6mL5w7ONnlHFr74RaOPB3htLJBbswPjizy2a1e6dXA=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "RawakVidz",
+                "description": "Random videos for fun"
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU1DISAiPWUW6jZiYJo5IoFQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "18334",
+            "subscriberCount": "32",
+            "hiddenSubscriberCount": false,
+            "videoCount": "84"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/04rlf",
+                "/m/02jjt",
+                "/m/019_rr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Music",
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "RawakVidz",
+                "description": "Random videos for fun"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

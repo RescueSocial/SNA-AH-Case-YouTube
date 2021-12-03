@@ -1,0 +1,86 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "PdatVsQGaZczCGZNHnxfq0FGi2U",
+        "id": "UC69ircTslibVSTzQVfYluBQ",
+        "snippet": {
+            "title": "communiTV",
+            "description": "We show you the best rated movies and tv shows for every mood and taste. Tell us your favorites in the comments and stay updated on YouTube, Instagram and Facebook.",
+            "customUrl": "communitv",
+            "publishedAt": "2018-08-01T14:48:04Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRUUw4l5d7jlwnSw7cGKGiWZn78Hg0MrTCzgQW7=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRUUw4l5d7jlwnSw7cGKGiWZn78Hg0MrTCzgQW7=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRUUw4l5d7jlwnSw7cGKGiWZn78Hg0MrTCzgQW7=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "communiTV",
+                "description": "We show you the best rated movies and tv shows for every mood and taste. Tell us your favorites in the comments and stay updated on YouTube, Instagram and Facebook."
+            },
+            "country": "DE"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU69ircTslibVSTzQVfYluBQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "168776380",
+            "subscriberCount": "554000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "1159"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/0f2f9",
+                "/m/02vxn",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Television_program",
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "communiTV",
+                "description": "We show you the best rated movies and tv shows for every mood and taste. Tell us your favorites in the comments and stay updated on YouTube, Instagram and Facebook.",
+                "keywords": "movie and tv show tips",
+                "trackingAnalyticsAccountId": "UA-159651200-1",
+                "defaultLanguage": "en",
+                "country": "DE"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/Se5OJ5vL2dnlFbEvGyc3QYOKBTttr1mt5V0IzppUZKqnsnUzTQHP0cFLczkBYu5Zq154naZB"
+            }
+        },
+        "contentOwnerDetails": {},
+        "localizations": {
+            "en_US": {
+                "title": "communiTV",
+                "description": "We show you the best rated movies and tv shows for every mood and taste. Tell us your favorites in the comments and stay updated on YouTube, Instagram and Facebook."
+            }
+        }
+    }
+]

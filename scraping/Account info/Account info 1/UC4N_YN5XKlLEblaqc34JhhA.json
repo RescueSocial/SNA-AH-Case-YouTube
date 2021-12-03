@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "N-mJJ8r203akFOUYHnK8-LSi1XI",
+        "id": "UC4N_YN5XKlLEblaqc34JhhA",
+        "snippet": {
+            "title": "Karina Kaboom",
+            "description": "",
+            "customUrl": "karinakaboom",
+            "publishedAt": "2013-03-02T22:23:56Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTaWz6N5j029NK40EDqsBDFQhlALAwTz03tTWOpcA=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTaWz6N5j029NK40EDqsBDFQhlALAwTz03tTWOpcA=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTaWz6N5j029NK40EDqsBDFQhlALAwTz03tTWOpcA=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Karina Kaboom",
+                "description": ""
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU4N_YN5XKlLEblaqc34JhhA"
+            }
+        },
+        "statistics": {
+            "viewCount": "2836974",
+            "subscriberCount": "141000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "11"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/019_rr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Karina Kaboom",
+                "keywords": "\"karina kaboom\"",
+                "unsubscribedTrailer": "Gb5rgfIEmJI",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/0Tpkbi_jjBTnsYyDciTbCMlU0xfqPancqB5GDGo0K1ZBPN0gZunL7kFwmAgzCQ9FicD_o6ro0A"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

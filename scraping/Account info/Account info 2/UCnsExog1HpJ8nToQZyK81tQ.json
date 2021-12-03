@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "igtmUbS9IsfF4uMYCYr99PzrD54",
+        "id": "UCnsExog1HpJ8nToQZyK81tQ",
+        "snippet": {
+            "title": "Daily Dose of JRE",
+            "description": "Daily Joe Rogan Experience Videos!",
+            "customUrl": "dailydoseofjre",
+            "publishedAt": "2014-10-18T02:24:52Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTG3PIok_n0Mca-Cfs68jQ0-yG6KR4rRoTAL1aqHw=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTG3PIok_n0Mca-Cfs68jQ0-yG6KR4rRoTAL1aqHw=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTG3PIok_n0Mca-Cfs68jQ0-yG6KR4rRoTAL1aqHw=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Daily Dose of JRE",
+                "description": "Daily Joe Rogan Experience Videos!"
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUnsExog1HpJ8nToQZyK81tQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "2072086",
+            "subscriberCount": "9560",
+            "hiddenSubscriberCount": false,
+            "videoCount": "56"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Daily Dose of JRE",
+                "description": "Daily Joe Rogan Experience Videos!",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/hNzyU2ErHSze8pT4oYv6tBGlFqaDnGti9LAA7Cd3Bw7w3xZ0F99vjvhnSqQOjcm8Ko9aHGN24RU"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "AgviM8unPbWMnfJ6-hsJmDw8_bc",
+        "id": "UC4sn_-TrIvvnhKjHFJOcSrw",
+        "snippet": {
+            "title": "Robinlynne",
+            "description": "",
+            "customUrl": "robinlynnemabin51",
+            "publishedAt": "2013-03-17T00:55:38Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLR6_t9eVFNCS4qeT1-Shbsdx0ZQtakBir0IdJlNHg=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLR6_t9eVFNCS4qeT1-Shbsdx0ZQtakBir0IdJlNHg=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLR6_t9eVFNCS4qeT1-Shbsdx0ZQtakBir0IdJlNHg=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Robinlynne",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU4sn_-TrIvvnhKjHFJOcSrw"
+            }
+        },
+        "statistics": {
+            "viewCount": "20637",
+            "subscriberCount": "83",
+            "hiddenSubscriberCount": false,
+            "videoCount": "11678"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/04rlf",
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Music",
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Robinlynne",
+                "moderateComments": true
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

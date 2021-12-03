@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "NdmRs-REQJ4in7aYJhY20reie-A",
+        "id": "UCrNMX58gHVIgEaaWNRwIbrw",
+        "snippet": {
+            "title": "WNLOTV",
+            "description": "CW In Western New York and Southern Ontario",
+            "publishedAt": "2007-08-01T14:49:31Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSvy510y7qlSOnSCx52LgWAb3clnkdoUXrhCHk=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSvy510y7qlSOnSCx52LgWAb3clnkdoUXrhCHk=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSvy510y7qlSOnSCx52LgWAb3clnkdoUXrhCHk=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "WNLOTV",
+                "description": "CW In Western New York and Southern Ontario"
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUrNMX58gHVIgEaaWNRwIbrw"
+            }
+        },
+        "statistics": {
+            "viewCount": "1228480",
+            "subscriberCount": "1230",
+            "hiddenSubscriberCount": false,
+            "videoCount": "2991"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/019_rr",
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "WNLOTV",
+                "description": "CW In Western New York and Southern Ontario"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/-0NRVP5wbO54/UcMhA7cAM7I/AAAAAAAAACQ/d0-uxMq7gz0/s2048/channels4_banner.jpg"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

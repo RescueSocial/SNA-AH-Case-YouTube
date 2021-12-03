@@ -1,0 +1,56 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "dFYPWr94mZND5jA_TmythzKYW7w",
+        "id": "UCHfbxFx6sbO4QfM7OVwlKTw",
+        "snippet": {
+            "title": "Sebastian Jones",
+            "description": "",
+            "publishedAt": "2019-05-31T17:28:36Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTe6o_bgdoGLJIV3wlWQBHgcNVh1RsmV7D1TMVw=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTe6o_bgdoGLJIV3wlWQBHgcNVh1RsmV7D1TMVw=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTe6o_bgdoGLJIV3wlWQBHgcNVh1RsmV7D1TMVw=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Sebastian Jones",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUHfbxFx6sbO4QfM7OVwlKTw"
+            }
+        },
+        "statistics": {
+            "viewCount": "636",
+            "subscriberCount": "7",
+            "hiddenSubscriberCount": false,
+            "videoCount": "2"
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Sebastian Jones"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

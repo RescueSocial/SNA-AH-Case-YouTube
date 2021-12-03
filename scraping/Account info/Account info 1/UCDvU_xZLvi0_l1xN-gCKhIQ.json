@@ -1,0 +1,74 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "PvXopAGFP4SS15EOmNPdg4AZQXA",
+        "id": "UCDvU_xZLvi0_l1xN-gCKhIQ",
+        "snippet": {
+            "title": "KI\u00caN GIANG TV",
+            "description": "...",
+            "publishedAt": "2016-09-03T07:24:53Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTvLj3JpIg6V8O5Rux_bBoXbEk_DHDERLer4opU=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTvLj3JpIg6V8O5Rux_bBoXbEk_DHDERLer4opU=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTvLj3JpIg6V8O5Rux_bBoXbEk_DHDERLer4opU=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "KI\u00caN GIANG TV",
+                "description": "..."
+            },
+            "country": "VN"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUDvU_xZLvi0_l1xN-gCKhIQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "237031",
+            "hiddenSubscriberCount": true,
+            "videoCount": "2114"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr",
+                "/m/02jjt",
+                "/m/04rlf"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society",
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Music"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "KI\u00caN GIANG TV",
+                "description": "...",
+                "country": "VN"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/wkDI-iNsmoDuhaooYyM8dyLaHNBKc-s0v9aoVeFTpYlB2edPu3nyqSkekU9i6OSkbVtBCP72jRA"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

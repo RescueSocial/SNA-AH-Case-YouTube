@@ -1,0 +1,68 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "N3n-jKBkw4nTsAdF2azBu1T7Eqw",
+        "id": "UCma_D36af3Joy2dGB1Ci2pw",
+        "snippet": {
+            "title": "News Now",
+            "description": "",
+            "publishedAt": "2016-03-16T03:15:33Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQCTE3usN32nEUimHST-ZXgaUzkouqmsiLVIYtL=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQCTE3usN32nEUimHST-ZXgaUzkouqmsiLVIYtL=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQCTE3usN32nEUimHST-ZXgaUzkouqmsiLVIYtL=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "News Now",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUma_D36af3Joy2dGB1Ci2pw"
+            }
+        },
+        "statistics": {
+            "viewCount": "128395",
+            "hiddenSubscriberCount": true,
+            "videoCount": "2072"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "News Now",
+                "keywords": "\"news 2017\" \"news us\" \"news uk\" \"news holywood\"",
+                "unsubscribedTrailer": "gAhh8vwZA7c"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/QeZMP4J8Rt2S4wAbvpEGtazn_hcipv2fBfjMVjkIJWFjHEhkvdZOv2ZetIc39crC0VI05egs7s4"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

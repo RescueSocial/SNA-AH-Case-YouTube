@@ -1,0 +1,66 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "Ffg5bhOp2-0162YVbMoujy2-vlc",
+        "id": "UC3wLM6p7u2hl7oOtS1WXHGg",
+        "snippet": {
+            "title": "dada",
+            "description": "",
+            "publishedAt": "2015-05-17T07:06:24Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTdeevZsU9c4MizzkFJoOpVsxi6fg4OFR_Efw=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTdeevZsU9c4MizzkFJoOpVsxi6fg4OFR_Efw=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTdeevZsU9c4MizzkFJoOpVsxi6fg4OFR_Efw=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "dada",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU3wLM6p7u2hl7oOtS1WXHGg"
+            }
+        },
+        "statistics": {
+            "viewCount": "173587",
+            "subscriberCount": "108",
+            "hiddenSubscriberCount": false,
+            "videoCount": "500"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "dada"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

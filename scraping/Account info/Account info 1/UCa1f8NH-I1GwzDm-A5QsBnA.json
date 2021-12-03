@@ -1,0 +1,72 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "vIaxBpDV3Tqn7MccFWVjzlO-hE8",
+        "id": "UCa1f8NH-I1GwzDm-A5QsBnA",
+        "snippet": {
+            "title": "ROTTEN APPLES",
+            "description": "The truth. The whole truth. And nothing but the truth. So help me YouTube.\u270b",
+            "publishedAt": "2016-09-24T07:04:04Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSk96dDCuj56Te0BNrkCPF4kH0SWDcr03MuJTkGxA=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSk96dDCuj56Te0BNrkCPF4kH0SWDcr03MuJTkGxA=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSk96dDCuj56Te0BNrkCPF4kH0SWDcr03MuJTkGxA=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "ROTTEN APPLES",
+                "description": "The truth. The whole truth. And nothing but the truth. So help me YouTube.\u270b"
+            },
+            "country": "BE"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUa1f8NH-I1GwzDm-A5QsBnA"
+            }
+        },
+        "statistics": {
+            "viewCount": "415545",
+            "subscriberCount": "744",
+            "hiddenSubscriberCount": false,
+            "videoCount": "2"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02vxn",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "ROTTEN APPLES",
+                "description": "The truth. The whole truth. And nothing but the truth. So help me YouTube.\u270b",
+                "country": "BE"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/JFFMG41ngyk9dQvcStpqkTDVg7akWDEiDOt5yitWbW9m37Jawh_74mHP5CH_fa9r7tgggq9H"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

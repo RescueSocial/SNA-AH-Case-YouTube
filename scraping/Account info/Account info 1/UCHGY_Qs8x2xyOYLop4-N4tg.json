@@ -1,0 +1,66 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "BRnlZqeoqaA5UwlX9gFQx-h7n7I",
+        "id": "UCHGY_Qs8x2xyOYLop4-N4tg",
+        "snippet": {
+            "title": "NoGood Televsion",
+            "description": "",
+            "publishedAt": "2013-01-23T15:52:10Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRvP6vQgaDMWslW8H7KgGq9p1Y-sqWIFsg0rA=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRvP6vQgaDMWslW8H7KgGq9p1Y-sqWIFsg0rA=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRvP6vQgaDMWslW8H7KgGq9p1Y-sqWIFsg0rA=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "NoGood Televsion",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUHGY_Qs8x2xyOYLop4-N4tg"
+            }
+        },
+        "statistics": {
+            "viewCount": "15640975",
+            "subscriberCount": "18200",
+            "hiddenSubscriberCount": false,
+            "videoCount": "888"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "NoGood Televsion"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

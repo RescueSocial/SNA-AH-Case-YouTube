@@ -1,0 +1,71 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "jzGza6sTIk6NS2K-on2V_JypJlA",
+        "id": "UCODqBn77UBZEh8o4iSG1xXQ",
+        "snippet": {
+            "title": "I Mostri del Cinema",
+            "description": "",
+            "customUrl": "imostridelcinemaita",
+            "publishedAt": "2014-07-13T19:28:11Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSQ9Tw8KOflffO8n77wi5TuiuONkOma8kuFsf29Ig=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSQ9Tw8KOflffO8n77wi5TuiuONkOma8kuFsf29Ig=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSQ9Tw8KOflffO8n77wi5TuiuONkOma8kuFsf29Ig=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "I Mostri del Cinema",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUODqBn77UBZEh8o4iSG1xXQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "86390",
+            "subscriberCount": "124",
+            "hiddenSubscriberCount": false,
+            "videoCount": "24"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "I Mostri del Cinema",
+                "keywords": "mostri del cinema venezia film premiere"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/WKOhAp5dGL7iTxTEPNARiqM4qTsY07JLvIkXOqoqLnH89-EClAzwvBMWbysGMxsw-yLmYNG0ug"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

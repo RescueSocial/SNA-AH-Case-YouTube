@@ -1,0 +1,76 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "_rpr3fMlROrHy9Dufsxvu90gUPM",
+        "id": "UCbUTVv6mOFnU_zWxoDEmDJA",
+        "snippet": {
+            "title": "Fly Movie Trailers",
+            "description": "",
+            "customUrl": "flymovietrailersmed",
+            "publishedAt": "2019-11-23T21:03:29.244295Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQfwVbJ4I4roYCqn8ZgpHaNLkFbihma8nsJ9gKx=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQfwVbJ4I4roYCqn8ZgpHaNLkFbihma8nsJ9gKx=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQfwVbJ4I4roYCqn8ZgpHaNLkFbihma8nsJ9gKx=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Fly Movie Trailers",
+                "description": ""
+            },
+            "country": "MA"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUbUTVv6mOFnU_zWxoDEmDJA"
+            }
+        },
+        "statistics": {
+            "viewCount": "341203",
+            "subscriberCount": "791",
+            "hiddenSubscriberCount": false,
+            "videoCount": "32"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn",
+                "/m/0f2f9"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Television_program"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Fly Movie Trailers",
+                "keywords": "Fly Movie Trailers",
+                "country": "MA"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/tHBx9ImiVQYVzErhLGogIxztZRiUr9adHT8Jl_WhqihlLFvVhiRNUENEdLjYJPirSiXG6NH1fg"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

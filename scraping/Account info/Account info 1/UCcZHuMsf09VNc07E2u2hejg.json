@@ -1,0 +1,76 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "xo4szviOpyVJXsi6luI1CnLvY8o",
+        "id": "UCcZHuMsf09VNc07E2u2hejg",
+        "snippet": {
+            "title": "Movie Trailer 21",
+            "description": "The Latest movie news on the movies you are most interested in seeing",
+            "customUrl": "movietrailer21",
+            "publishedAt": "2016-08-18T11:14:07Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/WGXpF5PGzJbjLtgtEWWNrvX_cQPzeDE_-7HMd_qb_29ASNKEYuo9DEmKvykEVD7xTgQtqbrxEg=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/WGXpF5PGzJbjLtgtEWWNrvX_cQPzeDE_-7HMd_qb_29ASNKEYuo9DEmKvykEVD7xTgQtqbrxEg=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/WGXpF5PGzJbjLtgtEWWNrvX_cQPzeDE_-7HMd_qb_29ASNKEYuo9DEmKvykEVD7xTgQtqbrxEg=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Movie Trailer 21",
+                "description": "The Latest movie news on the movies you are most interested in seeing"
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUcZHuMsf09VNc07E2u2hejg"
+            }
+        },
+        "statistics": {
+            "viewCount": "384582",
+            "subscriberCount": "46500",
+            "hiddenSubscriberCount": false,
+            "videoCount": "637"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Movie Trailer 21",
+                "description": "The Latest movie news on the movies you are most interested in seeing",
+                "keywords": "\"movie trailers\" \"movie trailer\" \"movie news\" \"movie update\" \"top 10 best hollywood movies on youtube\" \"movie rumors\" \"all the biggest upcoming movie rumors\" \"upcoming movie rumors\" \"all upcoming movie rumors\" \"full movie\" movies \"free movies\" movie",
+                "moderateComments": true,
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/WqI7rtaQ07hT4DmUyHA4UrzQ2iXWDN92J3K-GMqZYnpGrDzP-zaD__zCziuQHFeQPDLj8iYZ"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "wwmwGZ8749t8uEKgxlL73A7mF0k",
+        "id": "UCYsRVbKA8lahl6CiBjXs9Xg",
+        "snippet": {
+            "title": "I Failed",
+            "description": "New Trailers and Teaser, Movies",
+            "publishedAt": "2018-08-20T19:35:50Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/oVHcj3VEiAdNzIUbo3-EiIMSYOXJ4sN_d-q_eeGL962qr588Ep2jxewK9Jn10wipFcurLwGNMw=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/oVHcj3VEiAdNzIUbo3-EiIMSYOXJ4sN_d-q_eeGL962qr588Ep2jxewK9Jn10wipFcurLwGNMw=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/oVHcj3VEiAdNzIUbo3-EiIMSYOXJ4sN_d-q_eeGL962qr588Ep2jxewK9Jn10wipFcurLwGNMw=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "I Failed",
+                "description": "New Trailers and Teaser, Movies"
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUYsRVbKA8lahl6CiBjXs9Xg"
+            }
+        },
+        "statistics": {
+            "viewCount": "19755",
+            "hiddenSubscriberCount": true,
+            "videoCount": "227"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02vxn",
+                "/m/02jjt",
+                "/m/0f2f9"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Television_program"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "I Failed",
+                "description": "New Trailers and Teaser, Movies"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

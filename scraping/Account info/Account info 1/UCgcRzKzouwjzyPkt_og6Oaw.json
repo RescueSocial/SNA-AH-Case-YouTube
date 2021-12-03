@@ -1,0 +1,69 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "zsKBeia1oBCDcA9HQ7xKllnAxxU",
+        "id": "UCgcRzKzouwjzyPkt_og6Oaw",
+        "snippet": {
+            "title": "xavesvideo",
+            "description": "",
+            "publishedAt": "2013-07-15T18:12:54Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLS02JvlnwPXoI-BckBk3NDRQ41AJ0jYysu5kvtx=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLS02JvlnwPXoI-BckBk3NDRQ41AJ0jYysu5kvtx=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLS02JvlnwPXoI-BckBk3NDRQ41AJ0jYysu5kvtx=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "xavesvideo",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUgcRzKzouwjzyPkt_og6Oaw"
+            }
+        },
+        "statistics": {
+            "viewCount": "8602352",
+            "subscriberCount": "12400",
+            "hiddenSubscriberCount": false,
+            "videoCount": "947"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "xavesvideo"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/L5b98PIHgNgsvDXGzS1UpEUgtz3uHq4SPWkw26h5stzcVmj8mvbcN0UWaEqHIDpGrI8dGpygPA"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "BvMjJqKzTqtEKz1ItGK0OWETA_4",
+        "id": "UCmXowOTCAsI37IahflB80Mw",
+        "snippet": {
+            "title": "WhiskeyMyersVEVO",
+            "description": "",
+            "publishedAt": "2011-10-11T18:44:41Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRbuFPArRDYqfUX_LYH9m5NSGbIYswaAlhfQhvhuA=s88-c-k-c0x00ffffff-no-rj-mo",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRbuFPArRDYqfUX_LYH9m5NSGbIYswaAlhfQhvhuA=s240-c-k-c0x00ffffff-no-rj-mo",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRbuFPArRDYqfUX_LYH9m5NSGbIYswaAlhfQhvhuA=s800-c-k-c0x00ffffff-no-rj-mo",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "WhiskeyMyersVEVO",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUmXowOTCAsI37IahflB80Mw"
+            }
+        },
+        "statistics": {
+            "viewCount": "66348893",
+            "subscriberCount": "23600",
+            "hiddenSubscriberCount": false,
+            "videoCount": "9"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/04rlf",
+                "/m/06by7",
+                "/m/01lyv"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Music",
+                "https://en.wikipedia.org/wiki/Rock_music",
+                "https://en.wikipedia.org/wiki/Country_music"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "WhiskeyMyersVEVO",
+                "unsubscribedTrailer": "64EhA2XveRg"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/IHSvh_mVaVVUXhxdAxo5oheVydCULkPUQ7cr94LDGaRuMnUW0_BQfK54cKgA7WaiIZCxoQ2Ecw"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

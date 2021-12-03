@@ -1,0 +1,71 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "n24FmoKxSkh26iv8VaQFTIS8m_o",
+        "id": "UCNx_cjQh5mFycKKyK3kzW1Q",
+        "snippet": {
+            "title": "BUZZ MOVIE",
+            "description": "",
+            "publishedAt": "2021-05-09T08:52:07.720825Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/WROel9glZMLy79tDNXyFReCMV3HHAqSCsnmyd7GeGgSi2NWXhtiZ_kF1S7Q7eNl9pSsuorAV=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/WROel9glZMLy79tDNXyFReCMV3HHAqSCsnmyd7GeGgSi2NWXhtiZ_kF1S7Q7eNl9pSsuorAV=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/WROel9glZMLy79tDNXyFReCMV3HHAqSCsnmyd7GeGgSi2NWXhtiZ_kF1S7Q7eNl9pSsuorAV=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "BUZZ MOVIE",
+                "description": ""
+            },
+            "country": "GB"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUNx_cjQh5mFycKKyK3kzW1Q"
+            }
+        },
+        "statistics": {
+            "viewCount": "3175",
+            "hiddenSubscriberCount": true,
+            "videoCount": "952"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02vxn",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "BUZZ MOVIE",
+                "country": "GB"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/y1ofiwWgBjkH-Eb4URxkqp3PajpEi7QuRtdDjr_JHAG8tPmnYYMitEWv7D3cGIMC1DU_pBwkeg"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

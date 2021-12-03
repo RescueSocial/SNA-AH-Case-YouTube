@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "ekqWfRMjhC4lE0vJyLx0_g_VC3s",
+        "id": "UCuT7gfhmGtqo9biEbgfVmIw",
+        "snippet": {
+            "title": "Melis Ann",
+            "description": "",
+            "publishedAt": "2009-11-21T18:03:05Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTDApW10vdNCuLej22HOydlhu7yhNio-4Azjsxw=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTDApW10vdNCuLej22HOydlhu7yhNio-4Azjsxw=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTDApW10vdNCuLej22HOydlhu7yhNio-4Azjsxw=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Melis Ann",
+                "description": ""
+            },
+            "country": "FR"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUuT7gfhmGtqo9biEbgfVmIw"
+            }
+        },
+        "statistics": {
+            "viewCount": "14027939",
+            "hiddenSubscriberCount": true,
+            "videoCount": "11657"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/0f2f9"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Television_program"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Melis Ann",
+                "keywords": "#nouvelles \"#nouvelles chaudes\" \"#La vie en france\"",
+                "unsubscribedTrailer": "00aJP6pTfbw",
+                "country": "FR"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/0D_dUiGZFW-sxukVPle6RRHoKCgqi63e-Iz4iMnJPcFH7QorYTc4QVf8_11ZB52dfVJ-jo48Ag"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

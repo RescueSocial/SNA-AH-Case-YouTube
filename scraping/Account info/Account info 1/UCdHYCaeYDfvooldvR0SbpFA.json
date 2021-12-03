@@ -1,0 +1,71 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "PGVN2yfFlxCp3ayOCO4pUrJCKMI",
+        "id": "UCdHYCaeYDfvooldvR0SbpFA",
+        "snippet": {
+            "title": "Library",
+            "description": "News & information channel",
+            "publishedAt": "2015-10-13T07:21:59Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQ-Cy_kaCAQlMnU_aLsi6KPtfxYjENB4LCDRxKi=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQ-Cy_kaCAQlMnU_aLsi6KPtfxYjENB4LCDRxKi=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQ-Cy_kaCAQlMnU_aLsi6KPtfxYjENB4LCDRxKi=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Library",
+                "description": "News & information channel"
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUdHYCaeYDfvooldvR0SbpFA"
+            }
+        },
+        "statistics": {
+            "viewCount": "157641",
+            "subscriberCount": "326",
+            "hiddenSubscriberCount": false,
+            "videoCount": "237"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/06ntj",
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Sport",
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Library",
+                "description": "News & information channel",
+                "moderateComments": true
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/966k7vX5XZltmD2XoSepDJlzbxTe61HTR3lOJmacdI-ml4_AIpRy38SyQiIKFpgIpbLk-dzwRg"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

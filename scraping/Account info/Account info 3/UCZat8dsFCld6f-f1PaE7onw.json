@@ -1,0 +1,72 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "b5dmMxBS7kb21SIR1RnMhuuvjpA",
+        "id": "UCZat8dsFCld6f-f1PaE7onw",
+        "snippet": {
+            "title": "The News",
+            "description": "",
+            "publishedAt": "2009-11-15T13:33:06Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQSSg8usq31dBOg7oRj0V18SxYY3dpF9NWtrQXK=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQSSg8usq31dBOg7oRj0V18SxYY3dpF9NWtrQXK=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQSSg8usq31dBOg7oRj0V18SxYY3dpF9NWtrQXK=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "The News",
+                "description": ""
+            },
+            "country": "VN"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUZat8dsFCld6f-f1PaE7onw"
+            }
+        },
+        "statistics": {
+            "viewCount": "690055",
+            "subscriberCount": "1880",
+            "hiddenSubscriberCount": false,
+            "videoCount": "5930"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "The News",
+                "country": "VN"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/CH2g1XdyEE7PpGY42Xz2ARs3EQPnkKr5SQXPyG0RcdQDUsNo4uMWK_qxPDZl42lSt41rUTnmN_Q"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

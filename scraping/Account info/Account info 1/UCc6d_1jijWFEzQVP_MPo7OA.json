@@ -1,0 +1,68 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "EDxgIDHlI9g1X5unJAQHnbYVenw",
+        "id": "UCc6d_1jijWFEzQVP_MPo7OA",
+        "snippet": {
+            "title": "24h News",
+            "description": "",
+            "publishedAt": "2016-01-28T17:02:22Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTrKGQdmroorRUoy2gKHHiVgBykrsSEgNmvbeVO=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTrKGQdmroorRUoy2gKHHiVgBykrsSEgNmvbeVO=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTrKGQdmroorRUoy2gKHHiVgBykrsSEgNmvbeVO=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "24h News",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUc6d_1jijWFEzQVP_MPo7OA"
+            }
+        },
+        "statistics": {
+            "viewCount": "1195409",
+            "hiddenSubscriberCount": true,
+            "videoCount": "4359"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/04rlf",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Music",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "24h News"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/_MFyjQyMsSpQEesv3zpHU0JL4rYXx9YIcxkRT5ufrKY2ceJ_0Pf8DO_vkvmft7C6L-FXWIQBhg"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

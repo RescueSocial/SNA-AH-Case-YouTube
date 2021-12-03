@@ -1,0 +1,76 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "3TCA9j9E4ekMHS2BtrDyfj2GYyU",
+        "id": "UCg4vDcovXPJTcTcYxQ9iCrw",
+        "snippet": {
+            "title": "wavywebsurf",
+            "description": "Surfing through some of the wildest stories on the web, both past and present.",
+            "customUrl": "wavywebsurf",
+            "publishedAt": "2016-06-01T04:33:36Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQ0GNHFPidE90ZPOuZ2zfmB-ub9Bgcbli2QLrMW0Q=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQ0GNHFPidE90ZPOuZ2zfmB-ub9Bgcbli2QLrMW0Q=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQ0GNHFPidE90ZPOuZ2zfmB-ub9Bgcbli2QLrMW0Q=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "wavywebsurf",
+                "description": "Surfing through some of the wildest stories on the web, both past and present."
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUg4vDcovXPJTcTcYxQ9iCrw"
+            }
+        },
+        "statistics": {
+            "viewCount": "122343475",
+            "subscriberCount": "871000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "221"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "wavywebsurf",
+                "description": "Surfing through some of the wildest stories on the web, both past and present.",
+                "keywords": "commentary comedy memes \"Internet culture\" \"internet history\"",
+                "unsubscribedTrailer": "vMpB_fdBeYI",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/LMGDGr8MUea-kAbh46MOc4aPDBWS37FgLRroRRFMvAm7CK7xyzfBo_lF8DNfrln2mgFiZv7INw"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "mI4Z59I5auXCENjaz2-5W5qbT8s",
+        "id": "UCuaC97dU5LjHA2NuLjoX4hg",
+        "snippet": {
+            "title": "West Cut",
+            "description": "",
+            "publishedAt": "2019-10-14T11:15:59.877591Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRZczYIz02J_FMu5z7QeB2ENmxu7pOVFpKvI7BT=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRZczYIz02J_FMu5z7QeB2ENmxu7pOVFpKvI7BT=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRZczYIz02J_FMu5z7QeB2ENmxu7pOVFpKvI7BT=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "West Cut",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUuaC97dU5LjHA2NuLjoX4hg"
+            }
+        },
+        "statistics": {
+            "viewCount": "1741",
+            "hiddenSubscriberCount": true,
+            "videoCount": "24"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr",
+                "/m/02jjt",
+                "/m/0f2f9"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society",
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Television_program"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "West Cut",
+                "keywords": "\"top 10\" \"celebrities news\" \"show business\" \"Entertainment news\" \"film reviews\" awards \"box office\" \"entertainment industry\""
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/kZnu9ixTA20LZDNwYv1slRRyLZdy_ugkvpQ-yzLL9-5plksb_kU2z0EASoDmxwj99tzGyshnuQ"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

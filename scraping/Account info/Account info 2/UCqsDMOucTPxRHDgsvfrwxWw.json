@@ -1,0 +1,71 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "IKeQXM3GnekUJzVj4QBJMhvW2FA",
+        "id": "UCqsDMOucTPxRHDgsvfrwxWw",
+        "snippet": {
+            "title": "Eyewitness News WEHT WTVW",
+            "description": "",
+            "customUrl": "eyewitnessnewswehtwtvw",
+            "publishedAt": "2018-03-05T20:43:33Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTQOY3CT3XFxK5TRzSVsgdoizYs8DLmYAaluF4M=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTQOY3CT3XFxK5TRzSVsgdoizYs8DLmYAaluF4M=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTQOY3CT3XFxK5TRzSVsgdoizYs8DLmYAaluF4M=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Eyewitness News WEHT WTVW",
+                "description": ""
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUqsDMOucTPxRHDgsvfrwxWw"
+            }
+        },
+        "statistics": {
+            "viewCount": "32832454",
+            "subscriberCount": "37800",
+            "hiddenSubscriberCount": false,
+            "videoCount": "27964"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Eyewitness News WEHT WTVW",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/lfFvUl7Kwrqy80n3jM7sd9VZaPcCro9lz8kCrzJHJr18y05BNLtY8NZnr145jMHa6d84E3JA"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

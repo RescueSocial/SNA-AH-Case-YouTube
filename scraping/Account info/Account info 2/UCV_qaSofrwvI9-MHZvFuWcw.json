@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "GNXdMuGn7M5J8XAGP7uD87MOPwE",
+        "id": "UCV_qaSofrwvI9-MHZvFuWcw",
+        "snippet": {
+            "title": "vast prate",
+            "description": "Description",
+            "publishedAt": "2016-12-25T17:24:25Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLT0qZc7AQMkf2Km4-8st1226mCe2e4xktqn9PJtgQ=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLT0qZc7AQMkf2Km4-8st1226mCe2e4xktqn9PJtgQ=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLT0qZc7AQMkf2Km4-8st1226mCe2e4xktqn9PJtgQ=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "vast prate",
+                "description": "Description"
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUV_qaSofrwvI9-MHZvFuWcw"
+            }
+        },
+        "statistics": {
+            "viewCount": "5492327",
+            "subscriberCount": "2870",
+            "hiddenSubscriberCount": false,
+            "videoCount": "110"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "vast prate",
+                "description": "Description",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/53y5Txu-3DlIjSnANitBqItxeudeNsjP9pJV4iuxYfgbNmS9v1bMqe0yQycMxkCF6JhPQ14UyQ"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

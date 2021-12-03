@@ -1,0 +1,74 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "OfxWXEMGdxm4X8c06Q3-_CDGR04",
+        "id": "UC8g0FejRWMkkBCR8PxngjsQ",
+        "snippet": {
+            "title": "Yuri Kucherenko",
+            "description": "",
+            "publishedAt": "2011-09-16T12:04:04Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/61j8JsH9SkK9n_xs-v6I2Wwt9QKc50iWK_PIn0D1TxpUb1stxeXyCEZeJOrcMbl2voN1S5Ko=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/61j8JsH9SkK9n_xs-v6I2Wwt9QKc50iWK_PIn0D1TxpUb1stxeXyCEZeJOrcMbl2voN1S5Ko=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/61j8JsH9SkK9n_xs-v6I2Wwt9QKc50iWK_PIn0D1TxpUb1stxeXyCEZeJOrcMbl2voN1S5Ko=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Yuri Kucherenko",
+                "description": ""
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU8g0FejRWMkkBCR8PxngjsQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "528476",
+            "subscriberCount": "2980",
+            "hiddenSubscriberCount": false,
+            "videoCount": "13"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02vxn",
+                "/m/01k8wb",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Knowledge",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Yuri Kucherenko",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/HI3nrSRzL9pwGMfKgwwhyey6lHbD0AkfLPo-8ZIVxSBso4trK5YNezMB_Ja1LKEmp0meDVqzow"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

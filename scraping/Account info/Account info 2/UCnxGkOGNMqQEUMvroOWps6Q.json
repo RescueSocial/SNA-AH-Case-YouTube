@@ -1,0 +1,75 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "ozg5zEnzx0ZaUmbKWDpi8GfUpcY",
+        "id": "UCnxGkOGNMqQEUMvroOWps6Q",
+        "snippet": {
+            "title": "JRE Clips",
+            "description": "",
+            "customUrl": "jreclips",
+            "publishedAt": "2017-01-18T21:31:25Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSjESdJk3FwjE59utIerCf2MkemkvuPkljZcFUv=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSjESdJk3FwjE59utIerCf2MkemkvuPkljZcFUv=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSjESdJk3FwjE59utIerCf2MkemkvuPkljZcFUv=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "JRE Clips",
+                "description": ""
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUnxGkOGNMqQEUMvroOWps6Q"
+            }
+        },
+        "statistics": {
+            "viewCount": "4385470954",
+            "subscriberCount": "6180000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "5393"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "JRE Clips",
+                "keywords": "\"Joe Rogan\" Joe Rogan JRE PowerfulJRE Experience podcast Clips JRECLips funny comedy comedian comedians \"stand up\" MMA UFC",
+                "unsubscribedTrailer": "9ugC3TXSKoE",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/7u7eOaqhIouifnT0IDzNBE_MWGhpjpQHWIXQsmY7oUxgdf34leHc16p2qg_ggKyx6KtwhE2S"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

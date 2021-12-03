@@ -1,0 +1,69 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "AuOHUDuvKP-m8WSFx9v1CFEQZDI",
+        "id": "UChjDtGelMNkllI5S22oO_aA",
+        "snippet": {
+            "title": "Myra Lamb",
+            "description": "",
+            "publishedAt": "2016-07-29T11:26:24Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSW_L_6qjJP8SqLsmPY7fOoOigUOnw7kQ4Hf0U=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSW_L_6qjJP8SqLsmPY7fOoOigUOnw7kQ4Hf0U=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSW_L_6qjJP8SqLsmPY7fOoOigUOnw7kQ4Hf0U=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Myra Lamb",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUhjDtGelMNkllI5S22oO_aA"
+            }
+        },
+        "statistics": {
+            "viewCount": "14341814",
+            "subscriberCount": "38700",
+            "hiddenSubscriberCount": false,
+            "videoCount": "82608"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Myra Lamb",
+                "unsubscribedTrailer": "_kN9cb0F30w"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/RrSRVQXje-5l2OGlwAzwVJYLcLhLP6AEVZjZHzerlX5yBiEBNBlCap8QIQ7d2iBqrHsVRr2P8A"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

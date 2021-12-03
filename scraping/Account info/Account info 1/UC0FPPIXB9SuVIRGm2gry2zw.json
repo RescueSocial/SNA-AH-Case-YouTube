@@ -1,0 +1,74 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "e-1ytiebS8btMLwPc5g858Ybxh0",
+        "id": "UC0FPPIXB9SuVIRGm2gry2zw",
+        "snippet": {
+            "title": "TheCelebFactory",
+            "description": "Your go-to for the best celebrity news and fashion!",
+            "publishedAt": "2010-11-08T14:09:28Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSW44GRRryVGLKRgLWGYK5Wp9EO6uamLci2tLxn=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSW44GRRryVGLKRgLWGYK5Wp9EO6uamLci2tLxn=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSW44GRRryVGLKRgLWGYK5Wp9EO6uamLci2tLxn=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "TheCelebFactory",
+                "description": "Your go-to for the best celebrity news and fashion!"
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU0FPPIXB9SuVIRGm2gry2zw"
+            }
+        },
+        "statistics": {
+            "viewCount": "42288904",
+            "subscriberCount": "25100",
+            "hiddenSubscriberCount": false,
+            "videoCount": "2656"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "TheCelebFactory",
+                "description": "Your go-to for the best celebrity news and fashion!",
+                "keywords": "celebrity showbiz star entertainment film movie music television interviews premieres \"red carpet\"",
+                "moderateComments": true,
+                "unsubscribedTrailer": "5dnrohN4P0A"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/3zaO_EISLsrRkxJDmrOU3LbOCsM0SH3hUMj0_gUvHVtaHCBh89-_jEKIne6pkAwtMXhtMk1uxQ"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

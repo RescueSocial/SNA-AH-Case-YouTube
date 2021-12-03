@@ -1,0 +1,72 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "UCyaJFLaeV4Q2wjVAlWBxL_pREA",
+        "id": "UCD_G6tdi4Q69yK9zocWEchw",
+        "snippet": {
+            "title": "HyperEntertainment",
+            "description": "",
+            "publishedAt": "2019-08-23T14:13:44Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSxu6WTTGFOGdpjzbz28OKN_0jm-KhmkW-NSmPY=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSxu6WTTGFOGdpjzbz28OKN_0jm-KhmkW-NSmPY=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSxu6WTTGFOGdpjzbz28OKN_0jm-KhmkW-NSmPY=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "HyperEntertainment",
+                "description": ""
+            },
+            "country": "PH"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUD_G6tdi4Q69yK9zocWEchw"
+            }
+        },
+        "statistics": {
+            "viewCount": "1882929",
+            "subscriberCount": "1070",
+            "hiddenSubscriberCount": false,
+            "videoCount": "16"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/064t9",
+                "/m/019_rr",
+                "/m/04rlf"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Pop_music",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                "https://en.wikipedia.org/wiki/Music"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "HyperEntertainment",
+                "country": "PH"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

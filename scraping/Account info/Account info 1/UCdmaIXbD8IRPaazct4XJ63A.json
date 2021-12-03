@@ -1,0 +1,74 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "qTy6Y39qpZVqhoQ91iUFH32Ecls",
+        "id": "UCdmaIXbD8IRPaazct4XJ63A",
+        "snippet": {
+            "title": "Drama Depot",
+            "description": "",
+            "publishedAt": "2020-10-25T04:49:54.148391Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/Wgfbi6Hfkfe-VOkc15sPzGYPFPsBQgyqcmCwok2yBHiZObJ4_SWFqlcyRzSrejKbdBFrh44RJw=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/Wgfbi6Hfkfe-VOkc15sPzGYPFPsBQgyqcmCwok2yBHiZObJ4_SWFqlcyRzSrejKbdBFrh44RJw=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/Wgfbi6Hfkfe-VOkc15sPzGYPFPsBQgyqcmCwok2yBHiZObJ4_SWFqlcyRzSrejKbdBFrh44RJw=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Drama Depot",
+                "description": ""
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUdmaIXbD8IRPaazct4XJ63A"
+            }
+        },
+        "statistics": {
+            "viewCount": "28856",
+            "subscriberCount": "96",
+            "hiddenSubscriberCount": false,
+            "videoCount": "80"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/0f2f9",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Television_program",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Drama Depot",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/kD2WkpU1EccoeZw87BtM1FYSmnvmK8ezK5biIpDERN7OtRu6yc9G163ZIeCi710trgzLoc5a"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

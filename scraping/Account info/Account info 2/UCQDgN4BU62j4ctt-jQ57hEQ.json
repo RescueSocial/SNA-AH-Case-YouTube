@@ -1,0 +1,65 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "lV0o3Wmpb3QlUD0Q_nqOoTdnyQY",
+        "id": "UCQDgN4BU62j4ctt-jQ57hEQ",
+        "snippet": {
+            "title": "dej8vu",
+            "description": "",
+            "publishedAt": "2007-05-28T16:35:36Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQZDoh8vkAsO1A7sMdjr0uvL6YGK_-voiw6x8E=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQZDoh8vkAsO1A7sMdjr0uvL6YGK_-voiw6x8E=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQZDoh8vkAsO1A7sMdjr0uvL6YGK_-voiw6x8E=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "dej8vu",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUQDgN4BU62j4ctt-jQ57hEQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "283484",
+            "subscriberCount": "1440",
+            "hiddenSubscriberCount": false,
+            "videoCount": "5081"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "dej8vu"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

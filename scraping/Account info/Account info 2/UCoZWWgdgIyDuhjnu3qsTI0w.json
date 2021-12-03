@@ -1,0 +1,75 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "iBHiY9BZSq9Xtl1-e3eOhouCu1A",
+        "id": "UCoZWWgdgIyDuhjnu3qsTI0w",
+        "snippet": {
+            "title": "Mitchollow",
+            "description": "Nothing but the highest quality content ever witnessed by human beings throughout history and forever.",
+            "customUrl": "mitchollow",
+            "publishedAt": "2016-03-05T18:31:48Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTcYGWReHKiWkgYqfUdsvpCmdj0ejtIOz_hGyJO=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTcYGWReHKiWkgYqfUdsvpCmdj0ejtIOz_hGyJO=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTcYGWReHKiWkgYqfUdsvpCmdj0ejtIOz_hGyJO=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Mitchollow",
+                "description": "Nothing but the highest quality content ever witnessed by human beings throughout history and forever."
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUoZWWgdgIyDuhjnu3qsTI0w"
+            }
+        },
+        "statistics": {
+            "viewCount": "39611363",
+            "subscriberCount": "170000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "54"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/019_rr",
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Mitchollow",
+                "description": "Nothing but the highest quality content ever witnessed by human beings throughout history and forever.",
+                "keywords": "news gaming \"video games\" blogs people topical \"current events\" political comedy",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/OCVngfcRg7tUsSbRqz_wfAHivfSlRJmxP1jqdEvLG-n-xJdXcO5sM_GMgqN78yPm_ZVVKUBrfw"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

@@ -1,0 +1,64 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "m5TZIcqHkiotTGRAgdy1dZAJAfM",
+        "id": "UC5h6RmkA4H-3RpR1wHgGSpA",
+        "snippet": {
+            "title": "Shreya Mantha",
+            "description": "",
+            "publishedAt": "2018-02-17T02:15:51Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQ3I1WBo1xPvTdCDeaJPKntBz7MgM83jzAOJg=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQ3I1WBo1xPvTdCDeaJPKntBz7MgM83jzAOJg=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQ3I1WBo1xPvTdCDeaJPKntBz7MgM83jzAOJg=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Shreya Mantha",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU5h6RmkA4H-3RpR1wHgGSpA"
+            }
+        },
+        "statistics": {
+            "viewCount": "313",
+            "subscriberCount": "1",
+            "hiddenSubscriberCount": false,
+            "videoCount": "6"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Shreya Mantha"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

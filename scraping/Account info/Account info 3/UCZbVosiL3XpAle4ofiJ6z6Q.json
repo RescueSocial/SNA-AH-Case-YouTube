@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "vNA0ZBl4L2JrAlQ_tgqR1-LT8W4",
+        "id": "UCZbVosiL3XpAle4ofiJ6z6Q",
+        "snippet": {
+            "title": "dj liev",
+            "description": "",
+            "publishedAt": "2021-02-04T11:15:53.241335Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRyROhnVTmHe90JTavWY8RC8BRgcPSZ0parbA=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRyROhnVTmHe90JTavWY8RC8BRgcPSZ0parbA=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRyROhnVTmHe90JTavWY8RC8BRgcPSZ0parbA=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "dj liev",
+                "description": ""
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUZbVosiL3XpAle4ofiJ6z6Q"
+            }
+        },
+        "statistics": {
+            "viewCount": "1608",
+            "subscriberCount": "8",
+            "hiddenSubscriberCount": false,
+            "videoCount": "20"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr",
+                "/m/06ntj",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society",
+                "https://en.wikipedia.org/wiki/Sport",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "dj liev",
+                "country": "US"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

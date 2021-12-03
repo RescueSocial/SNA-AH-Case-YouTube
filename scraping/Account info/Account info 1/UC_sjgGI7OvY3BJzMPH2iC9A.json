@@ -1,0 +1,74 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "I5sVXfwWZJsQ5m4OBTNZRoE1BZo",
+        "id": "UC_sjgGI7OvY3BJzMPH2iC9A",
+        "snippet": {
+            "title": "Celeb Enews",
+            "description": "Celebrities",
+            "publishedAt": "2019-07-29T01:50:20Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSCQT0zqf4jx-6RgUs4hg9X9WjCQBkg88HELJdI=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSCQT0zqf4jx-6RgUs4hg9X9WjCQBkg88HELJdI=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSCQT0zqf4jx-6RgUs4hg9X9WjCQBkg88HELJdI=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Celeb Enews",
+                "description": "Celebrities"
+            },
+            "country": "AU"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU_sjgGI7OvY3BJzMPH2iC9A"
+            }
+        },
+        "statistics": {
+            "viewCount": "616021",
+            "hiddenSubscriberCount": true,
+            "videoCount": "8"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02vxn",
+                "/m/02jjt",
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Celeb Enews",
+                "description": "Celebrities",
+                "country": "AU"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/afYL_maz8JAXjzB40wEJznt9pziXMHWcAls7_0FoJneyS0eP-zqS09Uqbw1GvBm-sDro2TNksg"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

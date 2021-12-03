@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "hH98QQ5aEIKL-pKeSwYSUV4TakI",
+        "id": "UC6isoO27vulWuMijR9sr_xg",
+        "snippet": {
+            "title": "GritaRadio",
+            "description": "Radio  24 horas al d\u00eda , conciertos, novedades , m\u00fasica, rock, cine y mucho mas!!",
+            "publishedAt": "2019-12-05T19:41:56.239942Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/YkLIW3BWWOuGMCNicaQgXixVafqGi4CnndxHgj8hT85s-1VXHSmsZJMnYay4pXuDPSKPA4t2Vg=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/YkLIW3BWWOuGMCNicaQgXixVafqGi4CnndxHgj8hT85s-1VXHSmsZJMnYay4pXuDPSKPA4t2Vg=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/YkLIW3BWWOuGMCNicaQgXixVafqGi4CnndxHgj8hT85s-1VXHSmsZJMnYay4pXuDPSKPA4t2Vg=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "GritaRadio",
+                "description": "Radio  24 horas al d\u00eda , conciertos, novedades , m\u00fasica, rock, cine y mucho mas!!"
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU6isoO27vulWuMijR9sr_xg"
+            }
+        },
+        "statistics": {
+            "viewCount": "643292",
+            "subscriberCount": "2340",
+            "hiddenSubscriberCount": false,
+            "videoCount": "636"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/04rlf",
+                "/m/06by7"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Music",
+                "https://en.wikipedia.org/wiki/Rock_music"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "GritaRadio",
+                "description": "Radio  24 horas al d\u00eda , conciertos, novedades , m\u00fasica, rock, cine y mucho mas!!"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/pTf7Jf6vgzW6YvSh5FkdFeVHqq3LizOsLrb7JS-YOUf0QaiDZEwOSUHhzE7aMoti8mwxR3XtIq0"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

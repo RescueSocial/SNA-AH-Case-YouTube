@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "1aProFPDzVY4CHo3gabeyrReWF8",
+        "id": "UCw1kX10EN_ip11g2RwUk3-Q",
+        "snippet": {
+            "title": "loslonelyboysVEVO",
+            "description": "",
+            "publishedAt": "2009-09-02T23:37:46Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRVAB6hQAyU4ehzn1-AHX3TEDQwmyyGdpMKpyw=s88-c-k-c0x00ffffff-no-rj-mo",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRVAB6hQAyU4ehzn1-AHX3TEDQwmyyGdpMKpyw=s240-c-k-c0x00ffffff-no-rj-mo",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRVAB6hQAyU4ehzn1-AHX3TEDQwmyyGdpMKpyw=s800-c-k-c0x00ffffff-no-rj-mo",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "loslonelyboysVEVO",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUw1kX10EN_ip11g2RwUk3-Q"
+            }
+        },
+        "statistics": {
+            "viewCount": "46311039",
+            "subscriberCount": "34700",
+            "hiddenSubscriberCount": false,
+            "videoCount": "25"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/04rlf",
+                "/m/06by7",
+                "/m/064t9"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Music",
+                "https://en.wikipedia.org/wiki/Rock_music",
+                "https://en.wikipedia.org/wiki/Pop_music"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "loslonelyboysVEVO",
+                "unsubscribedTrailer": "hBas0YZdsc0"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/kr9rg7g2rM5LdXqc3-n9dehf2NQBpa6vE6NIxH063Ry_rjJjpvKvQ6UCMC3tgxpM5ymKN9cfeQ"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

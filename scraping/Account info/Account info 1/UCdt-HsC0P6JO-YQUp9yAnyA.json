@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "d-jpYpYRLRWvERH9-ZyxDLbYTdU",
+        "id": "UCdt-HsC0P6JO-YQUp9yAnyA",
+        "snippet": {
+            "title": "love tv",
+            "description": "Subscribe to watch More Videos",
+            "publishedAt": "2017-11-04T04:36:15Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTRlZXilh0am79PufiJaSj_TbY1wLY0l2fpK5-j0w=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTRlZXilh0am79PufiJaSj_TbY1wLY0l2fpK5-j0w=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTRlZXilh0am79PufiJaSj_TbY1wLY0l2fpK5-j0w=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "love tv",
+                "description": "Subscribe to watch More Videos"
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUdt-HsC0P6JO-YQUp9yAnyA"
+            }
+        },
+        "statistics": {
+            "viewCount": "1332512",
+            "subscriberCount": "1010",
+            "hiddenSubscriberCount": false,
+            "videoCount": "622"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr",
+                "/m/02jjt",
+                "/m/0f2f9"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society",
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Television_program"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "love tv",
+                "description": "Subscribe to watch More Videos",
+                "keywords": "Hollywood Celebrity Showbiz News Updates"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/6jNyHuyfkKjye6OoA0L_O0FZJtVX9212grk-LsPindKKTt9La3yXfq8ruVMK08visL47tw92"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

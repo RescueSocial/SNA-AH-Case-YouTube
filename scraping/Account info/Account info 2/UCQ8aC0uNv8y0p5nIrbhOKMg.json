@@ -1,0 +1,71 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "uk-i07tneTNEVMBWvtgmjpl-xPg",
+        "id": "UCQ8aC0uNv8y0p5nIrbhOKMg",
+        "snippet": {
+            "title": "World Information",
+            "description": "",
+            "publishedAt": "2020-06-22T18:00:07.653092Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRZqlfC3C9WKw5TW02_9-d_6cko9J_qNqJPZ3tT=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRZqlfC3C9WKw5TW02_9-d_6cko9J_qNqJPZ3tT=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRZqlfC3C9WKw5TW02_9-d_6cko9J_qNqJPZ3tT=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "World Information",
+                "description": ""
+            },
+            "country": "PK"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUQ8aC0uNv8y0p5nIrbhOKMg"
+            }
+        },
+        "statistics": {
+            "viewCount": "141008",
+            "hiddenSubscriberCount": true,
+            "videoCount": "692"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "World Information",
+                "keywords": "\"Latest Information\" \"Current Affairs\" \"International Affairs\" History Documentary \"General Knowledge\" \"Natural video\" \"Religious information\"",
+                "country": "PK"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/kVNvZEUbDPNVQPGHD8JvKh5ONBoevlzQqRcrPn3S6NUVdMDvve0kryQngeZQHE7ouWWo8zJ5PA"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

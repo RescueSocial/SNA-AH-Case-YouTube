@@ -1,0 +1,72 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "2f-7-eFKvyibjx50ReEtI_1Rojg",
+        "id": "UC-lh8H0PDk9mwG0qE3ouX1A",
+        "snippet": {
+            "title": "Jessica Kent",
+            "description": "",
+            "customUrl": "jessicakent",
+            "publishedAt": "2015-09-02T20:00:51Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQSGB4VBToGMkMzVCzkeBeoO4ulx--F-67geuwOlA=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQSGB4VBToGMkMzVCzkeBeoO4ulx--F-67geuwOlA=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQSGB4VBToGMkMzVCzkeBeoO4ulx--F-67geuwOlA=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Jessica Kent",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU-lh8H0PDk9mwG0qE3ouX1A"
+            }
+        },
+        "statistics": {
+            "viewCount": "98974090",
+            "subscriberCount": "611000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "459"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr",
+                "/m/019_rr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Jessica Kent",
+                "moderateComments": true
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/Xvp25VRmDxW3MH2giInr_AlCW_0ELi5ibzedEG1IQXDM1a9HoXdxGODTrqEEkLxDQhlWdvygTA"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

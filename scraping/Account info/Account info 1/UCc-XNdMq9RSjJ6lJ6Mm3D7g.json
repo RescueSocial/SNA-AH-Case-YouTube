@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "pss-bQa0CaLUgHiBB8hX8Dyqp08",
+        "id": "UCc-XNdMq9RSjJ6lJ6Mm3D7g",
+        "snippet": {
+            "title": "Retroth\u00e8que",
+            "description": "",
+            "publishedAt": "2018-10-30T07:19:17Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTvEjXtQxuq8PIcOJf9PMB_pPymM4bYD8QeIGsw=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTvEjXtQxuq8PIcOJf9PMB_pPymM4bYD8QeIGsw=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTvEjXtQxuq8PIcOJf9PMB_pPymM4bYD8QeIGsw=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Retroth\u00e8que",
+                "description": ""
+            },
+            "country": "BE"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUc-XNdMq9RSjJ6lJ6Mm3D7g"
+            }
+        },
+        "statistics": {
+            "viewCount": "1378838",
+            "subscriberCount": "1640",
+            "hiddenSubscriberCount": false,
+            "videoCount": "109"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Retroth\u00e8que",
+                "keywords": "movies based on favorite actors",
+                "country": "BE"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/cNpzFP12IOWOIbn_jMqZPzzJiImJ646evMOhok7-C_VIhITUfpohGxQfpSaPrdDbTMerbXfJKw"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

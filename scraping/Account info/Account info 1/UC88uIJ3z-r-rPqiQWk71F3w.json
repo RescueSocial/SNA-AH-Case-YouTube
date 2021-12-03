@@ -1,0 +1,64 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "S31xGGQr_l3-6nkxwcE4A5HJAq4",
+        "id": "UC88uIJ3z-r-rPqiQWk71F3w",
+        "snippet": {
+            "title": "Mah Ly",
+            "description": "",
+            "publishedAt": "2013-05-12T21:27:53Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQZxrLdRUjXBQww9jc8QMiZdxqPWCQ24OHAsOPP=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQZxrLdRUjXBQww9jc8QMiZdxqPWCQ24OHAsOPP=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQZxrLdRUjXBQww9jc8QMiZdxqPWCQ24OHAsOPP=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Mah Ly",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU88uIJ3z-r-rPqiQWk71F3w"
+            }
+        },
+        "statistics": {
+            "viewCount": "27417",
+            "subscriberCount": "28",
+            "hiddenSubscriberCount": false,
+            "videoCount": "3"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Mah Ly"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

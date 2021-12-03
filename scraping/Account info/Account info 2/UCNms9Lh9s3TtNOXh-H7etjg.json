@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "kVItSMfTyHRP7zEVwAfike_3qdY",
+        "id": "UCNms9Lh9s3TtNOXh-H7etjg",
+        "snippet": {
+            "title": "Natural Dream",
+            "description": "",
+            "publishedAt": "2018-08-31T05:54:35Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTqxF-R7tdjGyT5jc88GvxFmWeVHj-K3QFSpRHn=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTqxF-R7tdjGyT5jc88GvxFmWeVHj-K3QFSpRHn=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTqxF-R7tdjGyT5jc88GvxFmWeVHj-K3QFSpRHn=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Natural Dream",
+                "description": ""
+            },
+            "country": "UA"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUNms9Lh9s3TtNOXh-H7etjg"
+            }
+        },
+        "statistics": {
+            "viewCount": "17737976",
+            "subscriberCount": "43100",
+            "hiddenSubscriberCount": false,
+            "videoCount": "226"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/0kt51",
+                "/m/019_rr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Health",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Natural Dream",
+                "moderateComments": true,
+                "country": "UA"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/MK2YeXeyoTF9cUdHXCVgGm7uS3wj8FkOSpZl5GY-F1YmdxuZSetkVlkvFGox2_A9rCeVGgDQGg"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

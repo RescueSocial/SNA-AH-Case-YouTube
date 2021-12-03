@@ -1,0 +1,72 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "g7w2DdbmDzbIq6XBSu0uLX5VFCA",
+        "id": "UCKNPxnKAJxEODcN3Qt7eLCw",
+        "snippet": {
+            "title": "NCF France",
+            "description": "Les derni\u00e8res nouvelles",
+            "publishedAt": "2019-05-21T09:53:36Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQwUms648rMynBXsiqH1xG_ZZzDJQtNzrBxUGpi=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQwUms648rMynBXsiqH1xG_ZZzDJQtNzrBxUGpi=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQwUms648rMynBXsiqH1xG_ZZzDJQtNzrBxUGpi=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "NCF France",
+                "description": "Les derni\u00e8res nouvelles"
+            },
+            "country": "UA"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUKNPxnKAJxEODcN3Qt7eLCw"
+            }
+        },
+        "statistics": {
+            "viewCount": "918680",
+            "subscriberCount": "2000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "443"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "NCF France",
+                "description": "Les derni\u00e8res nouvelles",
+                "keywords": "news nouvelles",
+                "country": "UA"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/xuWK79oRZhq_xNOuCrG8hykBq_bPjqfZEGUtQpCSbqZKQ5zzEs-nrqfSRHcrqAsCVUU6HXMR7A"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

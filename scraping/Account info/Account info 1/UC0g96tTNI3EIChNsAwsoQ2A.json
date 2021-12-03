@@ -1,0 +1,66 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "QRhEzeG7sLgwp0Yjx74QTVVJezk",
+        "id": "UC0g96tTNI3EIChNsAwsoQ2A",
+        "snippet": {
+            "title": "FILM EAT",
+            "description": "",
+            "publishedAt": "2018-09-02T14:44:25Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSDo6rLPpL374AzpI9WhuUXEnkMI1Lu7LFOg6ah=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSDo6rLPpL374AzpI9WhuUXEnkMI1Lu7LFOg6ah=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSDo6rLPpL374AzpI9WhuUXEnkMI1Lu7LFOg6ah=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "FILM EAT",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU0g96tTNI3EIChNsAwsoQ2A"
+            }
+        },
+        "statistics": {
+            "viewCount": "106961",
+            "subscriberCount": "42",
+            "hiddenSubscriberCount": false,
+            "videoCount": "183"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "FILM EAT"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

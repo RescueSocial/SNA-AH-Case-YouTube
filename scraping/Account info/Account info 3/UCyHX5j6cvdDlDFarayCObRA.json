@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "dMjzLBBPHbaGe_XT4vrg3Qojk34",
+        "id": "UCyHX5j6cvdDlDFarayCObRA",
+        "snippet": {
+            "title": "WLFITV",
+            "description": "Video and articles from WLFI-TV 18 in West Lafayette, Indiana. Look here for   frequently updated local news, weather and sports from where you live.",
+            "customUrl": "wlfitv",
+            "publishedAt": "2007-08-01T15:54:21Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTpT11fkUoan4HKKGbjGljuWKUCUAD5GvFhuMQo=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTpT11fkUoan4HKKGbjGljuWKUCUAD5GvFhuMQo=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTpT11fkUoan4HKKGbjGljuWKUCUAD5GvFhuMQo=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "WLFITV",
+                "description": "Video and articles from WLFI-TV 18 in West Lafayette, Indiana. Look here for   frequently updated local news, weather and sports from where you live."
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUyHX5j6cvdDlDFarayCObRA"
+            }
+        },
+        "statistics": {
+            "viewCount": "16176445",
+            "subscriberCount": "15800",
+            "hiddenSubscriberCount": false,
+            "videoCount": "41123"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "WLFITV",
+                "description": "Video and articles from WLFI-TV 18 in West Lafayette, Indiana. Look here for   frequently updated local news, weather and sports from where you live.",
+                "keywords": "lafayette wlfi news television indiana \"west lafayette\" purdue",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/OsRV1cM7v9sIp0q_zeMalFn0ZBJMgF73QWVGOTN00QpK3OH3ctnAU0N0kNp771buD_6Wg-0y"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

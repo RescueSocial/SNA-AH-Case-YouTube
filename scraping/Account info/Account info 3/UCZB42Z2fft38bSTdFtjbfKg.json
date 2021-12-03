@@ -1,0 +1,66 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "eEbHAXqHIX_u4dp0R3SBJWPLVa4",
+        "id": "UCZB42Z2fft38bSTdFtjbfKg",
+        "snippet": {
+            "title": "mighty boy",
+            "description": "",
+            "publishedAt": "2019-01-22T16:14:22Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/JSv-X_HYifJRXhfNOd9BNg0iy1cW6kytlQ2Wd-MVx0w-a09DISTXhfKR6XN7aHwYOkbcOEio5w=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/JSv-X_HYifJRXhfNOd9BNg0iy1cW6kytlQ2Wd-MVx0w-a09DISTXhfKR6XN7aHwYOkbcOEio5w=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/JSv-X_HYifJRXhfNOd9BNg0iy1cW6kytlQ2Wd-MVx0w-a09DISTXhfKR6XN7aHwYOkbcOEio5w=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "mighty boy",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUZB42Z2fft38bSTdFtjbfKg"
+            }
+        },
+        "statistics": {
+            "viewCount": "19",
+            "subscriberCount": "0",
+            "hiddenSubscriberCount": false,
+            "videoCount": "10"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/019_rr",
+                "/m/04rlf"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                "https://en.wikipedia.org/wiki/Music"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "mighty boy"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

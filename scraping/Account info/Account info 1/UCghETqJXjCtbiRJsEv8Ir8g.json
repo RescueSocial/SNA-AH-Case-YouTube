@@ -1,0 +1,77 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "eCuZuRJNXWLYRC83X3FXHL_7JsY",
+        "id": "UCghETqJXjCtbiRJsEv8Ir8g",
+        "snippet": {
+            "title": "Arbuckling",
+            "description": "",
+            "customUrl": "arbuckling",
+            "publishedAt": "2019-03-14T21:43:57Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSKxRC9Y6TW7FNezFQoEEJnjvF07H58PVNJQOQ5=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSKxRC9Y6TW7FNezFQoEEJnjvF07H58PVNJQOQ5=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSKxRC9Y6TW7FNezFQoEEJnjvF07H58PVNJQOQ5=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Arbuckling",
+                "description": ""
+            },
+            "country": "IE"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUghETqJXjCtbiRJsEv8Ir8g"
+            }
+        },
+        "statistics": {
+            "viewCount": "1043623",
+            "subscriberCount": "2020",
+            "hiddenSubscriberCount": false,
+            "videoCount": "31"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02vxn",
+                "/m/098wr",
+                "/m/04rlf",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Society",
+                "https://en.wikipedia.org/wiki/Music",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Arbuckling",
+                "country": "IE"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/G7witkcwBL1_gEL50UOqhrzDZQd1FIltJfPiFaWY9rWJUDRq4ocZ1xhMDGR3E9z9xP-eRruCsQ"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

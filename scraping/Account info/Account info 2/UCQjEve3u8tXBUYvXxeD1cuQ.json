@@ -1,0 +1,67 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "EHtAFqJAwdE4LKnzLy9NA3CA1o4",
+        "id": "UCQjEve3u8tXBUYvXxeD1cuQ",
+        "snippet": {
+            "title": "Enthusiastic messenger",
+            "description": "",
+            "publishedAt": "2007-09-21T18:01:48Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSCShQCGzoaNtGuExKoHELjHnjSNUa5ySOhH7eY=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSCShQCGzoaNtGuExKoHELjHnjSNUa5ySOhH7eY=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSCShQCGzoaNtGuExKoHELjHnjSNUa5ySOhH7eY=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Enthusiastic messenger",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUQjEve3u8tXBUYvXxeD1cuQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "2055538",
+            "subscriberCount": "3370",
+            "hiddenSubscriberCount": false,
+            "videoCount": "12329"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/019_rr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Enthusiastic messenger"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

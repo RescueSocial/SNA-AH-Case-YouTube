@@ -1,0 +1,79 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "rIN1dJRGYIiTSVEevsmSNNR1FU8",
+        "id": "UCRQC__BmHOy7arpbUO9QhnQ",
+        "snippet": {
+            "title": "Mexican Pover",
+            "description": "Un canal pobre con opiniones pobres.",
+            "customUrl": "mexicanpover",
+            "publishedAt": "2015-10-27T09:20:10Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTSJ-RDXXwmpa9gKRDSBXT9L-gtE076rFOWee9YiA=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTSJ-RDXXwmpa9gKRDSBXT9L-gtE076rFOWee9YiA=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTSJ-RDXXwmpa9gKRDSBXT9L-gtE076rFOWee9YiA=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Mexican Pover",
+                "description": "Un canal pobre con opiniones pobres."
+            },
+            "country": "MX"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UURQC__BmHOy7arpbUO9QhnQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "25544459",
+            "subscriberCount": "206000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "162"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02vxn",
+                "/m/019_rr",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Mexican Pover",
+                "description": "Un canal pobre con opiniones pobres.",
+                "keywords": "reflexiones \"mala comedia\" pobreza",
+                "trackingAnalyticsAccountId": "UA-74490454-1",
+                "unsubscribedTrailer": "Rkx8h1q2KzM",
+                "country": "MX"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/_O2RQFWqFO53TF3M2UfBOPUu0rQG99Q5OgQ20wbRgHJu37-zD2xWSX1t31UWaB57JO5mComF2w"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

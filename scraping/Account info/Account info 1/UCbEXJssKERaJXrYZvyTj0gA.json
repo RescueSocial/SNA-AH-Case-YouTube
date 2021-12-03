@@ -1,0 +1,77 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "60KzeoaPGR3iXMa18Q0bKjOyVHI",
+        "id": "UCbEXJssKERaJXrYZvyTj0gA",
+        "snippet": {
+            "title": "Letsstalk",
+            "description": "\n",
+            "publishedAt": "2021-03-06T20:18:02.933687Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/J_MEOws9Cr4diNU3DHa8hTAGJme0oTTDbx50UivfKLr479UhGaIFls122kjXNyueEp2LGBs8LA=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/J_MEOws9Cr4diNU3DHa8hTAGJme0oTTDbx50UivfKLr479UhGaIFls122kjXNyueEp2LGBs8LA=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/J_MEOws9Cr4diNU3DHa8hTAGJme0oTTDbx50UivfKLr479UhGaIFls122kjXNyueEp2LGBs8LA=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Letsstalk",
+                "description": "\n"
+            },
+            "country": "NL"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUbEXJssKERaJXrYZvyTj0gA"
+            }
+        },
+        "statistics": {
+            "viewCount": "134",
+            "subscriberCount": "0",
+            "hiddenSubscriberCount": false,
+            "videoCount": "11"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02vxn",
+                "/m/019_rr",
+                "/m/02jjt",
+                "/m/0f2f9"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Television_program"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Letsstalk",
+                "description": "\n",
+                "country": "NL"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/sNvui22ZyJ1HN4aYQuS7mMEbIRM0XyXdBIQZqM_r1MYLlk5j85NWc6vBMzcN5LjBWXY0oP1p4g"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

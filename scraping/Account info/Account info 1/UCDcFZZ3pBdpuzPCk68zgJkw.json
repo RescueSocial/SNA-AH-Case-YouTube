@@ -1,0 +1,57 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "n5qpdNxim0yX5-DlpbJxCWI6vfk",
+        "id": "UCDcFZZ3pBdpuzPCk68zgJkw",
+        "snippet": {
+            "title": "Himanshu Jain",
+            "description": "Welcome to our channel.we will review and react on trending videos",
+            "publishedAt": "2016-05-31T11:35:22Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRXZc9GX2VaksY7TdbkTYWCd5LxHK4V11w0BmgKEA=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRXZc9GX2VaksY7TdbkTYWCd5LxHK4V11w0BmgKEA=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRXZc9GX2VaksY7TdbkTYWCd5LxHK4V11w0BmgKEA=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Himanshu Jain",
+                "description": "Welcome to our channel.we will review and react on trending videos"
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUDcFZZ3pBdpuzPCk68zgJkw"
+            }
+        },
+        "statistics": {
+            "viewCount": "15",
+            "subscriberCount": "4",
+            "hiddenSubscriberCount": false,
+            "videoCount": "1"
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Himanshu Jain",
+                "description": "Welcome to our channel.we will review and react on trending videos"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

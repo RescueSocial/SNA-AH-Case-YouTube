@@ -1,0 +1,71 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "67ipAeFf7Tvdw27f4_kyLOHB-8Y",
+        "id": "UCtYK20bWrSkL1W94noRRTKQ",
+        "snippet": {
+            "title": "ShowBiz Veedds",
+            "description": "latest videos about celebs,showbiz,news, and all stuff ,entertainment videos.",
+            "publishedAt": "2016-06-11T07:17:46Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTRTvRIJUOaKbX3V_YSD9vGaDfk3YeobOLkWJqn=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTRTvRIJUOaKbX3V_YSD9vGaDfk3YeobOLkWJqn=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTRTvRIJUOaKbX3V_YSD9vGaDfk3YeobOLkWJqn=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "ShowBiz Veedds",
+                "description": "latest videos about celebs,showbiz,news, and all stuff ,entertainment videos."
+            },
+            "country": "IN"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUtYK20bWrSkL1W94noRRTKQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "287224",
+            "subscriberCount": "310",
+            "hiddenSubscriberCount": false,
+            "videoCount": "191"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "ShowBiz Veedds",
+                "description": "latest videos about celebs,showbiz,news, and all stuff ,entertainment videos.",
+                "keywords": "\"Showbiz Video\" \"hollywood gossips\" news \"hollywood star\" \"TV show\" stuff",
+                "country": "IN"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/OZNrd7uLbEFGZM89b9R7WdEW5SzNB1jR6c9YcUrktiG2v3iBpv_uRy8IcmgTO-YHPxtorLkoeg"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

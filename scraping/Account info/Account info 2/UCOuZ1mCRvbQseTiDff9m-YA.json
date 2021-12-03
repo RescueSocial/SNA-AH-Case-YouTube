@@ -1,0 +1,69 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "1oKLQU6SBDE19NU7nhooV5xu--8",
+        "id": "UCOuZ1mCRvbQseTiDff9m-YA",
+        "snippet": {
+            "title": "Trandscall",
+            "description": "",
+            "publishedAt": "2015-12-08T16:50:23Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLR65z2BajVW1Zq6X0-tiTI9gooLVqKTDY0CMPfbQw=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLR65z2BajVW1Zq6X0-tiTI9gooLVqKTDY0CMPfbQw=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLR65z2BajVW1Zq6X0-tiTI9gooLVqKTDY0CMPfbQw=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Trandscall",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUOuZ1mCRvbQseTiDff9m-YA"
+            }
+        },
+        "statistics": {
+            "viewCount": "225535",
+            "subscriberCount": "737",
+            "hiddenSubscriberCount": false,
+            "videoCount": "191"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/06ntj"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Sport"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Trandscall"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/TUAzvxXb0f-vJZN2qgGuu453j4QcbU3hF_z0j_HKgrAamjy5gPzrIg3SgPkxsbyVNI7-71wECQ"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "_WEIgGKhLoRQhWEJ4cGU2WgNqRs",
+        "id": "UCIQFqVBCYKWB0lt2dKhUAvw",
+        "snippet": {
+            "title": "The Grind Information",
+            "description": "Target 1k",
+            "publishedAt": "2019-10-22T00:47:12.282902Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/VP5OEkDkXVvkcHhgNGZ_e1kkBmv_XJKiulpYT7gvgMmpqfAvHuwkRMJ4NMumWpg1snRR2DYBzw=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/VP5OEkDkXVvkcHhgNGZ_e1kkBmv_XJKiulpYT7gvgMmpqfAvHuwkRMJ4NMumWpg1snRR2DYBzw=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/VP5OEkDkXVvkcHhgNGZ_e1kkBmv_XJKiulpYT7gvgMmpqfAvHuwkRMJ4NMumWpg1snRR2DYBzw=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "The Grind Information",
+                "description": "Target 1k"
+            },
+            "country": "IN"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUIQFqVBCYKWB0lt2dKhUAvw"
+            }
+        },
+        "statistics": {
+            "viewCount": "4803",
+            "hiddenSubscriberCount": true,
+            "videoCount": "10"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/07c1v",
+                "/m/019_rr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Technology",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "The Grind Information",
+                "description": "Target 1k",
+                "keywords": "Vlog product mobile idea gaming",
+                "country": "IN"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/ImLqY7o-vmkrgef7F63coP-DYSzVccg4ygTlT2VHCiWx2DJ35v97t7fTelTvHBSojh63DrtT0A"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

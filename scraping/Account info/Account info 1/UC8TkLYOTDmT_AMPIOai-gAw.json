@@ -1,0 +1,69 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "YEx0VzpRAlb_r98yWl2Gq5U3aKc",
+        "id": "UC8TkLYOTDmT_AMPIOai-gAw",
+        "snippet": {
+            "title": "Tommy Mav TV",
+            "description": "",
+            "publishedAt": "2018-10-11T00:34:25Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLR2up_BUbEezKpCOOsd63ximq8q2qcEsPHRqVAL=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLR2up_BUbEezKpCOOsd63ximq8q2qcEsPHRqVAL=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLR2up_BUbEezKpCOOsd63ximq8q2qcEsPHRqVAL=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Tommy Mav TV",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU8TkLYOTDmT_AMPIOai-gAw"
+            }
+        },
+        "statistics": {
+            "viewCount": "2947",
+            "subscriberCount": "15",
+            "hiddenSubscriberCount": false,
+            "videoCount": "19"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Tommy Mav TV"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/9Ysax_h_Vvo7s-MOsOu5wm1rP_fMD8xXuLxuM2hwefV9ne23TnTYlp_2amNIfO_CK7qhmnWm4hM"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

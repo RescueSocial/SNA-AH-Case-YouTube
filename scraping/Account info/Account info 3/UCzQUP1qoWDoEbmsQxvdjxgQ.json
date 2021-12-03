@@ -1,0 +1,78 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "3eC-3SzHx3CQrieBMrCpJBj4G8I",
+        "id": "UCzQUP1qoWDoEbmsQxvdjxgQ",
+        "snippet": {
+            "title": "PowerfulJRE",
+            "description": "The Joe Rogan Experience podcast\n",
+            "customUrl": "joerogan",
+            "publishedAt": "2013-01-12T01:40:14Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLS2KcFQ2ddXLYVpxbXNVqf7nsi0NWg4_R4HqKIl=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLS2KcFQ2ddXLYVpxbXNVqf7nsi0NWg4_R4HqKIl=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLS2KcFQ2ddXLYVpxbXNVqf7nsi0NWg4_R4HqKIl=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "PowerfulJRE",
+                "description": "The Joe Rogan Experience podcast\n"
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUzQUP1qoWDoEbmsQxvdjxgQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "1614415101",
+            "subscriberCount": "11400000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "566"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr",
+                "/m/02vxn",
+                "/m/09kqc",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society",
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Humour",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "PowerfulJRE",
+                "description": "The Joe Rogan Experience podcast\n",
+                "keywords": "The Joe Rogan Experience",
+                "trackingAnalyticsAccountId": "UA-46951247-1"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/N1VYCJENxSvkX5t4xAOE1PQa-P6E2kKrYlVAvN3bh-F6ZeYeN4Rmazp-fuguQtCO-hv4xR9dsA"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

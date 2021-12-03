@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "cB8mvv6KZqIASOTItEsnY8Snox4",
+        "id": "UC8nUp-kTNtu7gGRVG-g4Msg",
+        "snippet": {
+            "title": "LIFE OF TELUGU",
+            "description": "Knowledge for all",
+            "publishedAt": "2018-10-28T11:50:53Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQtExB82QF1zntot7AbcklLIipAkY_vaet3QPBz=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQtExB82QF1zntot7AbcklLIipAkY_vaet3QPBz=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQtExB82QF1zntot7AbcklLIipAkY_vaet3QPBz=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "LIFE OF TELUGU",
+                "description": "Knowledge for all"
+            },
+            "country": "IN"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU8nUp-kTNtu7gGRVG-g4Msg"
+            }
+        },
+        "statistics": {
+            "viewCount": "39835",
+            "subscriberCount": "63",
+            "hiddenSubscriberCount": false,
+            "videoCount": "32"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "LIFE OF TELUGU",
+                "description": "Knowledge for all",
+                "country": "IN"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/tFfX0c_okcJbgPOuU-EqiZEibPtFuh5sueuV3QgSFMQA7pbYQOQ191C0uo7K0k6ukHsDry0BZg"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

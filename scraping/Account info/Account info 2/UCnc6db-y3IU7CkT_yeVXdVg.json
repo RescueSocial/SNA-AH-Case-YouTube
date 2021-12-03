@@ -1,0 +1,75 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "91EYcxAROTgZG-HU8nGxA_yQILI",
+        "id": "UCnc6db-y3IU7CkT_yeVXdVg",
+        "snippet": {
+            "title": "J. Cole",
+            "description": "Official YouTube Channel of J. Cole!",
+            "customUrl": "jcole",
+            "publishedAt": "2007-03-16T22:14:52Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTVKQFg7tOwvHrefwTbLU6Xr6qcfGzHJ75ubANVMg=s88-c-k-c0x00ffffff-no-rj-mo",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTVKQFg7tOwvHrefwTbLU6Xr6qcfGzHJ75ubANVMg=s240-c-k-c0x00ffffff-no-rj-mo",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTVKQFg7tOwvHrefwTbLU6Xr6qcfGzHJ75ubANVMg=s800-c-k-c0x00ffffff-no-rj-mo",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "J. Cole",
+                "description": "Official YouTube Channel of J. Cole!"
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUnc6db-y3IU7CkT_yeVXdVg"
+            }
+        },
+        "statistics": {
+            "viewCount": "2634758149",
+            "subscriberCount": "6140000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "75"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/04rlf",
+                "/m/0glt670"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Music",
+                "https://en.wikipedia.org/wiki/Hip_hop_music"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "J. Cole",
+                "description": "Official YouTube Channel of J. Cole!",
+                "keywords": "\"J Cole\" \"Roc Nation\" Official",
+                "unsubscribedTrailer": "HIHo2uSgTdE",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/BkQq-rO8G-faHLV7Ba-szVA4tlgmLLC3t9MBI2Gj5NATC2iZrNto8OasZp_FHJ3qnvG53u0rejs"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

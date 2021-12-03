@@ -1,0 +1,74 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "H6IQI5gUa63d2ST3zrqa4eq5l4E",
+        "id": "UChWpQxq_PEFnHKdGIU5h9uA",
+        "snippet": {
+            "title": "Studio Movie Grill",
+            "description": "",
+            "customUrl": "studiomoviegrilltheaters",
+            "publishedAt": "2014-12-05T20:10:08Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRoBHP5lRitRrq-pbgsSj0jfam5ZA7HI9Stf51eXA=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRoBHP5lRitRrq-pbgsSj0jfam5ZA7HI9Stf51eXA=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRoBHP5lRitRrq-pbgsSj0jfam5ZA7HI9Stf51eXA=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Studio Movie Grill",
+                "description": ""
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUhWpQxq_PEFnHKdGIU5h9uA"
+            }
+        },
+        "statistics": {
+            "viewCount": "672439",
+            "subscriberCount": "1050",
+            "hiddenSubscriberCount": false,
+            "videoCount": "153"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02vxn",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Studio Movie Grill",
+                "keywords": "\"Movie Theater\" \"Dinner and movies\" Trailers \"date night\" \"movie news\" \"Celebrity Interviews\" \"Entertainment News\" \"Now Playing\" upcoming",
+                "unsubscribedTrailer": "WVdUuPSAPTE",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/24jNDWFlswxQH18xNPKGIY7J4N-0nr7SMr2Hlhu-onYlrXJOQ27vw0SRG26F5ZRNrxEmH-nlJg"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

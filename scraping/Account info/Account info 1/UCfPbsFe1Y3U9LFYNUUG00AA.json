@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "VHOF7lUdrsNfowFISx1iz7CgDMc",
+        "id": "UCfPbsFe1Y3U9LFYNUUG00AA",
+        "snippet": {
+            "title": "Double Toasted Bites",
+            "description": "",
+            "publishedAt": "2020-03-07T01:20:29.830117Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQVLxH1kaXOhq1hMdeDK18fYIXNx-BjoddwyYic=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQVLxH1kaXOhq1hMdeDK18fYIXNx-BjoddwyYic=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQVLxH1kaXOhq1hMdeDK18fYIXNx-BjoddwyYic=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Double Toasted Bites",
+                "description": ""
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUfPbsFe1Y3U9LFYNUUG00AA"
+            }
+        },
+        "statistics": {
+            "viewCount": "7098290",
+            "subscriberCount": "35500",
+            "hiddenSubscriberCount": false,
+            "videoCount": "752"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Double Toasted Bites",
+                "unsubscribedTrailer": "cpgOkAK9no8",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/Ic4gPReUbeC4itZxIuIlrRgZvptrb5JrHmZHYBog9JQ4ZFb0pOSDsIm3aHmH01_gYojlkdo91tE"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

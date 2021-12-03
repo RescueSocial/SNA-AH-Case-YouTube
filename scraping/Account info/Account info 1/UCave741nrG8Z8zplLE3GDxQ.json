@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "dACiUFgxSiarAi1eqDUN_wYOOUw",
+        "id": "UCave741nrG8Z8zplLE3GDxQ",
+        "snippet": {
+            "title": "Sinatra_Says Second",
+            "description": "Live stream channel for Sinatra_Says",
+            "publishedAt": "2017-07-19T12:21:56Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTLhz8YheT4fOWb-HNP4GzJ31SOHkAZh4NoSfHc=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTLhz8YheT4fOWb-HNP4GzJ31SOHkAZh4NoSfHc=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTLhz8YheT4fOWb-HNP4GzJ31SOHkAZh4NoSfHc=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Sinatra_Says Second",
+                "description": "Live stream channel for Sinatra_Says"
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUave741nrG8Z8zplLE3GDxQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "4918971",
+            "subscriberCount": "23000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "488"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr",
+                "/m/019_rr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Sinatra_Says Second",
+                "description": "Live stream channel for Sinatra_Says",
+                "keywords": "Sinatra_Says Stream",
+                "unsubscribedTrailer": "xe1auHglbRY"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/37GOqEZgMrEjmOf1qMWQQMOBnRc1PDSaneVhIRXG4LK2gV4gbKxj4KrhnyqYxsWCnCHGofkl"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

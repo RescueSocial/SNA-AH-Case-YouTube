@@ -1,0 +1,66 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "ma2vd7rtft4TLYtixFBKsywD1Io",
+        "id": "UCWA4Wlrqqk9i011TTOn_qWA",
+        "snippet": {
+            "title": "Today7",
+            "description": "",
+            "publishedAt": "2015-10-03T12:17:44Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSEl6AbxzvRKt1f4MwZbZXvP4BdIantla9H0Q=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSEl6AbxzvRKt1f4MwZbZXvP4BdIantla9H0Q=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSEl6AbxzvRKt1f4MwZbZXvP4BdIantla9H0Q=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Today7",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUWA4Wlrqqk9i011TTOn_qWA"
+            }
+        },
+        "statistics": {
+            "viewCount": "826281",
+            "subscriberCount": "273",
+            "hiddenSubscriberCount": false,
+            "videoCount": "274"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Today7"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

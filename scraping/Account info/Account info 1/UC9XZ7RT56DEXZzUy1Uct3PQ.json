@@ -1,0 +1,69 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "lRRXojxNhN0NBUHt9sRbS98iYUM",
+        "id": "UC9XZ7RT56DEXZzUy1Uct3PQ",
+        "snippet": {
+            "title": "The Sparrow Music Production",
+            "description": "",
+            "publishedAt": "2021-03-27T08:21:03.026908Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTEeYfAjX0WlVWAtcvXorUmHPKIHh-tdNvpBx-x=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTEeYfAjX0WlVWAtcvXorUmHPKIHh-tdNvpBx-x=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTEeYfAjX0WlVWAtcvXorUmHPKIHh-tdNvpBx-x=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "The Sparrow Music Production",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU9XZ7RT56DEXZzUy1Uct3PQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "174500",
+            "hiddenSubscriberCount": true,
+            "videoCount": "440"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/04rlf"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Music"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "The Sparrow Music Production",
+                "unsubscribedTrailer": "fiKaOQlLHvc"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/r81suBLalPpzMTM2_PC-eFQDnD3QRJR10rt_s6Bb28MnapAqkp-0noMngeEJynN9fEjrLaNNyg"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

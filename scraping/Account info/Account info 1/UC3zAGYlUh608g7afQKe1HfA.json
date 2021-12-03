@@ -1,0 +1,67 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "AvtnHWwFpISz9_6ilsg-twT_MWE",
+        "id": "UC3zAGYlUh608g7afQKe1HfA",
+        "snippet": {
+            "title": "Style Digest",
+            "description": "",
+            "publishedAt": "2019-10-11T12:47:45.249659Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTg_ceihrIQ6g4kl9A50ok_ouJM681dD-dPcusb2Q=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTg_ceihrIQ6g4kl9A50ok_ouJM681dD-dPcusb2Q=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTg_ceihrIQ6g4kl9A50ok_ouJM681dD-dPcusb2Q=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Style Digest",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU3zAGYlUh608g7afQKe1HfA"
+            }
+        },
+        "statistics": {
+            "viewCount": "113974",
+            "subscriberCount": "2040",
+            "hiddenSubscriberCount": false,
+            "videoCount": "37"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/019_rr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Style Digest"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/L7iPKvJvCrtr5wP--slJ_J7kXrGRR8wMk4qzuKNu5HFfK3CPpq-DOY_9uyw_BMCreNw2LPuGVw"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "hbISlrKqeWdekDeYiFu9nsgZ644",
+        "id": "UCKYv-zYqlmnDxu0mXO0u-dA",
+        "snippet": {
+            "title": "The Opinion Factory",
+            "description": "",
+            "publishedAt": "2019-07-17T04:24:53Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQ5nzSQfMd6lNCaHJ24n1TrJUbMnDnfVXiKjfUv=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQ5nzSQfMd6lNCaHJ24n1TrJUbMnDnfVXiKjfUv=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQ5nzSQfMd6lNCaHJ24n1TrJUbMnDnfVXiKjfUv=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "The Opinion Factory",
+                "description": ""
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUKYv-zYqlmnDxu0mXO0u-dA"
+            }
+        },
+        "statistics": {
+            "viewCount": "16140",
+            "subscriberCount": "170",
+            "hiddenSubscriberCount": false,
+            "videoCount": "109"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "The Opinion Factory",
+                "country": "US"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "vE6LTiq0cpO_nMKyuLcM-aYzpk4",
+        "id": "UCh5m4Tgqi8BBQJWlbQ3jjpQ",
+        "snippet": {
+            "title": "Music Hub",
+            "description": "",
+            "publishedAt": "2016-04-19T17:06:56Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQJRHXhGwmeX9-El8fvX1wS6-EKXIQd5fpTwjtZcqU=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQJRHXhGwmeX9-El8fvX1wS6-EKXIQd5fpTwjtZcqU=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQJRHXhGwmeX9-El8fvX1wS6-EKXIQd5fpTwjtZcqU=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Music Hub",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUh5m4Tgqi8BBQJWlbQ3jjpQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "1900044",
+            "subscriberCount": "2160",
+            "hiddenSubscriberCount": false,
+            "videoCount": "1237"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02vx4",
+                "/m/06ntj",
+                "/m/019_rr",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Association_football",
+                "https://en.wikipedia.org/wiki/Sport",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Music Hub"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/xlVQjtmLzpvUcTnV0s0szMFqjjSykK7kV-EBFcPR6ZOxr9pcv7Tv0Oz6mYKQKuWYdPyd2_vxUtc"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

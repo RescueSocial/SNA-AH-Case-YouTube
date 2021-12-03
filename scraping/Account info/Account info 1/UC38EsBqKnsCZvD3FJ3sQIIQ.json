@@ -1,0 +1,75 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "cHgiv-eEOyUYBgUJOv46Npxk48o",
+        "id": "UC38EsBqKnsCZvD3FJ3sQIIQ",
+        "snippet": {
+            "title": "Celebrity Insights",
+            "description": "",
+            "publishedAt": "2021-05-10T22:20:58.579303Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/H24rmF19p7iuT2LNJW0xePdYy7l4WKLX05sJ6MWm3H7rAZ0PROeThAiKXWTTToRC2kizcKlMdQ=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/H24rmF19p7iuT2LNJW0xePdYy7l4WKLX05sJ6MWm3H7rAZ0PROeThAiKXWTTToRC2kizcKlMdQ=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/H24rmF19p7iuT2LNJW0xePdYy7l4WKLX05sJ6MWm3H7rAZ0PROeThAiKXWTTToRC2kizcKlMdQ=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Celebrity Insights",
+                "description": ""
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU38EsBqKnsCZvD3FJ3sQIIQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "256",
+            "subscriberCount": "7",
+            "hiddenSubscriberCount": false,
+            "videoCount": "15"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn",
+                "/m/019_rr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Celebrity Insights",
+                "keywords": "\"celebrity insights\" \"hollywood news\" \"celebrity news\" \"celebrity gossip\" \"celebrity access\" \"drama channel\" spill tea shade",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/uJeIOOSvf-SEsLQ4icyd88ycVJbtJ_AZ7gjWYWfeDX30oxPXGpVc1yI8Q9BOmat2U09RT5RIlYw"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

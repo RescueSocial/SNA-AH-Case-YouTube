@@ -1,0 +1,77 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "4UvCgv-ODztiBVh8QgK69LThCcU",
+        "id": "UCtD-2nsKZg6jyUviLNfGnAg",
+        "snippet": {
+            "title": "#JohnnyDeppIsRacist",
+            "description": "This and That",
+            "customUrl": "trry331",
+            "publishedAt": "2011-07-15T05:38:20Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLS6seLYmiNEq0in_FxYT3A9kZLLN1wpUTus7he9fA=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLS6seLYmiNEq0in_FxYT3A9kZLLN1wpUTus7he9fA=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLS6seLYmiNEq0in_FxYT3A9kZLLN1wpUTus7he9fA=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "#JohnnyDeppIsRacist",
+                "description": "This and That"
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUtD-2nsKZg6jyUviLNfGnAg"
+            }
+        },
+        "statistics": {
+            "viewCount": "8497",
+            "subscriberCount": "79",
+            "hiddenSubscriberCount": false,
+            "videoCount": "131"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr",
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society",
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "#JohnnyDeppIsRacist",
+                "description": "This and That",
+                "unsubscribedTrailer": "6Q0yzhfjWyQ",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/4zWUd4IXRLaw8shV382f1KeSwTNwYoPIWYI4LOScOWIZc0h1v0ApBMyK21RJMJYQF7dEvivWaQ"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

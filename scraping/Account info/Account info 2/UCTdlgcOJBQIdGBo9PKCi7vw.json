@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "CjUqOrQGk2uJx9qZLxc0P_HopoQ",
+        "id": "UCTdlgcOJBQIdGBo9PKCi7vw",
+        "snippet": {
+            "title": "Apon Waz Media",
+            "description": "",
+            "publishedAt": "2017-11-17T06:20:23Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/sJCVHR7fcToDNsDP2FzeeANxCP3fK4iGt_hVsVfdzg5xPpg8z7YhKvGv2ll-PfaT00Vld4cu=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/sJCVHR7fcToDNsDP2FzeeANxCP3fK4iGt_hVsVfdzg5xPpg8z7YhKvGv2ll-PfaT00Vld4cu=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/sJCVHR7fcToDNsDP2FzeeANxCP3fK4iGt_hVsVfdzg5xPpg8z7YhKvGv2ll-PfaT00Vld4cu=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Apon Waz Media",
+                "description": ""
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUTdlgcOJBQIdGBo9PKCi7vw"
+            }
+        },
+        "statistics": {
+            "viewCount": "23198191",
+            "hiddenSubscriberCount": true,
+            "videoCount": "1598"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr",
+                "/m/06bvp",
+                "/m/05qt0"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society",
+                "https://en.wikipedia.org/wiki/Religion",
+                "https://en.wikipedia.org/wiki/Politics"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Apon Waz Media",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/JadfehRcFSq02_CKxZshRuXyELMJfK4LRabx3_UOMQsFwv-DB3j-2Fuw0c9PvkvGEU6vcgZQ"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

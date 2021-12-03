@@ -1,0 +1,66 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "uvN8XpLiCS-dUGhox-R_zyuwTA0",
+        "id": "UCDcuBV1ep59SRelX8EjOEMQ",
+        "snippet": {
+            "title": "social entertainment",
+            "description": "",
+            "publishedAt": "2021-07-23T08:15:00.567382Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTwU7Q8SWTm93_29gttzK5VfiUDGkZd1kZCsrs9RXQGTD5VxxIHDaDTSJA2Dm5y=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTwU7Q8SWTm93_29gttzK5VfiUDGkZd1kZCsrs9RXQGTD5VxxIHDaDTSJA2Dm5y=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTwU7Q8SWTm93_29gttzK5VfiUDGkZd1kZCsrs9RXQGTD5VxxIHDaDTSJA2Dm5y=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "social entertainment",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUDcuBV1ep59SRelX8EjOEMQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "5482",
+            "subscriberCount": "11",
+            "hiddenSubscriberCount": false,
+            "videoCount": "41"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/019_rr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "social entertainment"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

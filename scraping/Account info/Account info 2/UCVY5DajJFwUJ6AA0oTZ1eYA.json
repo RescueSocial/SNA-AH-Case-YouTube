@@ -1,0 +1,72 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "1j6V59m5VMG5MAknoFQUbEuFrj8",
+        "id": "UCVY5DajJFwUJ6AA0oTZ1eYA",
+        "snippet": {
+            "title": "Tuitealo",
+            "description": "",
+            "customUrl": "tuitealo",
+            "publishedAt": "2014-11-06T21:22:31Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQ079aiSS54wHgmyOahiny9xHhkzVBCla6tQhRP=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQ079aiSS54wHgmyOahiny9xHhkzVBCla6tQhRP=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQ079aiSS54wHgmyOahiny9xHhkzVBCla6tQhRP=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Tuitealo",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUVY5DajJFwUJ6AA0oTZ1eYA"
+            }
+        },
+        "statistics": {
+            "viewCount": "165853038",
+            "subscriberCount": "244000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "59727"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr",
+                "/m/06ntj"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society",
+                "https://en.wikipedia.org/wiki/Sport"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Tuitealo",
+                "unsubscribedTrailer": "hjy4UVFrL5Q"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/d64BVzgoaJE9KP1vW4Sy4_rxWvIcUoMF7TT7iLDEIRsq0WYM8ych826q6ooAUnbeY3L8UmVt"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

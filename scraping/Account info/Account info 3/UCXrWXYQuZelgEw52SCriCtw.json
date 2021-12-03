@@ -1,0 +1,72 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "EfJNqjob7HTW0XEaC3e3KOGNgSM",
+        "id": "UCXrWXYQuZelgEw52SCriCtw",
+        "snippet": {
+            "title": "Butter Chicken",
+            "description": "",
+            "publishedAt": "2018-03-11T07:01:33Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSKSFIUDOdInjBo0HSUbFF2MwmURn5gnUez6i2q=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSKSFIUDOdInjBo0HSUbFF2MwmURn5gnUez6i2q=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSKSFIUDOdInjBo0HSUbFF2MwmURn5gnUez6i2q=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Butter Chicken",
+                "description": ""
+            },
+            "country": "IN"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUXrWXYQuZelgEw52SCriCtw"
+            }
+        },
+        "statistics": {
+            "viewCount": "28113722",
+            "subscriberCount": "30800",
+            "hiddenSubscriberCount": false,
+            "videoCount": "146"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02vxn",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Butter Chicken",
+                "unsubscribedTrailer": "EABVA2Ga98Q",
+                "country": "IN"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/mA_nROWb9OzRnh9JMjj2uHmzY12MuduR6d0MEfv4XkAGI4dOekZF0B4igBSOTF1x_wp8PWtgKSY"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

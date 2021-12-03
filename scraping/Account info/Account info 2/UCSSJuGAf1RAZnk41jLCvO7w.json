@@ -1,0 +1,68 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "j_FG__UbGfp9bIxpFb39smeKy8A",
+        "id": "UCSSJuGAf1RAZnk41jLCvO7w",
+        "snippet": {
+            "title": "Celeb Swift",
+            "description": "",
+            "publishedAt": "2011-02-12T15:40:01Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/44feinknhUdXc0N3QT3vBhvD3uIhu_FrSiNjbAyvZQ1YrE8HnyZ8UGuqT65x5yaBWXyrK1OJiQ=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/44feinknhUdXc0N3QT3vBhvD3uIhu_FrSiNjbAyvZQ1YrE8HnyZ8UGuqT65x5yaBWXyrK1OJiQ=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/44feinknhUdXc0N3QT3vBhvD3uIhu_FrSiNjbAyvZQ1YrE8HnyZ8UGuqT65x5yaBWXyrK1OJiQ=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Celeb Swift",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUSSJuGAf1RAZnk41jLCvO7w"
+            }
+        },
+        "statistics": {
+            "viewCount": "13817",
+            "subscriberCount": "943",
+            "hiddenSubscriberCount": false,
+            "videoCount": "60"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Celeb Swift"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/SNA6-iWQSP76XX_d9TzUawwPqxxHXp9GCrOSmM2gthc-j5zcHVL8GPxXowyxDtcR0T7UA37iqA"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "oFBc4ESGa6EsEW_KrYHDbYrJs0w",
+        "id": "UCtJhpRxy9ythT1VCVOp1yLQ",
+        "snippet": {
+            "title": "Sophie Ho",
+            "description": "subscribe and I'll subscribe back. :)",
+            "publishedAt": "2012-05-01T11:13:09Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQ-9pfuuAgUyqSGG7StJLAFeFD7EF_MAznSKZJG=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQ-9pfuuAgUyqSGG7StJLAFeFD7EF_MAznSKZJG=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQ-9pfuuAgUyqSGG7StJLAFeFD7EF_MAznSKZJG=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Sophie Ho",
+                "description": "subscribe and I'll subscribe back. :)"
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUtJhpRxy9ythT1VCVOp1yLQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "2",
+            "subscriberCount": "0",
+            "hiddenSubscriberCount": false,
+            "videoCount": "23"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Sophie Ho",
+                "description": "subscribe and I'll subscribe back. :)"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

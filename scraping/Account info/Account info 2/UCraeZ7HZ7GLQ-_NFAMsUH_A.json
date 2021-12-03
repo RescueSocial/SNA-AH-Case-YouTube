@@ -1,0 +1,74 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "XLVOE0EuSNU61-R9-vpATBiHaQM",
+        "id": "UCraeZ7HZ7GLQ-_NFAMsUH_A",
+        "snippet": {
+            "title": "SREE WORLD",
+            "description": "Movie review",
+            "customUrl": "sreeworld",
+            "publishedAt": "2016-08-14T05:42:51Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSAU--LPWe0pz5NHDUP7y762LR1JXHMtgvcghsXww=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSAU--LPWe0pz5NHDUP7y762LR1JXHMtgvcghsXww=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSAU--LPWe0pz5NHDUP7y762LR1JXHMtgvcghsXww=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "SREE WORLD",
+                "description": "Movie review"
+            },
+            "country": "IN"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUraeZ7HZ7GLQ-_NFAMsUH_A"
+            }
+        },
+        "statistics": {
+            "viewCount": "15906661",
+            "subscriberCount": "60000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "239"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02vxn",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "SREE WORLD",
+                "description": "Movie review",
+                "moderateComments": true,
+                "country": "IN"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/Wi0PwgXPheh9d8KJO2pYknkA3xk0sXHrqTvjNZF4oTATsZrfX9jXgy0JqopIEK4Wuppj1AQKGQ"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

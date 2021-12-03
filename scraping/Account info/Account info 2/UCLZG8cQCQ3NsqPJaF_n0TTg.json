@@ -1,0 +1,71 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "Ty1CaSKLocUaMXMzq_85R7kIRCc",
+        "id": "UCLZG8cQCQ3NsqPJaF_n0TTg",
+        "snippet": {
+            "title": "Film and TV Now",
+            "description": "",
+            "customUrl": "filmandtvnowonline",
+            "publishedAt": "2014-07-31T21:53:12Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQEPYoZbEpuQCzf7rzz07mdIxWu6rwtI1mWEQW9aA=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQEPYoZbEpuQCzf7rzz07mdIxWu6rwtI1mWEQW9aA=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQEPYoZbEpuQCzf7rzz07mdIxWu6rwtI1mWEQW9aA=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Film and TV Now",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UULZG8cQCQ3NsqPJaF_n0TTg"
+            }
+        },
+        "statistics": {
+            "viewCount": "2796786",
+            "subscriberCount": "2540",
+            "hiddenSubscriberCount": false,
+            "videoCount": "657"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02vxn",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Film and TV Now",
+                "unsubscribedTrailer": "i_9cCp9F5co"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/uj3K3F75bt64lXAJ8ynCwSBGpbAWSR8LRnw3vgC93dkK4LBBHr1eIzkYNLdN051E6ALPBlka"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

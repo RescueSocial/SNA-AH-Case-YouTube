@@ -1,0 +1,71 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "hTDJ6rZPo8eLOZWPVfiDI7hranI",
+        "id": "UChs7lcuw4qOCxl3SJRPuidQ",
+        "snippet": {
+            "title": "DT Media",
+            "description": "",
+            "publishedAt": "2015-05-12T06:47:36Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSlEOw0ZodY7oEPs9UUGb-IbtIKKiEzjxPFnCIM=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSlEOw0ZodY7oEPs9UUGb-IbtIKKiEzjxPFnCIM=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSlEOw0ZodY7oEPs9UUGb-IbtIKKiEzjxPFnCIM=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "DT Media",
+                "description": ""
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUhs7lcuw4qOCxl3SJRPuidQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "21582265",
+            "hiddenSubscriberCount": true,
+            "videoCount": "4094"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/04rlf",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Music",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "DT Media",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/uqTibSdr09APmS3NpudQGyqaiuoGMxdwXjzxxmE08mYn8eIBsO19fzzEgxouaqCB4pLbWgpG"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

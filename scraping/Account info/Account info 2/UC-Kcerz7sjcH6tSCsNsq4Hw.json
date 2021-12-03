@@ -1,0 +1,72 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "NoO8MhZi8eWhxuwjwNV1QOWCXaI",
+        "id": "UC-Kcerz7sjcH6tSCsNsq4Hw",
+        "snippet": {
+            "title": "DarthTV",
+            "description": "Main channel @darthnews ",
+            "publishedAt": "2020-02-16T06:01:06.660286Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/FPvT9POg2KsW4gnoQMkxR0cYB9ssIFOGlavsN7jUnePNrwaKMeN-hVFdUceyAeYDvvEQ0NR7=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/FPvT9POg2KsW4gnoQMkxR0cYB9ssIFOGlavsN7jUnePNrwaKMeN-hVFdUceyAeYDvvEQ0NR7=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/FPvT9POg2KsW4gnoQMkxR0cYB9ssIFOGlavsN7jUnePNrwaKMeN-hVFdUceyAeYDvvEQ0NR7=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "DarthTV",
+                "description": "Main channel @darthnews "
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU-Kcerz7sjcH6tSCsNsq4Hw"
+            }
+        },
+        "statistics": {
+            "viewCount": "812776",
+            "subscriberCount": "1500",
+            "hiddenSubscriberCount": false,
+            "videoCount": "84"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr",
+                "/m/05qt0",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society",
+                "https://en.wikipedia.org/wiki/Politics",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "DarthTV",
+                "description": "Main channel @darthnews "
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/Rq8-wmoXt0hKOPNcUCtuGb97U0iNaW26GVTTK63FoHltGuA5Xuv9qz28az_mMrN5IqxJd46S8Q"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

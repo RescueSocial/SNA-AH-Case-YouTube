@@ -1,0 +1,69 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "f_zwYxsXkLegpCu04jby7pp2CGQ",
+        "id": "UCAP15LQvtqCTbb24f9fVotA",
+        "snippet": {
+            "title": "Charlie Rae",
+            "description": "",
+            "publishedAt": "2015-10-07T03:59:40Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTjY3kcVqxliO6aw0qTRxYYlyW9G2p-c4RlkFH4_vg=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTjY3kcVqxliO6aw0qTRxYYlyW9G2p-c4RlkFH4_vg=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTjY3kcVqxliO6aw0qTRxYYlyW9G2p-c4RlkFH4_vg=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Charlie Rae",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUAP15LQvtqCTbb24f9fVotA"
+            }
+        },
+        "statistics": {
+            "viewCount": "30034",
+            "subscriberCount": "859",
+            "hiddenSubscriberCount": false,
+            "videoCount": "12"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr",
+                "/m/019_rr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Charlie Rae"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/pdxA0BldIpJfE6p2Li7CPgxAGhr4XDbNjFLJf0-KGW-ciGJEw_RrKzzrER6Q8InS95ofloP4"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

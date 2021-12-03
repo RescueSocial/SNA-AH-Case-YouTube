@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "ghlLVaN9ewCBRzWLAp67j0WnCYM",
+        "id": "UC6MahKgETCFUuEFQLSJ3hcg",
+        "snippet": {
+            "title": "dibox argentina",
+            "description": "",
+            "customUrl": "diboxargentina",
+            "publishedAt": "2012-02-15T20:02:59Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLT9qIYT3USIaCRnMEV5godQzC0uKKmwXodCzXSC=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLT9qIYT3USIaCRnMEV5godQzC0uKKmwXodCzXSC=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLT9qIYT3USIaCRnMEV5godQzC0uKKmwXodCzXSC=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "dibox argentina",
+                "description": ""
+            },
+            "country": "AR"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU6MahKgETCFUuEFQLSJ3hcg"
+            }
+        },
+        "statistics": {
+            "viewCount": "1463685",
+            "hiddenSubscriberCount": true,
+            "videoCount": "814"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "dibox argentina",
+                "keywords": "dibox",
+                "unsubscribedTrailer": "PatgkyhRRTs",
+                "country": "AR"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/opWL_gwG9wkPNkHpqcNhe12PB0oP__qq57illJh-m2TWcUrT9nsaLDIR98K6PiiUmYuOgT4p"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

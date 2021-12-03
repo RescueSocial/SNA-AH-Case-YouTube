@@ -1,0 +1,66 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "d-l8xEpYiKFCzhHmklFpr-83Yc4",
+        "id": "UCWOV10ZmdWhMupb_pVdT3ig",
+        "snippet": {
+            "title": "Benjamin Clink",
+            "description": "",
+            "publishedAt": "2013-09-19T00:53:29Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRKzfJGutW_6eXeGigWTWKUx7nEFuteMHNIjQ=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRKzfJGutW_6eXeGigWTWKUx7nEFuteMHNIjQ=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRKzfJGutW_6eXeGigWTWKUx7nEFuteMHNIjQ=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Benjamin Clink",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUWOV10ZmdWhMupb_pVdT3ig"
+            }
+        },
+        "statistics": {
+            "viewCount": "5502",
+            "subscriberCount": "3",
+            "hiddenSubscriberCount": false,
+            "videoCount": "891"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr",
+                "/m/05qt0"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society",
+                "https://en.wikipedia.org/wiki/Politics"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Benjamin Clink"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

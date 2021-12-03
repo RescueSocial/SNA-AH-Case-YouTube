@@ -1,0 +1,65 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "z0V27VNINJddvs2-my84EjYOxdc",
+        "id": "UCgN6i-QV8QbTc1O_kaMSi8g",
+        "snippet": {
+            "title": "News Tube",
+            "description": "News Tube",
+            "publishedAt": "2017-07-08T02:50:11Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQovUsk_mIoEFbxkzNokzBe1j4q2q19G61zi8638g=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQovUsk_mIoEFbxkzNokzBe1j4q2q19G61zi8638g=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQovUsk_mIoEFbxkzNokzBe1j4q2q19G61zi8638g=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "News Tube",
+                "description": "News Tube"
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUgN6i-QV8QbTc1O_kaMSi8g"
+            }
+        },
+        "statistics": {
+            "viewCount": "51862",
+            "subscriberCount": "305",
+            "hiddenSubscriberCount": false,
+            "videoCount": "1155"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "News Tube",
+                "description": "News Tube"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

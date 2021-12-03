@@ -1,0 +1,71 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "fGDrjeCTZY1CwAPWD_OXN-AydA0",
+        "id": "UCLuwAt0GuWhhYbmlSiHtJLQ",
+        "snippet": {
+            "title": "Chinese Theatres",
+            "description": "",
+            "publishedAt": "2013-01-22T23:56:23Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSCk6k8njwoePYedXtAS4nFmlmSmX8sWD2Z2CXw=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSCk6k8njwoePYedXtAS4nFmlmSmX8sWD2Z2CXw=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSCk6k8njwoePYedXtAS4nFmlmSmX8sWD2Z2CXw=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Chinese Theatres",
+                "description": ""
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UULuwAt0GuWhhYbmlSiHtJLQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "739315",
+            "subscriberCount": "1400",
+            "hiddenSubscriberCount": false,
+            "videoCount": "211"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Chinese Theatres",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/mgy1xTdg2YEa9V2weXZBpnzTWtqrqljAjlDyiwtHatFCl3jfBrQ91Zfat4f1drbdT5yG-o-o0Q"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

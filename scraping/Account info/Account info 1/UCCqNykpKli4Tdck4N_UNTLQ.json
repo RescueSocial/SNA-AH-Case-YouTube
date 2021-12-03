@@ -1,0 +1,56 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "4XZeeGpZyRFy-h673lUtn7Ty5XA",
+        "id": "UCCqNykpKli4Tdck4N_UNTLQ",
+        "snippet": {
+            "title": "pop starre",
+            "description": "",
+            "publishedAt": "2019-01-31T08:13:32Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSCFyBjod7YeS0ysSCL6D99pkX0ju66bv73Gg=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSCFyBjod7YeS0ysSCL6D99pkX0ju66bv73Gg=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSCFyBjod7YeS0ysSCL6D99pkX0ju66bv73Gg=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "pop starre",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUCqNykpKli4Tdck4N_UNTLQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "1574",
+            "subscriberCount": "3",
+            "hiddenSubscriberCount": false,
+            "videoCount": "1"
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "pop starre"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

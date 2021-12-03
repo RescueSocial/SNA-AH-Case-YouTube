@@ -1,0 +1,76 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "80GVgSeIzvyno0mB4_I1XX6QhCc",
+        "id": "UC-1Hd_LdAj766JDS_ILKEig",
+        "snippet": {
+            "title": "DanceSnapz",
+            "description": "",
+            "customUrl": "dancesnapz",
+            "publishedAt": "2016-09-14T17:28:28Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSaRK2K6PrdzWXI-AmrFL_m9ngcyH-JzjH6ptVJ=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSaRK2K6PrdzWXI-AmrFL_m9ngcyH-JzjH6ptVJ=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSaRK2K6PrdzWXI-AmrFL_m9ngcyH-JzjH6ptVJ=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "DanceSnapz",
+                "description": ""
+            },
+            "country": "GB"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU-1Hd_LdAj766JDS_ILKEig"
+            }
+        },
+        "statistics": {
+            "viewCount": "81141616",
+            "subscriberCount": "86000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "925"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/05qjc",
+                "/m/0f2f9"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Performing_arts",
+                "https://en.wikipedia.org/wiki/Television_program"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "DanceSnapz",
+                "keywords": "Dance Moms",
+                "unsubscribedTrailer": "rZXccudKLPI",
+                "country": "GB"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/xwvSlzYRpo9chzjhRguoJvl18QPrMh1YHncoUjqHJIrq-kAsgLNbGuuusrVve81FH4BR3yzgvA"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

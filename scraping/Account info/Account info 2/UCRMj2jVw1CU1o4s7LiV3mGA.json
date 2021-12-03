@@ -1,0 +1,74 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "WseMHF66QGfIFrNXzzvtFVfwQGs",
+        "id": "UCRMj2jVw1CU1o4s7LiV3mGA",
+        "snippet": {
+            "title": "KickingGeese",
+            "description": "I upload stupid videos i make with my friends here and i might vlog from time to time. SO WHAT",
+            "customUrl": "kickinggeese",
+            "publishedAt": "2010-05-10T05:40:11Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRcaqtOw0x-Ti8lwftBqYJYMu3l_nFRFx9WMr_P=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRcaqtOw0x-Ti8lwftBqYJYMu3l_nFRFx9WMr_P=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRcaqtOw0x-Ti8lwftBqYJYMu3l_nFRFx9WMr_P=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "KickingGeese",
+                "description": "I upload stupid videos i make with my friends here and i might vlog from time to time. SO WHAT"
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UURMj2jVw1CU1o4s7LiV3mGA"
+            }
+        },
+        "statistics": {
+            "viewCount": "12375763",
+            "subscriberCount": "51900",
+            "hiddenSubscriberCount": false,
+            "videoCount": "935"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/07c1v",
+                "/m/019_rr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Technology",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "KickingGeese",
+                "description": "I upload stupid videos i make with my friends here and i might vlog from time to time. SO WHAT",
+                "keywords": "jpmetz personal channel",
+                "unsubscribedTrailer": "PVsGWYe4Cwo"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/Uf8ne9qrK9XN-GLQQkKHgX9r-B-47mkBCbQePDIpj6qYr3cHa4a3hQPqG825atnB2UAUP--qsw"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "iHZY6JKemtB5CViJpFOIJtBzshM",
+        "id": "UC86dKaapQf97aXk967xUYyA",
+        "snippet": {
+            "title": "John Brooks",
+            "description": "",
+            "publishedAt": "2015-08-09T21:17:56Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTecIRS2s7mjG9p9GO45YzfPI89KmJk6LTaAkhj=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTecIRS2s7mjG9p9GO45YzfPI89KmJk6LTaAkhj=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTecIRS2s7mjG9p9GO45YzfPI89KmJk6LTaAkhj=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "John Brooks",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU86dKaapQf97aXk967xUYyA"
+            }
+        },
+        "statistics": {
+            "viewCount": "61880",
+            "subscriberCount": "77",
+            "hiddenSubscriberCount": false,
+            "videoCount": "1052"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/04rlf",
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Music",
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "John Brooks"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

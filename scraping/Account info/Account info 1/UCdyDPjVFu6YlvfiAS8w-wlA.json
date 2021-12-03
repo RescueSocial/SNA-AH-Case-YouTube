@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "pZPmzZjXtnSky-oGuEMVqE15r3g",
+        "id": "UCdyDPjVFu6YlvfiAS8w-wlA",
+        "snippet": {
+            "title": "Khila Kasweta",
+            "description": "",
+            "publishedAt": "2010-02-08T18:17:17Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQwJs7EviUABC5Hn9Zp4cvA6qQzzkGZE35SzEh_=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQwJs7EviUABC5Hn9Zp4cvA6qQzzkGZE35SzEh_=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQwJs7EviUABC5Hn9Zp4cvA6qQzzkGZE35SzEh_=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Khila Kasweta",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUdyDPjVFu6YlvfiAS8w-wlA"
+            }
+        },
+        "statistics": {
+            "viewCount": "363244",
+            "subscriberCount": "228",
+            "hiddenSubscriberCount": false,
+            "videoCount": "1236"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/05qt0",
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Politics",
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Khila Kasweta",
+                "unsubscribedTrailer": "hJpD_SfDA9w"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/VH0WOnOhVq7VU9xDOG2vTXZUeoSGGJSpsIc6phfd6xG5aO1_xSJAMCk6jBU3koxwzsnuAgCkNg"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "_w2IgsEEQx_M9rrgQO8nXTOxAQk",
+        "id": "UCZuCGbJ9abM-ZBkaUTHIrXw",
+        "snippet": {
+            "title": "IFOD",
+            "description": "www.ifod.net",
+            "publishedAt": "2009-08-25T16:38:46Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSdjfUru9nH-xif3YWqp0J2ZcuBlIle_gjs26tlDA=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSdjfUru9nH-xif3YWqp0J2ZcuBlIle_gjs26tlDA=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSdjfUru9nH-xif3YWqp0J2ZcuBlIle_gjs26tlDA=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "IFOD",
+                "description": "www.ifod.net"
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUZuCGbJ9abM-ZBkaUTHIrXw"
+            }
+        },
+        "statistics": {
+            "viewCount": "3746024",
+            "subscriberCount": "5000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "135"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/0f2f9",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Television_program",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "IFOD",
+                "description": "www.ifod.net",
+                "keywords": "johnny depp ifod italia fans of depp jack sparrow",
+                "unsubscribedTrailer": "VQGYlibkZIY"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/KphYxUPaihgAV21berzFydVdN5OZ8bRrgvL4sfEpb46xQ0FYTfxI6jw4_aMdJMYgjL3JzuWO0A"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

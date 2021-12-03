@@ -1,0 +1,74 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "ZJRvYSo481B-X0Pyo3pu_si1imM",
+        "id": "UCZ693gRfia1Gb_4ExaF2dZw",
+        "snippet": {
+            "title": "Classic Show",
+            "description": "",
+            "publishedAt": "2017-06-12T06:51:16Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/bJpeT1iX4PAurK7OLff8dXamnXnTjKTU5506-twvcpM4Y-wsTI9VF9fdBzK06dl7XYBGVTOASfc=s88-c-k-c0x00ffffff-no-nd-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/bJpeT1iX4PAurK7OLff8dXamnXnTjKTU5506-twvcpM4Y-wsTI9VF9fdBzK06dl7XYBGVTOASfc=s240-c-k-c0x00ffffff-no-nd-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/bJpeT1iX4PAurK7OLff8dXamnXnTjKTU5506-twvcpM4Y-wsTI9VF9fdBzK06dl7XYBGVTOASfc=s800-c-k-c0x00ffffff-no-nd-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Classic Show",
+                "description": ""
+            },
+            "country": "PK"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUZ693gRfia1Gb_4ExaF2dZw"
+            }
+        },
+        "statistics": {
+            "viewCount": "1721359",
+            "hiddenSubscriberCount": true,
+            "videoCount": "28"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/0f2f9",
+                "/m/04rlf",
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Television_program",
+                "https://en.wikipedia.org/wiki/Music",
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Classic Show",
+                "keywords": "\"Welcome To The Classic Tv Show\"",
+                "unsubscribedTrailer": "g9D4G7SpfAg",
+                "country": "PK"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]
