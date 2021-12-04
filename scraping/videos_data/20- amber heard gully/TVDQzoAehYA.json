@@ -1,0 +1,65 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "3TjWkLSL8VtrXUQXK5NPo1io4G4",
+        "id": "TVDQzoAehYA",
+        "snippet": {
+            "publishedAt": "2019-08-27T04:11:18Z",
+            "channelId": "UC7HaCtggKyWz4uh7szLlQrA",
+            "title": "TBI9 NEWS | Amber Heard x L'Or\u00e9al Paris Superior Preference Hair Color",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/TVDQzoAehYA/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/TVDQzoAehYA/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/TVDQzoAehYA/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Tbi9 News",
+            "tags": [
+                "TBI9 NEWS",
+                "TBI9"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "TBI9 NEWS | Amber Heard x L'Or\u00e9al Paris Superior Preference Hair Color",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT32S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "58",
+            "likeCount": "1",
+            "dislikeCount": "1",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

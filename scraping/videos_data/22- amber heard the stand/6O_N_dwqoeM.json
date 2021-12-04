@@ -1,0 +1,71 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "2SRKDPlTuHrHuOaW_lDsVxYeU6U",
+        "id": "6O_N_dwqoeM",
+        "snippet": {
+            "publishedAt": "2015-03-20T16:50:31Z",
+            "channelId": "UCfCwGfh8NxqNqtLEU2uhLgQ",
+            "title": "3. Stand - Amber Thompson & Friends",
+            "description": "From Amber Thompson & Friends Album",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/6O_N_dwqoeM/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/6O_N_dwqoeM/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/6O_N_dwqoeM/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/6O_N_dwqoeM/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/6O_N_dwqoeM/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "M\u00fasica Para El Alma",
+            "categoryId": "10",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "3. Stand - Amber Thompson & Friends",
+                "description": "From Amber Thompson & Friends Album"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT1M50S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "965",
+            "likeCount": "8",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

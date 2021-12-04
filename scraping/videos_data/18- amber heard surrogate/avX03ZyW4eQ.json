@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "mW_0fiMa43BuyWzdj246ecHM5eg",
+        "id": "avX03ZyW4eQ",
+        "snippet": {
+            "publishedAt": "2018-11-09T18:16:44Z",
+            "channelId": "UCYEWp_vovVxsQTzKbHTu9Og",
+            "title": "Lung Cancer Screening: The Future is Over",
+            "description": "A Division of General Internal Medicine Grand Rounds presented by Christopher Slatore, MD, MS, Investigator & Associate Professor, Health Services Research & Development, Division of Pulmonary & Critical Care, VA Portland Health Care System and Oregon Health & Sciences University",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/avX03ZyW4eQ/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/avX03ZyW4eQ/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/avX03ZyW4eQ/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/avX03ZyW4eQ/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/avX03ZyW4eQ/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Icahn School of Medicine",
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Lung Cancer Screening: The Future is Over",
+                "description": "A Division of General Internal Medicine Grand Rounds presented by Christopher Slatore, MD, MS, Investigator & Associate Professor, Health Services Research & Development, Division of Pulmonary & Critical Care, VA Portland Health Care System and Oregon Health & Sciences University"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT58M27S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "98",
+            "likeCount": "1",
+            "dislikeCount": "0",
+            "favoriteCount": "0"
+        }
+    }
+]

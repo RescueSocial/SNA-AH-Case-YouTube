@@ -1,0 +1,61 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "y5kP3nJY7EZyonjvWtl-lQppKhw",
+        "id": "hQjIvdNflOs",
+        "snippet": {
+            "publishedAt": "2020-04-08T10:18:21Z",
+            "channelId": "UCgHJ-gsN1eFWRhxDmWC3VDA",
+            "title": "4. map",
+            "description": "Learning built-in function map",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/hQjIvdNflOs/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/hQjIvdNflOs/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/hQjIvdNflOs/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Mahedi Hasan",
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "4. map",
+                "description": "Learning built-in function map"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT16M52S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "13",
+            "likeCount": "0",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

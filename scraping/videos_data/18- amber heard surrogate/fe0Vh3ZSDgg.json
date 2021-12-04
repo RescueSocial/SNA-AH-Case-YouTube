@@ -1,0 +1,71 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "mKF-R1YGod2e-8QfIB4R9HITi_g",
+        "id": "fe0Vh3ZSDgg",
+        "snippet": {
+            "publishedAt": "2021-12-01T00:45:45Z",
+            "channelId": "UCrKlscFWmaNkDkqkH2EsyfA",
+            "title": "Dr. Oz is running for a senate seat /spread \ud83d\udcab\ud83d\udcab\ud83d\udcab",
+            "description": "Entertainment purposes",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/fe0Vh3ZSDgg/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/fe0Vh3ZSDgg/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/fe0Vh3ZSDgg/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/fe0Vh3ZSDgg/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/fe0Vh3ZSDgg/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Tarot Time with Andie",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Dr. Oz is running for a senate seat /spread \ud83d\udcab\ud83d\udcab\ud83d\udcab",
+                "description": "Entertainment purposes"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT21M26S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "1225",
+            "likeCount": "160",
+            "dislikeCount": "2",
+            "favoriteCount": "0",
+            "commentCount": "26"
+        }
+    }
+]

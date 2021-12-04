@@ -1,0 +1,61 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "xl0MHDWTIlQCOPkPzDj_-bUROvI",
+        "id": "rV2TGbqewiA",
+        "snippet": {
+            "publishedAt": "2020-04-22T11:03:06Z",
+            "channelId": "UCCbRVS6qI1MzIB8ORLeVglg",
+            "title": "2020 4 21",
+            "description": "Special Meeting",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/rV2TGbqewiA/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/rV2TGbqewiA/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/rV2TGbqewiA/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Blaine County School District Board of Trustees",
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "2020 4 21",
+                "description": "Special Meeting"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT3H52M44S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": true
+        },
+        "statistics": {
+            "viewCount": "103",
+            "likeCount": "0",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

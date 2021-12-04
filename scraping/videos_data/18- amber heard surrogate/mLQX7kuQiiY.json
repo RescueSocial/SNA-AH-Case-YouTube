@@ -1,0 +1,81 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "UeLdg_KTQKzui3NCMnPaKfGhs9k",
+        "id": "mLQX7kuQiiY",
+        "snippet": {
+            "publishedAt": "2019-06-23T19:49:36Z",
+            "channelId": "UCl-radPCbXcrYCE4EdNH3QA",
+            "title": "Something Wonderful: Rodgers and Hammerstein\u2019s Broadway Revolution",
+            "description": "Todd S. Purdum, staff writer at The Atlantic, discusses his new book, Something Wonderful: Rodgers and Hammerstein\u2019s Broadway Revolution, with Don Aucoin, chief theater critic for The Boston Globe.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/mLQX7kuQiiY/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/mLQX7kuQiiY/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/mLQX7kuQiiY/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/mLQX7kuQiiY/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/mLQX7kuQiiY/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "JFK Library",
+            "tags": [
+                "John",
+                "F.",
+                "Kennedy",
+                "Presidential",
+                "Library",
+                "and",
+                "Musuem"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Something Wonderful: Rodgers and Hammerstein\u2019s Broadway Revolution",
+                "description": "Todd S. Purdum, staff writer at The Atlantic, discusses his new book, Something Wonderful: Rodgers and Hammerstein\u2019s Broadway Revolution, with Don Aucoin, chief theater critic for The Boston Globe."
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT1H27M54S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": false,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "1667",
+            "likeCount": "20",
+            "dislikeCount": "1",
+            "favoriteCount": "0",
+            "commentCount": "1"
+        }
+    }
+]

@@ -1,0 +1,81 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "p92s0NOKIFidTWH3GtAidJrG-Ag",
+        "id": "6QZf7RZWZzw",
+        "snippet": {
+            "publishedAt": "2017-08-17T06:48:16Z",
+            "channelId": "UC8qiFsrybZHIo_AURJXgOnw",
+            "title": "Vue.js 2 Bangla Tutorial #12 Component communications and custom events",
+            "description": "This is a Bangla tutorial on VueJS 2 ( vue js 2.0 ) .  Vue js is an amazing javascript framework for front end development. In this tutorial you will learn how to create basic vue js application. For source code, please have a look at www.blog.rimonbd.com",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/6QZf7RZWZzw/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/6QZf7RZWZzw/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/6QZf7RZWZzw/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/6QZf7RZWZzw/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/6QZf7RZWZzw/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Mamunur Rashid",
+            "tags": [
+                "vue",
+                "vuejs",
+                "vuejs 2",
+                "vue.js 2",
+                "vue.js 2.0",
+                "bangla",
+                "bangla tutorial"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Vue.js 2 Bangla Tutorial #12 Component communications and custom events",
+                "description": "This is a Bangla tutorial on VueJS 2 ( vue js 2.0 ) .  Vue js is an amazing javascript framework for front end development. In this tutorial you will learn how to create basic vue js application. For source code, please have a look at www.blog.rimonbd.com"
+            },
+            "defaultAudioLanguage": "bn"
+        },
+        "contentDetails": {
+            "duration": "PT10M40S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "4102",
+            "likeCount": "34",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "10"
+        }
+    }
+]

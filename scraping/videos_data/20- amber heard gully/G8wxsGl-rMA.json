@@ -1,0 +1,89 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "jHa0tQb_SYqlkUvrE3vophq1wW0",
+        "id": "G8wxsGl-rMA",
+        "snippet": {
+            "publishedAt": "2021-05-24T13:04:35Z",
+            "channelId": "UCzcRQ3vRNr6fJ1A9rqFn7QA",
+            "title": "ETERNALS Official Trailer (2021)",
+            "description": "ETERNALS Trailer (2021) Angelina Jolie, Marvel Movie HD\n\u00a9 2021 - Disney",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/G8wxsGl-rMA/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/G8wxsGl-rMA/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/G8wxsGl-rMA/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/G8wxsGl-rMA/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/G8wxsGl-rMA/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "ONE Media",
+            "tags": [
+                "One Media",
+                "One",
+                "Cinema",
+                "Trailer",
+                "Official",
+                "Movie",
+                "Film",
+                "2021",
+                "Eternals",
+                "Eternals Trailer",
+                "Marvel",
+                "Disney",
+                "Angelina Jolie",
+                "Avengers"
+            ],
+            "categoryId": "1",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "ETERNALS Official Trailer (2021)",
+                "description": "ETERNALS Trailer (2021) Angelina Jolie, Marvel Movie HD\n\u00a9 2021 - Disney"
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT2M20S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "8825398",
+            "likeCount": "124297",
+            "dislikeCount": "6307",
+            "favoriteCount": "0",
+            "commentCount": "10307"
+        }
+    }
+]

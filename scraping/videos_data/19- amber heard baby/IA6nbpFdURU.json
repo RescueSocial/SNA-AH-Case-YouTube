@@ -1,0 +1,61 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "TR4SOWgHUNLCALAPaRHvx-GKTqc",
+        "id": "IA6nbpFdURU",
+        "snippet": {
+            "publishedAt": "2021-07-02T04:09:37Z",
+            "channelId": "UCYzzvGs_SfMEn0M2Cvpq_pQ",
+            "title": "It's official: Amber Heard became a mother for the first time",
+            "description": "Amber Heard shares the amazing news: she has a baby girl! The 35-year-old star of \"Aquaman\" confirmed the happy news in a series of posts on social networks.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/IA6nbpFdURU/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/IA6nbpFdURU/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/IA6nbpFdURU/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "YES! Freedom",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "It's official: Amber Heard became a mother for the first time",
+                "description": "Amber Heard shares the amazing news: she has a baby girl! The 35-year-old star of \"Aquaman\" confirmed the happy news in a series of posts on social networks."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT2M2S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "11",
+            "likeCount": "2",
+            "dislikeCount": "1",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

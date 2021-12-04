@@ -1,0 +1,77 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "375VmNfPE6oJU63f4WfeTb5hiPE",
+        "id": "rksKvZoUCPQ",
+        "snippet": {
+            "publishedAt": "2016-01-29T15:38:27Z",
+            "channelId": "UCQaCN_l2ZCRvZ-DSQ-Q67Wg",
+            "title": "Bill Burr - no reason to hit a woman - how women argue (FULL) from You People are all the Same",
+            "description": "The FULL segment about how women argue and why there's no reason to hit a woman from Bill Burr's show \"You people are all the same\"",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/rksKvZoUCPQ/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/rksKvZoUCPQ/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/rksKvZoUCPQ/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/rksKvZoUCPQ/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/rksKvZoUCPQ/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "mcnyregrus",
+            "tags": [
+                "bill burr",
+                "comedy",
+                "stand-up",
+                "jim jefferies"
+            ],
+            "categoryId": "10",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Bill Burr - no reason to hit a woman - how women argue (FULL) from You People are all the Same",
+                "description": "The FULL segment about how women argue and why there's no reason to hit a woman from Bill Burr's show \"You people are all the same\""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT12M15S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "17165895",
+            "likeCount": "263011",
+            "dislikeCount": "10877",
+            "favoriteCount": "0",
+            "commentCount": "12090"
+        }
+    }
+]

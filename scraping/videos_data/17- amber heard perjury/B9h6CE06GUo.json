@@ -1,0 +1,72 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "dkBm-K-jXjLToGXxzea_RP-6y6E",
+        "id": "B9h6CE06GUo",
+        "snippet": {
+            "publishedAt": "2020-07-07T14:47:27Z",
+            "channelId": "UC5664f6TkaeHgwBly50DWZQ",
+            "title": "Johnny Depp and Amber Heard arrive at London court for libel trial",
+            "description": "Hollywood actor Johnny Depp and his ex-wife Amber Heard arrive at a London court for the start of a libel trial between Depp and a British tabloid newspaper over claims that he was violent to Heard.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/B9h6CE06GUo/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/B9h6CE06GUo/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/B9h6CE06GUo/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/B9h6CE06GUo/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/B9h6CE06GUo/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Manila Bulletin Online",
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Johnny Depp and Amber Heard arrive at London court for libel trial",
+                "description": "Hollywood actor Johnny Depp and his ex-wife Amber Heard arrive at a London court for the start of a libel trial between Depp and a British tabloid newspaper over claims that he was violent to Heard."
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT54S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "1531",
+            "likeCount": "8",
+            "dislikeCount": "2",
+            "favoriteCount": "0",
+            "commentCount": "1"
+        }
+    }
+]

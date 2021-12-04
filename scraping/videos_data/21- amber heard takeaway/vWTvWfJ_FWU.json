@@ -1,0 +1,71 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "gYCKnu1-Ki6z-UyU0WO29iUwIjc",
+        "id": "vWTvWfJ_FWU",
+        "snippet": {
+            "publishedAt": "2020-07-10T19:39:50Z",
+            "channelId": "UCRzShSEGqM99qTwMclmE4qg",
+            "title": "Classic Chubby Brown 1980\u2019s",
+            "description": "Classic cheeky chubby!!! Then underneath an early insight into the hilarious comedy world of Britain\u2019s king of comedy!!! from the 1980\u2019s",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/vWTvWfJ_FWU/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/vWTvWfJ_FWU/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/vWTvWfJ_FWU/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/vWTvWfJ_FWU/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/vWTvWfJ_FWU/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Roy Chubby Brown Official - Blue",
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Classic Chubby Brown 1980\u2019s",
+                "description": "Classic cheeky chubby!!! Then underneath an early insight into the hilarious comedy world of Britain\u2019s king of comedy!!! from the 1980\u2019s"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT1H27M3S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "1164148",
+            "likeCount": "5258",
+            "dislikeCount": "528",
+            "favoriteCount": "0",
+            "commentCount": "511"
+        }
+    }
+]

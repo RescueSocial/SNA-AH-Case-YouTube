@@ -1,0 +1,75 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "ZKtXyoHdiA-JzG4-0BKIjib06mU",
+        "id": "n1TNLU-ydLA",
+        "snippet": {
+            "publishedAt": "2010-11-25T12:50:04Z",
+            "channelId": "UChJmLj_gjQ2u4btx4kQMYDw",
+            "title": "Wang Chung - Dance Hall Days",
+            "description": "http://wangchung.com\n\nRe-recorded version of the Wang Chung classic - now available as part of the Abducted By The 80's double EP from the band's website.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/n1TNLU-ydLA/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/n1TNLU-ydLA/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/n1TNLU-ydLA/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "WangChungTheBand",
+            "tags": [
+                "wang",
+                "chung",
+                "dance",
+                "hall",
+                "days",
+                "80's",
+                "grand",
+                "theft",
+                "auto",
+                "four",
+                "pop",
+                "music"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Wang Chung - Dance Hall Days",
+                "description": "http://wangchung.com\n\nRe-recorded version of the Wang Chung classic - now available as part of the Abducted By The 80's double EP from the band's website."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT4M",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "9834261",
+            "likeCount": "55951",
+            "dislikeCount": "1549",
+            "favoriteCount": "0",
+            "commentCount": "2991"
+        }
+    }
+]

@@ -1,0 +1,71 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "mfjmHH2UeJrRSUHTAoOTdoulUwU",
+        "id": "JrV-C6aBNRQ",
+        "snippet": {
+            "publishedAt": "2020-04-04T00:29:08Z",
+            "channelId": "UCiKE6mqbKmGGlNAtccn04MA",
+            "title": "CBC Vancouver Live Covid-19 Update and Q&A for April 3 with Mike Killeen and gardener Brian Minter",
+            "description": "Watch CBC Vancouver's live Covid-19 update with host Mike Killeen for the latest on the most important news stories happening across B.C. He'll be joined by reporter Tanya Fletcher and gardener Brian Minter.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/JrV-C6aBNRQ/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/JrV-C6aBNRQ/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/JrV-C6aBNRQ/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/JrV-C6aBNRQ/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/JrV-C6aBNRQ/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "CBC Vancouver",
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "CBC Vancouver Live Covid-19 Update and Q&A for April 3 with Mike Killeen and gardener Brian Minter",
+                "description": "Watch CBC Vancouver's live Covid-19 update with host Mike Killeen for the latest on the most important news stories happening across B.C. He'll be joined by reporter Tanya Fletcher and gardener Brian Minter."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT25M7S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "2004",
+            "likeCount": "3",
+            "dislikeCount": "1",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

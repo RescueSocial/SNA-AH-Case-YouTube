@@ -1,0 +1,71 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "9KQAvJgppfpFCzHo1yyTJOQjZwU",
+        "id": "DADnoNxewYo",
+        "snippet": {
+            "publishedAt": "2020-09-01T21:42:37Z",
+            "channelId": "UCgVZ0mrM3liHNhRYC5Mchgg",
+            "title": "Former Sweetwater commissioner pleads guilty to perjury",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/DADnoNxewYo/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/DADnoNxewYo/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/DADnoNxewYo/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/DADnoNxewYo/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/DADnoNxewYo/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "WPLG Local 10",
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Former Sweetwater commissioner pleads guilty to perjury",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT2M31S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "481",
+            "likeCount": "7",
+            "dislikeCount": "1",
+            "favoriteCount": "0",
+            "commentCount": "3"
+        }
+    }
+]

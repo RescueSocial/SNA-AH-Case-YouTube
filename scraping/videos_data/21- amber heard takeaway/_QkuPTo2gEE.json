@@ -1,0 +1,95 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "mrox3Xz8X-yoZhK_PAMDeXUF9mo",
+        "id": "_QkuPTo2gEE",
+        "snippet": {
+            "publishedAt": "2016-05-04T01:34:56Z",
+            "channelId": "UCu3Ri8DI1RQLdVtU12uIp1Q",
+            "title": "Sam Grocott, EMC | EMC World 2016",
+            "description": "Enhanced video at http://vinja.tv/qNDpZxW5\r\n\r\n01. Sam Grocott, EMC, visits #theCUBE!. (00:03)\r\n02. Feedback and Announcements from Emerging Technologies at EMC. (01:05)\r\n03. ViPR and Other SDS Products from EMC. (02:06)\r\n04. Software Defined Storage De-Mystified. (05:20)\r\n05. Rack Scale Flash and the State of DSSD. (06:46)\r\n06. The Right Customer for VxRack Neutrino. (09:20)\r\n07. Isalon, the Crown Jewel. (11:14)\r\n08. Projects Leading to IOT. (15:39)\r\n09. The BIg Takeaway from EMC World 2016. (17:06)\r\n\r\nTrack List created with http://www.vinjavideo.com.\r\n--- ---\r\nThe innovation engine: A look inside EMC\u2019s Emerging Technologies Division | #emcworld\n\nby Amber Johnson | May 4, 2016\n\nWithin every company lives the driving edge of its future product line. For EMC, this division is called the Emerging Technologies Division (ETD). Sam Grocott, SVP of marketing and product management at EMC\u2019s ETD, explained that his division is mostly comprised of 1.0 or 2.0 products, with the exception of the Isilon Business Unit, which is on its 8th generation.\n\nGrocott explained that ETD exists within EMC to orchestrate the opportunity for two things: innovation and growth. \u201cThat\u2019s what we are judged on; it\u2019s what we are measured against,\u201d he said. Grocott sat down with John Furrier (@furrier) and Dave Vellante (@dvellante), cohosts of theCUBE, from SiliconANGLE Media team, during EMC World 2016 in Las Vegas.\n\nGrocott mentioned EMC\u2019s DSSD products, ScaleIO, Elastic Cloud Storage (ECS), ViPR, and the new VCE VxRack System 1000 with Neutrino Nodes (announced May 3) as part of ETD\u2019s enterprise product repertoire. He also called ETD\u2019s product line \u201ca family of four products\u201d: ViPR Controller, ECS software-defined object storage system, ScaleIO software-defined block storage system, and IsilonSD Edge.\n\nMaking ViPR simpler\n\nWhen asked about ViPR\u2019s initial release, Grocott stated, \u201cWe confused the market,\u201d but \u201cwe heard the feedback from customers. \u2026 We tried to glom too much into the ViPR system, so what we decided to do was make it simpler.\u201d ETD focused ViPR on the \u201ccontroller aspect\u201d and open-sourced the core IP in Project CoprHD (copperhead).\n\nEMC announced on May 2 it would release ViPR 3.0, which will feature all of Copperhead\u2019s \u201cup to 50 different arrays of storage,\u201d according to Grocott. Thus, ETD has worked toward \u201ca truly heterogeneous environment.\u201d Grocott remarked that \u201csimplification, automation, ease of use\u201d is \u201cabsolutely what ViPR is focused on.\u201d",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/_QkuPTo2gEE/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/_QkuPTo2gEE/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/_QkuPTo2gEE/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/_QkuPTo2gEE/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/_QkuPTo2gEE/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "SiliconANGLE theCUBE",
+            "tags": [
+                "theCUBE",
+                "Sam Grocott",
+                "Dave Vellante",
+                "EMC",
+                "EMC World",
+                "John Furrier",
+                "@theCUBE",
+                "#theCUBE",
+                "@siliconangle",
+                "#SiliconANGLE",
+                "SiliconANGLE",
+                "Science News",
+                "Technology",
+                "Tech News",
+                "Business News and General Info",
+                "Dell EMC",
+                "@DellEMC",
+                "@DellTech",
+                "Dell Technology",
+                "#DellEMC",
+                "#EMC"
+            ],
+            "categoryId": "28",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Sam Grocott, EMC | EMC World 2016",
+                "description": "Enhanced video at http://vinja.tv/qNDpZxW5\r\n\r\n01. Sam Grocott, EMC, visits #theCUBE!. (00:03)\r\n02. Feedback and Announcements from Emerging Technologies at EMC. (01:05)\r\n03. ViPR and Other SDS Products from EMC. (02:06)\r\n04. Software Defined Storage De-Mystified. (05:20)\r\n05. Rack Scale Flash and the State of DSSD. (06:46)\r\n06. The Right Customer for VxRack Neutrino. (09:20)\r\n07. Isalon, the Crown Jewel. (11:14)\r\n08. Projects Leading to IOT. (15:39)\r\n09. The BIg Takeaway from EMC World 2016. (17:06)\r\n\r\nTrack List created with http://www.vinjavideo.com.\r\n--- ---\r\nThe innovation engine: A look inside EMC\u2019s Emerging Technologies Division | #emcworld\n\nby Amber Johnson | May 4, 2016\n\nWithin every company lives the driving edge of its future product line. For EMC, this division is called the Emerging Technologies Division (ETD). Sam Grocott, SVP of marketing and product management at EMC\u2019s ETD, explained that his division is mostly comprised of 1.0 or 2.0 products, with the exception of the Isilon Business Unit, which is on its 8th generation.\n\nGrocott explained that ETD exists within EMC to orchestrate the opportunity for two things: innovation and growth. \u201cThat\u2019s what we are judged on; it\u2019s what we are measured against,\u201d he said. Grocott sat down with John Furrier (@furrier) and Dave Vellante (@dvellante), cohosts of theCUBE, from SiliconANGLE Media team, during EMC World 2016 in Las Vegas.\n\nGrocott mentioned EMC\u2019s DSSD products, ScaleIO, Elastic Cloud Storage (ECS), ViPR, and the new VCE VxRack System 1000 with Neutrino Nodes (announced May 3) as part of ETD\u2019s enterprise product repertoire. He also called ETD\u2019s product line \u201ca family of four products\u201d: ViPR Controller, ECS software-defined object storage system, ScaleIO software-defined block storage system, and IsilonSD Edge.\n\nMaking ViPR simpler\n\nWhen asked about ViPR\u2019s initial release, Grocott stated, \u201cWe confused the market,\u201d but \u201cwe heard the feedback from customers. \u2026 We tried to glom too much into the ViPR system, so what we decided to do was make it simpler.\u201d ETD focused ViPR on the \u201ccontroller aspect\u201d and open-sourced the core IP in Project CoprHD (copperhead).\n\nEMC announced on May 2 it would release ViPR 3.0, which will feature all of Copperhead\u2019s \u201cup to 50 different arrays of storage,\u201d according to Grocott. Thus, ETD has worked toward \u201ca truly heterogeneous environment.\u201d Grocott remarked that \u201csimplification, automation, ease of use\u201d is \u201cabsolutely what ViPR is focused on.\u201d"
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT18M38S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "creativeCommon",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "22166",
+            "likeCount": "18",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "2"
+        }
+    }
+]

@@ -1,0 +1,78 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "xx5_aR0NxBj_GP31tBZRxRsiAMQ",
+        "id": "s6jkZ1Bh0Yw",
+        "snippet": {
+            "publishedAt": "2021-04-03T22:51:07Z",
+            "channelId": "UCBy_C4Tg58BRzyKky45Pfow",
+            "title": "Baby found after AMBER Alert",
+            "description": "Baby found after AMBER Alert",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/s6jkZ1Bh0Yw/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/s6jkZ1Bh0Yw/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/s6jkZ1Bh0Yw/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/s6jkZ1Bh0Yw/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/s6jkZ1Bh0Yw/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "FOX8 WGHP",
+            "tags": [
+                "video",
+                "news",
+                "local news"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "Baby found after AMBER Alert",
+                "description": "Baby found after AMBER Alert"
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT51S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "1318",
+            "likeCount": "18",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "1"
+        }
+    }
+]

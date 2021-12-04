@@ -1,0 +1,86 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "1Gym6Iv6-A-nLq4ckIL9Cb69q2I",
+        "id": "sWBqdWTg3Vs",
+        "snippet": {
+            "publishedAt": "2019-09-20T04:00:11Z",
+            "channelId": "UClcR5Ho9kfnj40zaN1enC-Q",
+            "title": "Lady Antebellum - Ocean",
+            "description": "Music video by Lady Antebellum performing Ocean. \u00a9 2019 Big Machine Label Group, LLC\n\nhttp://vevo.ly/sTUHvM",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/sWBqdWTg3Vs/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/sWBqdWTg3Vs/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/sWBqdWTg3Vs/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/sWBqdWTg3Vs/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/sWBqdWTg3Vs/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "LadyAVEVO",
+            "tags": [
+                "Lady",
+                "Antebellum",
+                "Ocean",
+                "BMLG",
+                "Records",
+                "Country"
+            ],
+            "categoryId": "10",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Lady Antebellum - Ocean",
+                "description": "Music video by Lady Antebellum performing Ocean. \u00a9 2019 Big Machine Label Group, LLC\n\nhttp://vevo.ly/sTUHvM"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT3M35S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": true,
+            "regionRestriction": {
+                "blocked": [
+                    "IO",
+                    "KP",
+                    "SS"
+                ]
+            },
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "12201049",
+            "likeCount": "155584",
+            "dislikeCount": "3095",
+            "favoriteCount": "0",
+            "commentCount": "3970"
+        }
+    }
+]

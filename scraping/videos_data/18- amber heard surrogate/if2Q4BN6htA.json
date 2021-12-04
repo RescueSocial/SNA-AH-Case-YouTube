@@ -1,0 +1,71 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "MVkeBM-cjTXGTLiSO8Uxw9pRQoE",
+        "id": "if2Q4BN6htA",
+        "snippet": {
+            "publishedAt": "2020-09-02T16:37:39Z",
+            "channelId": "UCfJdfQGtvv7IN8YAIz4yfGw",
+            "title": "Emre Neftci (UCI) - Synthesizing Machine Intel. in Neuromorphic Computers with Diff. Programming",
+            "description": "The potential of machine learning and deep learning to advance artificial intelligence is driving a quest to build dedicated computers, such as neuromorphic hardware that emulate the biological processes of the brain. While the hardware technologies already exist, their application to real-world tasks is hindered by the lack of suitable programming methods. Advances at the interface of neural computation and machine learning showed that key aspects of deep learning models and tools can be transferred to biologically plausible neural circuits. Building on these advances, I will show that differentiable programming can address many challenges of programming spiking neural networks for solving real-world tasks, and help devise novel continual and local learning algorithms. In turn, these new algorithms pave the road towards systematically synthesizing machine intelligence in neuromorphic hardware without detailed knowledge of the hardware circuits.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/if2Q4BN6htA/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/if2Q4BN6htA/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/if2Q4BN6htA/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/if2Q4BN6htA/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/if2Q4BN6htA/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Neural Reckoning",
+            "categoryId": "28",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Emre Neftci (UCI) - Synthesizing Machine Intel. in Neuromorphic Computers with Diff. Programming",
+                "description": "The potential of machine learning and deep learning to advance artificial intelligence is driving a quest to build dedicated computers, such as neuromorphic hardware that emulate the biological processes of the brain. While the hardware technologies already exist, their application to real-world tasks is hindered by the lack of suitable programming methods. Advances at the interface of neural computation and machine learning showed that key aspects of deep learning models and tools can be transferred to biologically plausible neural circuits. Building on these advances, I will show that differentiable programming can address many challenges of programming spiking neural networks for solving real-world tasks, and help devise novel continual and local learning algorithms. In turn, these new algorithms pave the road towards systematically synthesizing machine intelligence in neuromorphic hardware without detailed knowledge of the hardware circuits."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT53M9S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "creativeCommon",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "614",
+            "likeCount": "11",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

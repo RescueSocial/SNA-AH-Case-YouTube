@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "p0MfgwCFvOmBCORHGISi_Fcum_o",
+        "id": "1cONUCSjy_8",
+        "snippet": {
+            "publishedAt": "2018-10-23T16:47:34Z",
+            "channelId": "UCp_Ryuc-wcc06IGtgV7caXQ",
+            "title": "Better Mus Come Jamaican Movie",
+            "description": "Better Mus Come Jamaican Movie http://bit.ly/2C2zQG6",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/1cONUCSjy_8/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/1cONUCSjy_8/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/1cONUCSjy_8/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/1cONUCSjy_8/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Caribbean Digest",
+            "tags": [
+                "Movie industry",
+                "Movie",
+                "Better Mus Come",
+                "Jamaica",
+                "Caribbean Digest"
+            ],
+            "categoryId": "1",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Better Mus Come Jamaican Movie",
+                "description": "Better Mus Come Jamaican Movie http://bit.ly/2C2zQG6"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT1H42M56S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "298012",
+            "likeCount": "3518",
+            "dislikeCount": "206",
+            "favoriteCount": "0",
+            "commentCount": "197"
+        }
+    }
+]

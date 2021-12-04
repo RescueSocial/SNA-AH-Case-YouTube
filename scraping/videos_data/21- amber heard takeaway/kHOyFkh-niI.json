@@ -1,0 +1,66 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "SAVPyKMvDfPYWIvVZqV-DBSpRiU",
+        "id": "kHOyFkh-niI",
+        "snippet": {
+            "publishedAt": "2019-03-15T01:46:53Z",
+            "channelId": "UCVYwIcB3pJH5K1CIM55hb1w",
+            "title": "Print Profits Academy",
+            "description": "http://www.PrintProfitsAcademy.com",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/kHOyFkh-niI/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/kHOyFkh-niI/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/kHOyFkh-niI/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/kHOyFkh-niI/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Amber Nykole",
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Print Profits Academy",
+                "description": "http://www.PrintProfitsAcademy.com"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT25M13S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "221",
+            "likeCount": "5",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "1"
+        }
+    }
+]

@@ -1,0 +1,78 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "3inVw-SseRpbksRspxgmHXzrFsw",
+        "id": "RUBvYWPmYOI",
+        "snippet": {
+            "publishedAt": "2018-03-08T21:44:09Z",
+            "channelId": "UC6ZhpmNnLxlOYipqh8wbM3A",
+            "title": "Department Press Briefing - March 8, 2018",
+            "description": "Spokesperson Heather Nauert leads the Department Press Briefing, at the Department of State on March 8, 2018. A transcript is available at https://www.state.gov/r/pa/prs/dpb/2018/03/279110.htm.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/RUBvYWPmYOI/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/RUBvYWPmYOI/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/RUBvYWPmYOI/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/RUBvYWPmYOI/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/RUBvYWPmYOI/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "U.S. Department of State",
+            "tags": [
+                "Nauert",
+                "Heather",
+                "Department",
+                "State"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Department Press Briefing - March 8, 2018",
+                "description": "Spokesperson Heather Nauert leads the Department Press Briefing, at the Department of State on March 8, 2018. A transcript is available at https://www.state.gov/r/pa/prs/dpb/2018/03/279110.htm."
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT54M29S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "5465",
+            "likeCount": "56",
+            "dislikeCount": "15",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

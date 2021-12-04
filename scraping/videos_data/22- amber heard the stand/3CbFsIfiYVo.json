@@ -1,0 +1,61 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "yyQ4dy0JgHN5lao5gWGT2F5K_Ps",
+        "id": "3CbFsIfiYVo",
+        "snippet": {
+            "publishedAt": "2019-09-27T16:35:56Z",
+            "channelId": "UCrVtKlnkd_KNgO8RloaajXg",
+            "title": "AMBER GUYGER LIVE ON THE STAND",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/3CbFsIfiYVo/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/3CbFsIfiYVo/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/3CbFsIfiYVo/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "GEORGE MACON 2",
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "AMBER GUYGER LIVE ON THE STAND",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT13M13S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": false,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "104",
+            "likeCount": "17",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "7"
+        }
+    }
+]

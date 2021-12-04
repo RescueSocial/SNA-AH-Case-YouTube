@@ -1,0 +1,78 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "rzLC1YtslMM0OsBw_C_coekq6zs",
+        "id": "MyQoI-rpPvE",
+        "snippet": {
+            "publishedAt": "2020-08-04T16:32:32Z",
+            "channelId": "UCMscWako8oDvpdF4pppku-g",
+            "title": "San Diego top stories for August 4, 2020, at 8 a.m.",
+            "description": "San Diego and California latest updates and news.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/MyQoI-rpPvE/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/MyQoI-rpPvE/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/MyQoI-rpPvE/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/MyQoI-rpPvE/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/MyQoI-rpPvE/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "CBS 8 San Diego",
+            "tags": [
+                "crime",
+                "local",
+                "news"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "San Diego top stories for August 4, 2020, at 8 a.m.",
+                "description": "San Diego and California latest updates and news."
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT12M8S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "5274",
+            "likeCount": "32",
+            "dislikeCount": "6",
+            "favoriteCount": "0",
+            "commentCount": "15"
+        }
+    }
+]

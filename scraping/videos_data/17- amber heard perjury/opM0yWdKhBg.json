@@ -1,0 +1,65 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "yuj2RixxRJTn09YpO6uCL1TgTqg",
+        "id": "opM0yWdKhBg",
+        "snippet": {
+            "publishedAt": "2020-07-31T02:59:26Z",
+            "channelId": "UCnp8ZAgkWljak61xE7dIEOw",
+            "title": "Court TV's 13th Juror || Lara Yeretsian Talks About the Case of Johnny Depp and Amber Heard",
+            "description": "High profile criminal defense attorney, Lara Yeretsian, discloses her thoughts on Johnny Depp's filed libel case.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/opM0yWdKhBg/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/opM0yWdKhBg/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/opM0yWdKhBg/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/opM0yWdKhBg/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Newsroom PR",
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Court TV's 13th Juror || Lara Yeretsian Talks About the Case of Johnny Depp and Amber Heard",
+                "description": "High profile criminal defense attorney, Lara Yeretsian, discloses her thoughts on Johnny Depp's filed libel case."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT5M56S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "4385",
+            "likeCount": "210",
+            "dislikeCount": "2",
+            "favoriteCount": "0"
+        }
+    }
+]

@@ -1,0 +1,76 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "EivLNtWLc2Z0N6B-f20bIMve3As",
+        "id": "z7GWdG4p3kg",
+        "snippet": {
+            "publishedAt": "2013-11-21T17:18:04Z",
+            "channelId": "UC6Arrv8WD3Z2CehgFefCXTA",
+            "title": "TEDMED Great Challenges: The Future of Personalized Medicine",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/z7GWdG4p3kg/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/z7GWdG4p3kg/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/z7GWdG4p3kg/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/z7GWdG4p3kg/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "TEDMED",
+            "tags": [
+                "TEDMED",
+                "Great Challenges",
+                "Future of Personalized Medicine",
+                "Ashley Dombkowski",
+                "Amber Trivedi",
+                "Michael J. Pellini",
+                "Amy Miller",
+                "Gregg Masters"
+            ],
+            "categoryId": "28",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "TEDMED Great Challenges: The Future of Personalized Medicine",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT1H49S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": false,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "392",
+            "likeCount": "1",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

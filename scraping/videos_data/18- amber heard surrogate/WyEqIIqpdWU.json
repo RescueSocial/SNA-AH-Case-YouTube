@@ -1,0 +1,72 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "k9x1mGrI81cVVuv-wh08hQYr9k8",
+        "id": "WyEqIIqpdWU",
+        "snippet": {
+            "publishedAt": "2020-07-22T16:44:18Z",
+            "channelId": "UCOFkxIS0NHoffbbdOEydMlw",
+            "title": "Sublingual Immunotherapy (SLIT) (Cox)",
+            "description": "Dr. Linda Cox presents an update on the use of sublingual allergen immunotherapy (SLIT).\nPresented on July 13, 2020.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/WyEqIIqpdWU/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/WyEqIIqpdWU/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/WyEqIIqpdWU/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/WyEqIIqpdWU/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/WyEqIIqpdWU/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "ACAAICOLA",
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Sublingual Immunotherapy (SLIT) (Cox)",
+                "description": "Dr. Linda Cox presents an update on the use of sublingual allergen immunotherapy (SLIT).\nPresented on July 13, 2020."
+            },
+            "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+            "duration": "PT1H3M26S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "442",
+            "likeCount": "6",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

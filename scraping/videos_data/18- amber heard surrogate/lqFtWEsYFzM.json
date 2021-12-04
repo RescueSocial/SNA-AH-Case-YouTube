@@ -1,0 +1,85 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "ht6K9nvlrf2jvnmJIDQ1y33GBD4",
+        "id": "lqFtWEsYFzM",
+        "snippet": {
+            "publishedAt": "2017-05-31T04:22:09Z",
+            "channelId": "UCv18msmM-TjCOi0QwODJUqg",
+            "title": "HMRI Public Seminar - Science Fact or Science Fiction - Luke Hesson 7 October 2016",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/lqFtWEsYFzM/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/lqFtWEsYFzM/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/lqFtWEsYFzM/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/lqFtWEsYFzM/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/lqFtWEsYFzM/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Hunter Medical Research Institute (HMRI)",
+            "tags": [
+                "health",
+                "medical research",
+                "science",
+                "sci-fi",
+                "cloning",
+                "teleportation",
+                "star wars",
+                "star trek",
+                "medicine",
+                "telekinesis",
+                "genetics",
+                "epigenetics"
+            ],
+            "categoryId": "29",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "HMRI Public Seminar - Science Fact or Science Fiction - Luke Hesson 7 October 2016",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT37M34S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "48",
+            "likeCount": "2",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

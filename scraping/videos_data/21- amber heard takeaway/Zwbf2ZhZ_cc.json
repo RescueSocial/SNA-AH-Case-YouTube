@@ -1,0 +1,78 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "KhVILR4qY6hEhzwb-vB9Q5qIQXw",
+        "id": "Zwbf2ZhZ_cc",
+        "snippet": {
+            "publishedAt": "2018-07-24T04:21:00Z",
+            "channelId": "UCz9D4t90tb8B2en9i_ffVeQ",
+            "title": "WFTV Eyewitness News 9 Live Stream",
+            "description": "Live News Schedule:\nMonday - Friday: \n5am - 9am| 12pm - 1pm| 4pm - 6:30pm| 10pm - 11:35pm\nSaturday: \n5am - 9am| 12pm - 12:30pm| 6pm - 6:30pm| 10pm - 11:35pm\nSunday: \n5am - 9am| 12pm - 12:30pm| 6pm - 6:30pm| 10pm - 11:35pm",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/Zwbf2ZhZ_cc/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/Zwbf2ZhZ_cc/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/Zwbf2ZhZ_cc/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/Zwbf2ZhZ_cc/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "WFTV Channel 9",
+            "tags": [
+                "tv news",
+                "live tv",
+                "live news",
+                "orlando",
+                "wesh",
+                "wkmg",
+                "fox 35",
+                "breaking news",
+                "weather",
+                "tom terry"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "WFTV Eyewitness News 9 Live Stream",
+                "description": "Live News Schedule:\nMonday - Friday: \n5am - 9am| 12pm - 1pm| 4pm - 6:30pm| 10pm - 11:35pm\nSaturday: \n5am - 9am| 12pm - 12:30pm| 6pm - 6:30pm| 10pm - 11:35pm\nSunday: \n5am - 9am| 12pm - 12:30pm| 6pm - 6:30pm| 10pm - 11:35pm"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT11H54M31S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "true",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "4981",
+            "likeCount": "30",
+            "dislikeCount": "8",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

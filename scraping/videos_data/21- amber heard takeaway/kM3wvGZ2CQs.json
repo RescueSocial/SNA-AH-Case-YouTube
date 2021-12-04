@@ -1,0 +1,74 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "g6qkoIlmDHTEDaiIx0PzVzyqoRc",
+        "id": "kM3wvGZ2CQs",
+        "snippet": {
+            "publishedAt": "2020-06-17T03:01:47Z",
+            "channelId": "UCKs2wHlsfBPHzr5-4ZSNJ6w",
+            "title": "Produzen Roundtable - \"Discussing Production Guidelines\"",
+            "description": "Produzen Round Table - Tuesday June 16TH, 2020 \nPRODUCTION GUIDELINES\nDISCUSSING THE TRUE IMPACT ON PRODUCTION",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/kM3wvGZ2CQs/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/kM3wvGZ2CQs/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/kM3wvGZ2CQs/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Produzen",
+            "tags": [
+                "produzen",
+                "produzencommunity",
+                "production guidelines",
+                "Film Production",
+                "Commercial Production",
+                "television production",
+                "Covid-19",
+                "#setlife",
+                "production company",
+                "Reopening hollywood"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Produzen Roundtable - \"Discussing Production Guidelines\"",
+                "description": "Produzen Round Table - Tuesday June 16TH, 2020 \nPRODUCTION GUIDELINES\nDISCUSSING THE TRUE IMPACT ON PRODUCTION"
+            },
+            "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+            "duration": "PT57M45S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "249",
+            "likeCount": "2",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

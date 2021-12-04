@@ -1,0 +1,75 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "dbM7GZ5pVsRDI3wWyDgf7INc2gw",
+        "id": "0t_84hyOnFk",
+        "snippet": {
+            "publishedAt": "2017-09-26T12:20:00Z",
+            "channelId": "UCoPiz8byeKY1X2aBQoMjHXw",
+            "title": "L16, G\u00e1bor Cs\u00e1nyi, Machine learning for materials modelling",
+            "description": "Hands-on Workshop Density-Functional Theory and Beyond:\nAccuracy, Efficiency and Reproducibility in Computational Materials Science, Humboldt University, Berlin, Germany, July 31 to August 11, 2017\nMonday, August 7: Machine learning",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/0t_84hyOnFk/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/0t_84hyOnFk/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/0t_84hyOnFk/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/0t_84hyOnFk/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/0t_84hyOnFk/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "fhitheory",
+            "tags": [
+                "DFT",
+                "2017",
+                "hands-on",
+                "workshop",
+                "Berlin"
+            ],
+            "categoryId": "28",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "L16, G\u00e1bor Cs\u00e1nyi, Machine learning for materials modelling",
+                "description": "Hands-on Workshop Density-Functional Theory and Beyond:\nAccuracy, Efficiency and Reproducibility in Computational Materials Science, Humboldt University, Berlin, Germany, July 31 to August 11, 2017\nMonday, August 7: Machine learning"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT50M4S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "1763",
+            "favoriteCount": "0"
+        }
+    }
+]

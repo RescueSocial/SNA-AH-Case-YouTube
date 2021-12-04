@@ -1,0 +1,82 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "Gk87SF3tRHSMjxdE0UJXnCsr8mg",
+        "id": "urgZ5dtxvc8",
+        "snippet": {
+            "publishedAt": "2012-04-30T14:55:33Z",
+            "channelId": "UCCmSK2u1VWVEFFgskdewK5A",
+            "title": "Overview of Beta-Lactamases in Gram Negative Organisms - Yanina Pasikhova, PharmD",
+            "description": "A review of the various resistance mechanisms associated with beta-lactamases in gram negative organisms.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/urgZ5dtxvc8/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/urgZ5dtxvc8/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/urgZ5dtxvc8/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/urgZ5dtxvc8/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/urgZ5dtxvc8/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "IDPodcasts",
+            "tags": [
+                "Gram-negative",
+                "Resistance",
+                "Beta-Lactamases",
+                "USF",
+                "Morsani",
+                "Infectious",
+                "Diseases",
+                "IDPodcasts",
+                "Podcasts"
+            ],
+            "categoryId": "28",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Overview of Beta-Lactamases in Gram Negative Organisms - Yanina Pasikhova, PharmD",
+                "description": "A review of the various resistance mechanisms associated with beta-lactamases in gram negative organisms."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT50M3S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "14092",
+            "likeCount": "108",
+            "dislikeCount": "7",
+            "favoriteCount": "0",
+            "commentCount": "3"
+        }
+    }
+]

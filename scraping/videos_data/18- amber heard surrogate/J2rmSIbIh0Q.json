@@ -1,0 +1,62 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "FWy8ZSJ0J7vsEjZhbhzrwaS-VzY",
+        "id": "J2rmSIbIh0Q",
+        "snippet": {
+            "publishedAt": "2021-08-09T13:51:14Z",
+            "channelId": "UCca9zSt7oR9RINeRyabUK_w",
+            "title": "Advanced Care Planning Zoom Recording",
+            "description": "In this video Hospice and Palliative Medicine fellow, Dr. Ehab Fadhel, presents the importance of advanced care planning.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/J2rmSIbIh0Q/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/J2rmSIbIh0Q/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/J2rmSIbIh0Q/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Larkin Health System",
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Advanced Care Planning Zoom Recording",
+                "description": "In this video Hospice and Palliative Medicine fellow, Dr. Ehab Fadhel, presents the importance of advanced care planning."
+            },
+            "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+            "duration": "PT55M43S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "30",
+            "likeCount": "0",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

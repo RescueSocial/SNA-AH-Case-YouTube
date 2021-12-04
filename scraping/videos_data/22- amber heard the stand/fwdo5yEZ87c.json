@@ -1,0 +1,82 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "hjmU7Eks7E1US5mBh2sNfwUiceg",
+        "id": "fwdo5yEZ87c",
+        "snippet": {
+            "publishedAt": "2021-12-03T14:26:52Z",
+            "channelId": "UCi8xTp2n_C6beNP5pkvbFBA",
+            "title": "Host Awesome Event with Kahoot!",
+            "description": "Watch this 30 minutes webinar and learn all the tips to host awesome events in a hybrid setup.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/fwdo5yEZ87c/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/fwdo5yEZ87c/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/fwdo5yEZ87c/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/fwdo5yEZ87c/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/fwdo5yEZ87c/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Kahoot!",
+            "tags": [
+                "Kahoot!",
+                "kahoot",
+                "learning",
+                "awesome",
+                "fun",
+                "help",
+                "virtual",
+                "hybrid"
+            ],
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Host Awesome Event with Kahoot!",
+                "description": "Watch this 30 minutes webinar and learn all the tips to host awesome events in a hybrid setup."
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT26M44S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "146",
+            "likeCount": "11",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "2"
+        }
+    }
+]

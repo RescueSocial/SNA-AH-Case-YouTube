@@ -1,0 +1,72 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "Fu9USUCij94GuOFG3yL-ZnYyp5M",
+        "id": "K8IozrxRWcA",
+        "snippet": {
+            "publishedAt": "2021-05-21T19:22:31Z",
+            "channelId": "UCpJN7kiUkDrH11p0GQhLyFw",
+            "title": "SUPERDEEP Official US Trailer (2021)",
+            "description": "First trailer for Superdeep.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/K8IozrxRWcA/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/K8IozrxRWcA/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/K8IozrxRWcA/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/K8IozrxRWcA/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/K8IozrxRWcA/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Movie Trailers Source",
+            "categoryId": "1",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "SUPERDEEP Official US Trailer (2021)",
+                "description": "First trailer for Superdeep."
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT1M58S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "223907",
+            "likeCount": "2739",
+            "dislikeCount": "109",
+            "favoriteCount": "0",
+            "commentCount": "244"
+        }
+    }
+]

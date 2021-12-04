@@ -1,0 +1,80 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "A-OvYcOyrNzTDfQvC8VaNfcRqY0",
+        "id": "crNCGNOtb8A",
+        "snippet": {
+            "publishedAt": "2019-01-13T10:42:36Z",
+            "channelId": "UCeAkyM1uDZnclXiEaUl9jJg",
+            "title": "Gully boy_official trailer",
+            "description": "Gully boy trailer",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/crNCGNOtb8A/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/crNCGNOtb8A/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/crNCGNOtb8A/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/crNCGNOtb8A/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/crNCGNOtb8A/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Gitartha vlog",
+            "tags": [
+                "gully boy trailer",
+                "gully boy songs",
+                "gully boy trailer reaction",
+                "gully gang",
+                "gully boy official trailer 2018",
+                "gully boy rap",
+                "gully boy whatsapp status"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Gully boy_official trailer",
+                "description": "Gully boy trailer"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT2M42S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "38",
+            "likeCount": "8",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

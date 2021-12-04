@@ -1,0 +1,74 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "YCbkWPnpprYoqiWhlrImInxr0Bw",
+        "id": "XBwLq8DZdlQ",
+        "snippet": {
+            "publishedAt": "2017-09-13T19:01:08Z",
+            "channelId": "UCOJ7XkxFJgHI8iQbWRePSjQ",
+            "title": "Amber Heard - Cooking (Instagram story 06-19-17)",
+            "description": "Cre\u00e9 este video con el Editor de video de YouTube (http://www.youtube.com/editor)",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/XBwLq8DZdlQ/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/XBwLq8DZdlQ/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/XBwLq8DZdlQ/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/XBwLq8DZdlQ/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/XBwLq8DZdlQ/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "utubenotebanco",
+            "tags": [
+                "Editor de video de YouTube"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Heard - Cooking (Instagram story 06-19-17)",
+                "description": "Cre\u00e9 este video con el Editor de video de YouTube (http://www.youtube.com/editor)"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT32S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "4275",
+            "likeCount": "25",
+            "dislikeCount": "16",
+            "favoriteCount": "0",
+            "commentCount": "2"
+        }
+    }
+]

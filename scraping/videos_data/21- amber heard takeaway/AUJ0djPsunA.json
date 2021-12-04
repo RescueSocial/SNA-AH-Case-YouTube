@@ -1,0 +1,78 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "jGNBNcOUgAtTCe794IMDLfFD3po",
+        "id": "AUJ0djPsunA",
+        "snippet": {
+            "publishedAt": "2015-01-17T07:48:26Z",
+            "channelId": "UC6dVRPnSACav2AYB5XG7BZw",
+            "title": "Backbone Under The Magnifying Glass",
+            "description": "Jason Laster, Software Engineer at Etsy and core Marionette contributor, gives a preview of his 2014 BackboneConf talk. In it, he'll discuss the new Marionette Inspector and how to incorporate it into your development workflow.\n\nSlides: http://mbx.cm/t/YGUSG\n\nJason's 2014 BackboneConf talk: http://goo.gl/0wBdrP\n\nSponsored by: http://www.infor.com\nMarionette.js: http://marionettejs.com\nMarionette Chat Room: https://gitter.im/marionettejs/backbone.marionette\nJason Laster: https://twitter.com/jasonlaster11",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/AUJ0djPsunA/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/AUJ0djPsunA/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/AUJ0djPsunA/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/AUJ0djPsunA/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/AUJ0djPsunA/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "NY JS",
+            "tags": [
+                "JavaScript (Programming Language)",
+                "Web Development (Interest)",
+                "backbone.js",
+                "marionette.js"
+            ],
+            "categoryId": "28",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Backbone Under The Magnifying Glass",
+                "description": "Jason Laster, Software Engineer at Etsy and core Marionette contributor, gives a preview of his 2014 BackboneConf talk. In it, he'll discuss the new Marionette Inspector and how to incorporate it into your development workflow.\n\nSlides: http://mbx.cm/t/YGUSG\n\nJason's 2014 BackboneConf talk: http://goo.gl/0wBdrP\n\nSponsored by: http://www.infor.com\nMarionette.js: http://marionettejs.com\nMarionette Chat Room: https://gitter.im/marionettejs/backbone.marionette\nJason Laster: https://twitter.com/jasonlaster11"
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT25M38S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "661",
+            "likeCount": "3",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

@@ -1,0 +1,83 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "A8oanCsYBy8Y8__cBUe7PkaEBN8",
+        "id": "flErmaiS8hU",
+        "snippet": {
+            "publishedAt": "2017-07-25T10:53:35Z",
+            "channelId": "UCjUIGIp04jSlRU6yjj7eQhw",
+            "title": "22/07/2017 Amber Heard Something Two Brian Taylors Know",
+            "description": ".",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/flErmaiS8hU/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/flErmaiS8hU/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/flErmaiS8hU/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/flErmaiS8hU/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "The YouTube Rub",
+            "tags": [
+                "The Footy Show AFL",
+                "AFL",
+                "Triple M",
+                "Triple M Footy",
+                "Austereo",
+                "James Brayshaw",
+                "Garry Lyon",
+                "Jason Dunstall",
+                "Danny Frawley",
+                "Damian Barrett",
+                "Billy Brownless",
+                "MCG",
+                "Etihad Stadium",
+                "Sam Newman",
+                "triplem.com.au"
+            ],
+            "categoryId": "23",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "22/07/2017 Amber Heard Something Two Brian Taylors Know",
+                "description": "."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT6M15S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "1471",
+            "likeCount": "7",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

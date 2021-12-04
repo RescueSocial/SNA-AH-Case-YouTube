@@ -1,0 +1,63 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "TTXLWZJRUXy_4fHTlpIVHHRQ0XU",
+        "id": "Z1omtf5DD-M",
+        "snippet": {
+            "publishedAt": "2021-10-31T09:55:57Z",
+            "channelId": "UCD0HRGRbXZEA_AFpkgGE-OQ",
+            "title": "Dungeon Daddy (Billionaire Daddies, #3) - Jane Henry",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/Z1omtf5DD-M/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/Z1omtf5DD-M/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/Z1omtf5DD-M/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Cruz",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Dungeon Daddy (Billionaire Daddies, #3) - Jane Henry",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT5H48M37S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {
+                "ytRating": "ytAgeRestricted"
+            },
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "1082",
+            "likeCount": "20",
+            "dislikeCount": "1",
+            "favoriteCount": "0",
+            "commentCount": "1"
+        }
+    }
+]

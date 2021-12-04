@@ -1,0 +1,69 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "9kMUfm1mv43xZVg22ZN1xhTTMTg",
+        "id": "Gkw37HhaH64",
+        "snippet": {
+            "publishedAt": "2015-11-30T15:12:17Z",
+            "channelId": "UCt1M_mIlXA0TvlLIxWJr03Q",
+            "title": "Amber Heard  Hair by Gio Campora",
+            "description": "Amber Heard PRETTY HOT IN WHITE at Whip It Premiere",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/Gkw37HhaH64/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/Gkw37HhaH64/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/Gkw37HhaH64/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/Gkw37HhaH64/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Gio Campora",
+            "tags": [
+                "#hair #fashion #beauty #redcarpet"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Heard  Hair by Gio Campora",
+                "description": "Amber Heard PRETTY HOT IN WHITE at Whip It Premiere"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT2M20S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "150",
+            "likeCount": "0",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

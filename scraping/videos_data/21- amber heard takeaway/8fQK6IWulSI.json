@@ -1,0 +1,71 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "H0Op-ObSRBBKDXUTFyAmeG56CjE",
+        "id": "8fQK6IWulSI",
+        "snippet": {
+            "publishedAt": "2013-12-23T05:55:06Z",
+            "channelId": "UCX0Y091TMRKi8PqNfYoImiw",
+            "title": "973 RAMP - Designing linkages with sketches",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/8fQK6IWulSI/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/8fQK6IWulSI/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/8fQK6IWulSI/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/8fQK6IWulSI/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/8fQK6IWulSI/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "RAMP Greybots",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "973 RAMP - Designing linkages with sketches",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT13M7S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "5240",
+            "likeCount": "50",
+            "dislikeCount": "1",
+            "favoriteCount": "0",
+            "commentCount": "3"
+        }
+    }
+]

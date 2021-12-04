@@ -1,0 +1,72 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "4g1GVqIUTUFwR680yk5lDGfqRo0",
+        "id": "dkaru5SkvUs",
+        "snippet": {
+            "publishedAt": "2020-05-24T14:18:26Z",
+            "channelId": "UCsgjcDF05Xebnco0B-kJ1jg",
+            "title": "Writing, With Karen MacNeil",
+            "description": "With over a million copies sold, Karen MacNeil tops the wine writing charts in the US. Hers was the only book that featured in the Netflix movie, Uncorked. Now she's moved online with virtual tastings.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/dkaru5SkvUs/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/dkaru5SkvUs/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/dkaru5SkvUs/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/dkaru5SkvUs/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/dkaru5SkvUs/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "The Real Business of Wine",
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Writing, With Karen MacNeil",
+                "description": "With over a million copies sold, Karen MacNeil tops the wine writing charts in the US. Hers was the only book that featured in the Netflix movie, Uncorked. Now she's moved online with virtual tastings."
+            },
+            "defaultAudioLanguage": "en-GB"
+        },
+        "contentDetails": {
+            "duration": "PT57M19S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "166",
+            "likeCount": "5",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

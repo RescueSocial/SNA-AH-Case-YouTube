@@ -1,0 +1,79 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "VPJFhvgsKU8oejymLZr1pZFETV0",
+        "id": "50kuqFU_jlw",
+        "snippet": {
+            "publishedAt": "2020-09-18T10:39:08Z",
+            "channelId": "UCAc1vNJMil0PMsuVXbhu8Rw",
+            "title": "Reflections & advice from 2019/20 students",
+            "description": "Our 2019/20 MSc students reflect on their experience at LSHTM and share advice for new students.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/50kuqFU_jlw/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/50kuqFU_jlw/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/50kuqFU_jlw/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/50kuqFU_jlw/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/50kuqFU_jlw/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "LSHTM",
+            "tags": [
+                "lshtm",
+                "london school of hygiene and tropical medicine",
+                "postgraduate",
+                "MSc",
+                "student life"
+            ],
+            "categoryId": "28",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Reflections & advice from 2019/20 students",
+                "description": "Our 2019/20 MSc students reflect on their experience at LSHTM and share advice for new students."
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT5M26S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "true",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": false,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "1266",
+            "likeCount": "26",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "2"
+        }
+    }
+]

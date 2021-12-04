@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "KQGhuxApByypGTHtigRXUJjNB_Q",
+        "id": "yfBsQB3XnbE",
+        "snippet": {
+            "publishedAt": "2020-02-07T18:00:09Z",
+            "channelId": "UC7o6mtiqxc8vfSWHdMt__xQ",
+            "title": "Amber Warners \"The Fierce Humility of Winning\"",
+            "description": "In her 18 years at Calvin, Coach Amber Warners has won three national volleyball championships and has learned many leadership lessons along the way, including the fierce humility in winning.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/yfBsQB3XnbE/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/yfBsQB3XnbE/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/yfBsQB3XnbE/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/yfBsQB3XnbE/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/yfBsQB3XnbE/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "The January Series of Calvin University",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "Amber Warners \"The Fierce Humility of Winning\"",
+                "description": "In her 18 years at Calvin, Coach Amber Warners has won three national volleyball championships and has learned many leadership lessons along the way, including the fierce humility in winning."
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT1H8S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "382",
+            "likeCount": "7",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

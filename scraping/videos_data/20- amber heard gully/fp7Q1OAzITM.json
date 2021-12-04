@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "cVmg1JHauMjyhyhSYSn3bWN-MEY",
+        "id": "fp7Q1OAzITM",
+        "snippet": {
+            "publishedAt": "2011-03-23T12:24:40Z",
+            "channelId": "UCR9MmZ6VylTaF_ELUEpjrjA",
+            "title": "GOT TO GIVE IT UP - MARVIN GAYE",
+            "description": "mobile playable",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/fp7Q1OAzITM/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/fp7Q1OAzITM/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/fp7Q1OAzITM/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "O.E.U. Studios",
+            "tags": [
+                "marvin",
+                "gaye",
+                "got",
+                "to",
+                "give",
+                "it",
+                "up",
+                "1977",
+                "extended",
+                "version"
+            ],
+            "categoryId": "10",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "GOT TO GIVE IT UP - MARVIN GAYE",
+                "description": "mobile playable"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT10M26S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "19291721",
+            "likeCount": "117480",
+            "dislikeCount": "6262",
+            "favoriteCount": "0",
+            "commentCount": "7932"
+        }
+    }
+]

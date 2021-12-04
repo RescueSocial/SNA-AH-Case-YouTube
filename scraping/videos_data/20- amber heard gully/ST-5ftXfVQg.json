@@ -1,0 +1,71 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "wDSp_w6WXVkPnkCbcuthD6qq0jY",
+        "id": "ST-5ftXfVQg",
+        "snippet": {
+            "publishedAt": "2014-02-14T10:33:18Z",
+            "channelId": "UCCEgdmjNMpFUQYA0iGpyVsA",
+            "title": "Interrupting Waitress",
+            "description": "Starring Ann Carr, Michael Hartney, Livia Scott, and Dan Chamberlain\nWritten by Jared Neumark",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/ST-5ftXfVQg/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/ST-5ftXfVQg/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/ST-5ftXfVQg/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/ST-5ftXfVQg/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/ST-5ftXfVQg/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "LegsForDays UCB",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Interrupting Waitress",
+                "description": "Starring Ann Carr, Michael Hartney, Livia Scott, and Dan Chamberlain\nWritten by Jared Neumark"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT5M15S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "571",
+            "likeCount": "4",
+            "dislikeCount": "1",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]
