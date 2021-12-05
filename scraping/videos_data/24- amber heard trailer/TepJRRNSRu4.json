@@ -1,0 +1,66 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "pY-PUr9f9BTyLJ5plJN4u2C_Pmc",
+        "id": "TepJRRNSRu4",
+        "snippet": {
+            "publishedAt": "2013-11-14T10:29:26Z",
+            "channelId": "UCq1mJywKrEA4Hz_T7NoI78Q",
+            "title": "Syrup Official Trailer #1 2013   Amber Heard, Kellan Lutz, Brittany Snow Movie HD",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/TepJRRNSRu4/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/TepJRRNSRu4/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/TepJRRNSRu4/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/TepJRRNSRu4/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Movies Trailers",
+            "categoryId": "1",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Syrup Official Trailer #1 2013   Amber Heard, Kellan Lutz, Brittany Snow Movie HD",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT19S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "599",
+            "likeCount": "1",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

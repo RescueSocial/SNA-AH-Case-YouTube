@@ -1,0 +1,61 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "7_BAjMAvR7CjK5rh0dcqpgD0C3Q",
+        "id": "34oGgWlMTFA",
+        "snippet": {
+            "publishedAt": "2017-11-17T22:10:42Z",
+            "channelId": "UCj6HhiX_MPi9qYNFESy1isw",
+            "title": "Aquaman Movie 2018 Teaser Trailer - Jason Momoa, Amber Heard (Fan trailer)",
+            "description": "Aquaman Movie 2018 Teaser Trailer - Jason Momoa, Amber Heard (Fan trailer) Note | All Rights Reserved by Original Owner.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/34oGgWlMTFA/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/34oGgWlMTFA/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/34oGgWlMTFA/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Movie Trailers Videos filmes",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Aquaman Movie 2018 Teaser Trailer - Jason Momoa, Amber Heard (Fan trailer)",
+                "description": "Aquaman Movie 2018 Teaser Trailer - Jason Momoa, Amber Heard (Fan trailer) Note | All Rights Reserved by Original Owner."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT3M19S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "40",
+            "likeCount": "1",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

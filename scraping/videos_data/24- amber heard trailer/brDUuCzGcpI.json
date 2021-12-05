@@ -1,0 +1,66 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "V45ELHz7ha_o3EuLz7K0opOrg1w",
+        "id": "brDUuCzGcpI",
+        "snippet": {
+            "publishedAt": "2018-10-10T04:24:49Z",
+            "channelId": "UC7tE3V2C_PBHplywOW_5VMA",
+            "title": "London fields HD new (2018) trailer Amber heard movie",
+            "description": "Hollywood pakistan",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/brDUuCzGcpI/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/brDUuCzGcpI/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/brDUuCzGcpI/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/brDUuCzGcpI/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "hollywood pakistan pakistan",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "London fields HD new (2018) trailer Amber heard movie",
+                "description": "Hollywood pakistan"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT1M47S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "92",
+            "likeCount": "0",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

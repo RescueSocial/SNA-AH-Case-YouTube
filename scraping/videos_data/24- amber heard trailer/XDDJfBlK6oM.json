@@ -1,0 +1,81 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "CX4xvRGizyM98dveqY9dVHBofrQ",
+        "id": "XDDJfBlK6oM",
+        "snippet": {
+            "publishedAt": "2010-08-20T10:36:54Z",
+            "channelId": "UCdQtA1TiaEo9a-rn4AmTmIg",
+            "title": "BOBBY VINTON - Sealed With A Kiss",
+            "description": "\"Sealed with a kiss\" interpreted by Bobby Vinton from the Ending of \"All the boys love Mandy Lane\".",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/XDDJfBlK6oM/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/XDDJfBlK6oM/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/XDDJfBlK6oM/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "LiveJukeTube",
+            "tags": [
+                "bobby",
+                "vinton",
+                "sealed",
+                "with",
+                "kiss",
+                "all",
+                "the",
+                "boys",
+                "love",
+                "mandy",
+                "lane",
+                "soundtrack",
+                "2006",
+                "track",
+                "single",
+                "1972",
+                "70s",
+                "seventies"
+            ],
+            "categoryId": "10",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "BOBBY VINTON - Sealed With A Kiss",
+                "description": "\"Sealed with a kiss\" interpreted by Bobby Vinton from the Ending of \"All the boys love Mandy Lane\"."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT2M51S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "941768",
+            "likeCount": "4309",
+            "dislikeCount": "125",
+            "favoriteCount": "0",
+            "commentCount": "269"
+        }
+    }
+]

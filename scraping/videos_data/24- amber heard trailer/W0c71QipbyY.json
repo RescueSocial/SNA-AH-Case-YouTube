@@ -1,0 +1,64 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "CLSsQucuHUw2sNJeI0jftKs1Q_c",
+        "id": "W0c71QipbyY",
+        "snippet": {
+            "publishedAt": "2019-01-18T11:30:55Z",
+            "channelId": "UCzHUPzjcCVJucRRhk3jv2yQ",
+            "title": "AQUAMAN Official Final Trailer 2019   Jason Momoa, Amber Heard Movie",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/W0c71QipbyY/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/W0c71QipbyY/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/W0c71QipbyY/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Movies Trailer Clips",
+            "tags": [
+                "#aquaman #movie #trailer #2019"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "AQUAMAN Official Final Trailer 2019   Jason Momoa, Amber Heard Movie",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT2M42S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "12",
+            "likeCount": "0",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

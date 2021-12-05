@@ -1,0 +1,83 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "r3brtWEN_1hF4tA9CJfUSRmk7wM",
+        "id": "EgS8MtUhCYo",
+        "snippet": {
+            "publishedAt": "2015-05-06T16:55:24Z",
+            "channelId": "UCYCEK7i8Uq-XtFtWolofxFg",
+            "title": "Magic Mike XXL | official trailer UK (2015) Channing Tatum Joe Manganiello Amber Heard",
+            "description": "official trailer for Magic Mike XXL",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/EgS8MtUhCYo/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/EgS8MtUhCYo/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/EgS8MtUhCYo/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/EgS8MtUhCYo/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/EgS8MtUhCYo/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "moviemaniacsDE",
+            "tags": [
+                "film",
+                "movie",
+                "teaser",
+                "moviemaniacs",
+                "Magic Mike XXL",
+                "Official Trailer",
+                "Channing Tatum (Celebrity)",
+                "Amber Heard (Celebrity)",
+                "Matt Bomer (Film Actor)",
+                "Joe Manganiello (Film Director)"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Magic Mike XXL | official trailer UK (2015) Channing Tatum Joe Manganiello Amber Heard",
+                "description": "official trailer for Magic Mike XXL"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT1M58S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": false,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "259701",
+            "likeCount": "513",
+            "dislikeCount": "40",
+            "favoriteCount": "0",
+            "commentCount": "3"
+        }
+    }
+]

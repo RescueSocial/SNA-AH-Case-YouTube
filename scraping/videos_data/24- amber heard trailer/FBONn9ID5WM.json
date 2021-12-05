@@ -1,0 +1,71 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "BB9LYIDSqG3JtcIfjh3ydMrmglc",
+        "id": "FBONn9ID5WM",
+        "snippet": {
+            "publishedAt": "2013-03-14T10:23:04Z",
+            "channelId": "UCujzqF63Fi0QA5VacHrRvrw",
+            "title": "ALL THE BOYS LOVE MANDY LANE - Bande-Annonce (VF)",
+            "description": "Un film de Jonathan Levine\nDisponible en DVD et Blu-ray\nhttp://www.wildside.fr/horreur--fantastique/all-the-boys-love-mandy-lane-29.html",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/FBONn9ID5WM/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/FBONn9ID5WM/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/FBONn9ID5WM/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "wildsidecats",
+            "tags": [
+                "belle",
+                "pure",
+                "convoite",
+                "ranch",
+                "alcool",
+                "drogues",
+                "gun shot",
+                "sexe"
+            ],
+            "categoryId": "1",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "ALL THE BOYS LOVE MANDY LANE - Bande-Annonce (VF)",
+                "description": "Un film de Jonathan Levine\nDisponible en DVD et Blu-ray\nhttp://www.wildside.fr/horreur--fantastique/all-the-boys-love-mandy-lane-29.html"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT1M50S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "44704",
+            "likeCount": "80",
+            "dislikeCount": "7",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

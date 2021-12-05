@@ -1,0 +1,81 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "HJgGrMXM8qmZ3wZhKdAPCqYf-l4",
+        "id": "60wNgkKm8Tc",
+        "snippet": {
+            "publishedAt": "2015-06-02T19:21:17Z",
+            "channelId": "UC0knIoLoY07gMEoB9VODt-A",
+            "title": "AMBER HEARD/SEBASTIAN STAN\\Love injected",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/60wNgkKm8Tc/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/60wNgkKm8Tc/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/60wNgkKm8Tc/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/60wNgkKm8Tc/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/60wNgkKm8Tc/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "\u041c\u043e\u043d\u0430 \u0421\u0430\u043a\u0441",
+            "tags": [
+                "Sebastian Stan",
+                "Amber Heard (Celebrity)",
+                "Amber Heard",
+                "Crime Fiction (TV Genre)",
+                "Love injected",
+                "Have",
+                "You",
+                "Should"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "AMBER HEARD/SEBASTIAN STAN\\Love injected",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT1M26S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "1852",
+            "likeCount": "57",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "2"
+        }
+    }
+]

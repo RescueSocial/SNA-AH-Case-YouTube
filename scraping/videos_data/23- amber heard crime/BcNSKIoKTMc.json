@@ -1,0 +1,61 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "gQupW16LZkPMmk0Pq_bZiI1Ux0c",
+        "id": "BcNSKIoKTMc",
+        "snippet": {
+            "publishedAt": "2021-12-02T13:37:13Z",
+            "channelId": "UCDkcm4rxZMRZnz5U1JHzWwQ",
+            "title": "Summer Wells Searches and Accusations",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/BcNSKIoKTMc/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/BcNSKIoKTMc/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/BcNSKIoKTMc/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "John Davis True Crime",
+            "categoryId": "1",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Summer Wells Searches and Accusations",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT10M38S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "711",
+            "likeCount": "132",
+            "dislikeCount": "4",
+            "favoriteCount": "0",
+            "commentCount": "67"
+        }
+    }
+]

@@ -1,0 +1,71 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "WEXHLjtxN1oZPqQonlaiELRiT2Q",
+        "id": "iTrtAH3aJwI",
+        "snippet": {
+            "publishedAt": "2013-11-12T21:20:58Z",
+            "channelId": "UCTk9Xbgf9iIgoJWf041UqYQ",
+            "title": "The making of great ad campaign",
+            "description": "From the Movie Syrup - Watch it for more",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/iTrtAH3aJwI/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/iTrtAH3aJwI/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/iTrtAH3aJwI/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/iTrtAH3aJwI/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/iTrtAH3aJwI/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Mawuna KOUTONIN",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "The making of great ad campaign",
+                "description": "From the Movie Syrup - Watch it for more"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT4M13S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "5334",
+            "likeCount": "41",
+            "dislikeCount": "2",
+            "favoriteCount": "0",
+            "commentCount": "2"
+        }
+    }
+]
