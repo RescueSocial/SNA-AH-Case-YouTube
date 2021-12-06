@@ -1,0 +1,72 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "n_dp9Kd2PtPM6k2oQ6k0KkCf2HU",
+        "id": "UCNXxJ37jA7N4tlaN9zrBHBA",
+        "snippet": {
+            "title": "movieswithabe",
+            "description": "",
+            "publishedAt": "2008-05-22T06:56:52Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTCpLYmutTfehW1tlnhbiJ94s81qXFTxSlWsZNX=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTCpLYmutTfehW1tlnhbiJ94s81qXFTxSlWsZNX=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTCpLYmutTfehW1tlnhbiJ94s81qXFTxSlWsZNX=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "movieswithabe",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUNXxJ37jA7N4tlaN9zrBHBA"
+            }
+        },
+        "statistics": {
+            "viewCount": "30988",
+            "subscriberCount": "107",
+            "hiddenSubscriberCount": false,
+            "videoCount": "688"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02vxn",
+                "/m/019_rr",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "movieswithabe",
+                "unsubscribedTrailer": "WLKbXHf4txE"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/vFHLzZNb1Nr3bL8B2Dctip2rSW7B_qPtko3z0UH0FExE9gaeYmkThtUIxbpyjyDd4xOnxgyDlrY"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

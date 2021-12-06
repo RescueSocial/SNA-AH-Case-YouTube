@@ -1,0 +1,66 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "m0ALpn8C78AWfZaJGxaEHG_s0i4",
+        "id": "UCA4dzpb_Q_v4HXxrh_MwsaQ",
+        "snippet": {
+            "title": "the hay",
+            "description": "",
+            "publishedAt": "2015-12-06T15:37:32Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTuYl-IFw4zxCgwRlG18mS7E5BIFG0xzkNdkA=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTuYl-IFw4zxCgwRlG18mS7E5BIFG0xzkNdkA=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTuYl-IFw4zxCgwRlG18mS7E5BIFG0xzkNdkA=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "the hay",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUA4dzpb_Q_v4HXxrh_MwsaQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "186856",
+            "subscriberCount": "184",
+            "hiddenSubscriberCount": false,
+            "videoCount": "126"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02vxn",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "the hay"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

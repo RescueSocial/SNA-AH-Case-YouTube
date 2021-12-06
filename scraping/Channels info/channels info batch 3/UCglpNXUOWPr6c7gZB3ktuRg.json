@@ -1,0 +1,66 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "jTJvGjKv5Szo0NHZvnLoQjGcEqc",
+        "id": "UCglpNXUOWPr6c7gZB3ktuRg",
+        "snippet": {
+            "title": "trailer hd",
+            "description": "",
+            "publishedAt": "2017-06-13T05:41:35Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLT9a1GLzpceRiratRFhaSdaGcDSQlFUDV6n8Y9FvQ=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLT9a1GLzpceRiratRFhaSdaGcDSQlFUDV6n8Y9FvQ=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLT9a1GLzpceRiratRFhaSdaGcDSQlFUDV6n8Y9FvQ=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "trailer hd",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUglpNXUOWPr6c7gZB3ktuRg"
+            }
+        },
+        "statistics": {
+            "viewCount": "7103",
+            "subscriberCount": "18",
+            "hiddenSubscriberCount": false,
+            "videoCount": "66"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02vxn",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "trailer hd"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

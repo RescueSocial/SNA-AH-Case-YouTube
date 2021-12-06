@@ -1,0 +1,66 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "-eaE2mzbLn6IiRaAI-4QeKv3Yac",
+        "id": "UCZYV2ss1YPaD6u-yLV_bBdA",
+        "snippet": {
+            "title": "tamour tamoura",
+            "description": "",
+            "publishedAt": "2014-03-01T17:48:05Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLS8IMlvwIGP_ksnlboTEg80JCAwTxpjocjnBA=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLS8IMlvwIGP_ksnlboTEg80JCAwTxpjocjnBA=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLS8IMlvwIGP_ksnlboTEg80JCAwTxpjocjnBA=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "tamour tamoura",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUZYV2ss1YPaD6u-yLV_bBdA"
+            }
+        },
+        "statistics": {
+            "viewCount": "517",
+            "subscriberCount": "1",
+            "hiddenSubscriberCount": false,
+            "videoCount": "5"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02vxn",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "tamour tamoura"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

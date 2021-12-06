@@ -1,0 +1,74 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "9glSGzjZr5R5jiAxORrqh2ihDG8",
+        "id": "UCGdHC5UYOMMX9-m0BlhxEfQ",
+        "snippet": {
+            "title": "Top You Like",
+            "description": "",
+            "publishedAt": "2019-09-18T03:28:26Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/p8olL3pqgmscypZ8skfISs9FkFSFELb09H-1DsgYGozUcZ2IYVl4cxrbPSxN70Vq5kDRwlTify0=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/p8olL3pqgmscypZ8skfISs9FkFSFELb09H-1DsgYGozUcZ2IYVl4cxrbPSxN70Vq5kDRwlTify0=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/p8olL3pqgmscypZ8skfISs9FkFSFELb09H-1DsgYGozUcZ2IYVl4cxrbPSxN70Vq5kDRwlTify0=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Top You Like",
+                "description": ""
+            },
+            "country": "IN"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUGdHC5UYOMMX9-m0BlhxEfQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "512016",
+            "subscriberCount": "4140",
+            "hiddenSubscriberCount": false,
+            "videoCount": "78"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr",
+                "/m/03glg",
+                "/m/019_rr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society",
+                "https://en.wikipedia.org/wiki/Hobby",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Top You Like",
+                "country": "IN"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/jNMG-lKMzfqx1IMX4-TyxbzwFGaFppb_CLh2y-Z4brKzD4oWvEaI7oIJuOIQeS3rTpl81fq6uw"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

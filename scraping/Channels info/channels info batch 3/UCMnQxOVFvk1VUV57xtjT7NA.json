@@ -1,0 +1,66 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "uKizsKmf0nwj-kOkQY-zOlImMaA",
+        "id": "UCMnQxOVFvk1VUV57xtjT7NA",
+        "snippet": {
+            "title": "Perfectly Perfect",
+            "description": "",
+            "publishedAt": "2021-04-05T15:10:17.894105Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLR4-9CrioycKZgvkMiQROXj_2P9I2do_ImqZA=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLR4-9CrioycKZgvkMiQROXj_2P9I2do_ImqZA=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLR4-9CrioycKZgvkMiQROXj_2P9I2do_ImqZA=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Perfectly Perfect",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUMnQxOVFvk1VUV57xtjT7NA"
+            }
+        },
+        "statistics": {
+            "viewCount": "11955",
+            "subscriberCount": "44",
+            "hiddenSubscriberCount": false,
+            "videoCount": "21"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Perfectly Perfect"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

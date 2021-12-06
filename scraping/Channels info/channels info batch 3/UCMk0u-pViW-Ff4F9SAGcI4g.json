@@ -1,0 +1,74 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "v3MWVL2RjZMv2FvweB875JLEe9A",
+        "id": "UCMk0u-pViW-Ff4F9SAGcI4g",
+        "snippet": {
+            "title": "Mike Majlak Vlogs",
+            "description": "",
+            "customUrl": "mikemajlakvlogs",
+            "publishedAt": "2010-10-04T22:20:22Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRslisqYzSEB3dwtK6lD1QjsM1uxrRwoiKdjCj3uQ=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRslisqYzSEB3dwtK6lD1QjsM1uxrRwoiKdjCj3uQ=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRslisqYzSEB3dwtK6lD1QjsM1uxrRwoiKdjCj3uQ=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Mike Majlak Vlogs",
+                "description": ""
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUMk0u-pViW-Ff4F9SAGcI4g"
+            }
+        },
+        "statistics": {
+            "viewCount": "276476777",
+            "subscriberCount": "2500000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "130"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/019_rr",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Mike Majlak Vlogs",
+                "keywords": "\"the night shift\" \"mike majlak\" \"logan paul\" impaulsive",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/Q24ux10EWA5Ku-AkX5nn9myRWS8pan_MmrbgKZh3aP5qYEpkD3CF7lxWOXyCev-qL-m-kRxIYw"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

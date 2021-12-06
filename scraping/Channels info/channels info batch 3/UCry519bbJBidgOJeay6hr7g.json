@@ -1,0 +1,68 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "dHvTpdLpmBSSOlFbdnG1qpNCKEU",
+        "id": "UCry519bbJBidgOJeay6hr7g",
+        "snippet": {
+            "title": "NEWS 4 YOU",
+            "description": "",
+            "customUrl": "news4you24",
+            "publishedAt": "2017-12-29T05:55:49Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSWrA0swaaOBshGA5qcVXsiTOiMCwSKjSqs5ieoWA=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSWrA0swaaOBshGA5qcVXsiTOiMCwSKjSqs5ieoWA=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSWrA0swaaOBshGA5qcVXsiTOiMCwSKjSqs5ieoWA=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "NEWS 4 YOU",
+                "description": ""
+            },
+            "country": "IN"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUry519bbJBidgOJeay6hr7g"
+            }
+        },
+        "statistics": {
+            "viewCount": "94239",
+            "hiddenSubscriberCount": true,
+            "videoCount": "194"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "NEWS 4 YOU",
+                "country": "IN"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

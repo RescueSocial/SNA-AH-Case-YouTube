@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "qvTJSnu6yIK5biIRgB8P3dkh9z4",
+        "id": "UCOJ7XkxFJgHI8iQbWRePSjQ",
+        "snippet": {
+            "title": "utubenotebanco",
+            "description": "A little bit of everying.",
+            "publishedAt": "2008-03-20T19:57:48Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTV7yk6rwjKGv3FuJLkXCuhZbSTtvL6zxM82g=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTV7yk6rwjKGv3FuJLkXCuhZbSTtvL6zxM82g=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTV7yk6rwjKGv3FuJLkXCuhZbSTtvL6zxM82g=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "utubenotebanco",
+                "description": "A little bit of everying."
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUOJ7XkxFJgHI8iQbWRePSjQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "6293584",
+            "subscriberCount": "15900",
+            "hiddenSubscriberCount": false,
+            "videoCount": "233"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/019_rr",
+                "/m/04rlf"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                "https://en.wikipedia.org/wiki/Music"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "utubenotebanco",
+                "description": "A little bit of everying."
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/dusVtOn0DdNbA4VMwPyd8kqI9jw0mhukQtTIqH9T5RM2dzafuAdcabCKkiPnouo4u3M8Mej1"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

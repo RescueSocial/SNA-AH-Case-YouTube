@@ -1,0 +1,72 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "zA-oCHzwFdgMm47d8Qyh0rWQhDk",
+        "id": "UC5XRLfmVeelgbM2yR9P_KvA",
+        "snippet": {
+            "title": "JM",
+            "description": "I have a channel with random content....\nWelcome!",
+            "customUrl": "jm2003",
+            "publishedAt": "2014-10-12T15:22:32Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTLurthk-g0HAlSfRpaOObWp2f29dNjeYe2UGkSM_Y=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTLurthk-g0HAlSfRpaOObWp2f29dNjeYe2UGkSM_Y=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTLurthk-g0HAlSfRpaOObWp2f29dNjeYe2UGkSM_Y=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "JM",
+                "description": "I have a channel with random content....\nWelcome!"
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU5XRLfmVeelgbM2yR9P_KvA"
+            }
+        },
+        "statistics": {
+            "viewCount": "409490",
+            "hiddenSubscriberCount": true,
+            "videoCount": "8"
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "JM",
+                "description": "I have a channel with random content....\nWelcome!",
+                "keywords": "JM",
+                "moderateComments": true,
+                "defaultLanguage": "en",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/2kNulJY1cxxA2ENeaCU2Kj6V51yD86G2sZ6GfT4gNG5YJlxJARCK6ZksnYjRxHNtTD_JM5Vpew"
+            }
+        },
+        "contentOwnerDetails": {},
+        "localizations": {
+            "en_US": {
+                "title": "JM",
+                "description": "I have a channel with random content....\nWelcome!"
+            }
+        }
+    }
+]

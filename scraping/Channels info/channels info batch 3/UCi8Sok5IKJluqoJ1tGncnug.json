@@ -1,0 +1,66 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "4_Lczk8Za9ziCK7TcKCyQhYTaUQ",
+        "id": "UCi8Sok5IKJluqoJ1tGncnug",
+        "snippet": {
+            "title": "BIG media",
+            "description": "",
+            "publishedAt": "2020-10-24T13:20:53.806475Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQRE14S-b1kGTQCe7qZO8sEj86mrtaS7IkoGpJj=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQRE14S-b1kGTQCe7qZO8sEj86mrtaS7IkoGpJj=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQRE14S-b1kGTQCe7qZO8sEj86mrtaS7IkoGpJj=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "BIG media",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUi8Sok5IKJluqoJ1tGncnug"
+            }
+        },
+        "statistics": {
+            "viewCount": "436",
+            "subscriberCount": "1",
+            "hiddenSubscriberCount": false,
+            "videoCount": "32"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02vxn",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "BIG media"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "ExT1Y8KGLdyBO2TRKFLjE_woS94",
+        "id": "UCb_vq0JLFH01ajN5GaeTa4A",
+        "snippet": {
+            "title": "In The Box Movies",
+            "description": "",
+            "publishedAt": "2021-01-19T18:03:01.139718Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQZnUuesUfvPcaHswVhKVAs1yI9LvI7D0c8qHSF=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQZnUuesUfvPcaHswVhKVAs1yI9LvI7D0c8qHSF=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQZnUuesUfvPcaHswVhKVAs1yI9LvI7D0c8qHSF=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "In The Box Movies",
+                "description": ""
+            },
+            "country": "NG"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUb_vq0JLFH01ajN5GaeTa4A"
+            }
+        },
+        "statistics": {
+            "viewCount": "5947",
+            "subscriberCount": "35",
+            "hiddenSubscriberCount": false,
+            "videoCount": "213"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02vxn",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "In The Box Movies",
+                "keywords": "Movies Upcoming ComingSoon horror comedy \"action movies\" Thriller \"Horror films\" \"Animated Movies\" \"Adventure Movies\" \"Sci-Fi Movies\" \"Crime Movies\" \"Trailer Movies\" \"Romance Movies\" \"official Trailer\"",
+                "country": "NG"
+            },
+            "image": {
+                "bannerExternalUrl": "http://yt3.ggpht.com/0frz0gLr5RpAN9HttzQdZ3Qok9eAkLSLGrx4TM3lPTrzlYDZgrZKbtJmC8RW4JLIx0BRC2oc"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

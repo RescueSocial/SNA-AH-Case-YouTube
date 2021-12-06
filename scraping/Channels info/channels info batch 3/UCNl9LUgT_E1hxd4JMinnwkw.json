@@ -1,0 +1,77 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "4UmsAdok_66GSXbSFYs34ENIKbg",
+        "id": "UCNl9LUgT_E1hxd4JMinnwkw",
+        "snippet": {
+            "title": "Taste of Country",
+            "description": "Country Music Served Fresh Daily",
+            "customUrl": "tasteofcountrymusic",
+            "publishedAt": "2011-03-10T18:29:44Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRnb-fejRVFACILFJrfjNSspRgKHmhPUeBSNjyWJg=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRnb-fejRVFACILFJrfjNSspRgKHmhPUeBSNjyWJg=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRnb-fejRVFACILFJrfjNSspRgKHmhPUeBSNjyWJg=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Taste of Country",
+                "description": "Country Music Served Fresh Daily"
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUNl9LUgT_E1hxd4JMinnwkw"
+            }
+        },
+        "statistics": {
+            "viewCount": "254667491",
+            "subscriberCount": "566000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "2644"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/01lyv",
+                "/m/02jjt",
+                "/m/04rlf"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Country_music",
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Music"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Taste of Country",
+                "description": "Country Music Served Fresh Daily",
+                "keywords": "\"Taste of Country Music\" \"Country Music\" \"Music Festival\" TOC \"Country Music News\" \"New Country Music\" \"Country Music Playlists\" \"music videos\" \"celebrity news\" gossip",
+                "trackingAnalyticsAccountId": "UA-19109753-6",
+                "unsubscribedTrailer": "A7hOuiaDwLI"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/nG8xWJg4m36TYa1FEe6hH9k-1Kw5ooSjwkQArKdrK7PQgzSlMlMPVl55cmN_78RQtm27L7qP"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

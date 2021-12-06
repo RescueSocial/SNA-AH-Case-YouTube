@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "if4qGcXBk5xdaKg1lQFTI71AHJc",
+        "id": "UCMscWako8oDvpdF4pppku-g",
+        "snippet": {
+            "title": "CBS 8 San Diego",
+            "description": "News 8 and CBS8.com is the local source for San Diego breaking news and top story headlines. Get the latest local San Diego TV news, sports, weather & traffic - KFMB Channel 8, San Diego, California.",
+            "customUrl": "cbs8sandiego",
+            "publishedAt": "2007-10-03T20:56:51Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRJSUbN9B3wrHrGoUJQedG2SgfjMtdu4jXKLeHTOys=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRJSUbN9B3wrHrGoUJQedG2SgfjMtdu4jXKLeHTOys=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRJSUbN9B3wrHrGoUJQedG2SgfjMtdu4jXKLeHTOys=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "CBS 8 San Diego",
+                "description": "News 8 and CBS8.com is the local source for San Diego breaking news and top story headlines. Get the latest local San Diego TV news, sports, weather & traffic - KFMB Channel 8, San Diego, California."
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUMscWako8oDvpdF4pppku-g"
+            }
+        },
+        "statistics": {
+            "viewCount": "95583174",
+            "subscriberCount": "99400",
+            "hiddenSubscriberCount": false,
+            "videoCount": "17326"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "CBS 8 San Diego",
+                "description": "News 8 and CBS8.com is the local source for San Diego breaking news and top story headlines. Get the latest local San Diego TV news, sports, weather & traffic - KFMB Channel 8, San Diego, California.",
+                "keywords": "\"SD news San Diego TV news\" news8 cbs8 \"ch 8\" san diego news kfmb television tegna",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/0erZj8LeovAPgAPYluKu-wMyK6wsHyUNgzeQd5cls7_mNAmpXXxDH8mkerW5CZjc_Slqbf7F"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

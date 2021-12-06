@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "GYlKTcISGNkUkuKh14H5-QDUEVU",
+        "id": "UC7-E5xhZBZdW-8d7V80mzfg",
+        "snippet": {
+            "title": "Jenny Nicholson",
+            "description": "",
+            "customUrl": "jennynicholson",
+            "publishedAt": "2009-04-03T05:51:22Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRRiaA89pjC-YRa77FzezNqViBUSLrK4-i2HuONWw=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRRiaA89pjC-YRa77FzezNqViBUSLrK4-i2HuONWw=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRRiaA89pjC-YRa77FzezNqViBUSLrK4-i2HuONWw=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Jenny Nicholson",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU7-E5xhZBZdW-8d7V80mzfg"
+            }
+        },
+        "statistics": {
+            "viewCount": "108884363",
+            "subscriberCount": "856000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "109"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/019_rr",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Jenny Nicholson",
+                "keywords": "Jenny Nicholson",
+                "moderateComments": true
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/CNahXURoSYOxS96VTYY_ake7WtsSDdjdt3UXKwWu26PKifCD8Q4CFtfpRM8VqLqrY6KhIeyI"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

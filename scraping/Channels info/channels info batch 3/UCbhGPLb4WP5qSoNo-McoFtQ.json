@@ -1,0 +1,66 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "-a99stcKLM47knlnv7z-ntTEUjw",
+        "id": "UCbhGPLb4WP5qSoNo-McoFtQ",
+        "snippet": {
+            "title": "Trailer Film Word",
+            "description": "",
+            "publishedAt": "2021-05-24T02:02:38.380315Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTEBjO3V1KKhFud6WN8NH19v6-lV-Wg4ia6Y-EZkM_bsTO2DkdFX5WZaGbol_e6=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTEBjO3V1KKhFud6WN8NH19v6-lV-Wg4ia6Y-EZkM_bsTO2DkdFX5WZaGbol_e6=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTEBjO3V1KKhFud6WN8NH19v6-lV-Wg4ia6Y-EZkM_bsTO2DkdFX5WZaGbol_e6=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Trailer Film Word",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUbhGPLb4WP5qSoNo-McoFtQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "225",
+            "subscriberCount": "0",
+            "hiddenSubscriberCount": false,
+            "videoCount": "2"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02vxn",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Trailer Film Word"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

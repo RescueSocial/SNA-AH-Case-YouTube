@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "_EK3_A9Ng1H2TNq--ZGMngs2pdc",
+        "id": "UCXfNn1EQd-HTKC5RWTU_vtg",
+        "snippet": {
+            "title": "PREVIEW",
+            "description": "Movie Trailer",
+            "publishedAt": "2015-10-31T22:54:23Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/Obo7HF7BMZB1Ntc47RIUrUoXmNHudNGzTNOr_6LRuV67Xo8cbl9eJu-WX38fuHwiNfjXspJi=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/Obo7HF7BMZB1Ntc47RIUrUoXmNHudNGzTNOr_6LRuV67Xo8cbl9eJu-WX38fuHwiNfjXspJi=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/Obo7HF7BMZB1Ntc47RIUrUoXmNHudNGzTNOr_6LRuV67Xo8cbl9eJu-WX38fuHwiNfjXspJi=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "PREVIEW",
+                "description": "Movie Trailer"
+            },
+            "country": "CA"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUXfNn1EQd-HTKC5RWTU_vtg"
+            }
+        },
+        "statistics": {
+            "viewCount": "411",
+            "subscriberCount": "2",
+            "hiddenSubscriberCount": false,
+            "videoCount": "35"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02vxn",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "PREVIEW",
+                "description": "Movie Trailer",
+                "keywords": "www.youtube.com/faceback",
+                "country": "CA"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/glcSItlvMZUd8i6M2_-wLXzRGqKTpli6zRLXo__N-G9TTvHsBWOUKjy5ItlFHFdFBwEW0R7fcps"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

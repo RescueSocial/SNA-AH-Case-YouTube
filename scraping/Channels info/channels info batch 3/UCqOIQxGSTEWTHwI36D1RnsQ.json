@@ -1,0 +1,64 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "8wqOQUDb60pgMJoPDlsSTSzGdms",
+        "id": "UCqOIQxGSTEWTHwI36D1RnsQ",
+        "snippet": {
+            "title": "Nature cyber",
+            "description": "",
+            "publishedAt": "2017-11-12T08:42:18Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/TyaDyQ5aDFkCpoBVdjAB36dWT0PI9KWDuQEM9J0vKM8CGPnFbIbG9Pf7KCZr0MfMV2_PWIC9=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/TyaDyQ5aDFkCpoBVdjAB36dWT0PI9KWDuQEM9J0vKM8CGPnFbIbG9Pf7KCZr0MfMV2_PWIC9=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/TyaDyQ5aDFkCpoBVdjAB36dWT0PI9KWDuQEM9J0vKM8CGPnFbIbG9Pf7KCZr0MfMV2_PWIC9=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Nature cyber",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUqOIQxGSTEWTHwI36D1RnsQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "5486",
+            "subscriberCount": "42",
+            "hiddenSubscriberCount": false,
+            "videoCount": "3"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/04rlf"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Music"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Nature cyber"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

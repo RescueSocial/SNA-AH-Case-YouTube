@@ -1,0 +1,69 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "rUJObrlx8NaUK6wHUDuPxmx-Aaw",
+        "id": "UCt1M_mIlXA0TvlLIxWJr03Q",
+        "snippet": {
+            "title": "Gio Campora",
+            "description": "",
+            "publishedAt": "2007-03-27T13:14:31Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTDvZqW8HwSaqzCFl75PTuZuPqPp3DP-i3ctNAX9Q=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTDvZqW8HwSaqzCFl75PTuZuPqPp3DP-i3ctNAX9Q=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTDvZqW8HwSaqzCFl75PTuZuPqPp3DP-i3ctNAX9Q=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Gio Campora",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUt1M_mIlXA0TvlLIxWJr03Q"
+            }
+        },
+        "statistics": {
+            "viewCount": "25005",
+            "subscriberCount": "16",
+            "hiddenSubscriberCount": false,
+            "videoCount": "39"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/019_rr",
+                "/m/032tl"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                "https://en.wikipedia.org/wiki/Fashion"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Gio Campora"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/ukipDPn256fsjIZWCEmwpcQki9QDRhIQHmYa5a0ghm0qKi8JN_clI2jlStzdW4_i0MM7R-J9mw"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

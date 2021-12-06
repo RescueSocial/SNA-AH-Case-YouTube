@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "URzIPDXXynN6MRQZngmS_4UDxXI",
+        "id": "UCNJ5huePedGmDrTLIUDbA8Q",
+        "snippet": {
+            "title": "NOW Toronto",
+            "description": "JESUS WILL ALWAYS BE MY NUMBER ONE",
+            "publishedAt": "2008-11-03T23:21:46Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSETbpREyhNqYTH-SL2PPIa7KFvBbB13D7q9J-m=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSETbpREyhNqYTH-SL2PPIa7KFvBbB13D7q9J-m=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSETbpREyhNqYTH-SL2PPIa7KFvBbB13D7q9J-m=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "NOW Toronto",
+                "description": "JESUS WILL ALWAYS BE MY NUMBER ONE"
+            },
+            "country": "VN"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUNJ5huePedGmDrTLIUDbA8Q"
+            }
+        },
+        "statistics": {
+            "viewCount": "1209330",
+            "subscriberCount": "3570",
+            "hiddenSubscriberCount": false,
+            "videoCount": "3972"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/05qt0",
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Politics",
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "NOW Toronto",
+                "description": "JESUS WILL ALWAYS BE MY NUMBER ONE",
+                "country": "VN"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/HAv8VVssqbLTcc8tedzwHc5aavzHNB52o15XvbdNvRMkb2anZyQkOirffQyKyPqIwKB3o1DhvTk"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

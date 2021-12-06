@@ -1,0 +1,66 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "xSl8-UthX1a8oC-x9h58mcRWlYE",
+        "id": "UCqi5-L83BIVmnp-0psdZFnA",
+        "snippet": {
+            "title": "aidan start movie",
+            "description": "",
+            "publishedAt": "2016-12-29T22:47:09Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRXn2xhuUgEvUooQE_JCUyFc-_GSvCGsSgeew=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRXn2xhuUgEvUooQE_JCUyFc-_GSvCGsSgeew=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRXn2xhuUgEvUooQE_JCUyFc-_GSvCGsSgeew=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "aidan start movie",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUqi5-L83BIVmnp-0psdZFnA"
+            }
+        },
+        "statistics": {
+            "viewCount": "23291",
+            "subscriberCount": "60",
+            "hiddenSubscriberCount": false,
+            "videoCount": "2"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "aidan start movie"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

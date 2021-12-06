@@ -1,0 +1,75 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "49QHiiYFanyaiPb5mYO7qD5-gd0",
+        "id": "UCsg_1BR_T7dZiDj4Uzk2XKg",
+        "snippet": {
+            "title": "Biley Studios",
+            "description": "",
+            "customUrl": "bileystudios",
+            "publishedAt": "2020-07-02T05:30:41.039725Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRutdDFkibQVsOrYPN1J64zUVwvV8jhvCU_Xvgp=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRutdDFkibQVsOrYPN1J64zUVwvV8jhvCU_Xvgp=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRutdDFkibQVsOrYPN1J64zUVwvV8jhvCU_Xvgp=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Biley Studios",
+                "description": ""
+            },
+            "country": "IN"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUsg_1BR_T7dZiDj4Uzk2XKg"
+            }
+        },
+        "statistics": {
+            "viewCount": "2952371",
+            "subscriberCount": "1210",
+            "hiddenSubscriberCount": false,
+            "videoCount": "362"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02vxn",
+                "/m/019_rr",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Biley Studios",
+                "keywords": "movie \"english movie\" \"action movie\" \"hollywood movie\" \"horror movie\" \"sci-fi movie\" \"animation movie\" \"thriller movie\" \"movie clips\" \"movie scene\" \"fight scene\"",
+                "country": "IN"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/D0dk9wKbfkd6xwhdg8vu5a9fdgVYdmmRSeiJ_o65RtB7BBIg6ZgTHF-Px0WU5xLjrHXNfo-o"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

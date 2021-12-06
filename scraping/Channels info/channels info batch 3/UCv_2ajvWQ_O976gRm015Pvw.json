@@ -1,0 +1,75 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "cOr2g5GDCrY1jFMCMSfmNugSvJc",
+        "id": "UCv_2ajvWQ_O976gRm015Pvw",
+        "snippet": {
+            "title": "Hollywood Latest Trailer",
+            "description": "",
+            "publishedAt": "2018-07-10T20:19:56Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQYTG5qMHIbBBjtSk87OBkRX4BLKz0y5rF6oCs=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQYTG5qMHIbBBjtSk87OBkRX4BLKz0y5rF6oCs=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQYTG5qMHIbBBjtSk87OBkRX4BLKz0y5rF6oCs=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Hollywood Latest Trailer",
+                "description": ""
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUv_2ajvWQ_O976gRm015Pvw"
+            }
+        },
+        "statistics": {
+            "viewCount": "395571",
+            "subscriberCount": "433",
+            "hiddenSubscriberCount": false,
+            "videoCount": "42"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02vxn",
+                "/m/02jjt",
+                "/m/0f2f9"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Television_program"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Hollywood Latest Trailer",
+                "keywords": "\"hollywood trailer\" \"hollywood latest trailer\" \"latest trailer\"",
+                "unsubscribedTrailer": "tQrAmnCkNrA",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/XPIVLZZeTVWYvFum__w1kPRqZi-OE_2AiVt_OrWRmslJuwiXDsPrb-z_hQ_ofCP-9Jd4QbkD_xw"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

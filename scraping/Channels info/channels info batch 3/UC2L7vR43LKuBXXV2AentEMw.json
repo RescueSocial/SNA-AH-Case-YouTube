@@ -1,0 +1,76 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "yuYI_sRmb2Dkk9ApaJP83TPEgk8",
+        "id": "UC2L7vR43LKuBXXV2AentEMw",
+        "snippet": {
+            "title": "Luke's English Podcast",
+            "description": "An award-winning podcast for learners of English, since 2009.",
+            "customUrl": "lukesenglishpodcast",
+            "publishedAt": "2009-04-13T13:15:45Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRr_X-sG5bBCHEkd6Hdjnj5KfRF1_DGIAwUTic0Gw=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRr_X-sG5bBCHEkd6Hdjnj5KfRF1_DGIAwUTic0Gw=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRr_X-sG5bBCHEkd6Hdjnj5KfRF1_DGIAwUTic0Gw=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Luke's English Podcast",
+                "description": "An award-winning podcast for learners of English, since 2009."
+            },
+            "country": "GB"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU2L7vR43LKuBXXV2AentEMw"
+            }
+        },
+        "statistics": {
+            "viewCount": "9800263",
+            "subscriberCount": "233000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "310"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/01k8wb",
+                "/m/019_rr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Knowledge",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Luke's English Podcast",
+                "description": "An award-winning podcast for learners of English, since 2009.",
+                "keywords": "british english learning study tefl",
+                "unsubscribedTrailer": "b476zEQ1e7I",
+                "country": "GB"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/PmzLU44bP_RoVE9CA-bdcUieNX5iFJK0ZfYi_vxLG-A8ykcmdtJVTRPr5cVXw4mnTdkMpHq67g"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

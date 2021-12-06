@@ -1,0 +1,67 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "IOjQAMuGp2LgbtPIYMwpzJpxPBI",
+        "id": "UCyKtQVHyq5fZcyW4E9ZqH6g",
+        "snippet": {
+            "title": "Alex Hillier",
+            "description": "",
+            "publishedAt": "2016-08-10T14:25:16Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRxDAeBrarFgoFhx9FkIs3HGGzyD49BimOufjFAqw=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRxDAeBrarFgoFhx9FkIs3HGGzyD49BimOufjFAqw=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRxDAeBrarFgoFhx9FkIs3HGGzyD49BimOufjFAqw=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Alex Hillier",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUyKtQVHyq5fZcyW4E9ZqH6g"
+            }
+        },
+        "statistics": {
+            "viewCount": "580",
+            "subscriberCount": "3",
+            "hiddenSubscriberCount": false,
+            "videoCount": "3"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/04rlf"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Music"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Alex Hillier"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/Hv4aUqTKoHSkckZhauYeT-VcU-L_3stwAXXyjZSfEAGlUTCg0GjG2BLFWD_PyaEfifWXgHrU"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

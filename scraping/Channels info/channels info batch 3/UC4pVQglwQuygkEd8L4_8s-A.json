@@ -1,0 +1,74 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "ca101G3sWEJVk-_BMXhiNz0an9o",
+        "id": "UC4pVQglwQuygkEd8L4_8s-A",
+        "snippet": {
+            "title": "MT Media",
+            "description": "",
+            "publishedAt": "2019-06-20T07:19:53Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQVwjJqwuAtrqYVtVla92RoTBmaw00Th9PjtwTTag=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQVwjJqwuAtrqYVtVla92RoTBmaw00Th9PjtwTTag=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQVwjJqwuAtrqYVtVla92RoTBmaw00Th9PjtwTTag=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "MT Media",
+                "description": ""
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU4pVQglwQuygkEd8L4_8s-A"
+            }
+        },
+        "statistics": {
+            "viewCount": "4113163",
+            "subscriberCount": "37100",
+            "hiddenSubscriberCount": false,
+            "videoCount": "3854"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr",
+                "/m/02jjt",
+                "/m/019_rr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society",
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "MT Media",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/gMqe3Jgw690IjDxoXP17ItQ1RC_f7wCpHe5ChZoqc2gYrhS7sma-3XqGIN88P3hBa4y88Oe1oQ"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "DZbLGcdvPkGYFw75F39_WkytAV4",
+        "id": "UCdQtA1TiaEo9a-rn4AmTmIg",
+        "snippet": {
+            "title": "LiveJukeTube",
+            "description": "",
+            "publishedAt": "2010-06-14T12:54:25Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTg0IHlyLgqRVAgLeKwIyA5sLL7QM6y2aTRLlCX=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTg0IHlyLgqRVAgLeKwIyA5sLL7QM6y2aTRLlCX=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTg0IHlyLgqRVAgLeKwIyA5sLL7QM6y2aTRLlCX=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "LiveJukeTube",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUdQtA1TiaEo9a-rn4AmTmIg"
+            }
+        },
+        "statistics": {
+            "viewCount": "4132049",
+            "subscriberCount": "1980",
+            "hiddenSubscriberCount": false,
+            "videoCount": "221"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/04rlf",
+                "/m/05rwpb",
+                "/m/064t9",
+                "/m/06by7"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Music",
+                "https://en.wikipedia.org/wiki/Independent_music",
+                "https://en.wikipedia.org/wiki/Pop_music",
+                "https://en.wikipedia.org/wiki/Rock_music"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "LiveJukeTube",
+                "keywords": "the live juke tube music channel genre alternative indie rock electro pop bands festivals concerts"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/LsBGZoD71VxZe0RqDH7LPZR2sobfRaNThFl9pcvypcwFrnk1uAl1gkcCbjULY_5GkoHekb3N"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

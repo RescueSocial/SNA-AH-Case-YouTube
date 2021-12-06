@@ -1,0 +1,72 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "jiVGha_gYP_VCIeCKQ-f8b4WCrI",
+        "id": "UCW_u8kvFNHh5EQCKQdJ3L0w",
+        "snippet": {
+            "title": "lyubaja",
+            "description": "",
+            "publishedAt": "2010-11-04T20:03:31Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSEZwHp07_qUDKOcvsz8g_QGf-z4aqzRcNO15eG=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSEZwHp07_qUDKOcvsz8g_QGf-z4aqzRcNO15eG=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSEZwHp07_qUDKOcvsz8g_QGf-z4aqzRcNO15eG=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "lyubaja",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUW_u8kvFNHh5EQCKQdJ3L0w"
+            }
+        },
+        "statistics": {
+            "viewCount": "6528",
+            "subscriberCount": "3",
+            "hiddenSubscriberCount": false,
+            "videoCount": "11"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/04rlf",
+                "/m/06by7",
+                "/m/064t9"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Music",
+                "https://en.wikipedia.org/wiki/Rock_music",
+                "https://en.wikipedia.org/wiki/Pop_music"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "lyubaja",
+                "moderateComments": true
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/rIpCTqxUG0WdtYt9GjEFDdqBTwN7sZ3vG3SOpURd9iv1O9nPYCIbHQaSZ3gsimmWKwx246M3"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

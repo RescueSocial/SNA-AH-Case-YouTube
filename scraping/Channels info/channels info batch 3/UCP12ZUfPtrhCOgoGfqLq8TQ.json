@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "SENqpBb9LbKWBFHEB__8TTHrE_g",
+        "id": "UCP12ZUfPtrhCOgoGfqLq8TQ",
+        "snippet": {
+            "title": "Royal Family & Star",
+            "description": "",
+            "publishedAt": "2018-09-28T00:30:18Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/jd3--3KhwaxIM1OKIvyyIzh_tgPp8yk4V5GeXFmaT0CTPsGL_hDTbnkg7d353HbIF7elZTbm8a4=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/jd3--3KhwaxIM1OKIvyyIzh_tgPp8yk4V5GeXFmaT0CTPsGL_hDTbnkg7d353HbIF7elZTbm8a4=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/jd3--3KhwaxIM1OKIvyyIzh_tgPp8yk4V5GeXFmaT0CTPsGL_hDTbnkg7d353HbIF7elZTbm8a4=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Royal Family & Star",
+                "description": ""
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUP12ZUfPtrhCOgoGfqLq8TQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "6171232",
+            "hiddenSubscriberCount": true,
+            "videoCount": "3645"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Royal Family & Star",
+                "keywords": "\"PPL Media\" entertainment",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/wbbKsgXvSfhVXJ1Pac1LVhuf8avixqYh36D_VXBoZ-tKO5DNMjl2yBsK8XiEyO5Bfh0Y_66vOw"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

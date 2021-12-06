@@ -1,0 +1,75 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "myqfoyw2UIB8fu_XROjGvdFR6_Q",
+        "id": "UCa0CVCACLqno5kVmA-eFP5w",
+        "snippet": {
+            "title": "Heroes Avenue",
+            "description": "Love superhero movies? Follow us to receive the latest comic book movie news and watch our weekly videos, segments, and more.",
+            "customUrl": "heroesavenue",
+            "publishedAt": "2017-02-13T04:53:00Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRrjuYXkP-C80RinXuvnGwFmO1wi-6p-7EtICabFw=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRrjuYXkP-C80RinXuvnGwFmO1wi-6p-7EtICabFw=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRrjuYXkP-C80RinXuvnGwFmO1wi-6p-7EtICabFw=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Heroes Avenue",
+                "description": "Love superhero movies? Follow us to receive the latest comic book movie news and watch our weekly videos, segments, and more."
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUa0CVCACLqno5kVmA-eFP5w"
+            }
+        },
+        "statistics": {
+            "viewCount": "1037864",
+            "subscriberCount": "3970",
+            "hiddenSubscriberCount": false,
+            "videoCount": "860"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Heroes Avenue",
+                "description": "Love superhero movies? Follow us to receive the latest comic book movie news and watch our weekly videos, segments, and more.",
+                "keywords": "Heroes Avenue",
+                "unsubscribedTrailer": "RFIksDqDr0E",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/ydPv54-l-SvZqaDhDW7726jcx2ZnDW7iJNsx8gdGuINKbZcsRaRIOqDBUxT4GDufntK72D5-AQ"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

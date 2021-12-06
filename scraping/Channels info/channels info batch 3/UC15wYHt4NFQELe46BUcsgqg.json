@@ -1,0 +1,66 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "BXC90odPeMGVC2MKQktQvQI-FBQ",
+        "id": "UC15wYHt4NFQELe46BUcsgqg",
+        "snippet": {
+            "title": "Discovery Schools Trust",
+            "description": "",
+            "publishedAt": "2014-04-11T14:01:05Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQj08wRo6OesHqFtBMDBSOv8wFQ9J4RQ3YCYlPYsg=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQj08wRo6OesHqFtBMDBSOv8wFQ9J4RQ3YCYlPYsg=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQj08wRo6OesHqFtBMDBSOv8wFQ9J4RQ3YCYlPYsg=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Discovery Schools Trust",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU15wYHt4NFQELe46BUcsgqg"
+            }
+        },
+        "statistics": {
+            "viewCount": "18223",
+            "subscriberCount": "153",
+            "hiddenSubscriberCount": false,
+            "videoCount": "90"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/019_rr",
+                "/m/01k8wb"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                "https://en.wikipedia.org/wiki/Knowledge"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Discovery Schools Trust"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

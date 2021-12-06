@@ -1,0 +1,72 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "Ucca4-xESwMV0indNTR2Jwu_zLc",
+        "id": "UCKVZpy7PCv6ZJv99Bt1BbCA",
+        "snippet": {
+            "title": "Movie Trailers Police",
+            "description": "All the movie trailers arrested and brought to you.",
+            "publishedAt": "2016-11-26T19:54:02Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSyS9UI8SwsOIaJy6eZzx2-kqOtr-4UIrS_8bFp=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSyS9UI8SwsOIaJy6eZzx2-kqOtr-4UIrS_8bFp=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSyS9UI8SwsOIaJy6eZzx2-kqOtr-4UIrS_8bFp=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Movie Trailers Police",
+                "description": "All the movie trailers arrested and brought to you."
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUKVZpy7PCv6ZJv99Bt1BbCA"
+            }
+        },
+        "statistics": {
+            "viewCount": "228372",
+            "subscriberCount": "262",
+            "hiddenSubscriberCount": false,
+            "videoCount": "260"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Movie Trailers Police",
+                "description": "All the movie trailers arrested and brought to you.",
+                "keywords": "Movie Trailers Clips",
+                "unsubscribedTrailer": "VlpeRfNLiqw"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/JmaQWPMDeu3OyTYx74uoCXe1j3RRGNyB1DEqMaKA75jSZCXeUcrs8R6dZcALJCPScW9tOOcJpw"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

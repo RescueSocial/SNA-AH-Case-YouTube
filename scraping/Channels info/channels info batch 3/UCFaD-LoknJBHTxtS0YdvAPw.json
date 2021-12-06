@@ -1,0 +1,66 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "LOZ4Key5y3xYQFBSrLn47r7CJL8",
+        "id": "UCFaD-LoknJBHTxtS0YdvAPw",
+        "snippet": {
+            "title": "Latest Trailers",
+            "description": "",
+            "publishedAt": "2018-07-22T19:52:49Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSfND0B2aICptNZoFf3-Jl5OFMEjpcEqJX7jQ=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSfND0B2aICptNZoFf3-Jl5OFMEjpcEqJX7jQ=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSfND0B2aICptNZoFf3-Jl5OFMEjpcEqJX7jQ=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Latest Trailers",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUFaD-LoknJBHTxtS0YdvAPw"
+            }
+        },
+        "statistics": {
+            "viewCount": "616",
+            "subscriberCount": "3",
+            "hiddenSubscriberCount": false,
+            "videoCount": "32"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02vxn",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Latest Trailers"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

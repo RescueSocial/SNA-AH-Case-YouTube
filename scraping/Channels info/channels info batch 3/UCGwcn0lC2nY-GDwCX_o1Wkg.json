@@ -1,0 +1,64 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "3tGutOOHR80aFhbOIU9S8ZMOIxw",
+        "id": "UCGwcn0lC2nY-GDwCX_o1Wkg",
+        "snippet": {
+            "title": "Rava TV",
+            "description": "",
+            "publishedAt": "2021-03-30T11:40:37.325523Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRY1GDcQmgZoftuXNnq2nFYmjaYbrJzAAH18QVk=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRY1GDcQmgZoftuXNnq2nFYmjaYbrJzAAH18QVk=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRY1GDcQmgZoftuXNnq2nFYmjaYbrJzAAH18QVk=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Rava TV",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUGwcn0lC2nY-GDwCX_o1Wkg"
+            }
+        },
+        "statistics": {
+            "viewCount": "6817386",
+            "subscriberCount": "53600",
+            "hiddenSubscriberCount": false,
+            "videoCount": "218"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Rava TV"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

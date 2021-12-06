@@ -1,0 +1,69 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "F6Y4dBLXw_EIhwdE4hcfaH1HG7c",
+        "id": "UC7yT-PkS0bPwTfupWc5iM9Q",
+        "snippet": {
+            "title": "News Celebrity",
+            "description": "",
+            "publishedAt": "2021-06-16T23:48:53.621708Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/lY2aDLN8HNruK6Yr4T2fxnqfX-lZ9FlYAOCYy2GOTJ2j5eowoEvJIM8Pxla76Fm_BdxSc_dpdQ=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/lY2aDLN8HNruK6Yr4T2fxnqfX-lZ9FlYAOCYy2GOTJ2j5eowoEvJIM8Pxla76Fm_BdxSc_dpdQ=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/lY2aDLN8HNruK6Yr4T2fxnqfX-lZ9FlYAOCYy2GOTJ2j5eowoEvJIM8Pxla76Fm_BdxSc_dpdQ=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "News Celebrity",
+                "description": ""
+            },
+            "country": "GB"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU7yT-PkS0bPwTfupWc5iM9Q"
+            }
+        },
+        "statistics": {
+            "viewCount": "761290",
+            "subscriberCount": "1230",
+            "hiddenSubscriberCount": false,
+            "videoCount": "3471"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "News Celebrity",
+                "country": "GB"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

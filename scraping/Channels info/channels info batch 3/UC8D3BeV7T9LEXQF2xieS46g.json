@@ -1,0 +1,82 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "LHwHgd9RQhaZMa6Dx48tyEZFZzE",
+        "id": "UC8D3BeV7T9LEXQF2xieS46g",
+        "snippet": {
+            "title": "Plot Twist",
+            "description": "Plot Twist is the go-to source for the movies, Subscribe to Plot Twist for the TV shows and video games we all love.",
+            "customUrl": "plottwisthub",
+            "publishedAt": "2012-02-21T20:03:17Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTSgQQ8Fclf9mPuv4k36JYnkQ26TagGBe2H6YT_Ow=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTSgQQ8Fclf9mPuv4k36JYnkQ26TagGBe2H6YT_Ow=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTSgQQ8Fclf9mPuv4k36JYnkQ26TagGBe2H6YT_Ow=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Plot Twist",
+                "description": "Plot Twist is the go-to source for the movies, Subscribe to Plot Twist for the TV shows and video games we all love."
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU8D3BeV7T9LEXQF2xieS46g"
+            }
+        },
+        "statistics": {
+            "viewCount": "77274898",
+            "subscriberCount": "2160000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "650"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/0kt51",
+                "/m/02vxn",
+                "/m/0f2f9",
+                "/m/02jjt",
+                "/m/019_rr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Health",
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Television_program",
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Plot Twist",
+                "description": "Plot Twist is the go-to source for the movies, Subscribe to Plot Twist for the TV shows and video games we all love.",
+                "keywords": "\"Plot Twist\" PlotTwist",
+                "unsubscribedTrailer": "G3FNsrqeZOE",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/SNPiTTufAqZQRclhFITLDjH6cu2n9O2ZvBDotQEk2wumRWq-4hhu_xrRXgJ0EvmobRhLT3tUGg"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

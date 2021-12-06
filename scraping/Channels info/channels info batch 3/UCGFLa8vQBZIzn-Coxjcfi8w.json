@@ -1,0 +1,82 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "kIV3IOpMV5-RMuyEgRMFcp6ARaQ",
+        "id": "UCGFLa8vQBZIzn-Coxjcfi8w",
+        "snippet": {
+            "title": "SteveEarleVEVO",
+            "description": "Steve Earle on Vevo - Official Music Videos, Live Performances, Interviews and more...",
+            "publishedAt": "2009-05-12T05:29:28Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLS34noeEU_3sY8H7ghTtMNl71Mzw2yJe04QNSYw=s88-c-k-c0x00ffffff-no-rj-mo",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLS34noeEU_3sY8H7ghTtMNl71Mzw2yJe04QNSYw=s240-c-k-c0x00ffffff-no-rj-mo",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLS34noeEU_3sY8H7ghTtMNl71Mzw2yJe04QNSYw=s800-c-k-c0x00ffffff-no-rj-mo",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "SteveEarleVEVO",
+                "description": "Steve Earle on Vevo - Official Music Videos, Live Performances, Interviews and more..."
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUGFLa8vQBZIzn-Coxjcfi8w"
+            }
+        },
+        "statistics": {
+            "viewCount": "227403097",
+            "subscriberCount": "129000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "9"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/04rlf",
+                "/m/01lyv",
+                "/m/064t9",
+                "/m/06by7"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Music",
+                "https://en.wikipedia.org/wiki/Country_music",
+                "https://en.wikipedia.org/wiki/Pop_music",
+                "https://en.wikipedia.org/wiki/Rock_music"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "SteveEarleVEVO",
+                "description": "Steve Earle on Vevo - Official Music Videos, Live Performances, Interviews and more...",
+                "keywords": "vevo music video official",
+                "unsubscribedTrailer": "Xad0Qyu__cE",
+                "defaultLanguage": "en"
+            }
+        },
+        "contentOwnerDetails": {},
+        "localizations": {
+            "en_US": {
+                "title": "SteveEarleVEVO",
+                "description": "Steve Earle on Vevo - Official Music Videos, Live Performances, Interviews and more..."
+            }
+        }
+    }
+]

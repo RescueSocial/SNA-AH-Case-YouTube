@@ -1,0 +1,58 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "azqBzwoOqH7w1n9nFPueJ60aloc",
+        "id": "UCeUEg4HnW82Xk2rzxROOY9A",
+        "snippet": {
+            "title": "SAHIL KUMAR",
+            "description": "",
+            "publishedAt": "2018-01-08T11:18:24Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQL8sKcH8xiwAFlhxwumI0ivxidmyGc5zpiW17vMw=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQL8sKcH8xiwAFlhxwumI0ivxidmyGc5zpiW17vMw=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQL8sKcH8xiwAFlhxwumI0ivxidmyGc5zpiW17vMw=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "SAHIL KUMAR",
+                "description": ""
+            },
+            "country": "IN"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUeUEg4HnW82Xk2rzxROOY9A"
+            }
+        },
+        "statistics": {
+            "viewCount": "18087",
+            "subscriberCount": "53",
+            "hiddenSubscriberCount": false,
+            "videoCount": "2"
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "SAHIL KUMAR",
+                "country": "IN"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

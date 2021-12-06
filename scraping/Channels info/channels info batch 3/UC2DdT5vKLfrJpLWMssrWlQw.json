@@ -1,0 +1,56 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "umwmx5iyB7FeW93bohZ74WYJT9k",
+        "id": "UC2DdT5vKLfrJpLWMssrWlQw",
+        "snippet": {
+            "title": "Seulanga Channel",
+            "description": "",
+            "publishedAt": "2021-03-23T08:57:31.743117Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTrgcUnoFoLuX3TF63XJfOrKoweiXgfwNmoLi_E=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTrgcUnoFoLuX3TF63XJfOrKoweiXgfwNmoLi_E=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTrgcUnoFoLuX3TF63XJfOrKoweiXgfwNmoLi_E=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Seulanga Channel",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU2DdT5vKLfrJpLWMssrWlQw"
+            }
+        },
+        "statistics": {
+            "viewCount": "34",
+            "subscriberCount": "0",
+            "hiddenSubscriberCount": false,
+            "videoCount": "1"
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Seulanga Channel"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "pcDj6K8gSs9-hQMiVEbmm0QF60Q",
+        "id": "UCELImNdpeM_aSEEiWVTtxrQ",
+        "snippet": {
+            "title": "EnterMovies",
+            "description": "",
+            "publishedAt": "2015-02-24T04:44:05Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRovB3h7p7u0YYLmCXC83Z5f3S65flDaqJCq4z1=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRovB3h7p7u0YYLmCXC83Z5f3S65flDaqJCq4z1=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRovB3h7p7u0YYLmCXC83Z5f3S65flDaqJCq4z1=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "EnterMovies",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUELImNdpeM_aSEEiWVTtxrQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "14893",
+            "subscriberCount": "23",
+            "hiddenSubscriberCount": false,
+            "videoCount": "188"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/07c1v",
+                "/m/019_rr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Technology",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "EnterMovies",
+                "keywords": "movie trailer"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/zLHLSjgMmi0KrhsV8XN1g_mnzSaCY1VW1keWHPTZy8PiPe1jFD2Tn5iSlCNLXfEZAdSPbEupdw"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "0-58QGhXO9amcSrguxjhA2-81ag",
+        "id": "UCvebOBrBkq4KDss62UYIDZA",
+        "snippet": {
+            "title": "Hollywood Watcher",
+            "description": "Hello friends\nWelcome to our channel\nBollywood service",
+            "publishedAt": "2021-02-14T08:31:51.955596Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/tLY1nd0AxkA1eIANU3ElcCIMhM4Tx3ogY0T5L1lbnYoAdjzAWTY4t67DYfYkd6MCK0FyOAmGaTI=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/tLY1nd0AxkA1eIANU3ElcCIMhM4Tx3ogY0T5L1lbnYoAdjzAWTY4t67DYfYkd6MCK0FyOAmGaTI=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/tLY1nd0AxkA1eIANU3ElcCIMhM4Tx3ogY0T5L1lbnYoAdjzAWTY4t67DYfYkd6MCK0FyOAmGaTI=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Hollywood Watcher",
+                "description": "Hello friends\nWelcome to our channel\nBollywood service"
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUvebOBrBkq4KDss62UYIDZA"
+            }
+        },
+        "statistics": {
+            "viewCount": "1040153",
+            "hiddenSubscriberCount": true,
+            "videoCount": "40"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Hollywood Watcher",
+                "description": "Hello friends\nWelcome to our channel\nBollywood service"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/_oKErOPTziwvJELpuy76Oa0HcYA5zc3iEBbDU79H7i4jW_-RtimrQuEv7HZ1Q5ugQpW16TNT"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

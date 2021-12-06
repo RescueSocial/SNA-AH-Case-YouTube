@@ -1,0 +1,64 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "bveOTFs-l42o3bqj2Q6bHni3geQ",
+        "id": "UCNosjkvg8QP0PYzpYgaxL6w",
+        "snippet": {
+            "title": "Entertainment Zone",
+            "description": "",
+            "publishedAt": "2021-01-11T15:18:07.468892Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSem-aTkEeCqCka9KKlSOrOLynRPRSutEho5UK5vQ=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSem-aTkEeCqCka9KKlSOrOLynRPRSutEho5UK5vQ=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSem-aTkEeCqCka9KKlSOrOLynRPRSutEho5UK5vQ=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Entertainment Zone",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUNosjkvg8QP0PYzpYgaxL6w"
+            }
+        },
+        "statistics": {
+            "viewCount": "1508",
+            "subscriberCount": "5",
+            "hiddenSubscriberCount": false,
+            "videoCount": "6"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Entertainment Zone"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

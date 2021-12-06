@@ -1,0 +1,77 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "6YTcuVS_6EcSHH6balftVqo2oys",
+        "id": "UC9zX2xZIJ4cnwRsgBpHGvMg",
+        "snippet": {
+            "title": "Beyonc\u00e9VEVO",
+            "description": "",
+            "publishedAt": "2009-09-02T23:36:39Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/5gcDFFI8DqsDvDNUGuv1VNvSc507Cl0t-5bMOpZcbA605VtSeI6J2r98iRZbzjrC3beLCYefZoA=s88-c-k-c0x00ffffff-no-nd-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/5gcDFFI8DqsDvDNUGuv1VNvSc507Cl0t-5bMOpZcbA605VtSeI6J2r98iRZbzjrC3beLCYefZoA=s240-c-k-c0x00ffffff-no-nd-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/5gcDFFI8DqsDvDNUGuv1VNvSc507Cl0t-5bMOpZcbA605VtSeI6J2r98iRZbzjrC3beLCYefZoA=s800-c-k-c0x00ffffff-no-nd-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Beyonc\u00e9VEVO",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU9zX2xZIJ4cnwRsgBpHGvMg"
+            }
+        },
+        "statistics": {
+            "viewCount": "12498506758",
+            "subscriberCount": "13000000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "142"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/04rlf",
+                "/m/06j6l",
+                "/m/0glt670",
+                "/m/0gywn",
+                "/m/064t9"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Music",
+                "https://en.wikipedia.org/wiki/Rhythm_and_blues",
+                "https://en.wikipedia.org/wiki/Hip_hop_music",
+                "https://en.wikipedia.org/wiki/Soul_music",
+                "https://en.wikipedia.org/wiki/Pop_music"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Beyonc\u00e9VEVO",
+                "unsubscribedTrailer": "gM89Q5Eng_M"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/z1orAkxab2oq3dDqpH1KBWkGGAhcu2LgEfkYrujK346nsHBaAzacmII2-_qmjPd6kWN4YstNufk"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

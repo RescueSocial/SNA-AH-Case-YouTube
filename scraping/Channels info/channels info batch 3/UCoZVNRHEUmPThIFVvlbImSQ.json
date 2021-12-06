@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "LBq2305FG7U2iLTjIBGeZ-k9AUU",
+        "id": "UCoZVNRHEUmPThIFVvlbImSQ",
+        "snippet": {
+            "title": "Joshua Clarke",
+            "description": "Yo! My name is Josh, I like movies and talking about them!\n\n\n",
+            "publishedAt": "2014-12-12T04:56:09Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLT5ibnFv7mkoQCXgo4WO9YmRSt0lbRK99w3jYalSLg=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLT5ibnFv7mkoQCXgo4WO9YmRSt0lbRK99w3jYalSLg=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLT5ibnFv7mkoQCXgo4WO9YmRSt0lbRK99w3jYalSLg=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Joshua Clarke",
+                "description": "Yo! My name is Josh, I like movies and talking about them!\n\n\n"
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUoZVNRHEUmPThIFVvlbImSQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "95997",
+            "subscriberCount": "304",
+            "hiddenSubscriberCount": false,
+            "videoCount": "308"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Joshua Clarke",
+                "description": "Yo! My name is Josh, I like movies and talking about them!\n\n\n",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/vab9gpcP6h_hNkMsfp6IVJeVMbJ0DKCWAxwxZYFhTBjVDqdQs3YNG-Rzrby1mqnZf0-82tvfAws"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "1OxCXzTblmOFwmkHyjQ5qc5yfJk",
+        "id": "UCLTTnkE3oPSZAepGXqJlwQw",
+        "snippet": {
+            "title": "ArttoRide",
+            "description": "",
+            "publishedAt": "2011-10-12T03:38:39Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTeZRorzxk_5uPd6PCLEga_B5tZ_IMSnJiRAGnr=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTeZRorzxk_5uPd6PCLEga_B5tZ_IMSnJiRAGnr=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTeZRorzxk_5uPd6PCLEga_B5tZ_IMSnJiRAGnr=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "ArttoRide",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UULTTnkE3oPSZAepGXqJlwQw"
+            }
+        },
+        "statistics": {
+            "viewCount": "4014156",
+            "subscriberCount": "22600",
+            "hiddenSubscriberCount": false,
+            "videoCount": "756"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/068hy",
+                "/m/019_rr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Pet",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "ArttoRide"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

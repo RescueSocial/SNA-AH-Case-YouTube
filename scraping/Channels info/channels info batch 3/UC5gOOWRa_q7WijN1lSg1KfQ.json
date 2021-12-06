@@ -1,0 +1,75 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "6vEdC5EfhlP7-YC0bNsMT4v6qOc",
+        "id": "UC5gOOWRa_q7WijN1lSg1KfQ",
+        "snippet": {
+            "title": "PrinzHaldir",
+            "description": "Some songs are connected to movies and I bring those two together.",
+            "publishedAt": "2008-01-06T00:12:31Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLR5-H7S5pCQfJGAjrSUes1E_VftCPCp3eTaUTQ5Xg=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLR5-H7S5pCQfJGAjrSUes1E_VftCPCp3eTaUTQ5Xg=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLR5-H7S5pCQfJGAjrSUes1E_VftCPCp3eTaUTQ5Xg=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "PrinzHaldir",
+                "description": "Some songs are connected to movies and I bring those two together."
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU5gOOWRa_q7WijN1lSg1KfQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "22120151",
+            "subscriberCount": "24200",
+            "hiddenSubscriberCount": false,
+            "videoCount": "157"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/06by7",
+                "/m/04rlf",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Rock_music",
+                "https://en.wikipedia.org/wiki/Music",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "PrinzHaldir",
+                "description": "Some songs are connected to movies and I bring those two together.",
+                "unsubscribedTrailer": "bQ6iuo8oCbw"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/bWZ_qXKHhqCg8ls5PXMrgb6PGKhg6Mf-zDLTugodZJg8JL4LM8H-O0tp6LvsHKbpZ7XliI-UNo8"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

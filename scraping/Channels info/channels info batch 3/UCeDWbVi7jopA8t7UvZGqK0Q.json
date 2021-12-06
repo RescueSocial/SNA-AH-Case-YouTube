@@ -1,0 +1,67 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "FSYriboZeGkNSoABAikPaeSg2Ws",
+        "id": "UCeDWbVi7jopA8t7UvZGqK0Q",
+        "snippet": {
+            "title": "CelebBomb",
+            "description": "",
+            "publishedAt": "2021-10-15T14:15:46.131657Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/HO0jlXEzX_qgeoAjxW-sRqCSA3nl2SQhqOTx3LmpfjKDKf2j3susUKF0yJNY4XgUDHbwla78=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/HO0jlXEzX_qgeoAjxW-sRqCSA3nl2SQhqOTx3LmpfjKDKf2j3susUKF0yJNY4XgUDHbwla78=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/HO0jlXEzX_qgeoAjxW-sRqCSA3nl2SQhqOTx3LmpfjKDKf2j3susUKF0yJNY4XgUDHbwla78=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "CelebBomb",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUeDWbVi7jopA8t7UvZGqK0Q"
+            }
+        },
+        "statistics": {
+            "viewCount": "135",
+            "subscriberCount": "9",
+            "hiddenSubscriberCount": false,
+            "videoCount": "11"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "CelebBomb"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/8d2QVNQbtgi7md4lr5ryQXTbcuk3Eh639pSnR7qxaElAEIajLxOpS6eZz0xX1rUOVP_qqH2LwQ"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

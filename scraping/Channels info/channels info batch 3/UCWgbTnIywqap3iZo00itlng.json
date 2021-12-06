@@ -1,0 +1,66 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "G3qZXDl4Jz2xr9YcrtIJnTCscs4",
+        "id": "UCWgbTnIywqap3iZo00itlng",
+        "snippet": {
+            "title": "News&Fun Entertainment",
+            "description": "",
+            "publishedAt": "2017-12-14T10:40:52Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRHpxSU6m377Aqa3GWuIrAn_i_NtYcGcYDWnw=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRHpxSU6m377Aqa3GWuIrAn_i_NtYcGcYDWnw=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRHpxSU6m377Aqa3GWuIrAn_i_NtYcGcYDWnw=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "News&Fun Entertainment",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUWgbTnIywqap3iZo00itlng"
+            }
+        },
+        "statistics": {
+            "viewCount": "43043",
+            "subscriberCount": "88",
+            "hiddenSubscriberCount": false,
+            "videoCount": "96"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "News&Fun Entertainment"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "uLQ-BcPPTYVgeGVIuGWUq-01QiI",
+        "id": "UCXGHHEqbTNi8E_Wch7pP0Nw",
+        "snippet": {
+            "title": "slow poke",
+            "description": "",
+            "customUrl": "slowpokes",
+            "publishedAt": "2017-04-03T08:44:25Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSRxmrjD9tZACoVmcDid-CQJOI8R2sINRml6dNlgA=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSRxmrjD9tZACoVmcDid-CQJOI8R2sINRml6dNlgA=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSRxmrjD9tZACoVmcDid-CQJOI8R2sINRml6dNlgA=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "slow poke",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUXGHHEqbTNi8E_Wch7pP0Nw"
+            }
+        },
+        "statistics": {
+            "viewCount": "93154000",
+            "subscriberCount": "108000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "59"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/04rlf",
+                "/m/05rwpb",
+                "/m/064t9"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Music",
+                "https://en.wikipedia.org/wiki/Independent_music",
+                "https://en.wikipedia.org/wiki/Pop_music"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "slow poke"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/cAh0CL8Di9VDI0EBE7CIapqsl6ur_1gP-i8ozKWJYp6MHQSPpLCFmo7ZxScMJKj1N1hgNs7Hmhs"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

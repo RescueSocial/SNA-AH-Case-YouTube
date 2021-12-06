@@ -1,0 +1,66 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "JK4TA4NeB2Fm5fuu89ejnqcnVVw",
+        "id": "UCyqFN8vAa_SQ7e097DQGmew",
+        "snippet": {
+            "title": "Liz Gil",
+            "description": "",
+            "publishedAt": "2011-10-22T23:23:59Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLR9ihrpkv3O3fFmyrEL9g9oxQbAT09DhFLSiOhOVkI=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLR9ihrpkv3O3fFmyrEL9g9oxQbAT09DhFLSiOhOVkI=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLR9ihrpkv3O3fFmyrEL9g9oxQbAT09DhFLSiOhOVkI=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Liz Gil",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUyqFN8vAa_SQ7e097DQGmew"
+            }
+        },
+        "statistics": {
+            "viewCount": "5474485",
+            "subscriberCount": "8930",
+            "hiddenSubscriberCount": false,
+            "videoCount": "137"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Liz Gil"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

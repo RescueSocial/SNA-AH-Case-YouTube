@@ -1,0 +1,69 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "1JPUCWAtPcFW7rfaU5ucaLR98Fo",
+        "id": "UCq1mJywKrEA4Hz_T7NoI78Q",
+        "snippet": {
+            "title": "Movies Trailers",
+            "description": "",
+            "publishedAt": "2013-11-12T09:32:24Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQYiFp9FOTBaYgWHsckeblBmyML5vxSNRWplRjj=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQYiFp9FOTBaYgWHsckeblBmyML5vxSNRWplRjj=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQYiFp9FOTBaYgWHsckeblBmyML5vxSNRWplRjj=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Movies Trailers",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUq1mJywKrEA4Hz_T7NoI78Q"
+            }
+        },
+        "statistics": {
+            "viewCount": "152581",
+            "subscriberCount": "122",
+            "hiddenSubscriberCount": false,
+            "videoCount": "510"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02vxn",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Movies Trailers"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/f2CIl1HsKyDBrJMv0yNNOt7vq0dHaAO3s5lVD2CyZo4iQKv4SIL-JgefDRg-gdv6tSvQnelA9H0"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

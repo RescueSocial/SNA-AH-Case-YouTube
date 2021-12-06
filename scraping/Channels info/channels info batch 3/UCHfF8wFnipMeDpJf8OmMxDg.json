@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "3HO9CrIS-UO8HU0080HVtHFhxOM",
+        "id": "UCHfF8wFnipMeDpJf8OmMxDg",
+        "snippet": {
+            "title": "FOX 11 Los Angeles",
+            "description": "Welcome to the official FOX 11 Los Angeles YouTube page. Find us on FOX 11 and foxla.com. We cover local news, traffic, weather, sports and celebs with the entertainment industry.",
+            "customUrl": "foxla",
+            "publishedAt": "2011-08-08T21:34:12Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSr3S3pss9Ho_GdQZFEjZIn_rTC29NAtBHNhMg1WBA=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSr3S3pss9Ho_GdQZFEjZIn_rTC29NAtBHNhMg1WBA=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSr3S3pss9Ho_GdQZFEjZIn_rTC29NAtBHNhMg1WBA=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "FOX 11 Los Angeles",
+                "description": "Welcome to the official FOX 11 Los Angeles YouTube page. Find us on FOX 11 and foxla.com. We cover local news, traffic, weather, sports and celebs with the entertainment industry."
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUHfF8wFnipMeDpJf8OmMxDg"
+            }
+        },
+        "statistics": {
+            "viewCount": "279290803",
+            "subscriberCount": "370000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "6922"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "FOX 11 Los Angeles",
+                "description": "Welcome to the official FOX 11 Los Angeles YouTube page. Find us on FOX 11 and foxla.com. We cover local news, traffic, weather, sports and celebs with the entertainment industry.",
+                "keywords": "GDLA television station video \"Los Angeles\" \"FOX 11 News\" \"Good Day LA\" KTTV \"FOX 11\"",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/zaBz2L0iBDEug_Uvhy9IPn9lq9hVPg4yHoaWYAR5niJO5RMM903eqv45bQP9pVG4onUPenoY"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

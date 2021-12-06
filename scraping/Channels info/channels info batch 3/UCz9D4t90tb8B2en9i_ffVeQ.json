@@ -1,0 +1,74 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "IpuZMLEYTCLM-aGCDIYTBeTrQxo",
+        "id": "UCz9D4t90tb8B2en9i_ffVeQ",
+        "snippet": {
+            "title": "WFTV Channel 9",
+            "description": "The official YouTube site for WFTV Channel 9 in Orlando, Florida, Central Florida's news leader.",
+            "customUrl": "wftv",
+            "publishedAt": "2009-05-22T18:13:15Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLS1iFj-Q3W7Sm2u-kjg4N0YEh7qpx-9RUnT9xGJhSM=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLS1iFj-Q3W7Sm2u-kjg4N0YEh7qpx-9RUnT9xGJhSM=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLS1iFj-Q3W7Sm2u-kjg4N0YEh7qpx-9RUnT9xGJhSM=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "WFTV Channel 9",
+                "description": "The official YouTube site for WFTV Channel 9 in Orlando, Florida, Central Florida's news leader."
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUz9D4t90tb8B2en9i_ffVeQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "20236127",
+            "subscriberCount": "44200",
+            "hiddenSubscriberCount": false,
+            "videoCount": "4101"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "WFTV Channel 9",
+                "description": "The official YouTube site for WFTV Channel 9 in Orlando, Florida, Central Florida's news leader.",
+                "keywords": "WFTV Channel9 Eyewitness News \"central florida\" orlando florida \"florida news\" \"orlando news\" \"daytona beach\" \"cocoa beach\" \"local news\"",
+                "unsubscribedTrailer": "ekva7UHh02s",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/DxCAgL3QO8wOldgcIpMeOXhWH-DIfFsM5kobO8GD2bknTSfm5qYUKs7684ih349vYlKMyOthMWs"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

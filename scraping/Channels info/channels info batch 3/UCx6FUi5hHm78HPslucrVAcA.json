@@ -1,0 +1,77 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "HSXlDD0jwGMroK-RH0icDOgNncw",
+        "id": "UCx6FUi5hHm78HPslucrVAcA",
+        "snippet": {
+            "title": "Glidus",
+            "description": "Local idiot puts way too much effort in to his Game of Thrones videos. More at 11.",
+            "customUrl": "glidus",
+            "publishedAt": "2014-11-13T23:13:19Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRd0Y0zcZe2yiw9dBR8drfzEMeybrjHPPokO6Nb7g=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRd0Y0zcZe2yiw9dBR8drfzEMeybrjHPPokO6Nb7g=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRd0Y0zcZe2yiw9dBR8drfzEMeybrjHPPokO6Nb7g=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Glidus",
+                "description": "Local idiot puts way too much effort in to his Game of Thrones videos. More at 11."
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUx6FUi5hHm78HPslucrVAcA"
+            }
+        },
+        "statistics": {
+            "viewCount": "9059345",
+            "subscriberCount": "59800",
+            "hiddenSubscriberCount": false,
+            "videoCount": "39"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/0f2f9",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Television_program",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Glidus",
+                "description": "Local idiot puts way too much effort in to his Game of Thrones videos. More at 11.",
+                "keywords": "game thrones song ice fire theory tinfoil silly meme edited",
+                "moderateComments": true,
+                "unsubscribedTrailer": "8Ku9c0mH-oE"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/_OugTZCE6s2uFI9EmZk7-xBdEse5J6E9VzRosvLmtJUDa1lmrmVCzcRXIZ_HUmhPHHomIDVG"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

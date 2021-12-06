@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "cwR0Za0Bu6vUks_G9C6jiuk7LjA",
+        "id": "UCoktvIbvsgFfrl23q8BfAPg",
+        "snippet": {
+            "title": "Beta moj kardi",
+            "description": "",
+            "publishedAt": "2021-04-16T04:59:46.516417Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQ5O4NphzlLhOaXgRmPFtkInO7xQp9kc4fS3FP-=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQ5O4NphzlLhOaXgRmPFtkInO7xQp9kc4fS3FP-=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQ5O4NphzlLhOaXgRmPFtkInO7xQp9kc4fS3FP-=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Beta moj kardi",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUoktvIbvsgFfrl23q8BfAPg"
+            }
+        },
+        "statistics": {
+            "viewCount": "207464",
+            "subscriberCount": "504",
+            "hiddenSubscriberCount": false,
+            "videoCount": "193"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/04rlf",
+                "/m/02jjt",
+                "/m/019_rr",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Music",
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Beta moj kardi"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

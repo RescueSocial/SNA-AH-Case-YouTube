@@ -1,0 +1,71 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "GQUWTm9inJL0sG2mpbQZh5dqvPQ",
+        "id": "UCg2J0WTj_9_N4WqYa0f8sSw",
+        "snippet": {
+            "title": "LukeMerren",
+            "description": "",
+            "publishedAt": "2011-08-02T07:04:17Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQiCftLWHiJRzRoQI_KeFnYdbYPFAh81V0H7KuV=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQiCftLWHiJRzRoQI_KeFnYdbYPFAh81V0H7KuV=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQiCftLWHiJRzRoQI_KeFnYdbYPFAh81V0H7KuV=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "LukeMerren",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUg2J0WTj_9_N4WqYa0f8sSw"
+            }
+        },
+        "statistics": {
+            "viewCount": "15015",
+            "subscriberCount": "78",
+            "hiddenSubscriberCount": false,
+            "videoCount": "50"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/04rlf",
+                "/m/019_rr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Music",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "LukeMerren",
+                "keywords": "variety",
+                "unsubscribedTrailer": "UXZsl-RM6N4"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/aZmrOtmpBk7ssYRrO1XWghTHVkQwos649d3_lohd1wp6SkAtpdDJfzO2DIpz409U5PGJ0SqZPg"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

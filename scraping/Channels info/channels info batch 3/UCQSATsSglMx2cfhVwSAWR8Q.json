@@ -1,0 +1,59 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "ATuNs1QcJVBdXrLdamOwfxjW7Xk",
+        "id": "UCQSATsSglMx2cfhVwSAWR8Q",
+        "snippet": {
+            "title": "2SentenceHorror",
+            "description": "",
+            "publishedAt": "2014-03-20T17:15:56Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRigxTmMjObS08qIhNUou4q1W8u_X0VQYiPFgqT=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRigxTmMjObS08qIhNUou4q1W8u_X0VQYiPFgqT=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRigxTmMjObS08qIhNUou4q1W8u_X0VQYiPFgqT=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "2SentenceHorror",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUQSATsSglMx2cfhVwSAWR8Q"
+            }
+        },
+        "statistics": {
+            "viewCount": "593248",
+            "subscriberCount": "2200",
+            "hiddenSubscriberCount": false,
+            "videoCount": "1"
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "2SentenceHorror"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/tksuB-_7HiX_RwLL8aeuNiF71N3VAbzpTc63LxG22rFWJqm0jhLJUwteZ_0vHuzfsGeP29lh"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

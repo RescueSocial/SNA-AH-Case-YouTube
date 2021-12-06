@@ -1,0 +1,69 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "fVXM7B_VEFPrBY2l5cLpcO1VrVg",
+        "id": "UCGpbJB0zNN8jySxkBtkY5LA",
+        "snippet": {
+            "title": "GOD MOVIES",
+            "description": "",
+            "publishedAt": "2018-07-11T11:18:12Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQirNtealYFPZQfdgrUNWpElNzCZRsNyzSEMxer=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQirNtealYFPZQfdgrUNWpElNzCZRsNyzSEMxer=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQirNtealYFPZQfdgrUNWpElNzCZRsNyzSEMxer=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "GOD MOVIES",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUGpbJB0zNN8jySxkBtkY5LA"
+            }
+        },
+        "statistics": {
+            "viewCount": "3492",
+            "subscriberCount": "10",
+            "hiddenSubscriberCount": false,
+            "videoCount": "62"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02vxn",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "GOD MOVIES"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/8MrCo4ArZkpCYaVJsy3qH-hwl4MMK8-Z_aW5n0fdRqbHpGHA812R04ebmRirg6L-sGlCKZNTVQ"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

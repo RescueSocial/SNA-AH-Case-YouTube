@@ -1,0 +1,79 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "xEknoUbXHHDr2XleiU72VnkOx8Q",
+        "id": "UCRmmd8tl3sT96cqDynL4Qgg",
+        "snippet": {
+            "title": "Stephen Tries",
+            "description": "YouTube badman",
+            "customUrl": "stephentries",
+            "publishedAt": "2013-04-20T20:06:51Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTJGxhETyxCpxgnxHYuy2tIK8Ys4MZ4OF5IFHLj0w=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTJGxhETyxCpxgnxHYuy2tIK8Ys4MZ4OF5IFHLj0w=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTJGxhETyxCpxgnxHYuy2tIK8Ys4MZ4OF5IFHLj0w=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Stephen Tries",
+                "description": "YouTube badman"
+            },
+            "country": "GB"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UURmmd8tl3sT96cqDynL4Qgg"
+            }
+        },
+        "statistics": {
+            "viewCount": "131154320",
+            "subscriberCount": "1360000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "125"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/019_rr",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Stephen Tries",
+                "description": "YouTube badman",
+                "keywords": "comedy sketch \"comedy sketch\" \"stephen tries\" \"how to be\" \"steven tries\"",
+                "moderateComments": true,
+                "unsubscribedTrailer": "He0lHDmiRKE",
+                "country": "GB"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/Ny5n6arVE8ae_3gSvyewyHkOIxVlkMM9hkBdAH2yKEGqDq119YxoVB6Cu8I39S8SlbmT6U2FAA"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

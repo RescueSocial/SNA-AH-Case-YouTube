@@ -1,0 +1,74 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "d-i7NyqedvMKx164alKZnhYQclc",
+        "id": "UC7mp7X2Zr3qfyBHMk22Iugg",
+        "snippet": {
+            "title": "Pelham & Junior",
+            "description": "",
+            "customUrl": "pelhamandjunior",
+            "publishedAt": "2018-04-05T14:34:10Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQyrOIDCm2U-OHLU4De0g9DEI4JGqo3ntVPDZ8NXA=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQyrOIDCm2U-OHLU4De0g9DEI4JGqo3ntVPDZ8NXA=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQyrOIDCm2U-OHLU4De0g9DEI4JGqo3ntVPDZ8NXA=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Pelham & Junior",
+                "description": ""
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU7mp7X2Zr3qfyBHMk22Iugg"
+            }
+        },
+        "statistics": {
+            "viewCount": "176385",
+            "subscriberCount": "1580",
+            "hiddenSubscriberCount": false,
+            "videoCount": "207"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/04rlf",
+                "/m/02lkt",
+                "/m/0glt670"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Music",
+                "https://en.wikipedia.org/wiki/Electronic_music",
+                "https://en.wikipedia.org/wiki/Hip_hop_music"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Pelham & Junior",
+                "keywords": "samples \"drum broker\" splice \"loop masters\" \"type samples\"",
+                "trackingAnalyticsAccountId": "UA-122669489-1",
+                "country": "US"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

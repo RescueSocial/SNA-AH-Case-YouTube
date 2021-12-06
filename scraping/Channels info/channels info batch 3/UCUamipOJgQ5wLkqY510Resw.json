@@ -1,0 +1,68 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "bgX44uEASGheqafwJ-LcEblG6yQ",
+        "id": "UCUamipOJgQ5wLkqY510Resw",
+        "snippet": {
+            "title": "Selena K",
+            "description": "",
+            "publishedAt": "2019-09-20T02:36:07Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/w5NcxzSjVfDTi1toei1T-A4l6OAr2TCJqZWtwaqVVAQqbFzq-A1uyL4HaJ8V5AJf5A9olS1S7xE=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/w5NcxzSjVfDTi1toei1T-A4l6OAr2TCJqZWtwaqVVAQqbFzq-A1uyL4HaJ8V5AJf5A9olS1S7xE=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/w5NcxzSjVfDTi1toei1T-A4l6OAr2TCJqZWtwaqVVAQqbFzq-A1uyL4HaJ8V5AJf5A9olS1S7xE=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Selena K",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUUamipOJgQ5wLkqY510Resw"
+            }
+        },
+        "statistics": {
+            "viewCount": "32549970",
+            "subscriberCount": "22200",
+            "hiddenSubscriberCount": false,
+            "videoCount": "188"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/019_rr",
+                "/m/02jjt",
+                "/m/04rlf"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Music"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Selena K"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

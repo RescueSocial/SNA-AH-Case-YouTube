@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "R8BS0hJXZiKubcn3cguGZCqezDQ",
+        "id": "UC_Imvq4dmuif9L1XX_98APA",
+        "snippet": {
+            "title": "J&N Productions",
+            "description": "",
+            "publishedAt": "2020-08-10T01:32:43.26078Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTgMf6X05QQdf1MoFsWLCMDbKetYJrfU-b0gzWW=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTgMf6X05QQdf1MoFsWLCMDbKetYJrfU-b0gzWW=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTgMf6X05QQdf1MoFsWLCMDbKetYJrfU-b0gzWW=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "J&N Productions",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU_Imvq4dmuif9L1XX_98APA"
+            }
+        },
+        "statistics": {
+            "viewCount": "20168",
+            "subscriberCount": "21",
+            "hiddenSubscriberCount": false,
+            "videoCount": "30"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02vxn",
+                "/m/025zzc",
+                "/m/02jjt",
+                "/m/0bzvm2"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Action_game",
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Video_game_culture"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "J&N Productions"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/FldR8L9u5xmTGn1NteBZl-ZGc8NNhIYPm7zgI7s7NTSR_4dh-oHPsBxhIH9acn1vTwEN6hn4Fw"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

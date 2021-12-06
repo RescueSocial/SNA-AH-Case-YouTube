@@ -1,0 +1,74 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "XZ-4TO8RXNpANZlH9UEdKTR4h6I",
+        "id": "UCQdMddVPvdcHMntpAUnu1PQ",
+        "snippet": {
+            "title": "Haelo UK",
+            "description": "",
+            "publishedAt": "2013-04-22T09:39:01Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQOYatIYzfCJmiknzpQIRPaLfwel_Wo8aX6GfE-OQ=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQOYatIYzfCJmiknzpQIRPaLfwel_Wo8aX6GfE-OQ=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQOYatIYzfCJmiknzpQIRPaLfwel_Wo8aX6GfE-OQ=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Haelo UK",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUQdMddVPvdcHMntpAUnu1PQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "487652",
+            "subscriberCount": "1210",
+            "hiddenSubscriberCount": false,
+            "videoCount": "166"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/01k8wb",
+                "/g/120y8l81",
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Knowledge",
+                "https://en.wikipedia.org/wiki/Business",
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Haelo UK",
+                "keywords": "health \"improvement science\" haelo",
+                "trackingAnalyticsAccountId": "UA-42651123-1",
+                "unsubscribedTrailer": "_M2T53hRNnI"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/CpyhfrzZvtJIIUFC7RKqL26YkLfooU439PNNWuAzoeuv0mhOeY03dFAEOEnCKLQ0xM-i2-Ve"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

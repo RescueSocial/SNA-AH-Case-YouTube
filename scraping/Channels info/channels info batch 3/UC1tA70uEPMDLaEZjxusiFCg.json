@@ -1,0 +1,76 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "Knj7RQ0HYLFIBwLAJ0w_OVoLMNQ",
+        "id": "UC1tA70uEPMDLaEZjxusiFCg",
+        "snippet": {
+            "title": "Prizzilla",
+            "description": "I make videos to keep you company while you do your chores.",
+            "customUrl": "prizzilla",
+            "publishedAt": "2009-03-12T02:54:27Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRM-aCTcSQVT4WgQw0cjyON-WelEw9r5Yqz6mhuxw=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRM-aCTcSQVT4WgQw0cjyON-WelEw9r5Yqz6mhuxw=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRM-aCTcSQVT4WgQw0cjyON-WelEw9r5Yqz6mhuxw=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Prizzilla",
+                "description": "I make videos to keep you company while you do your chores."
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU1tA70uEPMDLaEZjxusiFCg"
+            }
+        },
+        "statistics": {
+            "viewCount": "29376",
+            "subscriberCount": "1390",
+            "hiddenSubscriberCount": false,
+            "videoCount": "19"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/0kt51",
+                "/m/019_rr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Health",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Prizzilla",
+                "description": "I make videos to keep you company while you do your chores.",
+                "keywords": "Prizzilla astrology surrogacy beauty",
+                "trackingAnalyticsAccountId": "UA-76776190-1",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/y20mgBhzgkNmrrR2UUTzai5TPIQTPq0yS6lKF17AN2hgEChlpwkdP8oqqfOeqxmW4e3mkez1Bg"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

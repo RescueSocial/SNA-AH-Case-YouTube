@@ -1,0 +1,86 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "8zNwjVLhlv-hkIEjZBvvZCmv2WM",
+        "id": "UC7H3hGbdGkiyKjdU4AQ1zkw",
+        "snippet": {
+            "title": "BranOnline",
+            "description": "I  livestream on Twitch and make videos here! \nHttps://www.twitch.tv/BranOnline",
+            "customUrl": "branonline",
+            "publishedAt": "2019-04-26T15:32:49Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTZMhqlzAWx51IUJytWztx_s_NZTNtonwbUaeJ5DA=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTZMhqlzAWx51IUJytWztx_s_NZTNtonwbUaeJ5DA=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTZMhqlzAWx51IUJytWztx_s_NZTNtonwbUaeJ5DA=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "BranOnline",
+                "description": "I  livestream on Twitch and make videos here! \nHttps://www.twitch.tv/BranOnline"
+            },
+            "country": "GB"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU7H3hGbdGkiyKjdU4AQ1zkw"
+            }
+        },
+        "statistics": {
+            "viewCount": "1897202",
+            "subscriberCount": "22900",
+            "hiddenSubscriberCount": false,
+            "videoCount": "52"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/03hf_rm",
+                "/m/02ntfj",
+                "/m/025zzc",
+                "/m/0bzvm2",
+                "/m/02jjt",
+                "/m/0403l3g",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Strategy_video_game",
+                "https://en.wikipedia.org/wiki/Action-adventure_game",
+                "https://en.wikipedia.org/wiki/Action_game",
+                "https://en.wikipedia.org/wiki/Video_game_culture",
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Role-playing_video_game",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "BranOnline",
+                "description": "I  livestream on Twitch and make videos here! \nHttps://www.twitch.tv/BranOnline",
+                "keywords": "Reactions \"genshin impact\" jrpg anime JRPG's",
+                "unsubscribedTrailer": "XFJkMGt3iFA",
+                "country": "GB"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/wZSnHqMoh97H7HBc2uAFQqPHxlqwavCAVkEN5s6suumnycyEpDC-TE6i5mrE2ZDFdi4HRBGZQZ8"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

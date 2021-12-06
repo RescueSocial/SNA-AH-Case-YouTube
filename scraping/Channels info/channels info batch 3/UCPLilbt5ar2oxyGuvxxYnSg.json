@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "-juX7IB_bPUk1SIg0UOABRXGgmU",
+        "id": "UCPLilbt5ar2oxyGuvxxYnSg",
+        "snippet": {
+            "title": "Hannah Bayles",
+            "description": "\n",
+            "customUrl": "hannahbayles",
+            "publishedAt": "2020-03-30T16:55:12.394954Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLS3MtylZ9RNp0pciAC40LhHAN-VA-SY4BvUoEwppg=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLS3MtylZ9RNp0pciAC40LhHAN-VA-SY4BvUoEwppg=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLS3MtylZ9RNp0pciAC40LhHAN-VA-SY4BvUoEwppg=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Hannah Bayles",
+                "description": "\n"
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUPLilbt5ar2oxyGuvxxYnSg"
+            }
+        },
+        "statistics": {
+            "viewCount": "42180904",
+            "subscriberCount": "464000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "205"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/04rlf"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Music"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Hannah Bayles",
+                "description": "\n",
+                "unsubscribedTrailer": "5kwF6KPc-TU"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/rrzOEz7FXGFDaHpU6KVP2-EEYkQN-EZQ5Qg9zwPsJimYmGYztPSZlKL5yYNe9iwZhBiYSwks"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

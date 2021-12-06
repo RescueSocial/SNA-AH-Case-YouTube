@@ -1,0 +1,67 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "uKh4amq4S4gQEvyEZUcCsjmKbHY",
+        "id": "UCjJ9MlwftUlV6ivKfK-2aqA",
+        "snippet": {
+            "title": "Tri Vo Ngoc",
+            "description": "",
+            "publishedAt": "2015-02-01T13:58:56Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSEKOKR9z3ImrDZ5sMGBU46uIccY3Lyx70A9iZ7=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSEKOKR9z3ImrDZ5sMGBU46uIccY3Lyx70A9iZ7=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSEKOKR9z3ImrDZ5sMGBU46uIccY3Lyx70A9iZ7=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Tri Vo Ngoc",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUjJ9MlwftUlV6ivKfK-2aqA"
+            }
+        },
+        "statistics": {
+            "viewCount": "36062",
+            "subscriberCount": "114",
+            "hiddenSubscriberCount": false,
+            "videoCount": "284"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/0bzvm2",
+                "/m/022dc6"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Video_game_culture",
+                "https://en.wikipedia.org/wiki/Sports_game"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Tri Vo Ngoc",
+                "keywords": "audi"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "5L0lHw2WYyH6Vddn2Cc_hVaw9Oc",
+        "id": "UCRzYovoofsz7qMIL-AV8eDA",
+        "snippet": {
+            "title": "dynamite movies trailer",
+            "description": "",
+            "publishedAt": "2018-11-11T05:29:14Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLR0I9TbV1roGI3TL1Cpp2wMXQaDymtxtOcuP5XA=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLR0I9TbV1roGI3TL1Cpp2wMXQaDymtxtOcuP5XA=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLR0I9TbV1roGI3TL1Cpp2wMXQaDymtxtOcuP5XA=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "dynamite movies trailer",
+                "description": ""
+            },
+            "country": "IN"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UURzYovoofsz7qMIL-AV8eDA"
+            }
+        },
+        "statistics": {
+            "viewCount": "939407",
+            "subscriberCount": "1250",
+            "hiddenSubscriberCount": false,
+            "videoCount": "730"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02vxn",
+                "/m/02jjt",
+                "/m/0f2f9"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Television_program"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "dynamite movies trailer",
+                "country": "IN"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

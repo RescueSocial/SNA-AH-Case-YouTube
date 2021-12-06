@@ -1,0 +1,67 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "isL_JDa6JMdWoGMX2ZvZcqL_LsE",
+        "id": "UC0d4vAQ-YUDMcBFKMRONMDQ",
+        "snippet": {
+            "title": "TriCycle",
+            "description": "Go On",
+            "publishedAt": "2021-01-21T11:41:21.236651Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTpjA46f4aDencR3ULkmP0zZtFfNe0GY5b0SAUw=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTpjA46f4aDencR3ULkmP0zZtFfNe0GY5b0SAUw=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTpjA46f4aDencR3ULkmP0zZtFfNe0GY5b0SAUw=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "TriCycle",
+                "description": "Go On"
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU0d4vAQ-YUDMcBFKMRONMDQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "1081",
+            "subscriberCount": "12",
+            "hiddenSubscriberCount": false,
+            "videoCount": "34"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "TriCycle",
+                "description": "Go On"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

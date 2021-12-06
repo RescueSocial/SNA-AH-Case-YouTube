@@ -1,0 +1,69 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "WrzX7CXyzZsUq4K1EAIcwmIzxis",
+        "id": "UCUAr1BcWHFUIBJNLK6YCajA",
+        "snippet": {
+            "title": "nicansu",
+            "description": "",
+            "publishedAt": "2021-09-13T01:29:40.496114Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQyJqsrmPi1NWqsRQyVjpmdUR35_T-jKfyLMo_UlHyzA1I8VE_jpRVqMB0wptFF=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQyJqsrmPi1NWqsRQyVjpmdUR35_T-jKfyLMo_UlHyzA1I8VE_jpRVqMB0wptFF=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQyJqsrmPi1NWqsRQyVjpmdUR35_T-jKfyLMo_UlHyzA1I8VE_jpRVqMB0wptFF=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "nicansu",
+                "description": ""
+            },
+            "country": "AU"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUUAr1BcWHFUIBJNLK6YCajA"
+            }
+        },
+        "statistics": {
+            "viewCount": "1307",
+            "subscriberCount": "7",
+            "hiddenSubscriberCount": false,
+            "videoCount": "12"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "nicansu",
+                "country": "AU"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

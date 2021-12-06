@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "DbomWxiEgoEQMXDdwEAk5X-6N3I",
+        "id": "UC5rmjonujSXJBYOsRJjA3FQ",
+        "snippet": {
+            "title": "Helen Roberts",
+            "description": "My channel provide knowlege about Skills life - Money management",
+            "publishedAt": "2006-06-12T15:09:22Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRxge2zv69QAEasLUBEwjJIqqvHPK-oJWRTLAw4=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRxge2zv69QAEasLUBEwjJIqqvHPK-oJWRTLAw4=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRxge2zv69QAEasLUBEwjJIqqvHPK-oJWRTLAw4=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Helen Roberts",
+                "description": "My channel provide knowlege about Skills life - Money management"
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU5rmjonujSXJBYOsRJjA3FQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "684725",
+            "subscriberCount": "2230",
+            "hiddenSubscriberCount": false,
+            "videoCount": "4623"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/019_rr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Helen Roberts",
+                "description": "My channel provide knowlege about Skills life - Money management",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/3xucc6OJB4RRvHGK0vlHGgJpnj9r2pn9uWuTSR4TlJUxjWD7oUM5_waNOpBmE_OOkqrl9RDr7A"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

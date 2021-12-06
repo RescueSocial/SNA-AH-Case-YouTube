@@ -1,0 +1,66 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "i18od163IfUrlsg05xicu0wwSYA",
+        "id": "UCnTzyFLl1pA72duW0wShRRA",
+        "snippet": {
+            "title": "Ngan Galarneau",
+            "description": "",
+            "publishedAt": "2014-01-02T11:48:17Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSvjxLqzTzE9D4gn7odriajxWyITZL2Z1mlASIv=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSvjxLqzTzE9D4gn7odriajxWyITZL2Z1mlASIv=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSvjxLqzTzE9D4gn7odriajxWyITZL2Z1mlASIv=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Ngan Galarneau",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUnTzyFLl1pA72duW0wShRRA"
+            }
+        },
+        "statistics": {
+            "viewCount": "735252",
+            "subscriberCount": "430",
+            "hiddenSubscriberCount": false,
+            "videoCount": "1993"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/019_rr",
+                "/m/07c1v"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                "https://en.wikipedia.org/wiki/Technology"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Ngan Galarneau"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

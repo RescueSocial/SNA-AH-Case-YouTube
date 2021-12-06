@@ -1,0 +1,76 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "sUurJtgtAqwlopWnh1ni1RplSPE",
+        "id": "UCYvpCieLxsgByl2By8z8Neg",
+        "snippet": {
+            "title": "Johnny MashUp",
+            "description": "Thank you for supporting artists and creators!",
+            "publishedAt": "2016-04-13T15:13:10Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRd0ZflVGPAGx9-_7kZ-ihGWkLdSS8Theq5at5UVg=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRd0ZflVGPAGx9-_7kZ-ihGWkLdSS8Theq5at5UVg=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRd0ZflVGPAGx9-_7kZ-ihGWkLdSS8Theq5at5UVg=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Johnny MashUp",
+                "description": "Thank you for supporting artists and creators!"
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUYvpCieLxsgByl2By8z8Neg"
+            }
+        },
+        "statistics": {
+            "viewCount": "477460",
+            "subscriberCount": "1150",
+            "hiddenSubscriberCount": false,
+            "videoCount": "195"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/04rlf",
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Music",
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Johnny MashUp",
+                "description": "Thank you for supporting artists and creators!",
+                "keywords": "\"joe rogan\" \"johnny mashup\" \"robert dee\" \"polski samuraj\" YURUKAZECOM",
+                "unsubscribedTrailer": "-Lr5opOU7bU",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/3CBDkRSfhf9XhTeAkPxmYnXFZYKBTZICH3mRU4ybFHAzBmvDyaRWYD2lV7tXbd_R6oVgN4VrtQ"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

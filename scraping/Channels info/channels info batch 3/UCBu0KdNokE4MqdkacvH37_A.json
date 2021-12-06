@@ -1,0 +1,75 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "euKXwbxxSlAcxOiLfs4Ej9yKG0E",
+        "id": "UCBu0KdNokE4MqdkacvH37_A",
+        "snippet": {
+            "title": "WFAA",
+            "description": "The official YouTube Channel of WFAA-TV and WFAA.com",
+            "customUrl": "wfaa8",
+            "publishedAt": "2006-12-07T21:43:07Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRGfbU0YuivzQ7D6kyRMITfWlSOww0HIV7m7MQs7Q=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRGfbU0YuivzQ7D6kyRMITfWlSOww0HIV7m7MQs7Q=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRGfbU0YuivzQ7D6kyRMITfWlSOww0HIV7m7MQs7Q=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "WFAA",
+                "description": "The official YouTube Channel of WFAA-TV and WFAA.com"
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUBu0KdNokE4MqdkacvH37_A"
+            }
+        },
+        "statistics": {
+            "viewCount": "176410455",
+            "subscriberCount": "220000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "22900"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "WFAA",
+                "description": "The official YouTube Channel of WFAA-TV and WFAA.com",
+                "keywords": "WFAA Dallas \"north texas\" trial weather politics news \"fort worth\" dfw \"dfw news\" crime \"dallas county\" \"tarrant county\" \"denton county\" \"collin county\" \"north texas news\" \"breaking news\" \"severe weather\" \"dfw weather\" \"north texas weather\" \"texas politics\" metroplex coronavirus covid-19 \"abc news\" digital \"dallas news\" \"fort worth news\"",
+                "moderateComments": true,
+                "unsubscribedTrailer": "pQ0Bd8buodg",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/DDaybrhNcFAm5dWHvjsMCSYuRrlsPe0uM8OFsMcYJ-Zv2ozRVCA8-EtCZmPNrfpcX0STNr9p"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

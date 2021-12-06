@@ -1,0 +1,76 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "0-OBbu-WK4Osa0eai-HyapOMsKc",
+        "id": "UCJYaS2ogetYrHNgSOotAcXg",
+        "snippet": {
+            "title": "Second Poster",
+            "description": "",
+            "customUrl": "secondposter",
+            "publishedAt": "2016-08-19T08:29:23Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRXv7s2j8iB3veAASDptv6E6kQQPNgR6YAkyzDjEA=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRXv7s2j8iB3veAASDptv6E6kQQPNgR6YAkyzDjEA=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRXv7s2j8iB3veAASDptv6E6kQQPNgR6YAkyzDjEA=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Second Poster",
+                "description": ""
+            },
+            "country": "IN"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUJYaS2ogetYrHNgSOotAcXg"
+            }
+        },
+        "statistics": {
+            "viewCount": "10217132",
+            "subscriberCount": "22200",
+            "hiddenSubscriberCount": false,
+            "videoCount": "286"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn",
+                "/m/019_rr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Second Poster",
+                "keywords": "movie trailer \"movie trailers\" \"movie clips\" cinema gossip celebrities",
+                "country": "IN"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/7ofXHuDOIVRdS90voXfRCxFvZWKf3Jq7SZICcC2FMlF8bzQjLIxOegYK6CLTISP5Yli8ut-30w"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

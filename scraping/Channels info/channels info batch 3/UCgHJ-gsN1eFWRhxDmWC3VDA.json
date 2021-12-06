@@ -1,0 +1,71 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "D-c_IkAXADLTYs8Cht928xpCs-c",
+        "id": "UCgHJ-gsN1eFWRhxDmWC3VDA",
+        "snippet": {
+            "title": "Mahedi Hasan",
+            "description": "",
+            "publishedAt": "2014-07-06T10:52:40Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRU-yE33lNOKuRK1de42ErHEwLd7NvVzzJLEJeBRg=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRU-yE33lNOKuRK1de42ErHEwLd7NvVzzJLEJeBRg=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRU-yE33lNOKuRK1de42ErHEwLd7NvVzzJLEJeBRg=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Mahedi Hasan",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUgHJ-gsN1eFWRhxDmWC3VDA"
+            }
+        },
+        "statistics": {
+            "viewCount": "1148",
+            "subscriberCount": "41",
+            "hiddenSubscriberCount": false,
+            "videoCount": "24"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/01k8wb",
+                "/m/07c1v",
+                "/m/019_rr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Knowledge",
+                "https://en.wikipedia.org/wiki/Technology",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Mahedi Hasan"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/t_F6Nump_91m5QtZdg0lV5T4bE40r9LNlCobMAGKJH22IhgkP1QttZFOObUhJ52Qj_xUrl2fBw"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "ra58a2_KhnJgMBpE8hGLSN746IA",
+        "id": "UC_lDWQIubkdUaSoATWByMgA",
+        "snippet": {
+            "title": "Fairbanks Center for Medical Ethics",
+            "description": "",
+            "publishedAt": "2018-03-08T19:06:17Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQl0xov-eCXHLXBBzOMV8CxojlyTEZ-k2E2i0zG=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQl0xov-eCXHLXBBzOMV8CxojlyTEZ-k2E2i0zG=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQl0xov-eCXHLXBBzOMV8CxojlyTEZ-k2E2i0zG=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Fairbanks Center for Medical Ethics",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU_lDWQIubkdUaSoATWByMgA"
+            }
+        },
+        "statistics": {
+            "viewCount": "4352",
+            "subscriberCount": "55",
+            "hiddenSubscriberCount": false,
+            "videoCount": "90"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/01k8wb",
+                "/m/019_rr",
+                "/m/0kt51",
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Knowledge",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                "https://en.wikipedia.org/wiki/Health",
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Fairbanks Center for Medical Ethics",
+                "keywords": "Ethics \"Medical Ethics\" \"Clinical Ethics\" \"Health Ethics\""
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

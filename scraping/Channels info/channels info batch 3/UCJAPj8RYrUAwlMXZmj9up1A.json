@@ -1,0 +1,69 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "hB-7yFKfmPwbdfhqPB5nJaFBpKI",
+        "id": "UCJAPj8RYrUAwlMXZmj9up1A",
+        "snippet": {
+            "title": "Mx Tube",
+            "description": "Welcome to Mx Tube\n\nDon't for to subscribe \n",
+            "publishedAt": "2018-02-08T11:41:14Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLT7VfdqH64zOyw9buQOaCUxZgO9szc1kM7SW8dHGm9Q2dUBgPitvLXTFwSi4SNm=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLT7VfdqH64zOyw9buQOaCUxZgO9szc1kM7SW8dHGm9Q2dUBgPitvLXTFwSi4SNm=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLT7VfdqH64zOyw9buQOaCUxZgO9szc1kM7SW8dHGm9Q2dUBgPitvLXTFwSi4SNm=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Mx Tube",
+                "description": "Welcome to Mx Tube\n\nDon't for to subscribe \n"
+            },
+            "country": "IN"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUJAPj8RYrUAwlMXZmj9up1A"
+            }
+        },
+        "statistics": {
+            "viewCount": "1151575",
+            "hiddenSubscriberCount": true,
+            "videoCount": "346"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02vxn",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Mx Tube",
+                "description": "Welcome to Mx Tube\n\nDon't for to subscribe \n",
+                "country": "IN"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "mZtARXgSGLdlqq19DC1TSW1F55k",
+        "id": "UCkcoTmiSOt87u3tWQN0Xgkw",
+        "snippet": {
+            "title": "The BDD Foundation",
+            "description": "",
+            "customUrl": "thebddfoundation",
+            "publishedAt": "2015-04-12T08:42:05Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRk-QOF6xke6mgxE6fl4VU4y38pkXqNoHJp6olS4A=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRk-QOF6xke6mgxE6fl4VU4y38pkXqNoHJp6olS4A=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRk-QOF6xke6mgxE6fl4VU4y38pkXqNoHJp6olS4A=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "The BDD Foundation",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUkcoTmiSOt87u3tWQN0Xgkw"
+            }
+        },
+        "statistics": {
+            "viewCount": "498122",
+            "subscriberCount": "3920",
+            "hiddenSubscriberCount": false,
+            "videoCount": "92"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr",
+                "/m/01k8wb",
+                "/m/019_rr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society",
+                "https://en.wikipedia.org/wiki/Knowledge",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "The BDD Foundation"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/-V0fUpmFqPGiVA4VfHizl8fMDKhVSrL7ptLl8_mjPnfJ7Vdmbm4bYsMFYLVMurVtsvYWABXT"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

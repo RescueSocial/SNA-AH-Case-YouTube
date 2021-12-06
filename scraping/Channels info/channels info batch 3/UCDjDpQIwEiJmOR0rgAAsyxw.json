@@ -1,0 +1,67 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "HAC6wXjt0-wrqvM-e0ay_H9T3Pc",
+        "id": "UCDjDpQIwEiJmOR0rgAAsyxw",
+        "snippet": {
+            "title": "WpgCameraManX",
+            "description": "",
+            "publishedAt": "2008-03-05T04:11:19Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSKAaG9Az6lXd_VzInZ1ApsyOqifrE3ocKZIojs=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSKAaG9Az6lXd_VzInZ1ApsyOqifrE3ocKZIojs=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSKAaG9Az6lXd_VzInZ1ApsyOqifrE3ocKZIojs=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "WpgCameraManX",
+                "description": ""
+            },
+            "country": "CA"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUDjDpQIwEiJmOR0rgAAsyxw"
+            }
+        },
+        "statistics": {
+            "viewCount": "130219",
+            "subscriberCount": "52",
+            "hiddenSubscriberCount": false,
+            "videoCount": "88"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/019_rr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": true
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "WpgCameraManX",
+                "country": "CA"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

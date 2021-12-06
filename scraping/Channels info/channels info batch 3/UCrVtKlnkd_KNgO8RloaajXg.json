@@ -1,0 +1,64 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "UYxNA5N_dGPKrOPX7x4jbJkc7I4",
+        "id": "UCrVtKlnkd_KNgO8RloaajXg",
+        "snippet": {
+            "title": "GEORGE MACON 2",
+            "description": "",
+            "publishedAt": "2019-08-25T01:12:33Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSxXOu-9e_TJFX7uRyYyN9jb5yjWs2Ms64jUYWf=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSxXOu-9e_TJFX7uRyYyN9jb5yjWs2Ms64jUYWf=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSxXOu-9e_TJFX7uRyYyN9jb5yjWs2Ms64jUYWf=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "GEORGE MACON 2",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUrVtKlnkd_KNgO8RloaajXg"
+            }
+        },
+        "statistics": {
+            "viewCount": "533509",
+            "subscriberCount": "4580",
+            "hiddenSubscriberCount": false,
+            "videoCount": "452"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "GEORGE MACON 2"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

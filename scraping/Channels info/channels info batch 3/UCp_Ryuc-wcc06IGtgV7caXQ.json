@@ -1,0 +1,78 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "R-zTPeNaL5J1wFXL3u9sk2M_GBQ",
+        "id": "UCp_Ryuc-wcc06IGtgV7caXQ",
+        "snippet": {
+            "title": "Caribbean Digest",
+            "description": "Entertainment, News, Food and Travel",
+            "customUrl": "caribbeandigest",
+            "publishedAt": "2018-09-08T23:06:42Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLS6ppqBhTSiedmosWseUYsrhpNTsZkKYs98In5bOw=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLS6ppqBhTSiedmosWseUYsrhpNTsZkKYs98In5bOw=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLS6ppqBhTSiedmosWseUYsrhpNTsZkKYs98In5bOw=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Caribbean Digest",
+                "description": "Entertainment, News, Food and Travel"
+            },
+            "country": "CA"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUp_Ryuc-wcc06IGtgV7caXQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "414609",
+            "subscriberCount": "3190",
+            "hiddenSubscriberCount": false,
+            "videoCount": "339"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/04rlf",
+                "/m/0glt670",
+                "/m/064t9",
+                "/m/06cqb"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Music",
+                "https://en.wikipedia.org/wiki/Hip_hop_music",
+                "https://en.wikipedia.org/wiki/Pop_music",
+                "https://en.wikipedia.org/wiki/Reggae"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Caribbean Digest",
+                "description": "Entertainment, News, Food and Travel",
+                "keywords": "\"Caribbean Music\" \"Reggae Music\" \"Calypso Music\" \"Soca Music\"",
+                "country": "CA"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/K-OfJCHdBVwIpiElN_NIEZsPqRftgm5Ekr9lxF4sm9SUnNoSEh9dB4oQszoXNtAk2nmShelMEw"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

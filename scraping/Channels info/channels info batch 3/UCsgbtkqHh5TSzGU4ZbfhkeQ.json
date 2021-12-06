@@ -1,0 +1,72 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "bao499jLGxEbkeC137S1TbksDbA",
+        "id": "UCsgbtkqHh5TSzGU4ZbfhkeQ",
+        "snippet": {
+            "title": "Arty Crafty Alchemy",
+            "description": "This is a place to get your art and craft on and learn about all different types of media as well a few money saving tips along the way :) Welcome!",
+            "publishedAt": "2018-02-11T23:55:58Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTQfAmShTU5rKU3PfkICAjhiyoYsctpyvjm-llC=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTQfAmShTU5rKU3PfkICAjhiyoYsctpyvjm-llC=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTQfAmShTU5rKU3PfkICAjhiyoYsctpyvjm-llC=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Arty Crafty Alchemy",
+                "description": "This is a place to get your art and craft on and learn about all different types of media as well a few money saving tips along the way :) Welcome!"
+            },
+            "country": "AU"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUsgbtkqHh5TSzGU4ZbfhkeQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "59264",
+            "subscriberCount": "1090",
+            "hiddenSubscriberCount": false,
+            "videoCount": "246"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/03glg",
+                "/m/019_rr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Hobby",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Arty Crafty Alchemy",
+                "description": "This is a place to get your art and craft on and learn about all different types of media as well a few money saving tips along the way :) Welcome!",
+                "keywords": "Art Craft",
+                "moderateComments": true,
+                "country": "AU"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "CG2ofu6X-o4rMO3vn0v1NtdGTMY",
+        "id": "UC2AOpDaz_n-N0wtc_wrQ24A",
+        "snippet": {
+            "title": "Mixorcist",
+            "description": "Dark alleys where audio production and horror meet.",
+            "customUrl": "mixorcist",
+            "publishedAt": "2020-06-10T18:31:57.283518Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLS6Pz1c26UygXvRd3J6kcBD_TUCiwOiSu4A8XK-=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLS6Pz1c26UygXvRd3J6kcBD_TUCiwOiSu4A8XK-=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLS6Pz1c26UygXvRd3J6kcBD_TUCiwOiSu4A8XK-=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Mixorcist",
+                "description": "Dark alleys where audio production and horror meet."
+            },
+            "country": "CA"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU2AOpDaz_n-N0wtc_wrQ24A"
+            }
+        },
+        "statistics": {
+            "viewCount": "45602",
+            "subscriberCount": "879",
+            "hiddenSubscriberCount": false,
+            "videoCount": "43"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/07c1v",
+                "/m/06by7",
+                "/m/019_rr",
+                "/m/04rlf"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Technology",
+                "https://en.wikipedia.org/wiki/Rock_music",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                "https://en.wikipedia.org/wiki/Music"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Mixorcist",
+                "description": "Dark alleys where audio production and horror meet.",
+                "country": "CA"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

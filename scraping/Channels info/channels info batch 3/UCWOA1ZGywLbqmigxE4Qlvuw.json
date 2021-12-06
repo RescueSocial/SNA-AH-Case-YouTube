@@ -1,0 +1,79 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "-8jcG9acdBK_tQKny7u5EX_Bf4M",
+        "id": "UCWOA1ZGywLbqmigxE4Qlvuw",
+        "snippet": {
+            "title": "Netflix",
+            "description": "Netflix is the world's leading streaming entertainment service with over 209 million paid memberships in over 190 countries enjoying TV series, documentaries and feature films across a wide variety of genres and languages. Members can watch as much as they want, anytime, anywhere, on any internet-connected screen. Members can play, pause and resume watching, all without commercials or commitments.\n",
+            "customUrl": "netflix",
+            "publishedAt": "2012-07-17T20:45:36Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSIL-3Y7k9QAFE2MKEtPe5I4gmTdJ5dCyxFH-sxbg=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSIL-3Y7k9QAFE2MKEtPe5I4gmTdJ5dCyxFH-sxbg=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSIL-3Y7k9QAFE2MKEtPe5I4gmTdJ5dCyxFH-sxbg=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Netflix",
+                "description": "Netflix is the world's leading streaming entertainment service with over 209 million paid memberships in over 190 countries enjoying TV series, documentaries and feature films across a wide variety of genres and languages. Members can watch as much as they want, anytime, anywhere, on any internet-connected screen. Members can play, pause and resume watching, all without commercials or commitments.\n"
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUWOA1ZGywLbqmigxE4Qlvuw"
+            }
+        },
+        "statistics": {
+            "viewCount": "4777082654",
+            "subscriberCount": "22300000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "5089"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02vxn",
+                "/m/02jjt",
+                "/m/0f2f9"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Television_program"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Netflix",
+                "description": "Netflix is the world's leading streaming entertainment service with over 209 million paid memberships in over 190 countries enjoying TV series, documentaries and feature films across a wide variety of genres and languages. Members can watch as much as they want, anytime, anywhere, on any internet-connected screen. Members can play, pause and resume watching, all without commercials or commitments.\n",
+                "keywords": "\"watch movies\" \"movies online\" \"watch TV online\" \"TV shows online\" \"watch TV shows\" \"stream movies\" \"stream tv\" \"watch online\" \"movies TV shows\" \"netflix originals\"",
+                "trackingAnalyticsAccountId": "UA-102830255-1",
+                "unsubscribedTrailer": "_InqQJRqGW4",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/K1PwSMLYZV6WWDACLETCmtvpeXA11zhZ9H-gZ72YQYsj5kRmHUm3kW_c6TeyMqA-8dXb-CyW"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

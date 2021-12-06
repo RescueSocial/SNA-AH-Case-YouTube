@@ -1,0 +1,78 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "R7t85UMK9F_XpeIGuTDahnZMJyU",
+        "id": "UCGhLxQ3b1zya2GWape8Ci5A",
+        "snippet": {
+            "title": "King Taha",
+            "description": "",
+            "publishedAt": "2018-01-05T13:08:33Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQh1hDeQhXeHH6l2FfxD-drsoerI4nMMVwlQjqS=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQh1hDeQhXeHH6l2FfxD-drsoerI4nMMVwlQjqS=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQh1hDeQhXeHH6l2FfxD-drsoerI4nMMVwlQjqS=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "King Taha",
+                "description": ""
+            },
+            "country": "DZ"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUGhLxQ3b1zya2GWape8Ci5A"
+            }
+        },
+        "statistics": {
+            "viewCount": "4765",
+            "subscriberCount": "62",
+            "hiddenSubscriberCount": false,
+            "videoCount": "155"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/0bzvm2",
+                "/m/03glg",
+                "/m/019_rr",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Video_game_culture",
+                "https://en.wikipedia.org/wiki/Hobby",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "King Taha",
+                "unsubscribedTrailer": "ZDyUrp3wRos",
+                "country": "DZ"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/AcFVSLbcDqaj48KqENKP8hcHc9hqdeJihxsi7r-EriMs7rQqY74HsqF8yedcXipRbc36xMwZkA"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "y518RmY7l0-WsG6hHj0-meHpfDI",
+        "id": "UCGoGVA6kYRWi9OZzLcqueeg",
+        "snippet": {
+            "title": "Vinay Gupta",
+            "description": "",
+            "publishedAt": "2007-03-19T10:45:11Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTywjRx1kX7xxyp477ycp1Z8MieaIGQ49jsVezlhg=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTywjRx1kX7xxyp477ycp1Z8MieaIGQ49jsVezlhg=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTywjRx1kX7xxyp477ycp1Z8MieaIGQ49jsVezlhg=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Vinay Gupta",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUGoGVA6kYRWi9OZzLcqueeg"
+            }
+        },
+        "statistics": {
+            "viewCount": "223797",
+            "subscriberCount": "2380",
+            "hiddenSubscriberCount": false,
+            "videoCount": "165"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr",
+                "/m/01k8wb"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society",
+                "https://en.wikipedia.org/wiki/Knowledge"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Vinay Gupta"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

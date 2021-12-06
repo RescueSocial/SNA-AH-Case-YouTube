@@ -1,0 +1,68 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "rzmmEh-YikPeufBrugTndYtZGYk",
+        "id": "UC4NHzkX6CvSEKZUhitw0jGw",
+        "snippet": {
+            "title": "victorbam",
+            "description": "",
+            "publishedAt": "2007-02-08T21:17:29Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSjCWyUK94K1WZqulG6EkBsIdFqplfQg7iT-d9q=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSjCWyUK94K1WZqulG6EkBsIdFqplfQg7iT-d9q=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSjCWyUK94K1WZqulG6EkBsIdFqplfQg7iT-d9q=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "victorbam",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU4NHzkX6CvSEKZUhitw0jGw"
+            }
+        },
+        "statistics": {
+            "viewCount": "528561",
+            "subscriberCount": "117",
+            "hiddenSubscriberCount": false,
+            "videoCount": "7"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/04rlf",
+                "/m/06by7",
+                "/m/05rwpb"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Music",
+                "https://en.wikipedia.org/wiki/Rock_music",
+                "https://en.wikipedia.org/wiki/Independent_music"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "victorbam"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

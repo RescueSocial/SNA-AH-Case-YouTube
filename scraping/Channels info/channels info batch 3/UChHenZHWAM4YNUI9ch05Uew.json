@@ -1,0 +1,67 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "QnrGbv5Jkd92ITFLFdWRNdI_ba8",
+        "id": "UChHenZHWAM4YNUI9ch05Uew",
+        "snippet": {
+            "title": "AARPWI",
+            "description": "",
+            "customUrl": "aarpwi",
+            "publishedAt": "2020-06-04T15:20:18.934753Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTb09ypu2-W2_Az0eqdbxV9gKXXl2m5fXc6DtXG=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTb09ypu2-W2_Az0eqdbxV9gKXXl2m5fXc6DtXG=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTb09ypu2-W2_Az0eqdbxV9gKXXl2m5fXc6DtXG=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "AARPWI",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUhHenZHWAM4YNUI9ch05Uew"
+            }
+        },
+        "statistics": {
+            "viewCount": "2144",
+            "subscriberCount": "122",
+            "hiddenSubscriberCount": false,
+            "videoCount": "134"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr",
+                "/g/120y8l81"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society",
+                "https://en.wikipedia.org/wiki/Business"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "AARPWI"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

@@ -1,0 +1,75 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "tocXs3pKOCBxaRkZ3Te7-vJxUyA",
+        "id": "UCqvyKe1OBFVxJR63n_-fZcQ",
+        "snippet": {
+            "title": "Irish Craft Beer Show",
+            "description": "A Youtube show about homebrewing and craft beer from Ireland and further afield.",
+            "customUrl": "irishcraftbeershow",
+            "publishedAt": "2014-05-22T19:11:32Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLS3cwzS749uBRjhFGBF7nbPjapYX8TN-mxY8ZVO=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLS3cwzS749uBRjhFGBF7nbPjapYX8TN-mxY8ZVO=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLS3cwzS749uBRjhFGBF7nbPjapYX8TN-mxY8ZVO=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Irish Craft Beer Show",
+                "description": "A Youtube show about homebrewing and craft beer from Ireland and further afield."
+            },
+            "country": "IE"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUqvyKe1OBFVxJR63n_-fZcQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "20589",
+            "subscriberCount": "558",
+            "hiddenSubscriberCount": false,
+            "videoCount": "39"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02wbm",
+                "/m/019_rr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Food",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Irish Craft Beer Show",
+                "description": "A Youtube show about homebrewing and craft beer from Ireland and further afield.",
+                "keywords": "\"Craft Beer Ireland\" Homebrewing Homebrew Beer Dublin Beoir \"National Homebrew Club\"",
+                "unsubscribedTrailer": "1V9PP2BrXdQ",
+                "country": "IE"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/CpehBxRlN03xgvfuV9bii5wn7_H_ZozBzWde4U9n6Unc0Kt6nINU8L6UWor2kdvIA_9oKq9nxw"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

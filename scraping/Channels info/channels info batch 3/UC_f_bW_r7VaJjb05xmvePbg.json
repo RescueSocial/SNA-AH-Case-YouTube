@@ -1,0 +1,68 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "nSdlCX7j9-noRgE3ov7kvn6I690",
+        "id": "UC_f_bW_r7VaJjb05xmvePbg",
+        "snippet": {
+            "title": "QUICK ACCESS",
+            "description": "",
+            "publishedAt": "2021-09-04T09:42:41.499419Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/HAikx7hVAD8-CSckMPfgF5ktA3KJ6WSOaKkhlr8eJ2kXy2BR034ysPwOo5WcIFr9OT8WtQ-4Yw=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/HAikx7hVAD8-CSckMPfgF5ktA3KJ6WSOaKkhlr8eJ2kXy2BR034ysPwOo5WcIFr9OT8WtQ-4Yw=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/HAikx7hVAD8-CSckMPfgF5ktA3KJ6WSOaKkhlr8eJ2kXy2BR034ysPwOo5WcIFr9OT8WtQ-4Yw=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "QUICK ACCESS",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU_f_bW_r7VaJjb05xmvePbg"
+            }
+        },
+        "statistics": {
+            "viewCount": "15769",
+            "hiddenSubscriberCount": true,
+            "videoCount": "39"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/019_rr",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "QUICK ACCESS"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/ZYNljsfcwxYzvw5fjJVkvOaibUfmfSZlgPnO7F2ARrB7frwk1kWG_bcA3bxCthrwuZdRWwloUDA"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

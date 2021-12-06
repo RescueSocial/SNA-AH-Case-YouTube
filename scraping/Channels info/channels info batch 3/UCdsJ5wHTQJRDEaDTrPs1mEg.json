@@ -1,0 +1,66 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "CoPu3rPaKAM_Ny8PblcqIMr3-N4",
+        "id": "UCdsJ5wHTQJRDEaDTrPs1mEg",
+        "snippet": {
+            "title": "Amber Hughes",
+            "description": "",
+            "publishedAt": "2009-10-17T21:56:54Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSaaV48GHnY0CAjL2Eq-7AzvMNT-2HA_DdAxQ=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSaaV48GHnY0CAjL2Eq-7AzvMNT-2HA_DdAxQ=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSaaV48GHnY0CAjL2Eq-7AzvMNT-2HA_DdAxQ=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Amber Hughes",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUdsJ5wHTQJRDEaDTrPs1mEg"
+            }
+        },
+        "statistics": {
+            "viewCount": "40341",
+            "subscriberCount": "592",
+            "hiddenSubscriberCount": false,
+            "videoCount": "39"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/019_rr",
+                "/m/01k8wb"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                "https://en.wikipedia.org/wiki/Knowledge"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Amber Hughes"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

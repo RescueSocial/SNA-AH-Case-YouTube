@@ -1,0 +1,68 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "IFPJHA4vVBxpA5cg0Dgl-LVCa3A",
+        "id": "UCKlsPQB-JCx_Sl86JniPOeA",
+        "snippet": {
+            "title": "VICTOR HUGO",
+            "description": "",
+            "publishedAt": "2018-09-19T11:11:20Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLR5k5WaTzBYxvHv2JLbD7HZ3qXOf_VQ83wUMbu1=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLR5k5WaTzBYxvHv2JLbD7HZ3qXOf_VQ83wUMbu1=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLR5k5WaTzBYxvHv2JLbD7HZ3qXOf_VQ83wUMbu1=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "VICTOR HUGO",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUKlsPQB-JCx_Sl86JniPOeA"
+            }
+        },
+        "statistics": {
+            "viewCount": "2627859",
+            "subscriberCount": "2000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "272"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02vxn",
+                "/m/02jjt",
+                "/m/04rlf"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Music"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "VICTOR HUGO"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

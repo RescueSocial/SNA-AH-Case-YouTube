@@ -1,0 +1,69 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "m0UEXLdood8ewEH29FRmxcG3QvM",
+        "id": "UCPRDhYEw5TWXsbDAkGarMeA",
+        "snippet": {
+            "title": "Technical Deep",
+            "description": "",
+            "publishedAt": "2020-10-15T05:12:31.463553Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLS7akpu4eruhqFExl3Y2BFkzrCgJUPjbSuAAyRm=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLS7akpu4eruhqFExl3Y2BFkzrCgJUPjbSuAAyRm=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLS7akpu4eruhqFExl3Y2BFkzrCgJUPjbSuAAyRm=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Technical Deep",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUPRDhYEw5TWXsbDAkGarMeA"
+            }
+        },
+        "statistics": {
+            "viewCount": "1520",
+            "subscriberCount": "40",
+            "hiddenSubscriberCount": false,
+            "videoCount": "23"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Technical Deep"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/mQF9505UdqxKLSjecU_czCQKB-qBAhPsC71I29kLCYT_ZyW9OydiVerSgmJ5aMgIweYmIv6KQGc"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

@@ -1,0 +1,71 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "Sm1ZCeIiYqxkiw6gUXmD4Mdrdg0",
+        "id": "UCzP8TJBU08ZUYjCBLjP--5A",
+        "snippet": {
+            "title": "Video Clip",
+            "description": "",
+            "publishedAt": "2021-04-19T15:13:38.730402Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRoY7giXHeM8q5lmIM6eq4pn5SEsdMN9TMzuG30=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRoY7giXHeM8q5lmIM6eq4pn5SEsdMN9TMzuG30=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRoY7giXHeM8q5lmIM6eq4pn5SEsdMN9TMzuG30=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Video Clip",
+                "description": ""
+            },
+            "country": "BR"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUzP8TJBU08ZUYjCBLjP--5A"
+            }
+        },
+        "statistics": {
+            "viewCount": "5243",
+            "subscriberCount": "8",
+            "hiddenSubscriberCount": false,
+            "videoCount": "554"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Video Clip",
+                "keywords": "brasil \"video clip\" celebridades hollywood",
+                "country": "BR"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/3CrhywRGWEskk1eXONkGLas3CA7xo4iOrBfxPOHg4_6O5fgXOMdjWu3IXPo59iazMuHSMMKTcA"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

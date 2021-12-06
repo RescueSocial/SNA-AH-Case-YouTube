@@ -1,0 +1,69 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "CZU1urBz6q2nnrWAt6SjJ9q1Fyk",
+        "id": "UCXsxHs-Ujs5dCGEicw-PDKg",
+        "snippet": {
+            "title": "UY Scuti",
+            "description": "",
+            "publishedAt": "2021-05-02T06:55:27.291273Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/cjzaZhCaO0Q07PQTkudGEYrLoMeP6IJjF7BFpX-oY_NqU_9XDln6p7Khy0DrVTUSnSrVMUDh=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/cjzaZhCaO0Q07PQTkudGEYrLoMeP6IJjF7BFpX-oY_NqU_9XDln6p7Khy0DrVTUSnSrVMUDh=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/cjzaZhCaO0Q07PQTkudGEYrLoMeP6IJjF7BFpX-oY_NqU_9XDln6p7Khy0DrVTUSnSrVMUDh=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "UY Scuti",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUXsxHs-Ujs5dCGEicw-PDKg"
+            }
+        },
+        "statistics": {
+            "viewCount": "36129",
+            "subscriberCount": "165",
+            "hiddenSubscriberCount": false,
+            "videoCount": "74"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02vxn",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "UY Scuti"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/8EC6qOvZPFQBVyX4wtALbz8dyPdRTUr12AFZheLfJNQ8csWiHLkN5RMY2U3qHPzAs6HH7rANiSY"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "mTL6Pzp_Lz-64UDCgZmiG4F9m68",
+        "id": "UCLpDzmnOyj50sszJ8LKAN5A",
+        "snippet": {
+            "title": "Movie Warrior",
+            "description": "Welcome to Movie Warrior  Channel. Your great source for new movie trailers.",
+            "customUrl": "moviewarrior",
+            "publishedAt": "2020-08-24T11:19:46.302406Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSAQ6dRXQAeKIy0cO-H6nwAHMohjFI8-cc55x0c=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSAQ6dRXQAeKIy0cO-H6nwAHMohjFI8-cc55x0c=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSAQ6dRXQAeKIy0cO-H6nwAHMohjFI8-cc55x0c=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Movie Warrior",
+                "description": "Welcome to Movie Warrior  Channel. Your great source for new movie trailers."
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UULpDzmnOyj50sszJ8LKAN5A"
+            }
+        },
+        "statistics": {
+            "viewCount": "132846",
+            "hiddenSubscriberCount": true,
+            "videoCount": "327"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/0f2f9",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Television_program",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Movie Warrior",
+                "description": "Welcome to Movie Warrior  Channel. Your great source for new movie trailers.",
+                "keywords": "movie trailers \"movie trailers\" \"new movie trailers\" \"new trailers\" trailershd trailersforyou trailers2021",
+                "unsubscribedTrailer": "trorb6oht3M",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/05RVBo2bFxei7l5rN607FoFOEOeaGfGer48_DJKQP94Ve6GIaNQxhzh3nJvk_VGu0ygkGN9ZQQ"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

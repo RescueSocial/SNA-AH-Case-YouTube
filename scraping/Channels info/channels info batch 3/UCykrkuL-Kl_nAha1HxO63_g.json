@@ -1,0 +1,72 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "2T97w9xK9g_QZx0XQerM5ANwtUM",
+        "id": "UCykrkuL-Kl_nAha1HxO63_g",
+        "snippet": {
+            "title": "Celebrity Star",
+            "description": "",
+            "publishedAt": "2013-08-29T08:18:51Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQ2WFSHsTZu_rKeNJJ0pvGLI6cYhEOny_MmQkBmyg=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQ2WFSHsTZu_rKeNJJ0pvGLI6cYhEOny_MmQkBmyg=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQ2WFSHsTZu_rKeNJJ0pvGLI6cYhEOny_MmQkBmyg=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Celebrity Star",
+                "description": ""
+            },
+            "country": "GB"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUykrkuL-Kl_nAha1HxO63_g"
+            }
+        },
+        "statistics": {
+            "viewCount": "1031593",
+            "subscriberCount": "2340",
+            "hiddenSubscriberCount": false,
+            "videoCount": "7934"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/0f2f9"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Television_program"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Celebrity Star",
+                "country": "GB"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/tYdNLXnGRhWmTFqKz-rK3FLE1KlwqflURScbD_tAnXSSEhSNMjvaArlMcpV-0BL893c-9SGHZQ"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

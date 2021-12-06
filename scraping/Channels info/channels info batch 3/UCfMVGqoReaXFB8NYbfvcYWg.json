@@ -1,0 +1,74 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "u-ulbhgWWm1XDjn60O-4gcjcQso",
+        "id": "UCfMVGqoReaXFB8NYbfvcYWg",
+        "snippet": {
+            "title": "NEW MOVIE TRAILER",
+            "description": "follow as to watch new trailer .",
+            "publishedAt": "2020-07-25T18:22:21.16408Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/7Y2ZPFz9oTznmqTbBvfWqqa25CLJ4bIv4HhvAv4TLq7Svm39CRCZSNN3spbO2-pIkdaLs0JxsA=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/7Y2ZPFz9oTznmqTbBvfWqqa25CLJ4bIv4HhvAv4TLq7Svm39CRCZSNN3spbO2-pIkdaLs0JxsA=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/7Y2ZPFz9oTznmqTbBvfWqqa25CLJ4bIv4HhvAv4TLq7Svm39CRCZSNN3spbO2-pIkdaLs0JxsA=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "NEW MOVIE TRAILER",
+                "description": "follow as to watch new trailer ."
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUfMVGqoReaXFB8NYbfvcYWg"
+            }
+        },
+        "statistics": {
+            "viewCount": "4130",
+            "hiddenSubscriberCount": true,
+            "videoCount": "252"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/0f2f9",
+                "/m/02vxn",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Television_program",
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "NEW MOVIE TRAILER",
+                "description": "follow as to watch new trailer .",
+                "unsubscribedTrailer": "MryIG3OlNHo",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/YwYpFvl8G1BL0rq-dnqJnwxuYkHDd4bGkPssw1Q4uexO6BGZmtbaXRad7YFsvX1XSdhYHOIzAQ"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

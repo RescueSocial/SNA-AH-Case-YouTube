@@ -1,0 +1,56 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "0jGdLjcLGk4yDrAiJcOKr7XT938",
+        "id": "UCj1gdfJqOAHDoU-GtfsgaUA",
+        "snippet": {
+            "title": "Rovanson Wu",
+            "description": "",
+            "publishedAt": "2021-04-15T00:41:51.10758Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRPtQn1alTwlNHrl6GasGHI83mtSN4r4njtdQ=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRPtQn1alTwlNHrl6GasGHI83mtSN4r4njtdQ=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRPtQn1alTwlNHrl6GasGHI83mtSN4r4njtdQ=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Rovanson Wu",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUj1gdfJqOAHDoU-GtfsgaUA"
+            }
+        },
+        "statistics": {
+            "viewCount": "479",
+            "subscriberCount": "0",
+            "hiddenSubscriberCount": false,
+            "videoCount": "1"
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Rovanson Wu"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

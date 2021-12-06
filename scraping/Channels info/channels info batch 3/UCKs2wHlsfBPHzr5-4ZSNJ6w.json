@@ -1,0 +1,72 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "gt-6cY3k4MwIPWOp3mngGCs6gm4",
+        "id": "UCKs2wHlsfBPHzr5-4ZSNJ6w",
+        "snippet": {
+            "title": "Produzen",
+            "description": "",
+            "customUrl": "produzen",
+            "publishedAt": "2019-09-25T18:07:28Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSU4sakRYOYK1Opm1qqXfzWabz6aXr6ieDbvPS6=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSU4sakRYOYK1Opm1qqXfzWabz6aXr6ieDbvPS6=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSU4sakRYOYK1Opm1qqXfzWabz6aXr6ieDbvPS6=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Produzen",
+                "description": ""
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUKs2wHlsfBPHzr5-4ZSNJ6w"
+            }
+        },
+        "statistics": {
+            "viewCount": "8131",
+            "subscriberCount": "192",
+            "hiddenSubscriberCount": false,
+            "videoCount": "20"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Produzen",
+                "keywords": "Business Intelligence",
+                "trackingAnalyticsAccountId": "UA-149129181-1",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/WHdH21Sp0bvo0t2t-hR3ZtNSJ3X-pRWjKo-cSwoDC05JmhKytefBD4NNscrq82D8p4eoLlJyHQ"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

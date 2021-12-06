@@ -1,0 +1,66 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "R8mDkYyrdqh6BcxrJGFG9d1Fi4A",
+        "id": "UCdlwsBk8RFUmEeS-wywC0iQ",
+        "snippet": {
+            "title": "movie trailers",
+            "description": "",
+            "publishedAt": "2013-08-08T09:25:24Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTr3-tC0rPx4SAdjlKT8Zwlvsz08erpVCZN6w=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTr3-tC0rPx4SAdjlKT8Zwlvsz08erpVCZN6w=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTr3-tC0rPx4SAdjlKT8Zwlvsz08erpVCZN6w=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "movie trailers",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUdlwsBk8RFUmEeS-wywC0iQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "1244720",
+            "subscriberCount": "610",
+            "hiddenSubscriberCount": false,
+            "videoCount": "827"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02vxn",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "movie trailers"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

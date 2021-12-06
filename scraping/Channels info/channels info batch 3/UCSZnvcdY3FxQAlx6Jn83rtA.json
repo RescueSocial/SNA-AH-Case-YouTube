@@ -1,0 +1,66 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "aiJ0rmIfp7lOjKQ9nqOBedYcuSI",
+        "id": "UCSZnvcdY3FxQAlx6Jn83rtA",
+        "snippet": {
+            "title": "Crazy Stuff",
+            "description": "",
+            "publishedAt": "2021-06-03T19:35:59.207185Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQOu8R4cmwsI8djmFZ8uASWgElSavxttOf0NvuQaBLMv19FYpXkOtmWT4CU1hG3=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQOu8R4cmwsI8djmFZ8uASWgElSavxttOf0NvuQaBLMv19FYpXkOtmWT4CU1hG3=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQOu8R4cmwsI8djmFZ8uASWgElSavxttOf0NvuQaBLMv19FYpXkOtmWT4CU1hG3=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Crazy Stuff",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUSZnvcdY3FxQAlx6Jn83rtA"
+            }
+        },
+        "statistics": {
+            "viewCount": "1217",
+            "subscriberCount": "8",
+            "hiddenSubscriberCount": false,
+            "videoCount": "4"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02vxn",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Crazy Stuff"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

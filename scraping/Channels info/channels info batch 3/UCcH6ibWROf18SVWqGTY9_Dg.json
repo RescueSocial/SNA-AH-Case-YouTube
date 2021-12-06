@@ -1,0 +1,74 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "koVvwS0PUPG_rXeVxk3Y2JD7Yec",
+        "id": "UCcH6ibWROf18SVWqGTY9_Dg",
+        "snippet": {
+            "title": "00Breaking News",
+            "description": "Breaking news, daily news, fast news, real news, audio news, world news and more!\n\nBreaking News\n",
+            "customUrl": "00breakingnews",
+            "publishedAt": "2017-01-19T23:21:52Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSQJqp5KCO_W_4W-m3mOqBYFIdQoG3mSfF856xXbQ=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSQJqp5KCO_W_4W-m3mOqBYFIdQoG3mSfF856xXbQ=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSQJqp5KCO_W_4W-m3mOqBYFIdQoG3mSfF856xXbQ=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "00Breaking News",
+                "description": "Breaking news, daily news, fast news, real news, audio news, world news and more!\n\nBreaking News\n"
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUcH6ibWROf18SVWqGTY9_Dg"
+            }
+        },
+        "statistics": {
+            "viewCount": "430473",
+            "hiddenSubscriberCount": true,
+            "videoCount": "3855"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/05qt0",
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Politics",
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "00Breaking News",
+                "description": "Breaking news, daily news, fast news, real news, audio news, world news and more!\n\nBreaking News\n",
+                "keywords": "\"breaking news\" \"fast news\" \"real news\" \"audio news\" \"world news\" \"live news\"",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/yaDCoi910NQy21sTROKlcdnMjjVRI4X8UbXZcNisGK7yErkRT-HPooORUXL0evgfetsFnD1JIQ"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

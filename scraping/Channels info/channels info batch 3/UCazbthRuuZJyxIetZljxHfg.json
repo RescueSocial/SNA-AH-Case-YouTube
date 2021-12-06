@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "yRKvqSPYNqTqp_1CyuS3f7oGOMw",
+        "id": "UCazbthRuuZJyxIetZljxHfg",
+        "snippet": {
+            "title": "Kino Star",
+            "description": "This is a channel about the latest news from the world of cinema and show business. Subscribe to not miss the release of a new video!",
+            "publishedAt": "2018-10-18T17:47:47Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQi9JTldgxxm4Vzl8VaqI5BYBR__dquMlWObjGF=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQi9JTldgxxm4Vzl8VaqI5BYBR__dquMlWObjGF=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQi9JTldgxxm4Vzl8VaqI5BYBR__dquMlWObjGF=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Kino Star",
+                "description": "This is a channel about the latest news from the world of cinema and show business. Subscribe to not miss the release of a new video!"
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUazbthRuuZJyxIetZljxHfg"
+            }
+        },
+        "statistics": {
+            "viewCount": "399803",
+            "subscriberCount": "504",
+            "hiddenSubscriberCount": false,
+            "videoCount": "96"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Kino Star",
+                "description": "This is a channel about the latest news from the world of cinema and show business. Subscribe to not miss the release of a new video!",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/aCJFPzVN5r7bEEh63YIwf49BGTYxaDdIKBcHmePr9rMHAF1jlPO7whB9UFkdF-zgv-BIlzoeZg"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

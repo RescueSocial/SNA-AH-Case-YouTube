@@ -1,0 +1,66 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "G6lpl2zIIO8CMt251ZaY28XMfac",
+        "id": "UCe-D60vtTrHrJop1DtvROkw",
+        "snippet": {
+            "title": "Filmpro",
+            "description": "",
+            "publishedAt": "2021-12-02T18:51:08.056024Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/3B8ySBnVBkKtKFhMmEU36BMi9qVPUXd2xxXaTQetGbj6KNlCvp2q6WItPho7l9LS9nLka_fB=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/3B8ySBnVBkKtKFhMmEU36BMi9qVPUXd2xxXaTQetGbj6KNlCvp2q6WItPho7l9LS9nLka_fB=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/3B8ySBnVBkKtKFhMmEU36BMi9qVPUXd2xxXaTQetGbj6KNlCvp2q6WItPho7l9LS9nLka_fB=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Filmpro",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUe-D60vtTrHrJop1DtvROkw"
+            }
+        },
+        "statistics": {
+            "viewCount": "28",
+            "subscriberCount": "0",
+            "hiddenSubscriberCount": false,
+            "videoCount": "2"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02vxn",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Filmpro"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

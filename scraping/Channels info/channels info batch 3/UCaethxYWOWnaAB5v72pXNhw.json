@@ -1,0 +1,69 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "jG4KjIzq27V_6SZaRNtmzDkBzHA",
+        "id": "UCaethxYWOWnaAB5v72pXNhw",
+        "snippet": {
+            "title": "Arunkumar Jewaragi",
+            "description": "",
+            "customUrl": "arunkumarjewaragi",
+            "publishedAt": "2012-07-14T17:16:50Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTGATfhc68AgFtj-sTgwqFjVYjSLY1Z_CvNg9FeLw=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTGATfhc68AgFtj-sTgwqFjVYjSLY1Z_CvNg9FeLw=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTGATfhc68AgFtj-sTgwqFjVYjSLY1Z_CvNg9FeLw=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Arunkumar Jewaragi",
+                "description": ""
+            },
+            "country": "IN"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUaethxYWOWnaAB5v72pXNhw"
+            }
+        },
+        "statistics": {
+            "viewCount": "450390",
+            "subscriberCount": "5970",
+            "hiddenSubscriberCount": false,
+            "videoCount": "126"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/01k8wb"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Knowledge"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Arunkumar Jewaragi",
+                "keywords": "SSLC KANNADA SCIENCE VIDEOS",
+                "country": "IN"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

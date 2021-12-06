@@ -1,0 +1,72 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "3kdiFiTYhs28f0xaC-qnQqo5h88",
+        "id": "UCdA2aG7kLNVgVlHdynG6gdw",
+        "snippet": {
+            "title": "Pretty In Papercuts",
+            "description": "I'm just here to get scared.",
+            "customUrl": "prettyinpapercuts",
+            "publishedAt": "2013-05-16T19:12:36Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSQFLH7OszXsMbypjsUoJuqD87srHwfcoqgegAliw=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSQFLH7OszXsMbypjsUoJuqD87srHwfcoqgegAliw=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSQFLH7OszXsMbypjsUoJuqD87srHwfcoqgegAliw=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Pretty In Papercuts",
+                "description": "I'm just here to get scared."
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUdA2aG7kLNVgVlHdynG6gdw"
+            }
+        },
+        "statistics": {
+            "viewCount": "79356",
+            "subscriberCount": "1400",
+            "hiddenSubscriberCount": false,
+            "videoCount": "269"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/019_rr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Pretty In Papercuts",
+                "description": "I'm just here to get scared.",
+                "keywords": "booktuber booktube \"horror books\" \"horror booktuber\" book books \"book reviews\" read reading \"pretty in papercuts\" prettyinpapercuts \"movie reviews\" horror horrortube",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/RqoKPOGDmqABVJ-4y97wAvBh8tuoaXPNqLi2HYCTwlKCNRHIX8APgsQ664D4dG4fGyNZpnB56Q"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

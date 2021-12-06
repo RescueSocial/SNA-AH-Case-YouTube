@@ -1,0 +1,66 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "SQUiAskZMUIR472PHszOWz5DhgU",
+        "id": "UCxaPyIMiGMof1t3rN7n-t7A",
+        "snippet": {
+            "title": "Samuel Smith",
+            "description": "",
+            "publishedAt": "2018-11-09T09:57:01Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLT0G0PdoHkwDB-quszIhbE1_qhsuFSCVdGuNQ=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLT0G0PdoHkwDB-quszIhbE1_qhsuFSCVdGuNQ=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLT0G0PdoHkwDB-quszIhbE1_qhsuFSCVdGuNQ=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Samuel Smith",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUxaPyIMiGMof1t3rN7n-t7A"
+            }
+        },
+        "statistics": {
+            "viewCount": "438116",
+            "subscriberCount": "535",
+            "hiddenSubscriberCount": false,
+            "videoCount": "2"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr",
+                "/m/06bvp"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society",
+                "https://en.wikipedia.org/wiki/Religion"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Samuel Smith"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

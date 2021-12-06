@@ -1,0 +1,77 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "_pMsazYPs52KTd5E6J1LmChXjBU",
+        "id": "UC6dVRPnSACav2AYB5XG7BZw",
+        "snippet": {
+            "title": "NY JS",
+            "description": "Videos from NY JavaScript meetups\nhttp://www.meetup.com/NY-JavaScript",
+            "customUrl": "nyjsmeetup",
+            "publishedAt": "2014-06-20T05:52:21Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQRHhsypZlFCXDzVvYQCdQkCGWc59ExN2QoYMfXtw=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQRHhsypZlFCXDzVvYQCdQkCGWc59ExN2QoYMfXtw=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQRHhsypZlFCXDzVvYQCdQkCGWc59ExN2QoYMfXtw=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "NY JS",
+                "description": "Videos from NY JavaScript meetups\nhttp://www.meetup.com/NY-JavaScript"
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU6dVRPnSACav2AYB5XG7BZw"
+            }
+        },
+        "statistics": {
+            "viewCount": "51111",
+            "subscriberCount": "707",
+            "hiddenSubscriberCount": false,
+            "videoCount": "31"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/01k8wb",
+                "/m/07c1v",
+                "/m/019_rr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Knowledge",
+                "https://en.wikipedia.org/wiki/Technology",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "NY JS",
+                "description": "Videos from NY JavaScript meetups\nhttp://www.meetup.com/NY-JavaScript",
+                "keywords": "backbone marionette",
+                "trackingAnalyticsAccountId": "UA-52639766-1",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/2vaieKy96pIEynULmCNirqFiUpAE-Y9u99RZ_Zm9hStSoUPtnMTc6GlyZYj6LA-RJrFpVA5GYw"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

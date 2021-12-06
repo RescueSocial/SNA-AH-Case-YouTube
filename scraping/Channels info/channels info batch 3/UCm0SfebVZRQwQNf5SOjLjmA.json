@@ -1,0 +1,69 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "PoVha7J-oWaiuRp7iwiVRlbbqO4",
+        "id": "UCm0SfebVZRQwQNf5SOjLjmA",
+        "snippet": {
+            "title": "Movieflix",
+            "description": "",
+            "publishedAt": "2021-09-08T01:48:34.449834Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/hF1_N_KbckTV7uKY_vHMK1xvHlscrgKHeb9XtKcbvmtsexfMHTWCJl-KRNZaR00Q0Ngjh05-HLY=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/hF1_N_KbckTV7uKY_vHMK1xvHlscrgKHeb9XtKcbvmtsexfMHTWCJl-KRNZaR00Q0Ngjh05-HLY=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/hF1_N_KbckTV7uKY_vHMK1xvHlscrgKHeb9XtKcbvmtsexfMHTWCJl-KRNZaR00Q0Ngjh05-HLY=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Movieflix",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUm0SfebVZRQwQNf5SOjLjmA"
+            }
+        },
+        "statistics": {
+            "viewCount": "37340",
+            "subscriberCount": "101",
+            "hiddenSubscriberCount": false,
+            "videoCount": "53"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/04rlf",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Music",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Movieflix"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/r95hlfd_AT7qNrgsP6NtYakbDnkh8AK2yVUoGsDYT2wijePnfH-Y1t4_co-fIzy1MZBBqUF48w"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

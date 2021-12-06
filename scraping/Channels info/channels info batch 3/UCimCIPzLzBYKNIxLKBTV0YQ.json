@@ -1,0 +1,66 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "DG0fzIyB4GQXjFwHuijnfbvL__k",
+        "id": "UCimCIPzLzBYKNIxLKBTV0YQ",
+        "snippet": {
+            "title": "Movie Alert (Trailers)",
+            "description": "",
+            "publishedAt": "2017-08-02T07:40:10Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTDaDHJVcS9BWKNTpSt_ohdOszKdq7fpwwzjeRK=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTDaDHJVcS9BWKNTpSt_ohdOszKdq7fpwwzjeRK=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTDaDHJVcS9BWKNTpSt_ohdOszKdq7fpwwzjeRK=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Movie Alert (Trailers)",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUimCIPzLzBYKNIxLKBTV0YQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "2084",
+            "hiddenSubscriberCount": true,
+            "videoCount": "37"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02vxn",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Movie Alert (Trailers)",
+                "keywords": "movie alert trailer \"movie trailer\" \"latest movies\""
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

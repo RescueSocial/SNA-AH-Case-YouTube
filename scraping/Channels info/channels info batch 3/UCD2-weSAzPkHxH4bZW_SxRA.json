@@ -1,0 +1,74 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "B0IFpoWKe2BOWXqzBm4cBfbKvAc",
+        "id": "UCD2-weSAzPkHxH4bZW_SxRA",
+        "snippet": {
+            "title": "Kerry McCarpet",
+            "description": "",
+            "customUrl": "kerrymccarpet",
+            "publishedAt": "2011-11-07T23:52:51Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSczlH-ERW-oAEbfnhBqOt5k2ef-6Mp4SceeAZS=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSczlH-ERW-oAEbfnhBqOt5k2ef-6Mp4SceeAZS=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSczlH-ERW-oAEbfnhBqOt5k2ef-6Mp4SceeAZS=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Kerry McCarpet",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUD2-weSAzPkHxH4bZW_SxRA"
+            }
+        },
+        "statistics": {
+            "viewCount": "952973",
+            "subscriberCount": "15000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "107"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/01k8wb",
+                "/m/019_rr",
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Knowledge",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Kerry McCarpet",
+                "keywords": "diet fruit fruitarian \"weight loss\" comedy music art"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/dYoXksUz_2CiNp3kZ09QwS1O8FFH22HTyVEiy2py_OMAGeKXxPimrbyU4JdNm7Ut4dt-7TXn"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

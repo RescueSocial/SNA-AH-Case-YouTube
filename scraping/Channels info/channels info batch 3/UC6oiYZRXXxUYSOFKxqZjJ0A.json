@@ -1,0 +1,69 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "-KYDh48RaxSjUEJysbsLFkhv_EE",
+        "id": "UC6oiYZRXXxUYSOFKxqZjJ0A",
+        "snippet": {
+            "title": "Basheer Al Hasani",
+            "description": "",
+            "publishedAt": "2019-08-06T08:55:45Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLT4z50I6IqSpJrfGxN92RNc9GZTL7LqrX2W1t83=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLT4z50I6IqSpJrfGxN92RNc9GZTL7LqrX2W1t83=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLT4z50I6IqSpJrfGxN92RNc9GZTL7LqrX2W1t83=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Basheer Al Hasani",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU6oiYZRXXxUYSOFKxqZjJ0A"
+            }
+        },
+        "statistics": {
+            "viewCount": "10411",
+            "subscriberCount": "287",
+            "hiddenSubscriberCount": false,
+            "videoCount": "323"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr",
+                "/m/06bvp"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society",
+                "https://en.wikipedia.org/wiki/Religion"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Basheer Al Hasani"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/ortR9c2tnjf5BPjY_r40y-r6tI44tP19efqp8HPinLBOjVnHn2p3b5wAJV48irEFB7EVTlvgGE4"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

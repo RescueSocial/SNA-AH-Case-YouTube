@@ -1,0 +1,76 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "PEiE7agxFFOwBpakdObTCuwwy6E",
+        "id": "UCNpKntQsNCub_pgJfjeS1dA",
+        "snippet": {
+            "title": "UNC",
+            "description": "This is the official Youtube Channel of the United National Congress (UNC).",
+            "customUrl": "uncttorg",
+            "publishedAt": "2014-09-23T00:49:07Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSGZTKk_hoVIxR-is_Kw7K4KOwJOhK4n8QI-lYOHw=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSGZTKk_hoVIxR-is_Kw7K4KOwJOhK4n8QI-lYOHw=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSGZTKk_hoVIxR-is_Kw7K4KOwJOhK4n8QI-lYOHw=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "UNC",
+                "description": "This is the official Youtube Channel of the United National Congress (UNC)."
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUNpKntQsNCub_pgJfjeS1dA"
+            }
+        },
+        "statistics": {
+            "viewCount": "2477540",
+            "subscriberCount": "8400",
+            "hiddenSubscriberCount": false,
+            "videoCount": "569"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/05qt0",
+                "/m/06bvp",
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Politics",
+                "https://en.wikipedia.org/wiki/Religion",
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "UNC",
+                "description": "This is the official Youtube Channel of the United National Congress (UNC).",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/skommjAFR0jaLKQCyXdPjt88CwCFZJogPlqpAY6qBrkD1i2WY4UJDpIurW5CZZmFjFEWi7XBOg"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

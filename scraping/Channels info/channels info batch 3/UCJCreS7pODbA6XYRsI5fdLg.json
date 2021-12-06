@@ -1,0 +1,71 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "iIJJbisjyec302jmV6hL5zrZSDY",
+        "id": "UCJCreS7pODbA6XYRsI5fdLg",
+        "snippet": {
+            "title": "WWLTV",
+            "description": "WWL-TV is New Orleans' leading source of news and information. WWLTV.com's YouTube page features news stories, weather updates, recipes and memorable New Orleans events.",
+            "customUrl": "wwltv",
+            "publishedAt": "2017-02-17T03:38:57Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/QLGEiU_vSOmnRStX6-lF84aJEn8S8Uyb4WBwVL8gy09DLlaiba-d7ryJ5GC-6069lJpO56rV=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/QLGEiU_vSOmnRStX6-lF84aJEn8S8Uyb4WBwVL8gy09DLlaiba-d7ryJ5GC-6069lJpO56rV=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/QLGEiU_vSOmnRStX6-lF84aJEn8S8Uyb4WBwVL8gy09DLlaiba-d7ryJ5GC-6069lJpO56rV=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "WWLTV",
+                "description": "WWL-TV is New Orleans' leading source of news and information. WWLTV.com's YouTube page features news stories, weather updates, recipes and memorable New Orleans events."
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUJCreS7pODbA6XYRsI5fdLg"
+            }
+        },
+        "statistics": {
+            "viewCount": "123475700",
+            "subscriberCount": "158000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "17705"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "WWLTV",
+                "description": "WWL-TV is New Orleans' leading source of news and information. WWLTV.com's YouTube page features news stories, weather updates, recipes and memorable New Orleans events.",
+                "unsubscribedTrailer": "KZnhbpDp5CA"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/4DFSa7QABJ6LkfQ_TZBe5dtII0KdRmjY16nKtvJSwytk1kI2SWT0cXy2YIZ6toG2r6ungf-evw"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

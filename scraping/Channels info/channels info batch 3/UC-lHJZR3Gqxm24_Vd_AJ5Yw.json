@@ -1,0 +1,76 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "0VmLxCfgHKfCov7LpjcxuPGoKew",
+        "id": "UC-lHJZR3Gqxm24_Vd_AJ5Yw",
+        "snippet": {
+            "title": "PewDiePie",
+            "description": "I make videos.",
+            "publishedAt": "2010-04-29T10:54:00Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/5oUY3tashyxfqsjO5SGhjT4dus8FkN9CsAHwXWISFrdPYii1FudD4ICtLfuCw6-THJsJbgoY=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/5oUY3tashyxfqsjO5SGhjT4dus8FkN9CsAHwXWISFrdPYii1FudD4ICtLfuCw6-THJsJbgoY=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/5oUY3tashyxfqsjO5SGhjT4dus8FkN9CsAHwXWISFrdPYii1FudD4ICtLfuCw6-THJsJbgoY=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "PewDiePie",
+                "description": "I make videos."
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU-lHJZR3Gqxm24_Vd_AJ5Yw"
+            }
+        },
+        "statistics": {
+            "viewCount": "28108843578",
+            "subscriberCount": "110000000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "4463"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/019_rr",
+                "/m/0bzvm2"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                "https://en.wikipedia.org/wiki/Video_game_culture"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "PewDiePie",
+                "description": "I make videos.",
+                "keywords": "pewdiepie pewds gaming \"felix arvid ulf\" felix kjellberg",
+                "trackingAnalyticsAccountId": "UA-42156721-10",
+                "moderateComments": true,
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/S44q51b0k25RH1oPdgXOaOSNpbZIL8TCrxCBqUigoMUoai_Cu99psc7zkd-BBgli4pOfzAzk"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

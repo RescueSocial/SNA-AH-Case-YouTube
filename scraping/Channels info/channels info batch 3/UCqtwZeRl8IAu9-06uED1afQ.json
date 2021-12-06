@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "c00vUm4CGjBpkjxmc01u9F7vnjM",
+        "id": "UCqtwZeRl8IAu9-06uED1afQ",
+        "snippet": {
+            "title": "Hot New",
+            "description": "",
+            "publishedAt": "2015-03-12T11:29:25Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQWZxBD4ZP430hBJyDj4pt-S6L-67p5L73vxF05UQ=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQWZxBD4ZP430hBJyDj4pt-S6L-67p5L73vxF05UQ=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQWZxBD4ZP430hBJyDj4pt-S6L-67p5L73vxF05UQ=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Hot New",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUqtwZeRl8IAu9-06uED1afQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "1937890",
+            "subscriberCount": "1910",
+            "hiddenSubscriberCount": false,
+            "videoCount": "9739"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Hot New"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/79PJ3eMLb8h2A5nvNrBxKTlf7G5KuLdVOhTfa2qd4hCpOrdzlYqOZbKVTENn_ptUaiXW8Ei4"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

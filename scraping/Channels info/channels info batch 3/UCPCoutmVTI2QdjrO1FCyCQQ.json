@@ -1,0 +1,69 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "UP5xBGWkykBZh6c1q7HEA2s0onM",
+        "id": "UCPCoutmVTI2QdjrO1FCyCQQ",
+        "snippet": {
+            "title": "BNB",
+            "description": "",
+            "publishedAt": "2009-01-08T23:04:34Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLR51FasDCMCz6Sxg3aMYuMzF_jqGa20lbqGHApuEdP-ljZq2NRUdXUtaHFpOrXv=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLR51FasDCMCz6Sxg3aMYuMzF_jqGa20lbqGHApuEdP-ljZq2NRUdXUtaHFpOrXv=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLR51FasDCMCz6Sxg3aMYuMzF_jqGa20lbqGHApuEdP-ljZq2NRUdXUtaHFpOrXv=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "BNB",
+                "description": ""
+            },
+            "country": "QA"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUPCoutmVTI2QdjrO1FCyCQQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "135606",
+            "subscriberCount": "1170",
+            "hiddenSubscriberCount": false,
+            "videoCount": "1259"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/019_rr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "BNB",
+                "country": "QA"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

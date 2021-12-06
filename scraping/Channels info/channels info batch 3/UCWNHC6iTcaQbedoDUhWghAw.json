@@ -1,0 +1,74 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "AzN5SQZAFBIaJQFM6I5a4kUCaqY",
+        "id": "UCWNHC6iTcaQbedoDUhWghAw",
+        "snippet": {
+            "title": "What Next",
+            "description": "",
+            "customUrl": "whatnexts",
+            "publishedAt": "2017-01-14T14:46:13Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTN_txO_ijxP8N2U9IiOERpa4P9AvfpuwlsDa1Qgg=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTN_txO_ijxP8N2U9IiOERpa4P9AvfpuwlsDa1Qgg=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTN_txO_ijxP8N2U9IiOERpa4P9AvfpuwlsDa1Qgg=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "What Next",
+                "description": ""
+            },
+            "country": "IN"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUWNHC6iTcaQbedoDUhWghAw"
+            }
+        },
+        "statistics": {
+            "viewCount": "73261",
+            "subscriberCount": "1440",
+            "hiddenSubscriberCount": false,
+            "videoCount": "218"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/05qt0",
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Politics",
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "What Next",
+                "keywords": "\"what next\"",
+                "country": "IN"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/wuQxPqcOBjy_g5vbHrY95Bo5k3AJKbDLzUHSKbKTXBbcJmTm8f7xir5hh509g9KzhZeAJ0YY"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "aQcn-5PMjmMxclXPZd_0F2lpsmY",
+        "id": "UC6R75QqSvq7Q73DX7VisGoA",
+        "snippet": {
+            "title": "Time Has Come Podcast",
+            "description": "Official YouTube Account for Graham Wardle's Podcast \"Time Has Come\"",
+            "customUrl": "timehascomepodcast",
+            "publishedAt": "2020-05-16T20:37:01.201185Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSb3HZ8Xf7HkKXWvgYpIzig1uEMsUrD2ZSXGsHh=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSb3HZ8Xf7HkKXWvgYpIzig1uEMsUrD2ZSXGsHh=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSb3HZ8Xf7HkKXWvgYpIzig1uEMsUrD2ZSXGsHh=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Time Has Come Podcast",
+                "description": "Official YouTube Account for Graham Wardle's Podcast \"Time Has Come\""
+            },
+            "country": "CA"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU6R75QqSvq7Q73DX7VisGoA"
+            }
+        },
+        "statistics": {
+            "viewCount": "718133",
+            "hiddenSubscriberCount": true,
+            "videoCount": "19"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/019_rr",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Time Has Come Podcast",
+                "description": "Official YouTube Account for Graham Wardle's Podcast \"Time Has Come\"",
+                "country": "CA"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

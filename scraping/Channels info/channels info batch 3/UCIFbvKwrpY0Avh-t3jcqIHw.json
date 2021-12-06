@@ -1,0 +1,66 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "ll8xUBdErFKqaJnNmvfqSPNuJpc",
+        "id": "UCIFbvKwrpY0Avh-t3jcqIHw",
+        "snippet": {
+            "title": "Trailer House",
+            "description": "",
+            "publishedAt": "2018-10-25T17:50:46Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSq3Gj4K_6zirW44c5pRI6wKcTK3jLFM_RbB0-g=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSq3Gj4K_6zirW44c5pRI6wKcTK3jLFM_RbB0-g=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSq3Gj4K_6zirW44c5pRI6wKcTK3jLFM_RbB0-g=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Trailer House",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUIFbvKwrpY0Avh-t3jcqIHw"
+            }
+        },
+        "statistics": {
+            "viewCount": "52064",
+            "subscriberCount": "59",
+            "hiddenSubscriberCount": false,
+            "videoCount": "67"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Trailer House"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

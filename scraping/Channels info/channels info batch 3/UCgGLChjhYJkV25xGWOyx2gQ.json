@@ -1,0 +1,75 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "_-s15EABpGAbIZ3i2B3GlCS9wlg",
+        "id": "UCgGLChjhYJkV25xGWOyx2gQ",
+        "snippet": {
+            "title": "The Tech Crew",
+            "description": "\u0645\u0639\u0627\u0643\u0645 \u0639\u0628\u062f\u0627\u0644\u062e\u0627\u0644\u0642 \u0645\u062d\u0645\u062f \u0645\u0646 The Tech Crew \n\u0637\u0648\u0644 \u0639\u0645\u0631\u064a \u0645\u0647\u062a\u0645 \u0628\u0627\u0644\u0647\u0627\u0631\u062f\u0648\u064a\u0631 \u0648 \u0627\u0644\u062c\u0627\u0645\u064a\u0646\u062c \u0648 \u0628\u062d\u0628 \u0627\u0641\u064a\u062f \u0627\u0644\u0646\u0627\u0633 \u0648 \u064a\u062a\u0639\u0644\u0645\u0648\u0627 \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u062c\u062f\u064a\u062f\u0647\n\u0641\u064a \u062f\u0627\u064a\u0645\u0627 \u0641\u064a\u062f\u064a\u0648\u0647\u0627\u062a \u0639\u0646 \u062a\u062c\u0645\u064a\u0639\u0627\u062a \u062c\u0627\u0645\u064a\u0646\u062c , \u0645\u0631\u0627\u062c\u0639\u0627\u062a \u0647\u0627\u0631\u062f\u0648\u064a\u0631 , \u0646\u0642\u0627\u0634\u0627\u062a \u0648 \u0627\u0646\u0637\u0628\u0627\u0639\u0627\u062a \u0639\u0646 \u0627\u0644\u0647\u0627\u0631\u062f\u0648\u064a\u0631 \u0627\u0644\u062c\u062f\u064a\u062f\n\n\u0645\u062a\u0646\u0633\u0627\u0634 \u062a\u0634\u062a\u0631\u0643 \u0641\u064a \u0627\u0644\u0642\u0646\u0627\u0647 \u0639\u0634\u0627\u0646 \u062a\u062f\u0639\u0645\u0646\u0627\n\u0648 \u062f\u0647 \u0627\u0644\u0645\u0648\u0642\u0639 \u0628\u062a\u0627\u0639\u0646\u0627 \u0641\u064a \u062d\u0627\u062c\u0627\u062a \u0643\u062a\u064a\u0631 \u0645\u0645\u0643\u0646 \u062a\u0639\u062c\u0628\u0643 : www.techcrew-channel.com",
+            "customUrl": "thetechcrew",
+            "publishedAt": "2015-06-05T16:36:53Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRLR6zW54doDKGnHkCQ4qlNn7j2ZApa8GEtKzwlqQ=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRLR6zW54doDKGnHkCQ4qlNn7j2ZApa8GEtKzwlqQ=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRLR6zW54doDKGnHkCQ4qlNn7j2ZApa8GEtKzwlqQ=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "The Tech Crew",
+                "description": "\u0645\u0639\u0627\u0643\u0645 \u0639\u0628\u062f\u0627\u0644\u062e\u0627\u0644\u0642 \u0645\u062d\u0645\u062f \u0645\u0646 The Tech Crew \n\u0637\u0648\u0644 \u0639\u0645\u0631\u064a \u0645\u0647\u062a\u0645 \u0628\u0627\u0644\u0647\u0627\u0631\u062f\u0648\u064a\u0631 \u0648 \u0627\u0644\u062c\u0627\u0645\u064a\u0646\u062c \u0648 \u0628\u062d\u0628 \u0627\u0641\u064a\u062f \u0627\u0644\u0646\u0627\u0633 \u0648 \u064a\u062a\u0639\u0644\u0645\u0648\u0627 \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u062c\u062f\u064a\u062f\u0647\n\u0641\u064a \u062f\u0627\u064a\u0645\u0627 \u0641\u064a\u062f\u064a\u0648\u0647\u0627\u062a \u0639\u0646 \u062a\u062c\u0645\u064a\u0639\u0627\u062a \u062c\u0627\u0645\u064a\u0646\u062c , \u0645\u0631\u0627\u062c\u0639\u0627\u062a \u0647\u0627\u0631\u062f\u0648\u064a\u0631 , \u0646\u0642\u0627\u0634\u0627\u062a \u0648 \u0627\u0646\u0637\u0628\u0627\u0639\u0627\u062a \u0639\u0646 \u0627\u0644\u0647\u0627\u0631\u062f\u0648\u064a\u0631 \u0627\u0644\u062c\u062f\u064a\u062f\n\n\u0645\u062a\u0646\u0633\u0627\u0634 \u062a\u0634\u062a\u0631\u0643 \u0641\u064a \u0627\u0644\u0642\u0646\u0627\u0647 \u0639\u0634\u0627\u0646 \u062a\u062f\u0639\u0645\u0646\u0627\n\u0648 \u062f\u0647 \u0627\u0644\u0645\u0648\u0642\u0639 \u0628\u062a\u0627\u0639\u0646\u0627 \u0641\u064a \u062d\u0627\u062c\u0627\u062a \u0643\u062a\u064a\u0631 \u0645\u0645\u0643\u0646 \u062a\u0639\u062c\u0628\u0643 : www.techcrew-channel.com"
+            },
+            "country": "EG"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUgGLChjhYJkV25xGWOyx2gQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "1764495",
+            "subscriberCount": "32700",
+            "hiddenSubscriberCount": false,
+            "videoCount": "153"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/07c1v",
+                "/m/019_rr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Technology",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "The Tech Crew",
+                "description": "\u0645\u0639\u0627\u0643\u0645 \u0639\u0628\u062f\u0627\u0644\u062e\u0627\u0644\u0642 \u0645\u062d\u0645\u062f \u0645\u0646 The Tech Crew \n\u0637\u0648\u0644 \u0639\u0645\u0631\u064a \u0645\u0647\u062a\u0645 \u0628\u0627\u0644\u0647\u0627\u0631\u062f\u0648\u064a\u0631 \u0648 \u0627\u0644\u062c\u0627\u0645\u064a\u0646\u062c \u0648 \u0628\u062d\u0628 \u0627\u0641\u064a\u062f \u0627\u0644\u0646\u0627\u0633 \u0648 \u064a\u062a\u0639\u0644\u0645\u0648\u0627 \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u062c\u062f\u064a\u062f\u0647\n\u0641\u064a \u062f\u0627\u064a\u0645\u0627 \u0641\u064a\u062f\u064a\u0648\u0647\u0627\u062a \u0639\u0646 \u062a\u062c\u0645\u064a\u0639\u0627\u062a \u062c\u0627\u0645\u064a\u0646\u062c , \u0645\u0631\u0627\u062c\u0639\u0627\u062a \u0647\u0627\u0631\u062f\u0648\u064a\u0631 , \u0646\u0642\u0627\u0634\u0627\u062a \u0648 \u0627\u0646\u0637\u0628\u0627\u0639\u0627\u062a \u0639\u0646 \u0627\u0644\u0647\u0627\u0631\u062f\u0648\u064a\u0631 \u0627\u0644\u062c\u062f\u064a\u062f\n\n\u0645\u062a\u0646\u0633\u0627\u0634 \u062a\u0634\u062a\u0631\u0643 \u0641\u064a \u0627\u0644\u0642\u0646\u0627\u0647 \u0639\u0634\u0627\u0646 \u062a\u062f\u0639\u0645\u0646\u0627\n\u0648 \u062f\u0647 \u0627\u0644\u0645\u0648\u0642\u0639 \u0628\u062a\u0627\u0639\u0646\u0627 \u0641\u064a \u062d\u0627\u062c\u0627\u062a \u0643\u062a\u064a\u0631 \u0645\u0645\u0643\u0646 \u062a\u0639\u062c\u0628\u0643 : www.techcrew-channel.com",
+                "keywords": "\"tech crew\" \"the tech crew\" \"smart phone reviews\" hardware \u062a\u062c\u0645\u064a\u0639\u0627\u062a \u0647\u0627\u0631\u062f\u0648\u064a\u0631 \"\u0627\u0641\u0636\u0644 \u062a\u062c\u0645\u064a\u0639\u0647\"",
+                "unsubscribedTrailer": "YOQEXuUmuyM",
+                "country": "EG"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/OwKLAfI6mghpnIB5wr99ZTxhOpbZAXuE6h8Ex-0YHUkY8LuOqPH6NpQ7oSOdy9kvwLbEGlMK0g"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

@@ -1,0 +1,75 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "0rAnIy8GxnkRyc-cev9r8euTa7E",
+        "id": "UCcfP0FVUxYEgdZ1qmLI8EEw",
+        "snippet": {
+            "title": "TravelTura",
+            "description": "",
+            "publishedAt": "2011-08-18T08:39:15Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLR-DtCPxmAlffWKjqIA4SyPDiIhcOv8ZZNfxEFEIw=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLR-DtCPxmAlffWKjqIA4SyPDiIhcOv8ZZNfxEFEIw=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLR-DtCPxmAlffWKjqIA4SyPDiIhcOv8ZZNfxEFEIw=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "TravelTura",
+                "description": ""
+            },
+            "country": "GB"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUcfP0FVUxYEgdZ1qmLI8EEw"
+            }
+        },
+        "statistics": {
+            "viewCount": "4953726",
+            "subscriberCount": "15900",
+            "hiddenSubscriberCount": false,
+            "videoCount": "662"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn",
+                "/m/019_rr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "TravelTura",
+                "keywords": "Destination Trip fun languages",
+                "unsubscribedTrailer": "ko9JCJehl0E",
+                "country": "GB"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/sv49ZBykl-Vq4ADo81uF9jjEX8TJdecyM4PWgRptKbscjFJljDmwoOy8IGFc8vtsoTB2PBmgKQ"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

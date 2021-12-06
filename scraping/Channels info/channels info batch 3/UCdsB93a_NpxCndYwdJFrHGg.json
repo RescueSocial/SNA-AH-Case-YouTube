@@ -1,0 +1,72 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "bQOje4bMfOGzc8xZveUvCE1n2wA",
+        "id": "UCdsB93a_NpxCndYwdJFrHGg",
+        "snippet": {
+            "title": "SANT\u00c9 ZEVO",
+            "description": "",
+            "publishedAt": "2015-04-01T16:56:07Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTvyREomK7N5gLGUJ9HvXSh5GDmtEBSuW1PMlQt=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTvyREomK7N5gLGUJ9HvXSh5GDmtEBSuW1PMlQt=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTvyREomK7N5gLGUJ9HvXSh5GDmtEBSuW1PMlQt=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "SANT\u00c9 ZEVO",
+                "description": ""
+            },
+            "country": "FR"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUdsB93a_NpxCndYwdJFrHGg"
+            }
+        },
+        "statistics": {
+            "viewCount": "23600716",
+            "subscriberCount": "94800",
+            "hiddenSubscriberCount": false,
+            "videoCount": "23408"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/0f2f9",
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Television_program",
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "SANT\u00c9 ZEVO",
+                "keywords": "\"new france\" actu \"nouvelle star\" \"nouvelles 24h\" nouvelles chaudes people c\u00e9l\u00e9brit\u00e9 stars \"miss france\" france celebrite danse",
+                "country": "FR"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "pXcQGR62KfUMku4sh30URvil-58",
+        "id": "UCC-1QhB1bDG-Q9RIfkUwfxg",
+        "snippet": {
+            "title": "Firestar Media",
+            "description": "Firestar Media offers a wide selection of digital media services including photo, video & audio production, graphic design, social media, web design and more.",
+            "publishedAt": "2015-08-15T10:29:08Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTp0An9c2OPP7AD_2zT516LUrA8Ncxq7ynSCIOwEg=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTp0An9c2OPP7AD_2zT516LUrA8Ncxq7ynSCIOwEg=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTp0An9c2OPP7AD_2zT516LUrA8Ncxq7ynSCIOwEg=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Firestar Media",
+                "description": "Firestar Media offers a wide selection of digital media services including photo, video & audio production, graphic design, social media, web design and more."
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUC-1QhB1bDG-Q9RIfkUwfxg"
+            }
+        },
+        "statistics": {
+            "viewCount": "1108",
+            "subscriberCount": "8",
+            "hiddenSubscriberCount": false,
+            "videoCount": "18"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02lkt",
+                "/m/064t9",
+                "/m/04rlf",
+                "/m/06by7"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Electronic_music",
+                "https://en.wikipedia.org/wiki/Pop_music",
+                "https://en.wikipedia.org/wiki/Music",
+                "https://en.wikipedia.org/wiki/Rock_music"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Firestar Media",
+                "description": "Firestar Media offers a wide selection of digital media services including photo, video & audio production, graphic design, social media, web design and more.",
+                "unsubscribedTrailer": "_9jcPi1lcEY",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/vg57ggC33MrpCj4w7FKJQ7tMznHLm1HOzbDZqqrBdC3VO9E374SCtxyNuhyk4MQ_29fy0eTMew"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

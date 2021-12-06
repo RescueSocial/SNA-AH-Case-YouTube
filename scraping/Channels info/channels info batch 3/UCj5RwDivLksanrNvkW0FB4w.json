@@ -1,0 +1,75 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "zSsUAJWjTJ_72Xzo_ZdT6cLCh68",
+        "id": "UCj5RwDivLksanrNvkW0FB4w",
+        "snippet": {
+            "title": "GMA Public Affairs",
+            "description": "",
+            "customUrl": "gmapublicaffairs",
+            "publishedAt": "2009-08-08T02:45:19Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQQCQhaf1hanD_don3Nl9JGc1_IRLBW_NqIHYux4w=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQQCQhaf1hanD_don3Nl9JGc1_IRLBW_NqIHYux4w=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQQCQhaf1hanD_don3Nl9JGc1_IRLBW_NqIHYux4w=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "GMA Public Affairs",
+                "description": ""
+            },
+            "country": "PH"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUj5RwDivLksanrNvkW0FB4w"
+            }
+        },
+        "statistics": {
+            "viewCount": "10328539454",
+            "subscriberCount": "17400000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "33268"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/019_rr",
+                "/m/098wr",
+                "/m/02wbm"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                "https://en.wikipedia.org/wiki/Society",
+                "https://en.wikipedia.org/wiki/Food"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "GMA Public Affairs",
+                "unsubscribedTrailer": "nNfRbq1SNf8",
+                "country": "PH"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/X1qAKx97-6COGXETIJd88DEIACysptaNsXwuMZpP9tNhUzQFBnzb4JSpgy8Q0lNGME5XU-ZQ6g"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

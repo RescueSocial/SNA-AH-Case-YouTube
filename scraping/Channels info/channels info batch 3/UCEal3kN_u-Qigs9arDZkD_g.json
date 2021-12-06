@@ -1,0 +1,56 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "Y-X3GJ4LDI4AGGK0SrCesmmFSBE",
+        "id": "UCEal3kN_u-Qigs9arDZkD_g",
+        "snippet": {
+            "title": "NEW 24H",
+            "description": "",
+            "publishedAt": "2021-07-02T08:57:02.204953Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLR4QYlR0y8r8KfC0llK9ihkufonlotR7dfIBfKffSwIdaCkjMMp-PkMlKz-9jxC=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLR4QYlR0y8r8KfC0llK9ihkufonlotR7dfIBfKffSwIdaCkjMMp-PkMlKz-9jxC=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLR4QYlR0y8r8KfC0llK9ihkufonlotR7dfIBfKffSwIdaCkjMMp-PkMlKz-9jxC=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "NEW 24H",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUEal3kN_u-Qigs9arDZkD_g"
+            }
+        },
+        "statistics": {
+            "viewCount": "11",
+            "subscriberCount": "0",
+            "hiddenSubscriberCount": false,
+            "videoCount": "2"
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "NEW 24H"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

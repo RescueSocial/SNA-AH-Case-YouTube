@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "S1tta30jikVbQUsPP_M2xSUlVk0",
+        "id": "UCwSmlOyZ4gDXZ2wHcaobG7Q",
+        "snippet": {
+            "title": "The Movie Channel",
+            "description": "Watch Hindi Dubbed Hollywood Movies Live here",
+            "publishedAt": "2021-05-07T16:19:21.273488Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/81S-gCo6eQkbnmoUShQVLVVfxD1tmU8Jo7OEvYKC7ehlsCFcSfSf2NQQD3qicWZuKJF2O5jZjQ=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/81S-gCo6eQkbnmoUShQVLVVfxD1tmU8Jo7OEvYKC7ehlsCFcSfSf2NQQD3qicWZuKJF2O5jZjQ=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/81S-gCo6eQkbnmoUShQVLVVfxD1tmU8Jo7OEvYKC7ehlsCFcSfSf2NQQD3qicWZuKJF2O5jZjQ=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "The Movie Channel",
+                "description": "Watch Hindi Dubbed Hollywood Movies Live here"
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUwSmlOyZ4gDXZ2wHcaobG7Q"
+            }
+        },
+        "statistics": {
+            "viewCount": "21",
+            "hiddenSubscriberCount": true,
+            "videoCount": "2"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02vxn",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "The Movie Channel",
+                "description": "Watch Hindi Dubbed Hollywood Movies Live here",
+                "keywords": "movies live hollywood hindi dubbed full movie \"movie channel\""
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/_WXri5e5RHl_5InowgToySRAFqAxquExltjqUqwVbZBTkL0oMfoQc1QnSKRGjh5yilTaP9ElRA"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "01ZHEaYnIQpeXiBsVfzLlgr_huo",
+        "id": "UClzKvxmngzhBk5-RpX_967g",
+        "snippet": {
+            "title": "Doux Designs",
+            "description": "",
+            "publishedAt": "2016-11-14T00:45:36Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTGdajViaN4S-1EwoYTaghWq38GcszTdXyWFwpp=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTGdajViaN4S-1EwoYTaghWq38GcszTdXyWFwpp=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTGdajViaN4S-1EwoYTaghWq38GcszTdXyWFwpp=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Doux Designs",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUlzKvxmngzhBk5-RpX_967g"
+            }
+        },
+        "statistics": {
+            "viewCount": "311",
+            "subscriberCount": "5",
+            "hiddenSubscriberCount": false,
+            "videoCount": "2"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/04rlf"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Music"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Doux Designs"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/JrJeRpbaUM1FxiWg4Mm0YEQrTQTF6wfLQwBzO4c_OuZwR7YT0KYCV1OkFCFVGutnAqD_V-Cu"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

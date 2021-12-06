@@ -1,0 +1,64 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "j8q330xokrK4MTxBS8HkzDAANxE",
+        "id": "UCpwj3jlEO5K929mZBI6znJg",
+        "snippet": {
+            "title": "News Club",
+            "description": "",
+            "publishedAt": "2018-01-10T16:11:57Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRikkjWZgCo96j5dJaSeW2kGxtkno4bELigJowS=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRikkjWZgCo96j5dJaSeW2kGxtkno4bELigJowS=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRikkjWZgCo96j5dJaSeW2kGxtkno4bELigJowS=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "News Club",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUpwj3jlEO5K929mZBI6znJg"
+            }
+        },
+        "statistics": {
+            "viewCount": "675",
+            "subscriberCount": "5",
+            "hiddenSubscriberCount": false,
+            "videoCount": "138"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "News Club"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

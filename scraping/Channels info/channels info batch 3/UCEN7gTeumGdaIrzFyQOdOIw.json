@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "s1RPskfHVndwNzGg_cOg6peOqIE",
+        "id": "UCEN7gTeumGdaIrzFyQOdOIw",
+        "snippet": {
+            "title": "Movie Madness",
+            "description": "Verious kinds Of Movie trailars here",
+            "publishedAt": "2019-09-15T17:00:39Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQU-cGaY3gACLeqQhLs0ulxCjlU75PAZLCTFC89=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQU-cGaY3gACLeqQhLs0ulxCjlU75PAZLCTFC89=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQU-cGaY3gACLeqQhLs0ulxCjlU75PAZLCTFC89=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Movie Madness",
+                "description": "Verious kinds Of Movie trailars here"
+            },
+            "country": "BD"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUEN7gTeumGdaIrzFyQOdOIw"
+            }
+        },
+        "statistics": {
+            "viewCount": "306009",
+            "subscriberCount": "890",
+            "hiddenSubscriberCount": false,
+            "videoCount": "219"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Movie Madness",
+                "description": "Verious kinds Of Movie trailars here",
+                "keywords": "\"Movie Madness\" Movie \"Action Movie\" \"Comedy movie\" \"Tomantic Movie\" \"Romantic Movie\" \"English Movie\" \"Hindi movie\" \"Kolkatta Bangla Movie\"",
+                "country": "BD"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/xI4a1KrIfHxAe9wKIz0bLJh-3Zqazcwwlr0AHdu_95DekqOkfjfeKOq8cH-Zl7suONDYug08yw"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

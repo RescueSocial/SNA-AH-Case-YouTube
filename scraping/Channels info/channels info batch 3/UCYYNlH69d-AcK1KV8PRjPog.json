@@ -1,0 +1,77 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "tGJPKgZitQb5rrZeBePjPQKXtYc",
+        "id": "UCYYNlH69d-AcK1KV8PRjPog",
+        "snippet": {
+            "title": "Breaking News 360",
+            "description": "",
+            "publishedAt": "2009-10-28T23:30:20Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTfyVUM6RWjio1NYjTufRd7np6aw5WVZWKsM-hz=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTfyVUM6RWjio1NYjTufRd7np6aw5WVZWKsM-hz=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTfyVUM6RWjio1NYjTufRd7np6aw5WVZWKsM-hz=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Breaking News 360",
+                "description": ""
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUYYNlH69d-AcK1KV8PRjPog"
+            }
+        },
+        "statistics": {
+            "viewCount": "927725",
+            "subscriberCount": "1500",
+            "hiddenSubscriberCount": false,
+            "videoCount": "4149"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/025zzc",
+                "/m/03hf_rm",
+                "/m/0403l3g",
+                "/m/0bzvm2"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Action_game",
+                "https://en.wikipedia.org/wiki/Strategy_video_game",
+                "https://en.wikipedia.org/wiki/Role-playing_video_game",
+                "https://en.wikipedia.org/wiki/Video_game_culture"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Breaking News 360",
+                "keywords": "\"live news\" \"fox news\" fox \"news today\" \"the news\" \"nbc news\" \"nightly news\" \"fox news live\" \"latest news\" \"nbc nightly news\"",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/UriD4tQ4QAOw7vLrX2I2z5tmnat9y8cuCfdrjm152p0YNGRKSexl49k4pXwe9a4xNEbfA53zQQ"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

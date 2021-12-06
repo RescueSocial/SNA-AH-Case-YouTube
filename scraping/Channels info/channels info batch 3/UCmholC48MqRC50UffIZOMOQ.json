@@ -1,0 +1,75 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "9ggtX6NqoXRIPdg84G-yhhXcDds",
+        "id": "UCmholC48MqRC50UffIZOMOQ",
+        "snippet": {
+            "title": "Nathalie Niddam",
+            "description": "",
+            "publishedAt": "2017-06-25T22:44:41Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/4YBT1g76zYQJBb-w-Z2c6Hw94DN9c2EZgDQ3Nc7kptcKma2I3rJBFz1uh152ZCjQyHj754YQ=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/4YBT1g76zYQJBb-w-Z2c6Hw94DN9c2EZgDQ3Nc7kptcKma2I3rJBFz1uh152ZCjQyHj754YQ=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/4YBT1g76zYQJBb-w-Z2c6Hw94DN9c2EZgDQ3Nc7kptcKma2I3rJBFz1uh152ZCjQyHj754YQ=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Nathalie Niddam",
+                "description": ""
+            },
+            "country": "CA"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUmholC48MqRC50UffIZOMOQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "44079",
+            "subscriberCount": "1030",
+            "hiddenSubscriberCount": false,
+            "videoCount": "95"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/019_rr",
+                "/m/01k8wb",
+                "/m/0kt51"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                "https://en.wikipedia.org/wiki/Knowledge",
+                "https://en.wikipedia.org/wiki/Health"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Nathalie Niddam",
+                "keywords": "Health Nutrition Peptides BioHacking Genetics Epigenetics \"Personalized Health\" antiaging",
+                "country": "CA"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/AJL6GEv5ahGUxcru2mCX62q5lxk7BJH6b8e_7qn7-t7xGprXV6y-_xb_CseBzoloGk3eIoJU1A"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

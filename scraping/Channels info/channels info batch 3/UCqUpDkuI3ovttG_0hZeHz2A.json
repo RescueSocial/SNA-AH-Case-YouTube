@@ -1,0 +1,66 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "zrO9UHq3tdlWY3MiuyKAZl6yR_c",
+        "id": "UCqUpDkuI3ovttG_0hZeHz2A",
+        "snippet": {
+            "title": "Emaan News",
+            "description": "",
+            "publishedAt": "2021-08-14T10:39:58.202122Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/J9l53_hRlJ16olEAjukYnZ--jK7HGr_088VyrYD4A-NHUeIw3er2LeXJr5Vw1Y8nC1CXtn6qRq4=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/J9l53_hRlJ16olEAjukYnZ--jK7HGr_088VyrYD4A-NHUeIw3er2LeXJr5Vw1Y8nC1CXtn6qRq4=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/J9l53_hRlJ16olEAjukYnZ--jK7HGr_088VyrYD4A-NHUeIw3er2LeXJr5Vw1Y8nC1CXtn6qRq4=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Emaan News",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUqUpDkuI3ovttG_0hZeHz2A"
+            }
+        },
+        "statistics": {
+            "viewCount": "8451",
+            "subscriberCount": "21",
+            "hiddenSubscriberCount": false,
+            "videoCount": "78"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/019_rr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Emaan News"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

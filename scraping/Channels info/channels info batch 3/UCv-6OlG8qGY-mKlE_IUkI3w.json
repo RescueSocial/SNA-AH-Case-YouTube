@@ -1,0 +1,75 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "JqkrvLLy0eDIa45GDB7I6vPBgls",
+        "id": "UCv-6OlG8qGY-mKlE_IUkI3w",
+        "snippet": {
+            "title": "Memellion",
+            "description": "Just a dude sharing best memes",
+            "customUrl": "memellion",
+            "publishedAt": "2020-01-05T12:52:07.574712Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRA68-Muk9DjsaY-Ddb8AHFlu9Nuh1RB9L8JHhM=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRA68-Muk9DjsaY-Ddb8AHFlu9Nuh1RB9L8JHhM=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRA68-Muk9DjsaY-Ddb8AHFlu9Nuh1RB9L8JHhM=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Memellion",
+                "description": "Just a dude sharing best memes"
+            },
+            "country": "LT"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUv-6OlG8qGY-mKlE_IUkI3w"
+            }
+        },
+        "statistics": {
+            "viewCount": "191419302",
+            "subscriberCount": "839000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "1218"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Memellion",
+                "description": "Just a dude sharing best memes",
+                "keywords": "memes anime meme text",
+                "country": "LT"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/_hJUEO07pFgElOKnR9sz2dniNOHdEZC2-cc9UG_HhC_ZPfX3gDVgx2q4L511YGI_uTpH48ZCnA"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

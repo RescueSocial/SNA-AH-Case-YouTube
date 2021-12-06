@@ -1,0 +1,56 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "grxC0vOss57OQ4Yzvt6YzzpyzA0",
+        "id": "UC5w0-dvOQfcQIH7CMklZUjw",
+        "snippet": {
+            "title": "Ali G",
+            "description": "",
+            "publishedAt": "2014-03-04T10:56:52Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQqRqoJZRXMhzRDVO0ppBSHmpJK3lMV2CCBnvBspQ=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQqRqoJZRXMhzRDVO0ppBSHmpJK3lMV2CCBnvBspQ=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQqRqoJZRXMhzRDVO0ppBSHmpJK3lMV2CCBnvBspQ=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Ali G",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU5w0-dvOQfcQIH7CMklZUjw"
+            }
+        },
+        "statistics": {
+            "viewCount": "15048795",
+            "subscriberCount": "8990",
+            "hiddenSubscriberCount": false,
+            "videoCount": "3"
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Ali G"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

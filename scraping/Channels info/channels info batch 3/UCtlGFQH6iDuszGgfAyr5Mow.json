@@ -1,0 +1,80 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "EZ5-2-oxfomtrMQyEs_2500rLnY",
+        "id": "UCtlGFQH6iDuszGgfAyr5Mow",
+        "snippet": {
+            "title": "Extreme Trends",
+            "description": "Heartwarming and insperational stories",
+            "customUrl": "extremetrends",
+            "publishedAt": "2012-10-25T15:47:58Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRifTl3iuHsvYDbJObgd_5d9jaKca83m31j69hXRQ=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRifTl3iuHsvYDbJObgd_5d9jaKca83m31j69hXRQ=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRifTl3iuHsvYDbJObgd_5d9jaKca83m31j69hXRQ=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Extreme Trends",
+                "description": "Heartwarming and insperational stories"
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUtlGFQH6iDuszGgfAyr5Mow"
+            }
+        },
+        "statistics": {
+            "viewCount": "912000546",
+            "subscriberCount": "4440000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "1304"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr",
+                "/m/019_rr",
+                "/m/02vxn",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Extreme Trends",
+                "description": "Heartwarming and insperational stories",
+                "trackingAnalyticsAccountId": "UA-60048169-1",
+                "unsubscribedTrailer": "Y8-dBAUWWfI",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/udbe6MfujYtLMq7VsQU5-dnH-ycZXS149bDV_Ij8OmP1DXXzEMYgs536g2NwST4cuwctD5wgmQ"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

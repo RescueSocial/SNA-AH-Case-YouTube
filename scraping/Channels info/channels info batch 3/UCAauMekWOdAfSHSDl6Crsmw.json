@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "FHEgnJeCuwk2F_V0HUfxuDcEfQ8",
+        "id": "UCAauMekWOdAfSHSDl6Crsmw",
+        "snippet": {
+            "title": "Gabby Loves Perfumes",
+            "description": "Email:\ngabbylovesperfumes@yahoo.com",
+            "publishedAt": "2009-08-24T08:49:44Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRAW2wSYtOF15Jy7qKB_e2VyXEZrGn4_kirXkj0VA=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRAW2wSYtOF15Jy7qKB_e2VyXEZrGn4_kirXkj0VA=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRAW2wSYtOF15Jy7qKB_e2VyXEZrGn4_kirXkj0VA=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Gabby Loves Perfumes",
+                "description": "Email:\ngabbylovesperfumes@yahoo.com"
+            },
+            "country": "GB"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUAauMekWOdAfSHSDl6Crsmw"
+            }
+        },
+        "statistics": {
+            "viewCount": "2009586",
+            "subscriberCount": "14700",
+            "hiddenSubscriberCount": false,
+            "videoCount": "219"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/041xxh",
+                "/m/019_rr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Physical_attractiveness",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Gabby Loves Perfumes",
+                "description": "Email:\ngabbylovesperfumes@yahoo.com",
+                "keywords": "perfume",
+                "country": "GB"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "C2gAusgmowvVACRaH37Pmp0MadI",
+        "id": "UCaf93eUSSdrScaGlMhY9rSw",
+        "snippet": {
+            "title": "ALD Connect",
+            "description": "",
+            "customUrl": "aldconnect",
+            "publishedAt": "2014-11-20T17:50:30Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSkVE0JrKu9ANTOk-kyslH39_qNa_MlCDyIx_mKJA=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSkVE0JrKu9ANTOk-kyslH39_qNa_MlCDyIx_mKJA=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSkVE0JrKu9ANTOk-kyslH39_qNa_MlCDyIx_mKJA=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "ALD Connect",
+                "description": ""
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUaf93eUSSdrScaGlMhY9rSw"
+            }
+        },
+        "statistics": {
+            "viewCount": "35765",
+            "subscriberCount": "333",
+            "hiddenSubscriberCount": false,
+            "videoCount": "237"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/01k8wb"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Knowledge"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": true
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "ALD Connect",
+                "keywords": "\"ALD Connect\" ALD AMN leukodystrophy",
+                "country": "US"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

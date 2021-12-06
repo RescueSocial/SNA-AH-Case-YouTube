@@ -1,0 +1,75 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "dh_E1si09PASd_i9JwifxqqgAFM",
+        "id": "UClo4qjUjUC9NcFPEGRSeBAQ",
+        "snippet": {
+            "title": "Nice Pineapples",
+            "description": "Movie Clips, Movie Endings, Tv Series Clips and Tv Series Endings...",
+            "customUrl": "theendishere",
+            "publishedAt": "2017-10-07T22:16:46Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLS2uDGK93Jea73epk9fchyTy0YaHx7i4qYG9j_YOQ=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLS2uDGK93Jea73epk9fchyTy0YaHx7i4qYG9j_YOQ=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLS2uDGK93Jea73epk9fchyTy0YaHx7i4qYG9j_YOQ=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Nice Pineapples",
+                "description": "Movie Clips, Movie Endings, Tv Series Clips and Tv Series Endings..."
+            },
+            "country": "AU"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUlo4qjUjUC9NcFPEGRSeBAQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "7859273",
+            "subscriberCount": "6870",
+            "hiddenSubscriberCount": false,
+            "videoCount": "247"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02vxn",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Nice Pineapples",
+                "description": "Movie Clips, Movie Endings, Tv Series Clips and Tv Series Endings...",
+                "keywords": "Movie Endings",
+                "unsubscribedTrailer": "CO5ganWneVM",
+                "country": "AU"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/TH2d42R7b3gfUrU6jxrNPefRnJRMGs56teqmo6ZcLOiWNNGXwlx-enuAWGDNfs6XjeAkg06khpg"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

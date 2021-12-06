@@ -1,0 +1,69 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "hORpbdhtYn1wzyC3olfeIn9t5IY",
+        "id": "UCLgiVZ_UHehM4nS2pjX5wAQ",
+        "snippet": {
+            "title": "HEAVYSHITTPRODUCTION",
+            "description": "",
+            "publishedAt": "2011-04-15T16:15:37Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLT__RLb9LocqBFHOylzHkcM3T39pJ8hObzDsXcu=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLT__RLb9LocqBFHOylzHkcM3T39pJ8hObzDsXcu=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLT__RLb9LocqBFHOylzHkcM3T39pJ8hObzDsXcu=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "HEAVYSHITTPRODUCTION",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UULgiVZ_UHehM4nS2pjX5wAQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "14434",
+            "subscriberCount": "17",
+            "hiddenSubscriberCount": false,
+            "videoCount": "17"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/04rlf",
+                "/m/06by7",
+                "/m/064t9"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Music",
+                "https://en.wikipedia.org/wiki/Rock_music",
+                "https://en.wikipedia.org/wiki/Pop_music"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "HEAVYSHITTPRODUCTION",
+                "keywords": "Smaller heavyshitproductions \"heavy shit productions\" evensmaller extrasmall."
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

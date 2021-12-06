@@ -1,0 +1,66 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "dPKFd-j4COJGPAtzf0DCN8CO110",
+        "id": "UCqF24aNSQwuAp6hbMTKjg5Q",
+        "snippet": {
+            "title": "Mary Bedford",
+            "description": "",
+            "publishedAt": "2021-06-08T16:52:59.229404Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/LXoeEGg040_dGha5J6JzGB8QSi5rt5KkyZHNtJ5dosMN6kojoRKWD_jrZFLMURuu3yVYX3VwO9I=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/LXoeEGg040_dGha5J6JzGB8QSi5rt5KkyZHNtJ5dosMN6kojoRKWD_jrZFLMURuu3yVYX3VwO9I=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/LXoeEGg040_dGha5J6JzGB8QSi5rt5KkyZHNtJ5dosMN6kojoRKWD_jrZFLMURuu3yVYX3VwO9I=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Mary Bedford",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUqF24aNSQwuAp6hbMTKjg5Q"
+            }
+        },
+        "statistics": {
+            "viewCount": "1930314",
+            "subscriberCount": "60600",
+            "hiddenSubscriberCount": false,
+            "videoCount": "15"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/019_rr",
+                "/m/032tl"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                "https://en.wikipedia.org/wiki/Fashion"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Mary Bedford"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

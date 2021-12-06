@@ -1,0 +1,66 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "bfXnxsZ8yCU_lbW0aFBf9QmW4yc",
+        "id": "UCPFVCStBw-7Za10l_q9EG-w",
+        "snippet": {
+            "title": "Random User :P",
+            "description": "",
+            "publishedAt": "2013-05-27T02:43:35Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLROZ0L-9AHRXjRACYobIQL19vmrfJXJ5HE7awWM=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLROZ0L-9AHRXjRACYobIQL19vmrfJXJ5HE7awWM=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLROZ0L-9AHRXjRACYobIQL19vmrfJXJ5HE7awWM=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Random User :P",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUPFVCStBw-7Za10l_q9EG-w"
+            }
+        },
+        "statistics": {
+            "viewCount": "2121",
+            "subscriberCount": "152",
+            "hiddenSubscriberCount": false,
+            "videoCount": "3"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02vxn",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Random User :P"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

@@ -1,0 +1,91 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "5DfLBQhQXVTcrtmpxrNmp96di0I",
+        "id": "UClLdCbmAudkPs3AIQtozimw",
+        "snippet": {
+            "title": "Trailers",
+            "description": "Best Movies & Series, great Classics & News ... from the beginning of Cinema History to the present day\n\n\n\n\n",
+            "publishedAt": "2021-07-30T07:16:10.589475Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/6_FNoRzwxbbgBE25Ui7yU9ewemBfQy49dbKvwO_i1xdUTvAHw1uLzqYvE_soHoaIaaY6f12Iug=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/6_FNoRzwxbbgBE25Ui7yU9ewemBfQy49dbKvwO_i1xdUTvAHw1uLzqYvE_soHoaIaaY6f12Iug=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/6_FNoRzwxbbgBE25Ui7yU9ewemBfQy49dbKvwO_i1xdUTvAHw1uLzqYvE_soHoaIaaY6f12Iug=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "Trailers",
+                "description": "Best Movies & Series, great Classics & News ... from the beginning of Cinema History to the present day\n\n\n\n\n"
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUlLdCbmAudkPs3AIQtozimw"
+            }
+        },
+        "statistics": {
+            "viewCount": "11469",
+            "hiddenSubscriberCount": true,
+            "videoCount": "996"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02vxn",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Trailers",
+                "description": "Best Movies & Series, great Classics & News ... from the beginning of Cinema History to the present day\n\n\n\n\n",
+                "keywords": "film movie series cinema upcoming news trailer action fantasy scifi love",
+                "defaultLanguage": "en"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/pbjMvGd8Dv4WhudSjM25Giagjj19eAsyTDFPSrmXB2yTSwlUrR3a_66hUbOUSVLEwOhQkWky"
+            }
+        },
+        "contentOwnerDetails": {},
+        "localizations": {
+            "it_IT": {
+                "title": "Trailers",
+                "description": "I migliori Film e Serie Televisive, grandi Classici e novit\u00e0 in arrivo ... dall'inizio della Storia del Cinema fino ai giorni nostri"
+            },
+            "en_US": {
+                "title": "Trailers",
+                "description": "Best Movies & Series, great Classics & News ... from the beginning of Cinema History to the present day\n\n\n\n\n"
+            },
+            "fr_FR": {
+                "title": "Trailers",
+                "description": "Meilleurs Films & S\u00e9ries, Grands Classiques & Actualit\u00e9s... du d\u00e9but de l'Histoire du Cin\u00e9ma \u00e0 nos jours"
+            },
+            "es_ES": {
+                "title": "Trailers",
+                "description": "Mejores pel\u00edculas y series, grandes cl\u00e1sicos y noticias ... desde el comienzo de la historia del cine hasta la actualidad"
+            }
+        }
+    }
+]

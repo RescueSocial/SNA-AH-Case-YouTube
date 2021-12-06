@@ -1,0 +1,72 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "THmjiZltA3LChnGn9OGYk_-1sZI",
+        "id": "UCITYu3Dv69sJdKJ-NEfn4Pg",
+        "snippet": {
+            "title": "Nathalia Barreto",
+            "description": "",
+            "customUrl": "nathaliabarreto",
+            "publishedAt": "2010-06-17T21:16:23Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTFD-anz-OqPOyoVfjW8rSxUCAKIn-CTidXN4NLAA=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTFD-anz-OqPOyoVfjW8rSxUCAKIn-CTidXN4NLAA=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTFD-anz-OqPOyoVfjW8rSxUCAKIn-CTidXN4NLAA=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Nathalia Barreto",
+                "description": ""
+            },
+            "country": "BR"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUITYu3Dv69sJdKJ-NEfn4Pg"
+            }
+        },
+        "statistics": {
+            "viewCount": "97644",
+            "subscriberCount": "566",
+            "hiddenSubscriberCount": false,
+            "videoCount": "21"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/04rlf",
+                "/m/064t9",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Music",
+                "https://en.wikipedia.org/wiki/Pop_music",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Nathalia Barreto",
+                "keywords": "FMV \"Fanfic Trailer\"",
+                "country": "BR"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

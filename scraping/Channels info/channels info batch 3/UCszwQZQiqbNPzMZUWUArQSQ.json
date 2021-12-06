@@ -1,0 +1,66 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "DHI6AetMY3J_yxlTbIrdNi3_1Ds",
+        "id": "UCszwQZQiqbNPzMZUWUArQSQ",
+        "snippet": {
+            "title": "Vine Line",
+            "description": "",
+            "publishedAt": "2016-11-06T06:18:10Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRvSo9hLrkWPPFNd7j604iLXQ3K-u-jKs2CD9nj=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRvSo9hLrkWPPFNd7j604iLXQ3K-u-jKs2CD9nj=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRvSo9hLrkWPPFNd7j604iLXQ3K-u-jKs2CD9nj=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Vine Line",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUszwQZQiqbNPzMZUWUArQSQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "369",
+            "subscriberCount": "9",
+            "hiddenSubscriberCount": false,
+            "videoCount": "5"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/019_rr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Vine Line",
+                "keywords": "vines \"funny videos\" \"funny vines\" fails funny",
+                "unsubscribedTrailer": "2gB4ZZRDzR4"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

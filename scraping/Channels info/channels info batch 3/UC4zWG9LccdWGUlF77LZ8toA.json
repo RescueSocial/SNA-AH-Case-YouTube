@@ -1,0 +1,77 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "DiW1Cn-jLca8ZcCU6q13jCQgEXQ",
+        "id": "UC4zWG9LccdWGUlF77LZ8toA",
+        "snippet": {
+            "title": "Amazon Prime Video India",
+            "description": "Unlimited ad-free streaming of Amazon Originals, premium movies and TV shows from India and around the world",
+            "customUrl": "primevideoin",
+            "publishedAt": "2016-10-03T08:40:51Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/zARCXFnRRapN6Rjd_DR2ORwnS7muSw_vO0QwM_hHzTaY3jr92fxAMAtN-ZsZo6m6n6FYTyMSHw=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/zARCXFnRRapN6Rjd_DR2ORwnS7muSw_vO0QwM_hHzTaY3jr92fxAMAtN-ZsZo6m6n6FYTyMSHw=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/zARCXFnRRapN6Rjd_DR2ORwnS7muSw_vO0QwM_hHzTaY3jr92fxAMAtN-ZsZo6m6n6FYTyMSHw=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Amazon Prime Video India",
+                "description": "Unlimited ad-free streaming of Amazon Originals, premium movies and TV shows from India and around the world"
+            },
+            "country": "IN"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU4zWG9LccdWGUlF77LZ8toA"
+            }
+        },
+        "statistics": {
+            "viewCount": "4072168522",
+            "subscriberCount": "6850000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "2702"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn",
+                "/m/0f2f9"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Television_program"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Amazon Prime Video India",
+                "description": "Unlimited ad-free streaming of Amazon Originals, premium movies and TV shows from India and around the world",
+                "keywords": "\"amazon prime video\" \"prime video\" \"amazon original\" \"amazon original movie\" \"latest movies\" \"hindi movies\" \"bollywood movies\" \"tamil movies\" \"telugu movies\" \"new songs\" \"latest webseries\" \"new series\" \"new movies\" movies series songs \"official trailer\" teaser trailer \"amazon prime\" prime video film webseries song",
+                "unsubscribedTrailer": "MbH5B47XFQo",
+                "country": "IN"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/oMeEjMD2gYBlPPMVmoN_XlZNFHn4dMuxKXkU4rI6PlpLjjOENcHGGZyA-FkSYpRFoqXmchpfpms"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

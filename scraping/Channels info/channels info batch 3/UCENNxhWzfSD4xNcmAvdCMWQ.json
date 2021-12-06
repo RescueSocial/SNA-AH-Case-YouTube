@@ -1,0 +1,56 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "w4aWzGE4UEsDF_4q4lewK8dREfk",
+        "id": "UCENNxhWzfSD4xNcmAvdCMWQ",
+        "snippet": {
+            "title": "Tuesday Studio",
+            "description": "",
+            "publishedAt": "2018-08-24T11:12:42Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQ3Mq2ggM16Efuox4WTrj6jnGGCjyYCbFt39QUh=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQ3Mq2ggM16Efuox4WTrj6jnGGCjyYCbFt39QUh=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQ3Mq2ggM16Efuox4WTrj6jnGGCjyYCbFt39QUh=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Tuesday Studio",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUENNxhWzfSD4xNcmAvdCMWQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "2990",
+            "subscriberCount": "4",
+            "hiddenSubscriberCount": false,
+            "videoCount": "1"
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Tuesday Studio"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

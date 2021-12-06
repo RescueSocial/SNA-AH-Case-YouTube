@@ -1,0 +1,75 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "J9FJpjdUiW10HokZ8TLkvYmOFqU",
+        "id": "UC-pi_mLzGF4RoMfpHbYgtUg",
+        "snippet": {
+            "title": "InTouch Weekly",
+            "description": "",
+            "customUrl": "intouchweekly",
+            "publishedAt": "2015-02-06T23:04:41Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQgniFKKFrZktIFwbVmGZsIMGwJujceQrWqaF35-Q=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQgniFKKFrZktIFwbVmGZsIMGwJujceQrWqaF35-Q=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQgniFKKFrZktIFwbVmGZsIMGwJujceQrWqaF35-Q=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "InTouch Weekly",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU-pi_mLzGF4RoMfpHbYgtUg"
+            }
+        },
+        "statistics": {
+            "viewCount": "17070866",
+            "subscriberCount": "32100",
+            "hiddenSubscriberCount": false,
+            "videoCount": "1445"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/019_rr",
+                "/m/02jjt",
+                "/m/0f2f9"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Television_program"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "InTouch Weekly",
+                "keywords": "In Touch Weekly Magazine",
+                "unsubscribedTrailer": "5orOU0AI1Bs"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/Qej7fnCNxeSQJed9JO7pPkXcZOKpCFljNvPdwG9UmvGjmbcqCmpm0v6zwwdD1dVO89-diHm98Q"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

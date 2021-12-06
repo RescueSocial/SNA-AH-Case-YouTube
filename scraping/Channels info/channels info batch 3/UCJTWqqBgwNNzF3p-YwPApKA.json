@@ -1,0 +1,75 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "eTM3RdWlgsxChBLADezVD87IBao",
+        "id": "UCJTWqqBgwNNzF3p-YwPApKA",
+        "snippet": {
+            "title": "21SavageVEVO",
+            "description": "",
+            "publishedAt": "2017-07-05T15:49:09Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQu9COveNaCCyvXoQdrwOJuLbLqWTMFziwQ9K1U=s88-c-k-c0x00ffffff-no-rj-mo",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQu9COveNaCCyvXoQdrwOJuLbLqWTMFziwQ9K1U=s240-c-k-c0x00ffffff-no-rj-mo",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQu9COveNaCCyvXoQdrwOJuLbLqWTMFziwQ9K1U=s800-c-k-c0x00ffffff-no-rj-mo",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "21SavageVEVO",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUJTWqqBgwNNzF3p-YwPApKA"
+            }
+        },
+        "statistics": {
+            "viewCount": "910128680",
+            "subscriberCount": "411000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "5"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/04rlf",
+                "/m/0glt670"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Music",
+                "https://en.wikipedia.org/wiki/Hip_hop_music"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "21SavageVEVO",
+                "defaultLanguage": "en"
+            }
+        },
+        "contentOwnerDetails": {},
+        "localizations": {
+            "en_US": {
+                "title": "21SavageVEVO",
+                "description": ""
+            }
+        }
+    }
+]

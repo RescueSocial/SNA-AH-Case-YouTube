@@ -1,0 +1,71 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "ga7588rYv2-7BBBGRdnWK6ODde8",
+        "id": "UC2ceFy63WAKXOndTPLLfmDg",
+        "snippet": {
+            "title": "FRESH TRAILER",
+            "description": "",
+            "publishedAt": "2021-05-12T09:44:43.781207Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/bmBczIv-hWEt22bYgeQFP7X9EKhFr2rtw4T6q-kQlV8ppNz6sCzLrGMMFvEYKQaCeGggfezZ=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/bmBczIv-hWEt22bYgeQFP7X9EKhFr2rtw4T6q-kQlV8ppNz6sCzLrGMMFvEYKQaCeGggfezZ=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/bmBczIv-hWEt22bYgeQFP7X9EKhFr2rtw4T6q-kQlV8ppNz6sCzLrGMMFvEYKQaCeGggfezZ=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "FRESH TRAILER",
+                "description": ""
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU2ceFy63WAKXOndTPLLfmDg"
+            }
+        },
+        "statistics": {
+            "viewCount": "1295",
+            "subscriberCount": "7",
+            "hiddenSubscriberCount": false,
+            "videoCount": "30"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02vxn",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "FRESH TRAILER",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/tIapvdqhMM19mES5ri3m1la5_xz_stAeGkW4TKTdyIiSn1_R0SW5JzXCr8m6WR1XsQNIEyI1"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

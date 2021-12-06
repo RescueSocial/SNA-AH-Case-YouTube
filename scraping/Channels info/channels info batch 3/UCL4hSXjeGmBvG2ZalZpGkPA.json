@@ -1,0 +1,68 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "2VnXCLDFVcABodQJWhjKQrSfsoo",
+        "id": "UCL4hSXjeGmBvG2ZalZpGkPA",
+        "snippet": {
+            "title": "Ana Teresa P. Oliveira",
+            "description": "",
+            "publishedAt": "2019-12-02T01:08:25.605726Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSN7PUhwB54nEcA_-vBY2gCRDU9KH8b8S1g2RcID_4=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSN7PUhwB54nEcA_-vBY2gCRDU9KH8b8S1g2RcID_4=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSN7PUhwB54nEcA_-vBY2gCRDU9KH8b8S1g2RcID_4=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Ana Teresa P. Oliveira",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUL4hSXjeGmBvG2ZalZpGkPA"
+            }
+        },
+        "statistics": {
+            "viewCount": "310228",
+            "subscriberCount": "722",
+            "hiddenSubscriberCount": false,
+            "videoCount": "65"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/064t9",
+                "/m/04rlf",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Pop_music",
+                "https://en.wikipedia.org/wiki/Music",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Ana Teresa P. Oliveira"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

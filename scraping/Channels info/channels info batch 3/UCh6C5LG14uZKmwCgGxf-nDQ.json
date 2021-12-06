@@ -1,0 +1,81 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "Yy89fGCZpKFBVTzV8rZZHIBIkME",
+        "id": "UCh6C5LG14uZKmwCgGxf-nDQ",
+        "snippet": {
+            "title": "CelineDionVEVO",
+            "description": "The official video channel for Celine Dion. ",
+            "publishedAt": "2009-10-15T19:08:11Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLT-xa4eoSfcOxOicNCs3eHRRbtxbDhSotJzmDa5=s88-c-k-c0x00ffffff-no-rj-mo",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLT-xa4eoSfcOxOicNCs3eHRRbtxbDhSotJzmDa5=s240-c-k-c0x00ffffff-no-rj-mo",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLT-xa4eoSfcOxOicNCs3eHRRbtxbDhSotJzmDa5=s800-c-k-c0x00ffffff-no-rj-mo",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "CelineDionVEVO",
+                "description": "The official video channel for Celine Dion. "
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUh6C5LG14uZKmwCgGxf-nDQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "2928866250",
+            "subscriberCount": "2000000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "405"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/064t9",
+                "/m/04rlf"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Pop_music",
+                "https://en.wikipedia.org/wiki/Music"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "CelineDionVEVO",
+                "description": "The official video channel for Celine Dion. ",
+                "keywords": "vevo music video official",
+                "unsubscribedTrailer": "hFfdqgSVpg0",
+                "defaultLanguage": "en"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/XIRTpfI0shslz3_JmPzfpw5xwmtgemYyOj11wPhkL4Gh8OEFDOTQpb-P55JjvVxgpATbH_z8"
+            }
+        },
+        "contentOwnerDetails": {},
+        "localizations": {
+            "en_US": {
+                "title": "CelineDionVEVO",
+                "description": "The official video channel for Celine Dion. "
+            }
+        }
+    }
+]

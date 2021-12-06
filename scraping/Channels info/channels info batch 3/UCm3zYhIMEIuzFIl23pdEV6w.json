@@ -1,0 +1,72 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "zT7a7nO_3WzCZNtNJ7iyt0izOMw",
+        "id": "UCm3zYhIMEIuzFIl23pdEV6w",
+        "snippet": {
+            "title": "hindi tag",
+            "description": "Hello frnds.well come to my Hindi tag channel",
+            "publishedAt": "2016-11-20T14:19:19Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQKZYQh4ihT2cro5gMFpSb9RB3L0Z5qDX10U7CJt6U=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQKZYQh4ihT2cro5gMFpSb9RB3L0Z5qDX10U7CJt6U=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQKZYQh4ihT2cro5gMFpSb9RB3L0Z5qDX10U7CJt6U=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "hindi tag",
+                "description": "Hello frnds.well come to my Hindi tag channel"
+            },
+            "country": "IN"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUm3zYhIMEIuzFIl23pdEV6w"
+            }
+        },
+        "statistics": {
+            "viewCount": "1440573",
+            "hiddenSubscriberCount": true,
+            "videoCount": "67"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn",
+                "/m/019_rr",
+                "/m/07c1v"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                "https://en.wikipedia.org/wiki/Technology"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "hindi tag",
+                "description": "Hello frnds.well come to my Hindi tag channel",
+                "country": "IN"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

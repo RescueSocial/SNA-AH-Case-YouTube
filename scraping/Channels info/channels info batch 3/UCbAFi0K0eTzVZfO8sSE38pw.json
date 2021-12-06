@@ -1,0 +1,75 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "oWhr20tLl1bsZbrDR8mWRKZInCE",
+        "id": "UCbAFi0K0eTzVZfO8sSE38pw",
+        "snippet": {
+            "title": "Trailer Trash",
+            "description": "Welkom op h\u00e9t trailerkanaal van de Benelux!",
+            "customUrl": "trailertrashbydocodigital",
+            "publishedAt": "2015-10-02T11:38:07Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSZkq1eVcb9Q4Gu8SUQBYsX3NqaRDmyA63O0XvjYA=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSZkq1eVcb9Q4Gu8SUQBYsX3NqaRDmyA63O0XvjYA=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSZkq1eVcb9Q4Gu8SUQBYsX3NqaRDmyA63O0XvjYA=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Trailer Trash",
+                "description": "Welkom op h\u00e9t trailerkanaal van de Benelux!"
+            },
+            "country": "NL"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUbAFi0K0eTzVZfO8sSE38pw"
+            }
+        },
+        "statistics": {
+            "viewCount": "11440749",
+            "subscriberCount": "14000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "1274"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02vxn",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Trailer Trash",
+                "description": "Welkom op h\u00e9t trailerkanaal van de Benelux!",
+                "keywords": "trailer film trash movie teaser animation action romantic comedy thriller",
+                "unsubscribedTrailer": "wRmth5BJTQE",
+                "country": "NL"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/et2LpkTXlE3H1Getb3aPhAspm6zbTAgeT6dcj7SIzeVfH4-fCiWepcZuQrczSevBYrMhSGIMTA"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

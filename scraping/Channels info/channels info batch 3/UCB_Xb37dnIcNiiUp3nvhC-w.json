@@ -1,0 +1,77 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "llI5A1kkc6qKjZehz276LZmryHI",
+        "id": "UCB_Xb37dnIcNiiUp3nvhC-w",
+        "snippet": {
+            "title": "CoryBergeronRecordings",
+            "description": "create more",
+            "customUrl": "corybergeronrecordings",
+            "publishedAt": "2017-05-16T18:20:49Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQO96SWTgLk-PodKMXKbwPGq2xi4qCbkN3yyNU6qA=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQO96SWTgLk-PodKMXKbwPGq2xi4qCbkN3yyNU6qA=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQO96SWTgLk-PodKMXKbwPGq2xi4qCbkN3yyNU6qA=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "CoryBergeronRecordings",
+                "description": "create more"
+            },
+            "country": "CA"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUB_Xb37dnIcNiiUp3nvhC-w"
+            }
+        },
+        "statistics": {
+            "viewCount": "419805",
+            "subscriberCount": "7190",
+            "hiddenSubscriberCount": false,
+            "videoCount": "124"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/019_rr",
+                "/m/06by7",
+                "/m/04rlf"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                "https://en.wikipedia.org/wiki/Rock_music",
+                "https://en.wikipedia.org/wiki/Music"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "CoryBergeronRecordings",
+                "description": "create more",
+                "keywords": "cory bergeron recordings audio production recording safetosayband \"cory bergeron\" corybergeronrecordings safetosay locket \"locket band\" locketsongs \"locket all out\" \"music production\" \"unison midi chord pack\" \"arcade output\"",
+                "unsubscribedTrailer": "QSsvPLFiGS4",
+                "country": "CA"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/IlBwhMasQYMlejU78BFQDy-blsdT2YivyaC-YCRYEd4zngN-2Uuqfz32j0t0-QiGxPT77tzO"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

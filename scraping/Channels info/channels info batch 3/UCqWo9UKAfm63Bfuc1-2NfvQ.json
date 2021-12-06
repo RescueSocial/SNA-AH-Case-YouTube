@@ -1,0 +1,72 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "EzvJeZD15E-6UQzHGafkF_ISs64",
+        "id": "UCqWo9UKAfm63Bfuc1-2NfvQ",
+        "snippet": {
+            "title": "Notizie aggiornate",
+            "description": "",
+            "publishedAt": "2008-10-05T04:41:46Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRDglx9EQg0IpnxGW0L5ht8hnIyTQpjxIcEOyVo=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRDglx9EQg0IpnxGW0L5ht8hnIyTQpjxIcEOyVo=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRDglx9EQg0IpnxGW0L5ht8hnIyTQpjxIcEOyVo=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Notizie aggiornate",
+                "description": ""
+            },
+            "country": "IT"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUqWo9UKAfm63Bfuc1-2NfvQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "768433",
+            "subscriberCount": "2420",
+            "hiddenSubscriberCount": false,
+            "videoCount": "845"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Notizie aggiornate",
+                "country": "IT"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/JSKYsFFg97_dMuzekD5-gSMS3faTQXXm3uj-u_pdWKihUnFbAhnoGufl5qexJJOf6RG1UmyXfcw"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

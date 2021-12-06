@@ -1,0 +1,66 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "gPpoZUFsNuHmMEaw4AVQaOiOZao",
+        "id": "UCvLXa04mPkW-ymKo4y-FF7A",
+        "snippet": {
+            "title": "Amit Kumar",
+            "description": "",
+            "publishedAt": "2017-01-13T12:19:36Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLR9TOC8POWrhtZLglk1uL4_ixlHZDxy-c7WypaH2g=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLR9TOC8POWrhtZLglk1uL4_ixlHZDxy-c7WypaH2g=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLR9TOC8POWrhtZLglk1uL4_ixlHZDxy-c7WypaH2g=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Amit Kumar",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUvLXa04mPkW-ymKo4y-FF7A"
+            }
+        },
+        "statistics": {
+            "viewCount": "428",
+            "subscriberCount": "38",
+            "hiddenSubscriberCount": false,
+            "videoCount": "53"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02vxn",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Amit Kumar"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

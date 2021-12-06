@@ -1,0 +1,79 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "1uAQeVf9lbkzX8fsaev4qEBtFzM",
+        "id": "UCMm0YNfHOCA-bvHmOBSx-ZA",
+        "snippet": {
+            "title": "WatchMojoUK",
+            "description": "WatchMojoUK is everything that you love about WatchMojo, but the content is made by and for people from the UK. Let us know what you think!",
+            "customUrl": "watchmojouk",
+            "publishedAt": "2017-04-05T20:38:29Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQuv1v6nBZxuvaUh-z2wRndZ9AnxXR3wC6C8zdU=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQuv1v6nBZxuvaUh-z2wRndZ9AnxXR3wC6C8zdU=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQuv1v6nBZxuvaUh-z2wRndZ9AnxXR3wC6C8zdU=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "WatchMojoUK",
+                "description": "WatchMojoUK is everything that you love about WatchMojo, but the content is made by and for people from the UK. Let us know what you think!"
+            },
+            "country": "GB"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUMm0YNfHOCA-bvHmOBSx-ZA"
+            }
+        },
+        "statistics": {
+            "viewCount": "195081924",
+            "subscriberCount": "583000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "1043"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/0f2f9",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Television_program",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "WatchMojoUK",
+                "description": "WatchMojoUK is everything that you love about WatchMojo, but the content is made by and for people from the UK. Let us know what you think!",
+                "keywords": "WatchmojoUK \"WatchMojo UK\" British Britain \"United Kingdom\" movies music gaming \"video games\" \"pop culture\" England London",
+                "trackingAnalyticsAccountId": "UA-8579511-4",
+                "unsubscribedTrailer": "0v48CcDFulc",
+                "country": "GB"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/rXmW54S7Ew2q6YoerKogmKa_ZuufxjHLHrkrx6PHy5J_ppTDH-icywl6HXatDkoCSbaAd207CQ"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

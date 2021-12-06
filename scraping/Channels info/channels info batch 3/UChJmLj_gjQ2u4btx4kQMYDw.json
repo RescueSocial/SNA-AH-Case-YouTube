@@ -1,0 +1,72 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "roHKij0NU8hyAJT89WpGhco3MCw",
+        "id": "UChJmLj_gjQ2u4btx4kQMYDw",
+        "snippet": {
+            "title": "WangChungTheBand",
+            "description": "",
+            "publishedAt": "2010-02-23T14:57:46Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRRuxvWhN4UgDe3iydDOxZ-gwbTgKkleP1guZiKgw=s88-c-k-c0x00ffffff-no-rj-mo",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRRuxvWhN4UgDe3iydDOxZ-gwbTgKkleP1guZiKgw=s240-c-k-c0x00ffffff-no-rj-mo",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRRuxvWhN4UgDe3iydDOxZ-gwbTgKkleP1guZiKgw=s800-c-k-c0x00ffffff-no-rj-mo",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "WangChungTheBand",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUhJmLj_gjQ2u4btx4kQMYDw"
+            }
+        },
+        "statistics": {
+            "viewCount": "49967056",
+            "subscriberCount": "40800",
+            "hiddenSubscriberCount": false,
+            "videoCount": "38"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/04rlf",
+                "/m/06by7",
+                "/m/064t9"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Music",
+                "https://en.wikipedia.org/wiki/Rock_music",
+                "https://en.wikipedia.org/wiki/Pop_music"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "WangChungTheBand",
+                "keywords": "wang chung"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/fgkRc_L3qcE32dO_rlTNbA0f0J2JIm-cy-ZWgJmEKegaH0HVcySFEQLg6bEVDE4MLRK1MC4sqfs"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

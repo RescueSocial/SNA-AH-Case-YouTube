@@ -1,0 +1,57 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "6BbSYF-bioCnSrX-GXYac3H0l7o",
+        "id": "UCjd9U9QJv1tbHIOQG4dh3vw",
+        "snippet": {
+            "title": "General Zod",
+            "description": "",
+            "customUrl": "mrsylar304",
+            "publishedAt": "2019-06-30T08:55:38Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRRQ0bhOyOTA7_pYW1PFICKMgheQPW1AQFyCiI4WQ=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRRQ0bhOyOTA7_pYW1PFICKMgheQPW1AQFyCiI4WQ=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRRQ0bhOyOTA7_pYW1PFICKMgheQPW1AQFyCiI4WQ=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "General Zod",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUjd9U9QJv1tbHIOQG4dh3vw"
+            }
+        },
+        "statistics": {
+            "viewCount": "6",
+            "subscriberCount": "4",
+            "hiddenSubscriberCount": false,
+            "videoCount": "1"
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "General Zod"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

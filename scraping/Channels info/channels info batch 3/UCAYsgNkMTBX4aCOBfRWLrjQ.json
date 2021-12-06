@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "sSR4yQ3xfQ7n0Ud5cn2WXUwW_UM",
+        "id": "UCAYsgNkMTBX4aCOBfRWLrjQ",
+        "snippet": {
+            "title": "MoviesHD 123",
+            "description": "",
+            "customUrl": "movieshd123",
+            "publishedAt": "2013-03-14T06:24:25Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQcremnkyW19S_XoAedZNkRyzVL6Bzf1Yx5kh6oxw=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQcremnkyW19S_XoAedZNkRyzVL6Bzf1Yx5kh6oxw=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQcremnkyW19S_XoAedZNkRyzVL6Bzf1Yx5kh6oxw=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "MoviesHD 123",
+                "description": ""
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUAYsgNkMTBX4aCOBfRWLrjQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "1630957",
+            "hiddenSubscriberCount": true,
+            "videoCount": "37"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02vxn",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "MoviesHD 123",
+                "unsubscribedTrailer": "zW3gJG3NRYs",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/SKfw2z6M-FiO4HnJJnhbKDCFEO13cpl6hGKNQ4LKaQD2-lML8PH2_PgGaqWm55YzUKL2twiWlA"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

@@ -1,0 +1,81 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "RDlypgguICgj7mbB7O7r7Lx9dqE",
+        "id": "UComP_epzeKzvBX156r6pm1Q",
+        "snippet": {
+            "title": "AdeleVEVO",
+            "description": "",
+            "customUrl": "adele",
+            "publishedAt": "2009-10-15T19:07:17Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/YuRHl_4murHobFsrHDkpJANVHzXYTgP68zysfrsNPIRMr8fKSzEP_4y6cFeE5WfpWOdxVH4sO-8=s88-c-k-c0x00ffffff-no-nd-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/YuRHl_4murHobFsrHDkpJANVHzXYTgP68zysfrsNPIRMr8fKSzEP_4y6cFeE5WfpWOdxVH4sO-8=s240-c-k-c0x00ffffff-no-nd-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/YuRHl_4murHobFsrHDkpJANVHzXYTgP68zysfrsNPIRMr8fKSzEP_4y6cFeE5WfpWOdxVH4sO-8=s800-c-k-c0x00ffffff-no-nd-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "AdeleVEVO",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUomP_epzeKzvBX156r6pm1Q"
+            }
+        },
+        "statistics": {
+            "viewCount": "10497454525",
+            "subscriberCount": "15200000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "49"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/04rlf",
+                "/m/064t9",
+                "/m/0gywn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Music",
+                "https://en.wikipedia.org/wiki/Pop_music",
+                "https://en.wikipedia.org/wiki/Soul_music"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "AdeleVEVO",
+                "defaultLanguage": "en"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/er-frjGUwPG8Yg-RFxFfayHTPZExb2xOupAtwjOJ1PI805nJoEqp0bNEmzF233HSoRSpHqdrfw"
+            }
+        },
+        "contentOwnerDetails": {},
+        "localizations": {
+            "en_US": {
+                "title": "AdeleVEVO",
+                "description": ""
+            }
+        }
+    }
+]

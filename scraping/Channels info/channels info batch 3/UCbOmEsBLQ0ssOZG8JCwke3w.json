@@ -1,0 +1,71 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "9a5vL_u7bK-oeb5vGGBlJuw33ok",
+        "id": "UCbOmEsBLQ0ssOZG8JCwke3w",
+        "snippet": {
+            "title": "DrPanzram",
+            "description": "",
+            "publishedAt": "2009-10-17T20:10:44Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQmc3ytCLG5JLwsdlaqKZuiklwo32IRH8wUiTdZ=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQmc3ytCLG5JLwsdlaqKZuiklwo32IRH8wUiTdZ=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQmc3ytCLG5JLwsdlaqKZuiklwo32IRH8wUiTdZ=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "DrPanzram",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUbOmEsBLQ0ssOZG8JCwke3w"
+            }
+        },
+        "statistics": {
+            "viewCount": "717795",
+            "subscriberCount": "765",
+            "hiddenSubscriberCount": false,
+            "videoCount": "225"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/06by7",
+                "/m/04rlf",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Rock_music",
+                "https://en.wikipedia.org/wiki/Music",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "DrPanzram"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/c8xobQI8scsMs1_nD8VO7L4Q2W4RLLHmOn7xLb1_5DvnnK8_pourV8mIkyjkw40EKazYZdxbag"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

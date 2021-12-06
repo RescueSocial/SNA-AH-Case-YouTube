@@ -1,0 +1,66 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "F9hEUNEMK25VQdCQe_6blWlmwiE",
+        "id": "UCrbOQs7L2Nh87ErQU4GIJRQ",
+        "snippet": {
+            "title": "GODandAlloWee",
+            "description": "",
+            "publishedAt": "2011-11-16T16:58:40Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSI0ifqtfFzU8idIpW46yowu0ur-ufsbaLTOA=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSI0ifqtfFzU8idIpW46yowu0ur-ufsbaLTOA=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSI0ifqtfFzU8idIpW46yowu0ur-ufsbaLTOA=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "GODandAlloWee",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUrbOQs7L2Nh87ErQU4GIJRQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "1787",
+            "subscriberCount": "8",
+            "hiddenSubscriberCount": false,
+            "videoCount": "3"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "GODandAlloWee"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

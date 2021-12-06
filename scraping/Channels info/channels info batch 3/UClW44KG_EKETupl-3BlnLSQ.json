@@ -1,0 +1,77 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "dqMolFmUn8L0u_CQxpNdNQwJ7Rk",
+        "id": "UClW44KG_EKETupl-3BlnLSQ",
+        "snippet": {
+            "title": "Top15s",
+            "description": "New videos every Tuesday & Saturday! \u2022 Twitter: @Top15s_",
+            "customUrl": "top15s",
+            "publishedAt": "2014-04-04T01:44:49Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSJif0G0GHaeHLRI-r-nbFMK-Zy7-Aimtb0BJPyWA=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSJif0G0GHaeHLRI-r-nbFMK-Zy7-Aimtb0BJPyWA=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSJif0G0GHaeHLRI-r-nbFMK-Zy7-Aimtb0BJPyWA=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Top15s",
+                "description": "New videos every Tuesday & Saturday! \u2022 Twitter: @Top15s_"
+            },
+            "country": "CA"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUlW44KG_EKETupl-3BlnLSQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "925473838",
+            "subscriberCount": "3810000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "416"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02vxn",
+                "/m/098wr",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Society",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Top15s",
+                "description": "New videos every Tuesday & Saturday! \u2022 Twitter: @Top15s_",
+                "keywords": "\"top 15\" \"top 10\" top15s",
+                "country": "CA"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/WOVEkWYSlPgRyjPEFjNNphCh2ak2ndXfBWj9BMiq4Uxek_mGNiLYGj_ViKn1ACrRNbkFAOXc"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "JVv-rzNPLv4LDxvl4FZ38uPzHoU",
+        "id": "UCYxrALY_UAQ6ydE3xd95_Ow",
+        "snippet": {
+            "title": "J-N THE YOUTUBERS",
+            "description": "Everything for you",
+            "publishedAt": "2020-01-26T12:59:05.10159Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSf24jvOqwr5Ai98ejqsISlyq24xqUPbbeOZW3D=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSf24jvOqwr5Ai98ejqsISlyq24xqUPbbeOZW3D=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSf24jvOqwr5Ai98ejqsISlyq24xqUPbbeOZW3D=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "J-N THE YOUTUBERS",
+                "description": "Everything for you"
+            },
+            "country": "IN"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUYxrALY_UAQ6ydE3xd95_Ow"
+            }
+        },
+        "statistics": {
+            "viewCount": "1383676",
+            "subscriberCount": "2290",
+            "hiddenSubscriberCount": false,
+            "videoCount": "222"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/04rlf",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Music",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "J-N THE YOUTUBERS",
+                "description": "Everything for you",
+                "unsubscribedTrailer": "3lsPQHs4e2Y",
+                "country": "IN"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/r34RNPqQO4fpzB7hejinHDq0HVzX7KgXmwbur2y2iMxBtC1jHobjThrEMpKWE0_-bkRFdiVE4A"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

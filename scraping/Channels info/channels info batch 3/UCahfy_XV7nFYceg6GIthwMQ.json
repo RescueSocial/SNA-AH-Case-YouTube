@@ -1,0 +1,78 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "7_7inGCbpECcMVGXaqbmKhJpX3U",
+        "id": "UCahfy_XV7nFYceg6GIthwMQ",
+        "snippet": {
+            "title": "A Conversation With",
+            "description": "",
+            "customUrl": "acw",
+            "publishedAt": "2019-07-23T18:43:15Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQC5-fC6fJv1qSuht1xgXKIa49mTQQZ8qRCpdcC=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQC5-fC6fJv1qSuht1xgXKIa49mTQQZ8qRCpdcC=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQC5-fC6fJv1qSuht1xgXKIa49mTQQZ8qRCpdcC=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "A Conversation With",
+                "description": ""
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUahfy_XV7nFYceg6GIthwMQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "18110099",
+            "subscriberCount": "285000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "50"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/019_rr",
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "A Conversation With",
+                "keywords": "podcast defranco \"philip defranco\" \"the philip defranco show\" entertainment funny \"video podcast\" celebrity interview",
+                "moderateComments": true,
+                "unsubscribedTrailer": "1Hy6BKjjAQQ",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/nzww7semxwe2mm4h9qgq3aakVBPaDs6kfDqspwBwhcALBZh5JqnoGHnVPrVbxhC7Hwh_cmlwSg"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

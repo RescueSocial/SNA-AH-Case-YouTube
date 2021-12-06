@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "RsSWlFl5yR7Q72LSfNn_JCm1b_g",
+        "id": "UCrDe1lQf8dHxyMf9A3_EttQ",
+        "snippet": {
+            "title": "I love JJ 2021",
+            "description": "",
+            "publishedAt": "2021-02-07T10:11:53.207008Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/MQKEOWEgEx5v-Z29KIBIr1ZrAkJQI39JAIE9cIb3URB3a1uM9xS4RXfLfOtrkePUS3gjysA4=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/MQKEOWEgEx5v-Z29KIBIr1ZrAkJQI39JAIE9cIb3URB3a1uM9xS4RXfLfOtrkePUS3gjysA4=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/MQKEOWEgEx5v-Z29KIBIr1ZrAkJQI39JAIE9cIb3URB3a1uM9xS4RXfLfOtrkePUS3gjysA4=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "I love JJ 2021",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUrDe1lQf8dHxyMf9A3_EttQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "365946",
+            "subscriberCount": "2610",
+            "hiddenSubscriberCount": false,
+            "videoCount": "41"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/03glg",
+                "/m/019_rr",
+                "/m/02jjt",
+                "/m/0f2f9"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Hobby",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Television_program"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "I love JJ 2021"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

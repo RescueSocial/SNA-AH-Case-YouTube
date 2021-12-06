@@ -1,0 +1,67 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "-MPBBQklI9ajQJvtGFrpFsQPzbo",
+        "id": "UC3pKUjOqPna0hRYj_lyPH0A",
+        "snippet": {
+            "title": "24h News",
+            "description": "",
+            "publishedAt": "2011-05-31T17:18:29Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTqcXo7rCnk46ARJQvvt5qs47hxawqYMu9FTDPV=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTqcXo7rCnk46ARJQvvt5qs47hxawqYMu9FTDPV=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTqcXo7rCnk46ARJQvvt5qs47hxawqYMu9FTDPV=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "24h News",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU3pKUjOqPna0hRYj_lyPH0A"
+            }
+        },
+        "statistics": {
+            "viewCount": "3750621",
+            "subscriberCount": "6680",
+            "hiddenSubscriberCount": false,
+            "videoCount": "11437"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "24h News"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

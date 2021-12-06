@@ -1,0 +1,72 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "4mTE6qx0HgOAINkt54clo9Chxao",
+        "id": "UCxgOXIkW0Kt95Qm9SOVJWLw",
+        "snippet": {
+            "title": "Casey",
+            "description": "",
+            "publishedAt": "2019-11-19T06:17:11.301492Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQxGg4iSzqZW3FtylpWMXCBzJVkc7h2CAkm7g=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQxGg4iSzqZW3FtylpWMXCBzJVkc7h2CAkm7g=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQxGg4iSzqZW3FtylpWMXCBzJVkc7h2CAkm7g=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Casey",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUxgOXIkW0Kt95Qm9SOVJWLw"
+            }
+        },
+        "statistics": {
+            "viewCount": "305329",
+            "subscriberCount": "1630",
+            "hiddenSubscriberCount": false,
+            "videoCount": "7"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/0410tth",
+                "/m/019_rr",
+                "/m/07yv9",
+                "/m/04rlf",
+                "/m/06ntj"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Motorsport",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                "https://en.wikipedia.org/wiki/Vehicle",
+                "https://en.wikipedia.org/wiki/Music",
+                "https://en.wikipedia.org/wiki/Sport"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Casey"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

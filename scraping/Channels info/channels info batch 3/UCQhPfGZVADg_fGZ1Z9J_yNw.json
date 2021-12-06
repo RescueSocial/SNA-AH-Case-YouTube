@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "wf2f12RjkWm_d9onblh93pMr0jc",
+        "id": "UCQhPfGZVADg_fGZ1Z9J_yNw",
+        "snippet": {
+            "title": "Video Clip",
+            "description": "",
+            "publishedAt": "2021-04-19T14:32:20.682171Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLS6qtwhj-RaauX2uoosioqnuUX_ATfX5cTwHUX4=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLS6qtwhj-RaauX2uoosioqnuUX_ATfX5cTwHUX4=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLS6qtwhj-RaauX2uoosioqnuUX_ATfX5cTwHUX4=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Video Clip",
+                "description": ""
+            },
+            "country": "ES"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUQhPfGZVADg_fGZ1Z9J_yNw"
+            }
+        },
+        "statistics": {
+            "viewCount": "6913",
+            "subscriberCount": "20",
+            "hiddenSubscriberCount": false,
+            "videoCount": "555"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Video Clip",
+                "country": "ES"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/IiIJpdgaisPEUjD-iN7Rz0nzbyzYkU2f1GaiEMjhXvC20RXlYbOvApDAOUc9wxXTIjEPwTpy"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

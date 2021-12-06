@@ -1,0 +1,66 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "MwOZ5qkz7vHtHJZjICAwkuB4ink",
+        "id": "UC7CtNXG6xv65mk7-Vm7ptUw",
+        "snippet": {
+            "title": "Prachi K",
+            "description": "",
+            "publishedAt": "2016-02-23T17:16:27Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRyf856P66lBD0wcy_uDMqy9RhuxuMZMfv7hwCZYg=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRyf856P66lBD0wcy_uDMqy9RhuxuMZMfv7hwCZYg=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRyf856P66lBD0wcy_uDMqy9RhuxuMZMfv7hwCZYg=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Prachi K",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU7CtNXG6xv65mk7-Vm7ptUw"
+            }
+        },
+        "statistics": {
+            "viewCount": "237",
+            "subscriberCount": "3",
+            "hiddenSubscriberCount": false,
+            "videoCount": "2"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/04rlf",
+                "/m/064t9"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Music",
+                "https://en.wikipedia.org/wiki/Pop_music"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Prachi K"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

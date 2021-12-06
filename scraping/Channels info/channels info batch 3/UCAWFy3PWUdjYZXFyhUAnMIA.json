@@ -1,0 +1,68 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "kNtD7gKqOC7_ecnAE4u_MxDrlqQ",
+        "id": "UCAWFy3PWUdjYZXFyhUAnMIA",
+        "snippet": {
+            "title": "BLACK LABEL",
+            "description": "",
+            "publishedAt": "2018-05-13T11:49:14Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQZ7ni8mhevc8-B4bqxAAYHbhL_KlRhrF69t-K2ow=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQZ7ni8mhevc8-B4bqxAAYHbhL_KlRhrF69t-K2ow=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQZ7ni8mhevc8-B4bqxAAYHbhL_KlRhrF69t-K2ow=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "BLACK LABEL",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUAWFy3PWUdjYZXFyhUAnMIA"
+            }
+        },
+        "statistics": {
+            "viewCount": "3922653",
+            "subscriberCount": "20000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "30"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/028sqc",
+                "/m/02lkt",
+                "/m/04rlf"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Music_of_Asia",
+                "https://en.wikipedia.org/wiki/Electronic_music",
+                "https://en.wikipedia.org/wiki/Music"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "BLACK LABEL"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

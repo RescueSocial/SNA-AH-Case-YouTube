@@ -1,0 +1,71 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "YNmeRlKxwnILKEQOoTDvR39SW6I",
+        "id": "UCLrWdivpqPaJAEc1rGVQe_g",
+        "snippet": {
+            "title": "Hadley Media",
+            "description": "",
+            "customUrl": "hadleymedia",
+            "publishedAt": "2017-05-04T17:25:19Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRVvB5ZXzml6D2mCJBpKRzqxm3ZDr9-g5M4Ig=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRVvB5ZXzml6D2mCJBpKRzqxm3ZDr9-g5M4Ig=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRVvB5ZXzml6D2mCJBpKRzqxm3ZDr9-g5M4Ig=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Hadley Media",
+                "description": ""
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UULrWdivpqPaJAEc1rGVQe_g"
+            }
+        },
+        "statistics": {
+            "viewCount": "67937",
+            "subscriberCount": "347",
+            "hiddenSubscriberCount": false,
+            "videoCount": "800"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": true
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Hadley Media",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/Dyjr2-gfjCLcBrhbCL0vatF7nodEWTcB2AmBzwzPzSvXNWabQmyFPvuCFKCVK1mCdnyAVwwWyw"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

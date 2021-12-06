@@ -1,0 +1,78 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "w0AikyCDQVIawWWoZz1gaxSzzhg",
+        "id": "UCWdX4g8Tg9b7XSuxRdO2v8A",
+        "snippet": {
+            "title": "Todez",
+            "description": "Todez is a one stop channel you want to look for. https://youtube.com/todez",
+            "customUrl": "todez",
+            "publishedAt": "2017-11-08T22:45:00Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSEA3rqPOa74Cnwo9jQoj9lQt5RKu9Qvch-OSoD=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSEA3rqPOa74Cnwo9jQoj9lQt5RKu9Qvch-OSoD=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSEA3rqPOa74Cnwo9jQoj9lQt5RKu9Qvch-OSoD=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Todez",
+                "description": "Todez is a one stop channel you want to look for. https://youtube.com/todez"
+            },
+            "country": "IN"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUWdX4g8Tg9b7XSuxRdO2v8A"
+            }
+        },
+        "statistics": {
+            "viewCount": "54375549",
+            "subscriberCount": "233000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "12431"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Todez",
+                "description": "Todez is a one stop channel you want to look for. https://youtube.com/todez",
+                "keywords": "News Views Entertainment",
+                "trackingAnalyticsAccountId": "UA-111117580-1",
+                "moderateComments": true,
+                "unsubscribedTrailer": "naj9TYUUeK8",
+                "country": "IN"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/h_K4ZMEveBN9RY3EIhoQDDqvMxa6xh6yXIBsC9UJCmTjnbunPUwA5mz-uvehWWSGgRsvqew8Gp0"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

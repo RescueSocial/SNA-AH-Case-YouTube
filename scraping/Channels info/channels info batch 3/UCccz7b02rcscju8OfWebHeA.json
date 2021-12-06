@@ -1,0 +1,76 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "pxfEhXwxjuEpEdpqbQa0L79hsfM",
+        "id": "UCccz7b02rcscju8OfWebHeA",
+        "snippet": {
+            "title": "snowontheweb",
+            "description": "",
+            "publishedAt": "2005-11-13T04:11:45Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLS0C7tNx_7x7QA8dnq0lp9Xy_NhYOFXnNf4TBUyzg=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLS0C7tNx_7x7QA8dnq0lp9Xy_NhYOFXnNf4TBUyzg=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLS0C7tNx_7x7QA8dnq0lp9Xy_NhYOFXnNf4TBUyzg=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "snowontheweb",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUccz7b02rcscju8OfWebHeA"
+            }
+        },
+        "statistics": {
+            "viewCount": "22267421",
+            "subscriberCount": "12400",
+            "hiddenSubscriberCount": false,
+            "videoCount": "28"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/06cqb",
+                "/m/064t9",
+                "/m/0g293",
+                "/m/0glt670",
+                "/m/04rlf"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Reggae",
+                "https://en.wikipedia.org/wiki/Pop_music",
+                "https://en.wikipedia.org/wiki/Music_of_Latin_America",
+                "https://en.wikipedia.org/wiki/Hip_hop_music",
+                "https://en.wikipedia.org/wiki/Music"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "snowontheweb",
+                "unsubscribedTrailer": "Q5DVPOC8wQY"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/UFntS-FLXsdPWFPUhRlpxNSoi-CcQ92s-ngmnhi4I2LdX-lQTsgeKejcU_VjAUmxjpelNRtL"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

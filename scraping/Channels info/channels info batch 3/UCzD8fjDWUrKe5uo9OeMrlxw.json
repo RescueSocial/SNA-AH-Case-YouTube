@@ -1,0 +1,66 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "f1woA70_wN9fXp2sNy0DQdGM5Dg",
+        "id": "UCzD8fjDWUrKe5uo9OeMrlxw",
+        "snippet": {
+            "title": "StarFeine",
+            "description": "",
+            "publishedAt": "2011-03-01T21:11:01Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRG_FyT0lW0ZBd6tMJ6czSTWzFXKq9ciQSDhYT2=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRG_FyT0lW0ZBd6tMJ6czSTWzFXKq9ciQSDhYT2=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRG_FyT0lW0ZBd6tMJ6czSTWzFXKq9ciQSDhYT2=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "StarFeine",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUzD8fjDWUrKe5uo9OeMrlxw"
+            }
+        },
+        "statistics": {
+            "viewCount": "19763343",
+            "subscriberCount": "15300",
+            "hiddenSubscriberCount": false,
+            "videoCount": "266"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "StarFeine",
+                "keywords": "Celebrity news hollywood gossip famous paparazzi photography",
+                "unsubscribedTrailer": "z4bZOsKeQQs"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

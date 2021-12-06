@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "FA9ToyFlHyS4RPFHRAV4U0sic4Q",
+        "id": "UCR9MmZ6VylTaF_ELUEpjrjA",
+        "snippet": {
+            "title": "O.E.U. Studios",
+            "description": "",
+            "customUrl": "oeustudios",
+            "publishedAt": "2006-11-06T16:44:32Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSaF4h4Xcl4xZq-jaN87SIFopwIFPvjWHaD2NGl=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSaF4h4Xcl4xZq-jaN87SIFopwIFPvjWHaD2NGl=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSaF4h4Xcl4xZq-jaN87SIFopwIFPvjWHaD2NGl=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "O.E.U. Studios",
+                "description": ""
+            },
+            "country": "BS"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUR9MmZ6VylTaF_ELUEpjrjA"
+            }
+        },
+        "statistics": {
+            "viewCount": "19526652",
+            "subscriberCount": "23900",
+            "hiddenSubscriberCount": false,
+            "videoCount": "13"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/04rlf",
+                "/m/0glt670",
+                "/m/019_rr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Music",
+                "https://en.wikipedia.org/wiki/Hip_hop_music",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "O.E.U. Studios",
+                "keywords": "\"OEU Studios\" Music Videos Instrumentals Beats Sketch \"Short Film\"",
+                "country": "BS"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

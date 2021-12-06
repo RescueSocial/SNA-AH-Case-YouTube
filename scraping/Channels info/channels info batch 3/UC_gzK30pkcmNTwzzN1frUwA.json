@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "z3UKzofzjhE8KQ1z0wL8RMtkwQE",
+        "id": "UC_gzK30pkcmNTwzzN1frUwA",
+        "snippet": {
+            "title": "Ro Caic",
+            "description": "videos de entretenimiento(trailer,cortos de peliculas.series.videos virales. Juegos)",
+            "publishedAt": "2015-05-06T00:30:59Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSLQtpanpXhKE3oMKiY0Q4UilfPH-eUjZW8VFl7rg=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSLQtpanpXhKE3oMKiY0Q4UilfPH-eUjZW8VFl7rg=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSLQtpanpXhKE3oMKiY0Q4UilfPH-eUjZW8VFl7rg=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Ro Caic",
+                "description": "videos de entretenimiento(trailer,cortos de peliculas.series.videos virales. Juegos)"
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU_gzK30pkcmNTwzzN1frUwA"
+            }
+        },
+        "statistics": {
+            "viewCount": "17237",
+            "subscriberCount": "96",
+            "hiddenSubscriberCount": false,
+            "videoCount": "618"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/0f2f9",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Television_program",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Ro Caic",
+                "description": "videos de entretenimiento(trailer,cortos de peliculas.series.videos virales. Juegos)",
+                "unsubscribedTrailer": "HhDaF3KYBAI"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/YHqBdaj9H52sDCDrpOZo8_o0MziPtgojnDSg5wxpi3FgCR4sw-yeOWJwERH69tZXmzfH1aKB3w"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

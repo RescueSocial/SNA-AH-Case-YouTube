@@ -1,0 +1,72 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "CMjeZDoSEX6YvQtGyz0hCPSyYwc",
+        "id": "UCe7flOfHOQdOjIh7CPOrtcQ",
+        "snippet": {
+            "title": "ST Media",
+            "description": "",
+            "publishedAt": "2010-07-28T21:01:48Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTiPqCVARmBy9sxMiSvxnZE60AH2jihC5aJJu43=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTiPqCVARmBy9sxMiSvxnZE60AH2jihC5aJJu43=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTiPqCVARmBy9sxMiSvxnZE60AH2jihC5aJJu43=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "ST Media",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUe7flOfHOQdOjIh7CPOrtcQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "65202356",
+            "subscriberCount": "29900",
+            "hiddenSubscriberCount": false,
+            "videoCount": "1967"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "ST Media",
+                "keywords": "Screen Team Angie Chad Media Trailers \"Behind the scenes\" movies",
+                "moderateComments": true,
+                "unsubscribedTrailer": "qiFjgr2uGr0"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/tTKggCG4zzyX1lVw9CwVYBP8Vkdid38SpNF-wilxcx7A6l_P0QZTCgmqzeCHLNB0WBkZZ4uWsQ"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

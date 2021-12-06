@@ -1,0 +1,68 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "AvS-zocvqh6tBxz_Nx1eKn7M-tU",
+        "id": "UCZgfnOPzE4wlWeOnuSuUs6A",
+        "snippet": {
+            "title": "Ariel Brotherton",
+            "description": "",
+            "publishedAt": "2020-08-10T00:05:59.850244Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQo4YW4VlDUOy8UmmTHTsB2VnbDN2TATZYKCBvR=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQo4YW4VlDUOy8UmmTHTsB2VnbDN2TATZYKCBvR=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQo4YW4VlDUOy8UmmTHTsB2VnbDN2TATZYKCBvR=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Ariel Brotherton",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUZgfnOPzE4wlWeOnuSuUs6A"
+            }
+        },
+        "statistics": {
+            "viewCount": "106760",
+            "subscriberCount": "255",
+            "hiddenSubscriberCount": false,
+            "videoCount": "39"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/019_rr",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Ariel Brotherton"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

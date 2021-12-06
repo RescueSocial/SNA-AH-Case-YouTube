@@ -1,0 +1,66 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "0oZJYxTEGRkGWU03NTxOLXGOrs4",
+        "id": "UCdis-dfIMfjzFALd8HAXYyQ",
+        "snippet": {
+            "title": "The Incredible News",
+            "description": "",
+            "publishedAt": "2014-10-06T09:36:04Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTv802XALvXb7tMdFydDk_Kt86dxEocNTG1xA=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTv802XALvXb7tMdFydDk_Kt86dxEocNTG1xA=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTv802XALvXb7tMdFydDk_Kt86dxEocNTG1xA=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "The Incredible News",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUdis-dfIMfjzFALd8HAXYyQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "47588",
+            "subscriberCount": "17",
+            "hiddenSubscriberCount": false,
+            "videoCount": "20"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "The Incredible News"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "6krsbsLRhM0I1BgVhnm4RBfG7dk",
+        "id": "UC_aqJ19jsXcg8cNLw1utH9Q",
+        "snippet": {
+            "title": "The Toot",
+            "description": "Comedy sketch channel. Check out our website for more content.",
+            "publishedAt": "2019-02-04T00:17:44Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSPL9yiptarzGP_FDNP-WQxLsdNHKUdeNtJS7qW=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSPL9yiptarzGP_FDNP-WQxLsdNHKUdeNtJS7qW=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSPL9yiptarzGP_FDNP-WQxLsdNHKUdeNtJS7qW=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "The Toot",
+                "description": "Comedy sketch channel. Check out our website for more content."
+            },
+            "country": "GB"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU_aqJ19jsXcg8cNLw1utH9Q"
+            }
+        },
+        "statistics": {
+            "viewCount": "13815",
+            "subscriberCount": "75",
+            "hiddenSubscriberCount": false,
+            "videoCount": "24"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/019_rr",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "The Toot",
+                "description": "Comedy sketch channel. Check out our website for more content.",
+                "keywords": "Comedy Sketches \"Comedy sketches\" \"parody news\" satire parody funny \"the toot\"",
+                "country": "GB"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/436ADOYCWTAZme-qI0uObs4tEZ0V1uzMh98ycFrfBYNq095iDOL_V4TXQAyDFPGZumDxB3dj4Q"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

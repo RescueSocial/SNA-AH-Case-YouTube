@@ -1,0 +1,77 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "z3erkf936wGVDVAikz3ycw0PXxY",
+        "id": "UC-5pJ6MCb7YAlceStfv4r7A",
+        "snippet": {
+            "title": "Red Big'un",
+            "description": "An unqualified movie reviewer.\nA boring Let's Player. \nAn overall shitty YouTuber.",
+            "publishedAt": "2014-06-09T15:51:16Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQ-Si7vhxsCZnkCX_euAmPTnyB7nYnpsl257xhj=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQ-Si7vhxsCZnkCX_euAmPTnyB7nYnpsl257xhj=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQ-Si7vhxsCZnkCX_euAmPTnyB7nYnpsl257xhj=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Red Big'un",
+                "description": "An unqualified movie reviewer.\nA boring Let's Player. \nAn overall shitty YouTuber."
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU-5pJ6MCb7YAlceStfv4r7A"
+            }
+        },
+        "statistics": {
+            "viewCount": "1644016",
+            "subscriberCount": "3380",
+            "hiddenSubscriberCount": false,
+            "videoCount": "492"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02ntfj",
+                "/m/02jjt",
+                "/m/025zzc",
+                "/m/0bzvm2",
+                "/m/0403l3g"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Action-adventure_game",
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Action_game",
+                "https://en.wikipedia.org/wiki/Video_game_culture",
+                "https://en.wikipedia.org/wiki/Role-playing_video_game"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Red Big'un",
+                "description": "An unqualified movie reviewer.\nA boring Let's Player. \nAn overall shitty YouTuber."
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/RGaGFDl1BLsVBNww9_l2qhXUUbUmVCVVlEVnuR8jpC9KW3cVFOyGnKEvImx_BeeX18r7L5EDwGs"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

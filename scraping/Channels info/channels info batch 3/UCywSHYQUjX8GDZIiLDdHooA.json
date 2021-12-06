@@ -1,0 +1,77 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "P63ClPpP6jqAkTuxCwVHs7CHl1U",
+        "id": "UCywSHYQUjX8GDZIiLDdHooA",
+        "snippet": {
+            "title": "Junkee",
+            "description": "An Australian pop culture title, covering film, TV, politics, web stuff, and everything in between.",
+            "customUrl": "junkee",
+            "publishedAt": "2015-02-19T23:08:28Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQVwb1iuU48J0PLLhvGXHzlPpSII1vwOxFEUTSlfQ=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQVwb1iuU48J0PLLhvGXHzlPpSII1vwOxFEUTSlfQ=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQVwb1iuU48J0PLLhvGXHzlPpSII1vwOxFEUTSlfQ=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Junkee",
+                "description": "An Australian pop culture title, covering film, TV, politics, web stuff, and everything in between."
+            },
+            "country": "AU"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUywSHYQUjX8GDZIiLDdHooA"
+            }
+        },
+        "statistics": {
+            "viewCount": "1306791",
+            "subscriberCount": "2960",
+            "hiddenSubscriberCount": false,
+            "videoCount": "163"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Junkee",
+                "description": "An Australian pop culture title, covering film, TV, politics, web stuff, and everything in between.",
+                "keywords": "aussie news gaming music australia youth junkee \"the artist alphabet\" \"noob gamers\" \"the junkee takeaway\" \"aussie news\"",
+                "trackingAnalyticsAccountId": "UA-63732709-2",
+                "unsubscribedTrailer": "LqGduzngs7E",
+                "country": "AU"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/pP7KmqT-ZkEoHBDD8Pbu3ZgzPcaLsXRlFsBqVhn6VIgAxUFD-IgVocC-ueuSyWzd8o2wkygc2Rk"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

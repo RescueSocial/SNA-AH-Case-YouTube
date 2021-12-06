@@ -1,0 +1,66 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "hFETN2Z0XsziXrTz4d17geBaJfI",
+        "id": "UClKh7vgw-_2aeDja6YJR1DA",
+        "snippet": {
+            "title": "Iconic Moments",
+            "description": "",
+            "publishedAt": "2021-11-22T19:16:05.390807Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/leALNQszxncl5VRGpc4sWEWlth7Bv5GKpDBg3YiKXkc_PfAK79MP4OIzlfS2uNtFiRxnoSNH=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/leALNQszxncl5VRGpc4sWEWlth7Bv5GKpDBg3YiKXkc_PfAK79MP4OIzlfS2uNtFiRxnoSNH=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/leALNQszxncl5VRGpc4sWEWlth7Bv5GKpDBg3YiKXkc_PfAK79MP4OIzlfS2uNtFiRxnoSNH=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Iconic Moments",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUlKh7vgw-_2aeDja6YJR1DA"
+            }
+        },
+        "statistics": {
+            "viewCount": "6754",
+            "subscriberCount": "15",
+            "hiddenSubscriberCount": false,
+            "videoCount": "30"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/019_rr",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Iconic Moments"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

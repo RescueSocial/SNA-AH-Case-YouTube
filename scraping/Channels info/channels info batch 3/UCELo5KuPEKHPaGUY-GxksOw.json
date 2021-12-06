@@ -1,0 +1,76 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "oWBKuQwf5Dy6SvTcTV4xZWxcFWo",
+        "id": "UCELo5KuPEKHPaGUY-GxksOw",
+        "snippet": {
+            "title": "Everything Cowboy",
+            "description": "http://EverythingCowboy.com Rodeo and bull riding news in Canada and around the World!",
+            "publishedAt": "2009-10-04T05:07:13Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRj0OteUR7b2qf1hTB3ocNKEkL3UQP91hwtYshI=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRj0OteUR7b2qf1hTB3ocNKEkL3UQP91hwtYshI=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRj0OteUR7b2qf1hTB3ocNKEkL3UQP91hwtYshI=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Everything Cowboy",
+                "description": "http://EverythingCowboy.com Rodeo and bull riding news in Canada and around the World!"
+            },
+            "country": "CA"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUELo5KuPEKHPaGUY-GxksOw"
+            }
+        },
+        "statistics": {
+            "viewCount": "2813893",
+            "subscriberCount": "2330",
+            "hiddenSubscriberCount": false,
+            "videoCount": "4859"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/019_rr",
+                "/m/06ntj"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                "https://en.wikipedia.org/wiki/Sport"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Everything Cowboy",
+                "description": "http://EverythingCowboy.com Rodeo and bull riding news in Canada and around the World!",
+                "keywords": "cowboy rodeo \"bull riding\" PBR \"professional bull riders\" \"pbr canada\" \"canadian pro rodeo\" \"canadian bull riding\" \"canadian bucking bulls\" \"pro rodeo canada\" \"bull riding in canada\" \"pbr canada results\" \"pbr canada video\" CPRA",
+                "trackingAnalyticsAccountId": "UA-20486861-1",
+                "country": "CA"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/BHFJvRMLZWPsOtkzAPfmqXPjORSYN8Mvg3v4CbBBZjO70YJgRMt1Pi1ypZ4XKTiQAmXsNcXYeA"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

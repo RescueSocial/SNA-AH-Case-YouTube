@@ -1,0 +1,64 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "9sax6XWvAo_gHxjChbHHkTN1UrA",
+        "id": "UCDkjjloUFt7KQjQmkyzKwjQ",
+        "snippet": {
+            "title": "zain yousaf",
+            "description": "",
+            "publishedAt": "2015-02-18T17:46:37Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSOE4Yj6p-3C9YCXhWAUkmYPkEeoZlV2T7kiw=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSOE4Yj6p-3C9YCXhWAUkmYPkEeoZlV2T7kiw=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSOE4Yj6p-3C9YCXhWAUkmYPkEeoZlV2T7kiw=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "zain yousaf",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUDkjjloUFt7KQjQmkyzKwjQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "84177",
+            "subscriberCount": "23",
+            "hiddenSubscriberCount": false,
+            "videoCount": "203"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "zain yousaf"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

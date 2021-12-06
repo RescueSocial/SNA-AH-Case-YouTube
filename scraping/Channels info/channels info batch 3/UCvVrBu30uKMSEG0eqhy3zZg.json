@@ -1,0 +1,74 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "66gS1RaQ-n-4y_OLvN02HNSvnQU",
+        "id": "UCvVrBu30uKMSEG0eqhy3zZg",
+        "snippet": {
+            "title": "ICEZUNG",
+            "description": "",
+            "publishedAt": "2010-05-15T12:28:35Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRvvHhQI7wigbcFBxnPueyNyvsGcViwLYUMBR9nVQ=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRvvHhQI7wigbcFBxnPueyNyvsGcViwLYUMBR9nVQ=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRvvHhQI7wigbcFBxnPueyNyvsGcViwLYUMBR9nVQ=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "ICEZUNG",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUvVrBu30uKMSEG0eqhy3zZg"
+            }
+        },
+        "statistics": {
+            "viewCount": "18788019",
+            "subscriberCount": "34300",
+            "hiddenSubscriberCount": false,
+            "videoCount": "125"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/028sqc",
+                "/m/064t9",
+                "/m/04rlf"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Music_of_Asia",
+                "https://en.wikipedia.org/wiki/Pop_music",
+                "https://en.wikipedia.org/wiki/Music"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "ICEZUNG",
+                "unsubscribedTrailer": "PG5QCo6JVcg"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/JQLGFJhrU9dBwpsoP00owfhzq3IXWQNnXSkg9VgM3W_35Ie8_1JGn6ozfdXwZkNtI7yzpRTn_p8"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

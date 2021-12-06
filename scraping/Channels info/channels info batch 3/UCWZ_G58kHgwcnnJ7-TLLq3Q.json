@@ -1,0 +1,74 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "6bYXsatyYBgzuHtUXdWpUfUfvWk",
+        "id": "UCWZ_G58kHgwcnnJ7-TLLq3Q",
+        "snippet": {
+            "title": "technical boss",
+            "description": "Hindi video",
+            "publishedAt": "2018-01-06T09:58:40Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTrnx0dOanh94PjIldnyOf1kTa9VD0JQOLCb5tm=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTrnx0dOanh94PjIldnyOf1kTa9VD0JQOLCb5tm=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTrnx0dOanh94PjIldnyOf1kTa9VD0JQOLCb5tm=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "technical boss",
+                "description": "Hindi video"
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUWZ_G58kHgwcnnJ7-TLLq3Q"
+            }
+        },
+        "statistics": {
+            "viewCount": "1130",
+            "subscriberCount": "22",
+            "hiddenSubscriberCount": false,
+            "videoCount": "26"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/028sqc",
+                "/m/04rlf",
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Music_of_Asia",
+                "https://en.wikipedia.org/wiki/Music",
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "technical boss",
+                "description": "Hindi video"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/e-iaOz2QYegzb_Ewx5dm1LFZaYKUTfjZYzuYi-kN-4hdpPWpindOptx60otRwFkq13jJOBLkPg"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

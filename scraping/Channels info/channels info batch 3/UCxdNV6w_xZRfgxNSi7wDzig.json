@@ -1,0 +1,57 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "5WPHLW6PSg1OwSoGQBUb_VsPKlQ",
+        "id": "UCxdNV6w_xZRfgxNSi7wDzig",
+        "snippet": {
+            "title": "Lamp Post",
+            "description": "I am a lamp post",
+            "publishedAt": "2020-06-24T01:25:51.139931Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSN_PaetTx5axGBRVnN9RmUKjaF15W3K_NfwWgp=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSN_PaetTx5axGBRVnN9RmUKjaF15W3K_NfwWgp=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSN_PaetTx5axGBRVnN9RmUKjaF15W3K_NfwWgp=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Lamp Post",
+                "description": "I am a lamp post"
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUxdNV6w_xZRfgxNSi7wDzig"
+            }
+        },
+        "statistics": {
+            "viewCount": "4595",
+            "subscriberCount": "34",
+            "hiddenSubscriberCount": false,
+            "videoCount": "53"
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Lamp Post",
+                "description": "I am a lamp post"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

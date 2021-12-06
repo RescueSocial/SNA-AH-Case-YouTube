@@ -1,0 +1,69 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "gfNuAvf1qviV92RANHsuJrR8vAs",
+        "id": "UCgSyNlKHg1JdQS1HRW7nIwg",
+        "snippet": {
+            "title": "poftqw91lm",
+            "description": "",
+            "publishedAt": "2007-11-04T14:15:29Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRX3qys57yrQPLghujnzK2mYJMHseQNYO3VoM9q=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRX3qys57yrQPLghujnzK2mYJMHseQNYO3VoM9q=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRX3qys57yrQPLghujnzK2mYJMHseQNYO3VoM9q=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "poftqw91lm",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUgSyNlKHg1JdQS1HRW7nIwg"
+            }
+        },
+        "statistics": {
+            "viewCount": "226077",
+            "subscriberCount": "1140",
+            "hiddenSubscriberCount": false,
+            "videoCount": "5946"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/04rlf",
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Music",
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "poftqw91lm"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

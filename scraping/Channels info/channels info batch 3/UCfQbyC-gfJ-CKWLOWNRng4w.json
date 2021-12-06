@@ -1,0 +1,68 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "A2zb71qrlpifM0wp6_5ApfEvCWU",
+        "id": "UCfQbyC-gfJ-CKWLOWNRng4w",
+        "snippet": {
+            "title": "Your Baby",
+            "description": "",
+            "publishedAt": "2021-05-01T02:35:02.961798Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/q7ayzWiT5bazTvZLomAyi0kRosPxFmD0EngPvLrkuyzdlaHi2qEivp8PIG7xfd7cm1tOFmWGhEI=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/q7ayzWiT5bazTvZLomAyi0kRosPxFmD0EngPvLrkuyzdlaHi2qEivp8PIG7xfd7cm1tOFmWGhEI=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/q7ayzWiT5bazTvZLomAyi0kRosPxFmD0EngPvLrkuyzdlaHi2qEivp8PIG7xfd7cm1tOFmWGhEI=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Your Baby",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUfQbyC-gfJ-CKWLOWNRng4w"
+            }
+        },
+        "statistics": {
+            "viewCount": "14401",
+            "hiddenSubscriberCount": true,
+            "videoCount": "72"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Your Baby"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/V9SnVdO_7XLHrWJQby2gbAGt9tZyHJgKkKgqIwPvefMhpXs6iBSMHqQBUjEmgIJTt_JiCH-o"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

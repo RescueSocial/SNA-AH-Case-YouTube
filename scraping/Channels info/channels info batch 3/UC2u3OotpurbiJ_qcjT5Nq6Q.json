@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "vIhX-g9JSqbiuswHO1eARYZgnY4",
+        "id": "UC2u3OotpurbiJ_qcjT5Nq6Q",
+        "snippet": {
+            "title": "DeFilmBlog",
+            "description": "Daily Dose of Movie Violence\nhttps://defilmblog.be/",
+            "customUrl": "defilmblogbe",
+            "publishedAt": "2011-09-27T08:08:59Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSwstj5lMKKRI-5V_E4VxZVhuPdNmGkoMxCL829Zg=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSwstj5lMKKRI-5V_E4VxZVhuPdNmGkoMxCL829Zg=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSwstj5lMKKRI-5V_E4VxZVhuPdNmGkoMxCL829Zg=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "DeFilmBlog",
+                "description": "Daily Dose of Movie Violence\nhttps://defilmblog.be/"
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU2u3OotpurbiJ_qcjT5Nq6Q"
+            }
+        },
+        "statistics": {
+            "viewCount": "18213390",
+            "subscriberCount": "11500",
+            "hiddenSubscriberCount": false,
+            "videoCount": "1646"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "DeFilmBlog",
+                "description": "Daily Dose of Movie Violence\nhttps://defilmblog.be/",
+                "keywords": "\"Movie Trailers\" \"Film Trailer\" 1080p \"Offical Trailers\" \"HD Trailers\""
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/M2PtfP8d0ejLj4Ts_kMHh0aqzFUW5W88Mo3P2yP1jAejDJ3kOct7jMRHcjo2hV7aN-zFQaIBvhg"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

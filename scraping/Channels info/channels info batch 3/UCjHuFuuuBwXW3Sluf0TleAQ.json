@@ -1,0 +1,66 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "q0pxjW_LVmNm6bKVjxUGzZJsask",
+        "id": "UCjHuFuuuBwXW3Sluf0TleAQ",
+        "snippet": {
+            "title": "Nukade Xwedas",
+            "description": "",
+            "publishedAt": "2015-07-29T18:56:56Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLS1RsTdD8yUm9e1rNNE6Askmrnw_HJCdACXEw=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLS1RsTdD8yUm9e1rNNE6Askmrnw_HJCdACXEw=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLS1RsTdD8yUm9e1rNNE6Askmrnw_HJCdACXEw=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Nukade Xwedas",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUjHuFuuuBwXW3Sluf0TleAQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "14628",
+            "subscriberCount": "23",
+            "hiddenSubscriberCount": false,
+            "videoCount": "97"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Nukade Xwedas"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "bVxa8xBVGPxGO2x5guTBRZtLkzk",
+        "id": "UCgRLwwBVIdyy0--DIeEakPQ",
+        "snippet": {
+            "title": "Horatio Gould",
+            "description": "",
+            "publishedAt": "2014-01-05T13:23:36Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSTiVeZMMIQFV1ivMdTLZYIyO0ZsJz-Is1m7OcRqw=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSTiVeZMMIQFV1ivMdTLZYIyO0ZsJz-Is1m7OcRqw=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSTiVeZMMIQFV1ivMdTLZYIyO0ZsJz-Is1m7OcRqw=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Horatio Gould",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUgRLwwBVIdyy0--DIeEakPQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "79270",
+            "subscriberCount": "1010",
+            "hiddenSubscriberCount": false,
+            "videoCount": "120"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/0f2f9",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Television_program",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Horatio Gould"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/LVvJv9Tmo1hNi9yvjheMSMfYPCBlnthtVGpqZDGHkOM8VjpniPqe96n1U8T9gwIw6ZhBaHM3zQ"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

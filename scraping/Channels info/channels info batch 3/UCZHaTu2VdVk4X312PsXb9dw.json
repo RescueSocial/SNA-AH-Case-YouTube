@@ -1,0 +1,76 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "gTFWTpV3UYurhRj3SoOXj00mvQk",
+        "id": "UCZHaTu2VdVk4X312PsXb9dw",
+        "snippet": {
+            "title": "Popcast Unleashed",
+            "description": "The Popcast Unleashed is where all our favorite clips from the live shows and different member events will be.",
+            "customUrl": "thepopcastlive",
+            "publishedAt": "2019-10-04T07:52:38Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRSuOVBE8wHV9r41Q4ah2eRJBijw4Zoc1v6c0segQ=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRSuOVBE8wHV9r41Q4ah2eRJBijw4Zoc1v6c0segQ=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRSuOVBE8wHV9r41Q4ah2eRJBijw4Zoc1v6c0segQ=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Popcast Unleashed",
+                "description": "The Popcast Unleashed is where all our favorite clips from the live shows and different member events will be."
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUZHaTu2VdVk4X312PsXb9dw"
+            }
+        },
+        "statistics": {
+            "viewCount": "70031",
+            "subscriberCount": "686",
+            "hiddenSubscriberCount": false,
+            "videoCount": "180"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02vxn",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Popcast Unleashed",
+                "description": "The Popcast Unleashed is where all our favorite clips from the live shows and different member events will be.",
+                "keywords": "\"The Popcast\" Stargate \"Star Trek\" \"The Orville\" Firefly Serenity \"Star Wars\" Documentary \"Popcast Live\" Brian Shane \"Popcast Unleashed\"",
+                "unsubscribedTrailer": "NdBfayOdCz8",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/QSrPMUnF9IIpWiReUNeGPyU3374ewLNuqUW_snmEfQiF-e74INRczUB8K62rK4ljxENGleYkPQ"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

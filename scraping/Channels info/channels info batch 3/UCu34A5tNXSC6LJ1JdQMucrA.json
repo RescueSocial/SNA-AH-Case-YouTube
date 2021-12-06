@@ -1,0 +1,59 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "Ds7vLHEsFP9I-mRXY18XD1UzHHE",
+        "id": "UCu34A5tNXSC6LJ1JdQMucrA",
+        "snippet": {
+            "title": "CD Entertainment",
+            "description": "A channel for game enthusiast.",
+            "publishedAt": "2020-05-25T11:56:22.843441Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTZtD0owsFRj5mKmAbzwyV_rW1tVH7daI8kiW7x=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTZtD0owsFRj5mKmAbzwyV_rW1tVH7daI8kiW7x=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTZtD0owsFRj5mKmAbzwyV_rW1tVH7daI8kiW7x=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "CD Entertainment",
+                "description": "A channel for game enthusiast."
+            },
+            "country": "AE"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUu34A5tNXSC6LJ1JdQMucrA"
+            }
+        },
+        "statistics": {
+            "viewCount": "994",
+            "subscriberCount": "0",
+            "hiddenSubscriberCount": false,
+            "videoCount": "1"
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "CD Entertainment",
+                "description": "A channel for game enthusiast.",
+                "country": "AE"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

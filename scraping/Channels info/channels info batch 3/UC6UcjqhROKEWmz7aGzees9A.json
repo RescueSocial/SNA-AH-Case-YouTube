@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "rJHDNvNkym8Jv-pJG4YEfoWA3TY",
+        "id": "UC6UcjqhROKEWmz7aGzees9A",
+        "snippet": {
+            "title": "WFMY News 2",
+            "description": "",
+            "customUrl": "wfmynews2",
+            "publishedAt": "2017-02-17T03:27:44Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRs5_JkjXDU6u4bSwKYZTJayEhTDkt8rhm0dWiBeA=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRs5_JkjXDU6u4bSwKYZTJayEhTDkt8rhm0dWiBeA=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRs5_JkjXDU6u4bSwKYZTJayEhTDkt8rhm0dWiBeA=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "WFMY News 2",
+                "description": ""
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU6UcjqhROKEWmz7aGzees9A"
+            }
+        },
+        "statistics": {
+            "viewCount": "17190761",
+            "subscriberCount": "26800",
+            "hiddenSubscriberCount": false,
+            "videoCount": "14611"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "WFMY News 2",
+                "keywords": "wfmy news YouTube \"wfmy news 2\" greensboro \"2 wants to know\"",
+                "unsubscribedTrailer": "Zu9APB5qDT8",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/YzFbbuk5wGmTpg1b_5LUhfdAwxiDVQL58zTHpTE-81hR2Y-D3_mNZ5pfP3taYy-LEMKsCgCbAw"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

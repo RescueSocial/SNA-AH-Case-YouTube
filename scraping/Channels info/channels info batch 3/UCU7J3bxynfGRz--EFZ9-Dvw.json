@@ -1,0 +1,76 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "YgoQZkQjboxRn6G9BUU1HAgUKSg",
+        "id": "UCU7J3bxynfGRz--EFZ9-Dvw",
+        "snippet": {
+            "title": "Rob Lipsett",
+            "description": "The official YouTube channel of Rob Lipsett",
+            "publishedAt": "2011-11-14T13:06:54Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQyMmHO1hlaskSX1ulV-WSvxIb0cAXYSdoWGF79Og=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQyMmHO1hlaskSX1ulV-WSvxIb0cAXYSdoWGF79Og=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQyMmHO1hlaskSX1ulV-WSvxIb0cAXYSdoWGF79Og=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Rob Lipsett",
+                "description": "The official YouTube channel of Rob Lipsett"
+            },
+            "country": "IE"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUU7J3bxynfGRz--EFZ9-Dvw"
+            }
+        },
+        "statistics": {
+            "viewCount": "57108031",
+            "subscriberCount": "467000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "500"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/027x7n",
+                "/m/019_rr",
+                "/m/0kt51"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Physical_fitness",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                "https://en.wikipedia.org/wiki/Health"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Rob Lipsett",
+                "description": "The official YouTube channel of Rob Lipsett",
+                "moderateComments": true,
+                "unsubscribedTrailer": "tSF3xI0l9Yc",
+                "country": "IE"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/mPmUfNGIB-c8aK3-huDYbozo17ScV2bxfV5MRa43Fv4-PDmCvl48ZlYLQufa33IJ6aiiO6r61A"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

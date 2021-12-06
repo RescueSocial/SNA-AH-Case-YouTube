@@ -1,0 +1,75 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "923-LJZ6HLPFHOuKqGcH0AduBeQ",
+        "id": "UC52Ou5u4yl7PiQzDaYIrICg",
+        "snippet": {
+            "title": "The Late Late Show",
+            "description": "The Late Late Show is Ireland's most popular and prestigious television show and is the longest running chat show in the world.",
+            "customUrl": "rtelatelateshow",
+            "publishedAt": "2014-09-02T10:06:06Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLStLLUPDKGeS0R0yhbDodwyBEiSf_sSHtEXTZv0gg=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLStLLUPDKGeS0R0yhbDodwyBEiSf_sSHtEXTZv0gg=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLStLLUPDKGeS0R0yhbDodwyBEiSf_sSHtEXTZv0gg=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "The Late Late Show",
+                "description": "The Late Late Show is Ireland's most popular and prestigious television show and is the longest running chat show in the world."
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU52Ou5u4yl7PiQzDaYIrICg"
+            }
+        },
+        "statistics": {
+            "viewCount": "192267533",
+            "subscriberCount": "218000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "2301"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/0f2f9",
+                "/m/04rlf",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Television_program",
+                "https://en.wikipedia.org/wiki/Music",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "The Late Late Show",
+                "description": "The Late Late Show is Ireland's most popular and prestigious television show and is the longest running chat show in the world.",
+                "unsubscribedTrailer": "oQVvJHII6o4"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/pqonaebJ92UXWOrlJxyqNllLULkPL-m9w2c1Dyt-HocZVcxLsNVTdYrirmIljzxTVS4Ip_6D-zE"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

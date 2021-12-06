@@ -1,0 +1,69 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "Kktcc6L-erMGhGJQTjjIOYU4gWE",
+        "id": "UC3LaiiebYqw1YA6i9EBahIw",
+        "snippet": {
+            "title": "M U S I C Colony",
+            "description": "Loves music as much as family",
+            "publishedAt": "2019-03-20T19:50:41Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSKiihouXxLFpmXuQ4pNELGn-zKGdon9WYI2I0h=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSKiihouXxLFpmXuQ4pNELGn-zKGdon9WYI2I0h=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSKiihouXxLFpmXuQ4pNELGn-zKGdon9WYI2I0h=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "M U S I C Colony",
+                "description": "Loves music as much as family"
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU3LaiiebYqw1YA6i9EBahIw"
+            }
+        },
+        "statistics": {
+            "viewCount": "35653",
+            "subscriberCount": "118",
+            "hiddenSubscriberCount": false,
+            "videoCount": "11"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/04rlf",
+                "/m/028sqc",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Music",
+                "https://en.wikipedia.org/wiki/Music_of_Asia",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "M U S I C Colony",
+                "description": "Loves music as much as family"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

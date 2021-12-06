@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "sM77wlIYgUIvuHwxSYIlfRHCMEM",
+        "id": "UCWTkpYvniGIUe1jeCncFzKw",
+        "snippet": {
+            "title": "KMBC 9",
+            "description": "Breaking news and weather from the team you trust at KMBC 9 News and KMBC.com in Kansas City",
+            "customUrl": "kmbc",
+            "publishedAt": "2007-05-03T18:37:39Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSZk6cU0O7nulr0EvfHwbIz9C0tUmOVqmX16FnxFW4=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSZk6cU0O7nulr0EvfHwbIz9C0tUmOVqmX16FnxFW4=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSZk6cU0O7nulr0EvfHwbIz9C0tUmOVqmX16FnxFW4=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "KMBC 9",
+                "description": "Breaking news and weather from the team you trust at KMBC 9 News and KMBC.com in Kansas City"
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUWTkpYvniGIUe1jeCncFzKw"
+            }
+        },
+        "statistics": {
+            "viewCount": "99410201",
+            "subscriberCount": "72600",
+            "hiddenSubscriberCount": false,
+            "videoCount": "40349"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "KMBC 9",
+                "description": "Breaking news and weather from the team you trust at KMBC 9 News and KMBC.com in Kansas City",
+                "keywords": "news KMBC \"KMBC 9 News\" \"Kansas City\" Independence \"Blue Springs\" \"Lee's Summit\" Missouri \"Overland Park\" Kansas",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/wl2V6TLUDuWndt4rpeq3LxFAGaVW-YqMVKx2l24OSIvAHzSskYU5rWOw2t04eUuxNA8xmulVqg"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]
