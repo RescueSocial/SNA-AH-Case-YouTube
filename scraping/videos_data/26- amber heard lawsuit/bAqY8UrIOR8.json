@@ -1,0 +1,81 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "dZ3GaGINBJcSzhGf52vrC4oD1o0",
+        "id": "bAqY8UrIOR8",
+        "snippet": {
+            "publishedAt": "2021-08-21T15:00:12Z",
+            "channelId": "UChs7lcuw4qOCxl3SJRPuidQ",
+            "title": "Johnny Depp Feels 'Gratified' After Judge Rules Libel Lawsuit Against Amber Heard Is Moving Forward",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/bAqY8UrIOR8/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/bAqY8UrIOR8/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/bAqY8UrIOR8/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/bAqY8UrIOR8/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/bAqY8UrIOR8/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "DT Media",
+            "tags": [
+                "DT Media",
+                "news",
+                "Johnny Depp",
+                "'Gratified'",
+                "Judge Rules Libel",
+                "Lawsuit Against",
+                "Amber Heard",
+                "Moving Forward"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Johnny Depp Feels 'Gratified' After Judge Rules Libel Lawsuit Against Amber Heard Is Moving Forward",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT6M17S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": false,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "46",
+            "likeCount": "1",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

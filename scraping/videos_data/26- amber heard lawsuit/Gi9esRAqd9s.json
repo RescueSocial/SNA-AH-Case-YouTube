@@ -1,0 +1,74 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "UTU_cZzKFSEeGAzViXPEoJrC0w0",
+        "id": "Gi9esRAqd9s",
+        "snippet": {
+            "publishedAt": "2021-11-20T00:06:41Z",
+            "channelId": "UCKQECjul8nw1KW_JzfBTP1A",
+            "title": "Woman awarded $44M in rape lawsuit",
+            "description": "The woman claimed Hilton Hotel staff failed to prevent the assault",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/Gi9esRAqd9s/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/Gi9esRAqd9s/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/Gi9esRAqd9s/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/Gi9esRAqd9s/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/Gi9esRAqd9s/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "KPRC 2 Click2Houston",
+            "tags": [
+                "video"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Woman awarded $44M in rape lawsuit",
+                "description": "The woman claimed Hilton Hotel staff failed to prevent the assault"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT45S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "5256",
+            "likeCount": "109",
+            "dislikeCount": "6",
+            "favoriteCount": "0",
+            "commentCount": "55"
+        }
+    }
+]

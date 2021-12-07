@@ -1,0 +1,78 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "RmVzywz4kRYissdNSmljkDn9KT4",
+        "id": "iYU0hXDRAkQ",
+        "snippet": {
+            "publishedAt": "2020-07-12T19:00:05Z",
+            "channelId": "UCdtXPiqI2cLorKaPrfpKc4g",
+            "title": "Johnny Depp's Tabloid Lawsuit: New Photos from the Courtroom Battle",
+            "description": "ET is breaking down everything you need to know about the ongoing court case surrounding Johnny Depp and Amber Heard, following their divorce in 2017.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/iYU0hXDRAkQ/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/iYU0hXDRAkQ/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/iYU0hXDRAkQ/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/iYU0hXDRAkQ/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/iYU0hXDRAkQ/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Entertainment Tonight",
+            "tags": [
+                "ET Broadcast",
+                "Johnny Depp",
+                "Amber Heard"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "Johnny Depp's Tabloid Lawsuit: New Photos from the Courtroom Battle",
+                "description": "ET is breaking down everything you need to know about the ongoing court case surrounding Johnny Depp and Amber Heard, following their divorce in 2017."
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT2M24S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "27335",
+            "likeCount": "215",
+            "dislikeCount": "350",
+            "favoriteCount": "0",
+            "commentCount": "224"
+        }
+    }
+]

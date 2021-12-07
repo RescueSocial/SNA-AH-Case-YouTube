@@ -1,0 +1,71 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "WptyxL2bq-O5q3IWro28De87my0",
+        "id": "2wNY4r3Dv70",
+        "snippet": {
+            "publishedAt": "2012-11-13T23:42:17Z",
+            "channelId": "UCVn9Eb36KAloqXZz4hnX2OQ",
+            "title": "VIDEOTAPED DEPOSITION",
+            "description": "MERCURIO'S LEGAL VIDEOGRAPHY\nhttp://www.rmlegalvideography.net",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/2wNY4r3Dv70/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/2wNY4r3Dv70/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/2wNY4r3Dv70/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/2wNY4r3Dv70/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Rocco Mercurio",
+            "tags": [
+                "Legal deposition",
+                "vlog",
+                "Video"
+            ],
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "VIDEOTAPED DEPOSITION",
+                "description": "MERCURIO'S LEGAL VIDEOGRAPHY\nhttp://www.rmlegalvideography.net"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT8M50S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "126",
+            "likeCount": "1",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

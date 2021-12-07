@@ -1,0 +1,77 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "nLCAob5lDtpluzj7wbRTVSr0Clw",
+        "id": "PMXm6xbKmAY",
+        "snippet": {
+            "publishedAt": "2019-10-04T14:41:08Z",
+            "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
+            "title": "Your Story: James Franco faces lawsuit over acting school",
+            "description": "Two women filed a civil lawsuit against Hollywood actor James Franco on Thursday (October 03), accusing of sexual exploitation at his film school. Watch this video to know more.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/PMXm6xbKmAY/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/PMXm6xbKmAY/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/PMXm6xbKmAY/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/PMXm6xbKmAY/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/PMXm6xbKmAY/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "WION",
+            "tags": [
+                "Your Story",
+                "James Franco",
+                "lawsuit over acting school",
+                "James Franco faces lawsuit"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Your Story: James Franco faces lawsuit over acting school",
+                "description": "Two women filed a civil lawsuit against Hollywood actor James Franco on Thursday (October 03), accusing of sexual exploitation at his film school. Watch this video to know more."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT5M6S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "449",
+            "likeCount": "8",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "1"
+        }
+    }
+]

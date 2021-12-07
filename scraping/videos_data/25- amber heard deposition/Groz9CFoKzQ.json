@@ -1,0 +1,64 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "4upFDPGsXIdsK5AnR24lsiTzJ7g",
+        "id": "Groz9CFoKzQ",
+        "snippet": {
+            "publishedAt": "2018-12-05T16:04:41Z",
+            "channelId": "UC0p5T_gZQ47e7nY9m2sacDQ",
+            "title": "Pat Woodall Legal Deposition and Testimony for Policy Frank Charpentier",
+            "description": "Pat Woodall Legal Deposition and Testimony for Policy Frank Charpentier",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/Groz9CFoKzQ/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/Groz9CFoKzQ/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/Groz9CFoKzQ/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Tim Dillard",
+            "tags": [
+                "Pat Woodall Legal Deposition and Testimony for Policy Frank Charpentier"
+            ],
+            "categoryId": "23",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Pat Woodall Legal Deposition and Testimony for Policy Frank Charpentier",
+                "description": "Pat Woodall Legal Deposition and Testimony for Policy Frank Charpentier"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT8M50S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "20",
+            "likeCount": "0",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

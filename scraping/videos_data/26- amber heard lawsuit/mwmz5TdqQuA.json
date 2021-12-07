@@ -1,0 +1,76 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "cDfF3d7OUxxjfSviA7lV0lnL8hA",
+        "id": "mwmz5TdqQuA",
+        "snippet": {
+            "publishedAt": "2015-09-30T22:20:50Z",
+            "channelId": "UCKdALw0BErtqmGI2AUtbbhg",
+            "title": "Opening statements heard in Badger Guns lawsuit",
+            "description": "The jury heard opening statements Wednesday in the lawsuit against an area gun dealer.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/mwmz5TdqQuA/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/mwmz5TdqQuA/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/mwmz5TdqQuA/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/mwmz5TdqQuA/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/mwmz5TdqQuA/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "TMJ4 News",
+            "tags": [
+                "WTMJ-TV",
+                "local news",
+                "5p"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Opening statements heard in Badger Guns lawsuit",
+                "description": "The jury heard opening statements Wednesday in the lawsuit against an area gun dealer."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT2M44S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "95",
+            "likeCount": "0",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]
