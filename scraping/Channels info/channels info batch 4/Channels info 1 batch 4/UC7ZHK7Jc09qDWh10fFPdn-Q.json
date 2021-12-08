@@ -1,0 +1,71 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "7ZmpitCcYvcRZfzcqQTZ-CheT04",
+        "id": "UC7ZHK7Jc09qDWh10fFPdn-Q",
+        "snippet": {
+            "title": "Your Live Event",
+            "description": "Live Community Events\nPresented by R&J Broadcasting and Halstad Telephone Company",
+            "customUrl": "yourliveevent",
+            "publishedAt": "2019-09-04T20:08:17Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/-B1qVEHIAow5IR3kuMzkLOvAejbNWIBvFK_CwRmU4mOpPcccvpuNJv1eV9RvCg2kUNBbWZaMRg=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/-B1qVEHIAow5IR3kuMzkLOvAejbNWIBvFK_CwRmU4mOpPcccvpuNJv1eV9RvCg2kUNBbWZaMRg=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/-B1qVEHIAow5IR3kuMzkLOvAejbNWIBvFK_CwRmU4mOpPcccvpuNJv1eV9RvCg2kUNBbWZaMRg=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Your Live Event",
+                "description": "Live Community Events\nPresented by R&J Broadcasting and Halstad Telephone Company"
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU7ZHK7Jc09qDWh10fFPdn-Q"
+            }
+        },
+        "statistics": {
+            "viewCount": "1168626",
+            "subscriberCount": "5600",
+            "hiddenSubscriberCount": false,
+            "videoCount": "1107"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/018w8",
+                "/m/06ntj"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Basketball",
+                "https://en.wikipedia.org/wiki/Sport"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Your Live Event",
+                "description": "Live Community Events\nPresented by R&J Broadcasting and Halstad Telephone Company",
+                "country": "US"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

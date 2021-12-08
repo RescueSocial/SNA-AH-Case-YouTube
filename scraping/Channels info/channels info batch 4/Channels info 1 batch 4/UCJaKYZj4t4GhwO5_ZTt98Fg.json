@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "Qw2I9hWSSnAZ_UilFKRqjDrEaIs",
+        "id": "UCJaKYZj4t4GhwO5_ZTt98Fg",
+        "snippet": {
+            "title": "MKB STATUS",
+            "description": "MKB STATUS",
+            "publishedAt": "2021-10-09T16:00:53.781574Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/Pmp7LiqTtcMDQ0WaEjbyrct_QKobvCchqiJBNrXp5TdNvmKeZuCuIPleVy9pedxLzLL4QfXuJA=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/Pmp7LiqTtcMDQ0WaEjbyrct_QKobvCchqiJBNrXp5TdNvmKeZuCuIPleVy9pedxLzLL4QfXuJA=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/Pmp7LiqTtcMDQ0WaEjbyrct_QKobvCchqiJBNrXp5TdNvmKeZuCuIPleVy9pedxLzLL4QfXuJA=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "MKB STATUS",
+                "description": "MKB STATUS"
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUJaKYZj4t4GhwO5_ZTt98Fg"
+            }
+        },
+        "statistics": {
+            "viewCount": "2780",
+            "subscriberCount": "16",
+            "hiddenSubscriberCount": false,
+            "videoCount": "128"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/04rlf"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Music"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "MKB STATUS",
+                "description": "MKB STATUS"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/XKWYAT7HHNz6CB39BIQzJcDplkLBlCxAZKcYojn_Qs0efAiJU9QcD8L8LPkYMBJ3jf9wRm3sFA"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

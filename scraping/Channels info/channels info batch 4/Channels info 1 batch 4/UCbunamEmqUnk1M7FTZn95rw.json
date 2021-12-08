@@ -1,0 +1,66 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "o1SRZGXGYM-U0FIZ02HctO4Hs6c",
+        "id": "UCbunamEmqUnk1M7FTZn95rw",
+        "snippet": {
+            "title": "POTFS views and opinions",
+            "description": "",
+            "publishedAt": "2018-08-15T18:34:36Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLR38M2Dc-u6lRqQ93qKocJct7Ck8sNoqEtQ6G0MgA=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLR38M2Dc-u6lRqQ93qKocJct7Ck8sNoqEtQ6G0MgA=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLR38M2Dc-u6lRqQ93qKocJct7Ck8sNoqEtQ6G0MgA=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "POTFS views and opinions",
+                "description": ""
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUbunamEmqUnk1M7FTZn95rw"
+            }
+        },
+        "statistics": {
+            "viewCount": "189918",
+            "hiddenSubscriberCount": true,
+            "videoCount": "2549"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "POTFS views and opinions",
+                "country": "US"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

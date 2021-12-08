@@ -1,0 +1,78 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "E93tJwMNk0rUcYyraIG3__h0VbA",
+        "id": "UCoBSi6AOGXWb_NBIGNHP9Qw",
+        "snippet": {
+            "title": "Paramount Network",
+            "description": "Introducing Paramount Network. Inspired by the big screen, available on every screen.",
+            "customUrl": "paramountnetwork",
+            "publishedAt": "2017-02-09T04:02:16Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRG-MWKe4CTWYlAFy7x-tsMdUfbBkyRCr7LETcX9w=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRG-MWKe4CTWYlAFy7x-tsMdUfbBkyRCr7LETcX9w=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRG-MWKe4CTWYlAFy7x-tsMdUfbBkyRCr7LETcX9w=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Paramount Network",
+                "description": "Introducing Paramount Network. Inspired by the big screen, available on every screen."
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUoBSi6AOGXWb_NBIGNHP9Qw"
+            }
+        },
+        "statistics": {
+            "viewCount": "321431059",
+            "subscriberCount": "821000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "834"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn",
+                "/m/0f2f9"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Television_program"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Paramount Network",
+                "description": "Introducing Paramount Network. Inspired by the big screen, available on every screen.",
+                "keywords": "\"Paramount Network\" Entertainment \"Ink Master\" Yellowstone \"Bar Rescue\" \"Bellator MMA\" \"Ink Angels\" \"Rest In Power\" \"First Wives Club\" \"I Am Paul Walker\" WACO",
+                "unsubscribedTrailer": "LLQNiiZgz9A",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/HjZva1yO3aW7aW4cxRBOgGrEhOLlGMKyIdqTREh5QzCBSKUCJ39MmCFJkmPT9bJacDvq95_rBg"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

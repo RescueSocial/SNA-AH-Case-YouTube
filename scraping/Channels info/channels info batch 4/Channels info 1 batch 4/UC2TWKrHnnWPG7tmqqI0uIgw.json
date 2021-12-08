@@ -1,0 +1,68 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "fdf60hSB1kO7E_CprrQ7HVxs6_Q",
+        "id": "UC2TWKrHnnWPG7tmqqI0uIgw",
+        "snippet": {
+            "title": "Aditya Status",
+            "description": "",
+            "publishedAt": "2021-06-09T03:39:39.506907Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTvff1f11QzZN63gOnvikX49jblq_g0tj3AnyJ5jXx6WCQwtVZKYgU0QXWxr4V2=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTvff1f11QzZN63gOnvikX49jblq_g0tj3AnyJ5jXx6WCQwtVZKYgU0QXWxr4V2=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTvff1f11QzZN63gOnvikX49jblq_g0tj3AnyJ5jXx6WCQwtVZKYgU0QXWxr4V2=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Aditya Status",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU2TWKrHnnWPG7tmqqI0uIgw"
+            }
+        },
+        "statistics": {
+            "viewCount": "19467",
+            "subscriberCount": "47",
+            "hiddenSubscriberCount": false,
+            "videoCount": "64"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/04rlf",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Music",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Aditya Status"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

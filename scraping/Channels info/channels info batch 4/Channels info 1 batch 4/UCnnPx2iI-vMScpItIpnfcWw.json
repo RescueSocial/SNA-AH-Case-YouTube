@@ -1,0 +1,72 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "5JQ0Ml15Y-42b85FAxfziuHdqj8",
+        "id": "UCnnPx2iI-vMScpItIpnfcWw",
+        "snippet": {
+            "title": "Daily Express 24h",
+            "description": "",
+            "publishedAt": "2016-10-28T04:37:19Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRPDwAYtFDXbiVp95o-P6Mo9nQtXhxc8BfY5KNz=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRPDwAYtFDXbiVp95o-P6Mo9nQtXhxc8BfY5KNz=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRPDwAYtFDXbiVp95o-P6Mo9nQtXhxc8BfY5KNz=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Daily Express 24h",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUnnPx2iI-vMScpItIpnfcWw"
+            }
+        },
+        "statistics": {
+            "viewCount": "1222513",
+            "subscriberCount": "2850",
+            "hiddenSubscriberCount": false,
+            "videoCount": "10499"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr",
+                "/m/06ntj",
+                "/m/02vx4",
+                "/m/02jjt",
+                "/m/0f2f9"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society",
+                "https://en.wikipedia.org/wiki/Sport",
+                "https://en.wikipedia.org/wiki/Association_football",
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Television_program"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Daily Express 24h"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

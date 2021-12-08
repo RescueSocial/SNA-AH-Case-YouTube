@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "8iM732ly8ALeOy8NSWCL1Z4cm1Y",
+        "id": "UCjBfwGuCA9VyUQYqndqFFpQ",
+        "snippet": {
+            "title": "Show Stoppers",
+            "description": "My channel has all the latest news and updates on Netflix TV Shows and Movies! \n\nThank you for watching and supporting my channel\n\n",
+            "publishedAt": "2009-09-26T07:43:01Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTkZ-pCeAOcWiw9dCYtN86e4QQ7UDBX8V25eNex=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTkZ-pCeAOcWiw9dCYtN86e4QQ7UDBX8V25eNex=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTkZ-pCeAOcWiw9dCYtN86e4QQ7UDBX8V25eNex=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Show Stoppers",
+                "description": "My channel has all the latest news and updates on Netflix TV Shows and Movies! \n\nThank you for watching and supporting my channel\n\n"
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUjBfwGuCA9VyUQYqndqFFpQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "522156",
+            "subscriberCount": "5960",
+            "hiddenSubscriberCount": false,
+            "videoCount": "30"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02vxn",
+                "/m/02jjt",
+                "/m/0f2f9"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Television_program"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Show Stoppers",
+                "description": "My channel has all the latest news and updates on Netflix TV Shows and Movies! \n\nThank you for watching and supporting my channel\n\n"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/Hfvq9JftP2hT3HuAR9nHIt65lMvORgb0ND3CfxPpLl6czrSR0qnis5NBQe5x52AFMHyfm5DQyQ"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

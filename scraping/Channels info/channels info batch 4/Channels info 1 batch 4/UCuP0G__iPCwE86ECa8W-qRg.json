@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "Qns8k-cXpdt0C7Gmrm4DTQtZ-i0",
+        "id": "UCuP0G__iPCwE86ECa8W-qRg",
+        "snippet": {
+            "title": "WIBBITZ",
+            "description": "Launch daily news from WIBBITZ!!",
+            "publishedAt": "2017-01-19T06:12:53Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTaI63zTDgAfg7DsdqKOk0cmSPdrfBoNjNmgT5z=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTaI63zTDgAfg7DsdqKOk0cmSPdrfBoNjNmgT5z=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTaI63zTDgAfg7DsdqKOk0cmSPdrfBoNjNmgT5z=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "WIBBITZ",
+                "description": "Launch daily news from WIBBITZ!!"
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUuP0G__iPCwE86ECa8W-qRg"
+            }
+        },
+        "statistics": {
+            "viewCount": "58233",
+            "subscriberCount": "77",
+            "hiddenSubscriberCount": false,
+            "videoCount": "758"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr",
+                "/m/05qt0"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society",
+                "https://en.wikipedia.org/wiki/Politics"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "WIBBITZ",
+                "description": "Launch daily news from WIBBITZ!!"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/YNTzOEbRGGIN5F-NHzd5pWzIJpaa-Djt0s5WY567Bedk40ngV52hAw3KRFKm4YHlgwJ0p8Wl8QI"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

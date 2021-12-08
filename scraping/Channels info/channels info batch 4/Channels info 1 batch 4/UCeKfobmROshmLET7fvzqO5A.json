@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "6HS_bCqXFK379P8rMuB4-iebbAM",
+        "id": "UCeKfobmROshmLET7fvzqO5A",
+        "snippet": {
+            "title": "\u0416\u0443\u0440\u043d\u0430\u043b \u0421\u043f\u043b\u0435\u0442\u043d\u0438\u0446\u0430",
+            "description": "\u0416\u0443\u0440\u043d\u0430\u043b \u0421\u043f\u043b\u0435\u0442\u043d\u0438\u0446\u0430 - \u043a\u0430\u043d\u0430\u043b \u043e \u043d\u043e\u0432\u043e\u0441\u0442\u044f\u0445 \u0432 \u0448\u043e\u0443 \u0431\u0438\u0437\u043d\u0435\u0441\u0435\n",
+            "publishedAt": "2018-12-18T10:05:38Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/tLLBhUEhIAyw2zi9_-2jbj93i8OP2E2Smp44WFlFx78q6HScA15ZkOngS85y4rP_Yguhx37S=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/tLLBhUEhIAyw2zi9_-2jbj93i8OP2E2Smp44WFlFx78q6HScA15ZkOngS85y4rP_Yguhx37S=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/tLLBhUEhIAyw2zi9_-2jbj93i8OP2E2Smp44WFlFx78q6HScA15ZkOngS85y4rP_Yguhx37S=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "\u0416\u0443\u0440\u043d\u0430\u043b \u0421\u043f\u043b\u0435\u0442\u043d\u0438\u0446\u0430",
+                "description": "\u0416\u0443\u0440\u043d\u0430\u043b \u0421\u043f\u043b\u0435\u0442\u043d\u0438\u0446\u0430 - \u043a\u0430\u043d\u0430\u043b \u043e \u043d\u043e\u0432\u043e\u0441\u0442\u044f\u0445 \u0432 \u0448\u043e\u0443 \u0431\u0438\u0437\u043d\u0435\u0441\u0435\n"
+            },
+            "country": "RU"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUeKfobmROshmLET7fvzqO5A"
+            }
+        },
+        "statistics": {
+            "viewCount": "55306",
+            "hiddenSubscriberCount": true,
+            "videoCount": "169"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "\u0416\u0443\u0440\u043d\u0430\u043b \u0421\u043f\u043b\u0435\u0442\u043d\u0438\u0446\u0430",
+                "description": "\u0416\u0443\u0440\u043d\u0430\u043b \u0421\u043f\u043b\u0435\u0442\u043d\u0438\u0446\u0430 - \u043a\u0430\u043d\u0430\u043b \u043e \u043d\u043e\u0432\u043e\u0441\u0442\u044f\u0445 \u0432 \u0448\u043e\u0443 \u0431\u0438\u0437\u043d\u0435\u0441\u0435\n",
+                "keywords": "\"SIMS 4 \u0412\u041e\u041f\u0420\u041e\u0421\u042b \u0418 \u041e\u0422\u0412\u0415\u0422\u042b\" \"SIMS 4\" \"\u0421\u0418\u041c\u0421 4\"",
+                "country": "RU"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/vnPmrLRlKGbVONpzfNMBKX8X6AweujcWbzT_V7ussho6i4YuA_NMVz4_F3D3fPgeKtRM3vX-"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

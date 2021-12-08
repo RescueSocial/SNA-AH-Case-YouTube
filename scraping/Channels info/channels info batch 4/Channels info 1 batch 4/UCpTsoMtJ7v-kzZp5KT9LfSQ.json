@@ -1,0 +1,56 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "9-2ReOFWlB76265DB-j1ErYRRC4",
+        "id": "UCpTsoMtJ7v-kzZp5KT9LfSQ",
+        "snippet": {
+            "title": "Shin Chan",
+            "description": "",
+            "publishedAt": "2021-05-02T16:58:02.511168Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/lu_DlvHcXLbFhBEib2uHnyVwpNxqczhLBMV3xIRjiBRsKevm_mT1paUFXqYcmQZAn4CVD4glwg=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/lu_DlvHcXLbFhBEib2uHnyVwpNxqczhLBMV3xIRjiBRsKevm_mT1paUFXqYcmQZAn4CVD4glwg=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/lu_DlvHcXLbFhBEib2uHnyVwpNxqczhLBMV3xIRjiBRsKevm_mT1paUFXqYcmQZAn4CVD4glwg=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Shin Chan",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUpTsoMtJ7v-kzZp5KT9LfSQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "41",
+            "subscriberCount": "0",
+            "hiddenSubscriberCount": false,
+            "videoCount": "1"
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Shin Chan"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

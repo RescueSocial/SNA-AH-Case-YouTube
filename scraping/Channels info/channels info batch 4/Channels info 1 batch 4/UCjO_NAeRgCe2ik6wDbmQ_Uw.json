@@ -1,0 +1,68 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "1PVaD4Qq47Rk8LD2bmOEpft7mD0",
+        "id": "UCjO_NAeRgCe2ik6wDbmQ_Uw",
+        "snippet": {
+            "title": "#1 Q Squad",
+            "description": "",
+            "publishedAt": "2019-10-04T04:45:52Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTZF3F2C1DJHqiaYCRT6ZqbKGHJ8l13RP97yZ8=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTZF3F2C1DJHqiaYCRT6ZqbKGHJ8l13RP97yZ8=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTZF3F2C1DJHqiaYCRT6ZqbKGHJ8l13RP97yZ8=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "#1 Q Squad",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUjO_NAeRgCe2ik6wDbmQ_Uw"
+            }
+        },
+        "statistics": {
+            "viewCount": "172364",
+            "hiddenSubscriberCount": true,
+            "videoCount": "118"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/019_rr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "#1 Q Squad",
+                "moderateComments": true
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/kWrntINTYMEYNNJKxXuoCBjjWkgrUXGo6-SBmt1m5z42y1YxLWW3eIHDP31QGF6RwQ3WKyZjrZ4"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

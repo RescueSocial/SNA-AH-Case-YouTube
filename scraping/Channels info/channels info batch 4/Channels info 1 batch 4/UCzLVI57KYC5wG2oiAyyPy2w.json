@@ -1,0 +1,71 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "6jTUM1aRtdC9O9O4-GIjToj81Y4",
+        "id": "UCzLVI57KYC5wG2oiAyyPy2w",
+        "snippet": {
+            "title": "AllAbout - News",
+            "description": "",
+            "publishedAt": "2020-01-24T20:33:06.57377Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLR8iUshOcNdppvGEMCnlhvSby-f82ATmN320JU6=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLR8iUshOcNdppvGEMCnlhvSby-f82ATmN320JU6=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLR8iUshOcNdppvGEMCnlhvSby-f82ATmN320JU6=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "AllAbout - News",
+                "description": ""
+            },
+            "country": "RU"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUzLVI57KYC5wG2oiAyyPy2w"
+            }
+        },
+        "statistics": {
+            "viewCount": "2327728",
+            "subscriberCount": "4380",
+            "hiddenSubscriberCount": false,
+            "videoCount": "3131"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "AllAbout - News",
+                "keywords": "news \"us news\" \"top stories\" politics sport",
+                "country": "RU"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/8_riD0Wv4h4ZGCS2Jdt5rS6-5Tiu4N7m6MNO1CdLUEjNUoi91CTYeLMcV5JxE85HrTNEQMNOaw"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

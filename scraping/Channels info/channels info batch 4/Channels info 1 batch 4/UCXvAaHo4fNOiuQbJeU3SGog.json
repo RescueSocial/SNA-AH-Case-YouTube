@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "l4Jl1XZGqNj_yXINsZ0xCYDZGIw",
+        "id": "UCXvAaHo4fNOiuQbJeU3SGog",
+        "snippet": {
+            "title": "STI LOn",
+            "description": "",
+            "publishedAt": "2015-05-02T18:44:18Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQFv6ACWkeBw4AExkiQTAVe4x1LaNfjoLiiiUAVyg=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQFv6ACWkeBw4AExkiQTAVe4x1LaNfjoLiiiUAVyg=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQFv6ACWkeBw4AExkiQTAVe4x1LaNfjoLiiiUAVyg=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "STI LOn",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUXvAaHo4fNOiuQbJeU3SGog"
+            }
+        },
+        "statistics": {
+            "viewCount": "2026965",
+            "subscriberCount": "3610",
+            "hiddenSubscriberCount": false,
+            "videoCount": "11510"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "STI LOn"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/TnlOX1J8aub3IUNXXWHCzsyoNhdvjMhIqCzmSTW36MBVcgy3PWXF8CszMqhPLBEtcmwO3CSGf6U"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

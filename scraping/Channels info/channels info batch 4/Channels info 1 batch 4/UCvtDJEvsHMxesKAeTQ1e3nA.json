@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "Mw99zJtX0cuuSz4FzNLZJZnMgEk",
+        "id": "UCvtDJEvsHMxesKAeTQ1e3nA",
+        "snippet": {
+            "title": "DEDITS",
+            "description": "Edit Everything I loved\n",
+            "publishedAt": "2021-07-19T16:24:41.888926Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/DXAah_OfF1Zo_KPX_082hlz2HLBA3qpW42aEb38mKfSoR7On2aRx3zxjJXfx2GdGlgb-RP5-=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/DXAah_OfF1Zo_KPX_082hlz2HLBA3qpW42aEb38mKfSoR7On2aRx3zxjJXfx2GdGlgb-RP5-=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/DXAah_OfF1Zo_KPX_082hlz2HLBA3qpW42aEb38mKfSoR7On2aRx3zxjJXfx2GdGlgb-RP5-=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "DEDITS",
+                "description": "Edit Everything I loved\n"
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUvtDJEvsHMxesKAeTQ1e3nA"
+            }
+        },
+        "statistics": {
+            "viewCount": "19530",
+            "subscriberCount": "46",
+            "hiddenSubscriberCount": false,
+            "videoCount": "27"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/04rlf",
+                "/m/02vxn",
+                "/m/02jjt",
+                "/m/028sqc",
+                "/m/064t9"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Music",
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Music_of_Asia",
+                "https://en.wikipedia.org/wiki/Pop_music"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "DEDITS",
+                "description": "Edit Everything I loved\n"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

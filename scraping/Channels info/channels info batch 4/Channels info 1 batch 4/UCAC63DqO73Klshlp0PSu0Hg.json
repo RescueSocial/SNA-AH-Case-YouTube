@@ -1,0 +1,79 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "gV_jvxo3oaO0bYbgOlvwYopkoTs",
+        "id": "UCAC63DqO73Klshlp0PSu0Hg",
+        "snippet": {
+            "title": "NextGen",
+            "description": "NextGen is a channel dedicated to bringing you the best content that you want to click on",
+            "customUrl": "nextgenyt",
+            "publishedAt": "2013-08-16T01:02:36Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLR5JrN4_uLIVpuapGFCplkQrf6EcrQ6afjxXwrdTA=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLR5JrN4_uLIVpuapGFCplkQrf6EcrQ6afjxXwrdTA=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLR5JrN4_uLIVpuapGFCplkQrf6EcrQ6afjxXwrdTA=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "NextGen",
+                "description": "NextGen is a channel dedicated to bringing you the best content that you want to click on"
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUAC63DqO73Klshlp0PSu0Hg"
+            }
+        },
+        "statistics": {
+            "viewCount": "12227870",
+            "subscriberCount": "52700",
+            "hiddenSubscriberCount": false,
+            "videoCount": "240"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr",
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society",
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "NextGen",
+                "description": "NextGen is a channel dedicated to bringing you the best content that you want to click on",
+                "keywords": "celebrities \"celebrity news\" \"celebrity drama\" disney \"disney fan videos\" descendants NextGen \"Next Generation\" \"NextGen Celebrity\" \"NextGen News\" \"Next Gen\" \"NextGen Official\"",
+                "moderateComments": true,
+                "unsubscribedTrailer": "hyYHlGl0uMA",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/Ko86AapI9TVBaY4Wu_4STmutSQsW39UQs2TgML36IZBA7QiIz7aO6l0aK-5ht01s34uc5H8qj7Q"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

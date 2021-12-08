@@ -1,0 +1,72 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "hem5LtHaYJzQVRzL5yIF9mbZuTY",
+        "id": "UCDG0mJ_zkrODDT-4VTEV6TQ",
+        "snippet": {
+            "title": "WOOD TV8",
+            "description": "WOOD TV8\r\nWest Michigan's News Leader",
+            "customUrl": "woodtv",
+            "publishedAt": "2006-11-17T20:10:55Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/A7uZMUZgnRACdUsJBjeWtSMgVk3OAbrwKDBswqrEYFGqOUSjgnC6xti3n0t0rEX_W4MloODD=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/A7uZMUZgnRACdUsJBjeWtSMgVk3OAbrwKDBswqrEYFGqOUSjgnC6xti3n0t0rEX_W4MloODD=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/A7uZMUZgnRACdUsJBjeWtSMgVk3OAbrwKDBswqrEYFGqOUSjgnC6xti3n0t0rEX_W4MloODD=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "WOOD TV8",
+                "description": "WOOD TV8\r\nWest Michigan's News Leader"
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUDG0mJ_zkrODDT-4VTEV6TQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "163012942",
+            "subscriberCount": "142000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "71156"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "WOOD TV8",
+                "description": "WOOD TV8\r\nWest Michigan's News Leader",
+                "keywords": "wood tv grand rapids michigan \"West Michigan\" \"Grand Rapids\" WOODTV News8 Muskegon Holland \"Battle Creek\" Kalamazoo Nexstar",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/uR2IsQnXuXqF2CrgOR1ozrnrIYx9feoEmmcBkI_sxhbzwls7EuS7qqcwX8TpUsNycDDvd1XJQQ"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

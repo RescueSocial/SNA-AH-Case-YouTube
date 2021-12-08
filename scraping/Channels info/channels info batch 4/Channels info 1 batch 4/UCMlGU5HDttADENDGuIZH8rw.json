@@ -1,0 +1,69 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "ZzjwZjHatzkXswnfM0EsQE_YpG4",
+        "id": "UCMlGU5HDttADENDGuIZH8rw",
+        "snippet": {
+            "title": "Jaime L\u00f3pez",
+            "description": "",
+            "publishedAt": "2012-01-10T03:45:54Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTQDg_KCJ2FxTWO4f3lXGveQ-o16jgH5rqGQV2WLA=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTQDg_KCJ2FxTWO4f3lXGveQ-o16jgH5rqGQV2WLA=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTQDg_KCJ2FxTWO4f3lXGveQ-o16jgH5rqGQV2WLA=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Jaime L\u00f3pez",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUMlGU5HDttADENDGuIZH8rw"
+            }
+        },
+        "statistics": {
+            "viewCount": "698",
+            "subscriberCount": "6",
+            "hiddenSubscriberCount": false,
+            "videoCount": "6"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Jaime L\u00f3pez"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/QL-0vXebiNNtT5FNjjfcRyuA8OJXvUhDSJE-gtp3WKtrBmDkZ43-sABNAfY_e2IfdaW6krSy2A"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "QvgmwQuA8qz2r5dekNmosjr9nwE",
+        "id": "UCKdALw0BErtqmGI2AUtbbhg",
+        "snippet": {
+            "title": "TMJ4 News",
+            "description": "TMJ4 News is the station Milwaukee viewers turn to for breaking news, severe weather, big investigations and, of course, the Green Bay Packers.",
+            "customUrl": "tmj4",
+            "publishedAt": "2011-04-11T21:58:29Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSjc1F8E-f_vKi9gPqU_Tpp42vkj6LFQ6-m-xJ56w=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSjc1F8E-f_vKi9gPqU_Tpp42vkj6LFQ6-m-xJ56w=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSjc1F8E-f_vKi9gPqU_Tpp42vkj6LFQ6-m-xJ56w=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "TMJ4 News",
+                "description": "TMJ4 News is the station Milwaukee viewers turn to for breaking news, severe weather, big investigations and, of course, the Green Bay Packers."
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUKdALw0BErtqmGI2AUtbbhg"
+            }
+        },
+        "statistics": {
+            "viewCount": "181539713",
+            "subscriberCount": "185000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "89853"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "TMJ4 News",
+                "description": "TMJ4 News is the station Milwaukee viewers turn to for breaking news, severe weather, big investigations and, of course, the Green Bay Packers.",
+                "keywords": "\"Milwaukee's Local News Source\" \"Breaking News\" Weather Sports Alerts NewsBurst",
+                "trackingAnalyticsAccountId": "UA-19051957-3",
+                "unsubscribedTrailer": "AIpjuvugCgA"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/aKZ4BZ0on9XxWpHXrV4LaQBTxyw8l1yLP8IBZEx5Ox9-acZDWTxrUZZkpwvaKW6RxR2B1Jzeqg"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

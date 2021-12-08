@@ -1,0 +1,69 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "_OE9qOghB6FajPd5mvAE3D4t06g",
+        "id": "UC7OKi1HX4_pt5QIzdmbxAEA",
+        "snippet": {
+            "title": "Celeb Path",
+            "description": "",
+            "publishedAt": "2021-05-11T21:57:34.23137Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/w4iPTaYxbScx4hl60WV8WPmcbtsD8k_gVow79BKV0I8xxXNjzqJ34muBnZs8MbPDgzT-Jb1oJ0E=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/w4iPTaYxbScx4hl60WV8WPmcbtsD8k_gVow79BKV0I8xxXNjzqJ34muBnZs8MbPDgzT-Jb1oJ0E=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/w4iPTaYxbScx4hl60WV8WPmcbtsD8k_gVow79BKV0I8xxXNjzqJ34muBnZs8MbPDgzT-Jb1oJ0E=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Celeb Path",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU7OKi1HX4_pt5QIzdmbxAEA"
+            }
+        },
+        "statistics": {
+            "viewCount": "2664",
+            "subscriberCount": "11",
+            "hiddenSubscriberCount": false,
+            "videoCount": "27"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/019_rr",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Celeb Path"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/p-sIRpqfnvak96Vi903QM0ASDgVNwcuon5qz4b77_OhNmVkjEjUV76-sPOIk4sJeKOO3fFyU"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

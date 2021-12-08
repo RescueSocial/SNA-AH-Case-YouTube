@@ -1,0 +1,72 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "CDlEH_cZrB05eXxvJImhni7KE6I",
+        "id": "UCO47VQMeW5cuU5gEJm8LCLA",
+        "snippet": {
+            "title": "Cinentificate cine",
+            "description": "Canal Dedicado a Cine, Series y mucho m\u00e1s.",
+            "publishedAt": "2017-10-02T05:28:46Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSCGEaabt76yM5TChBRzJRBfhiaB6tAlFJXdTQ2dw=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSCGEaabt76yM5TChBRzJRBfhiaB6tAlFJXdTQ2dw=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSCGEaabt76yM5TChBRzJRBfhiaB6tAlFJXdTQ2dw=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Cinentificate cine",
+                "description": "Canal Dedicado a Cine, Series y mucho m\u00e1s."
+            },
+            "country": "MX"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUO47VQMeW5cuU5gEJm8LCLA"
+            }
+        },
+        "statistics": {
+            "viewCount": "41873",
+            "subscriberCount": "918",
+            "hiddenSubscriberCount": false,
+            "videoCount": "19"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Cinentificate cine",
+                "description": "Canal Dedicado a Cine, Series y mucho m\u00e1s.",
+                "country": "MX"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/hhvJMANbBbyGT5kzKnPk4lNUoO6xQx7dvsoByNmQwEvBjyYrqi5ALZ5vL9pL_yGY-DDeXFJ_PA"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

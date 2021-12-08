@@ -1,0 +1,66 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "N77I3uq96jvfHxK12-rQJYWiLcs",
+        "id": "UCyxGlv0wIT3J0rY05_NnPYw",
+        "snippet": {
+            "title": "abod madridsta",
+            "description": "",
+            "publishedAt": "2015-06-14T23:09:12Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSGU6Ce5GJ_ax9U0Di3KGvsNl3U8YjI1Bjh4cWPuw=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSGU6Ce5GJ_ax9U0Di3KGvsNl3U8YjI1Bjh4cWPuw=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSGU6Ce5GJ_ax9U0Di3KGvsNl3U8YjI1Bjh4cWPuw=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "abod madridsta",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUyxGlv0wIT3J0rY05_NnPYw"
+            }
+        },
+        "statistics": {
+            "viewCount": "482153",
+            "subscriberCount": "565",
+            "hiddenSubscriberCount": false,
+            "videoCount": "4"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02vxn",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "abod madridsta"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

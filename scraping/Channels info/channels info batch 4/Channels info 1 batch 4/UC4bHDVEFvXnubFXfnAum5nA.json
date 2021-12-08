@@ -1,0 +1,67 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "egGVOYGmTlmN9TIOT6P0idJtQa8",
+        "id": "UC4bHDVEFvXnubFXfnAum5nA",
+        "snippet": {
+            "title": "Sovereign Shepard",
+            "description": "Life changing ministry!",
+            "publishedAt": "2017-05-19T17:49:31Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQOj0zDqMzCAmIkX0yX8xv8DAws1a7UA4QSBlLI=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQOj0zDqMzCAmIkX0yX8xv8DAws1a7UA4QSBlLI=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQOj0zDqMzCAmIkX0yX8xv8DAws1a7UA4QSBlLI=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Sovereign Shepard",
+                "description": "Life changing ministry!"
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU4bHDVEFvXnubFXfnAum5nA"
+            }
+        },
+        "statistics": {
+            "viewCount": "14464",
+            "subscriberCount": "203",
+            "hiddenSubscriberCount": false,
+            "videoCount": "364"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr",
+                "/m/06bvp"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society",
+                "https://en.wikipedia.org/wiki/Religion"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Sovereign Shepard",
+                "description": "Life changing ministry!"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

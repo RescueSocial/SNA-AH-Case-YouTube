@@ -1,0 +1,66 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "37aIezxtwk5I3xbv8_r3NxYJSj4",
+        "id": "UCFpywj9V3gjKyFmhjljFW4w",
+        "snippet": {
+            "title": "Viral Videos",
+            "description": "",
+            "publishedAt": "2016-10-19T15:11:13Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTQvXOOwjXOCmE6v8UXXxWPUfBHW5v-shWuAIe2=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTQvXOOwjXOCmE6v8UXXxWPUfBHW5v-shWuAIe2=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTQvXOOwjXOCmE6v8UXXxWPUfBHW5v-shWuAIe2=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Viral Videos",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUFpywj9V3gjKyFmhjljFW4w"
+            }
+        },
+        "statistics": {
+            "viewCount": "294",
+            "subscriberCount": "0",
+            "hiddenSubscriberCount": false,
+            "videoCount": "2"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02vxn",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Viral Videos"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

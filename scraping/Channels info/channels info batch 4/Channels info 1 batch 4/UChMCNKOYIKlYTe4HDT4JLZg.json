@@ -1,0 +1,66 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "IwwVGaCKrfhCcux3YUHW4C7o7fM",
+        "id": "UChMCNKOYIKlYTe4HDT4JLZg",
+        "snippet": {
+            "title": "Judge Judy Vlogs",
+            "description": "",
+            "publishedAt": "2021-02-08T04:00:40.027974Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/LvXMoxB0oV33e43xajAizLD1tizsHsnNw5s8z1JxeajUrI1SCFvXlnlDEpjyftuFNL15_S0iyQ=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/LvXMoxB0oV33e43xajAizLD1tizsHsnNw5s8z1JxeajUrI1SCFvXlnlDEpjyftuFNL15_S0iyQ=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/LvXMoxB0oV33e43xajAizLD1tizsHsnNw5s8z1JxeajUrI1SCFvXlnlDEpjyftuFNL15_S0iyQ=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Judge Judy Vlogs",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUhMCNKOYIKlYTe4HDT4JLZg"
+            }
+        },
+        "statistics": {
+            "viewCount": "36413",
+            "subscriberCount": "1410",
+            "hiddenSubscriberCount": false,
+            "videoCount": "28"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/03glg",
+                "/m/019_rr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Hobby",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Judge Judy Vlogs"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

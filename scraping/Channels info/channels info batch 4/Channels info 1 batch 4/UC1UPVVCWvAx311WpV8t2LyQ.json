@@ -1,0 +1,68 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "peADYyVgzjweAIf-GsnAdAy79m4",
+        "id": "UC1UPVVCWvAx311WpV8t2LyQ",
+        "snippet": {
+            "title": "HWG SHORTS",
+            "description": "",
+            "publishedAt": "2021-06-26T02:08:12.895579Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/kx7-iol23qCQ6O-DvQLhgx4YqSeQnwTrvcRsz8yIyC9fyiqrBObBvPxDfuzzaiFyFEKmbYlY=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/kx7-iol23qCQ6O-DvQLhgx4YqSeQnwTrvcRsz8yIyC9fyiqrBObBvPxDfuzzaiFyFEKmbYlY=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/kx7-iol23qCQ6O-DvQLhgx4YqSeQnwTrvcRsz8yIyC9fyiqrBObBvPxDfuzzaiFyFEKmbYlY=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "HWG SHORTS",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU1UPVVCWvAx311WpV8t2LyQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "47164",
+            "subscriberCount": "119",
+            "hiddenSubscriberCount": false,
+            "videoCount": "263"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/04rlf",
+                "/m/02jjt",
+                "/m/019_rr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Music",
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "HWG SHORTS"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

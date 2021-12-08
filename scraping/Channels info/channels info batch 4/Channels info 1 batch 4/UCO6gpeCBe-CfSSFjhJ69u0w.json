@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "xOvbt4cdRf1W5y3CXzUMyel_ab8",
+        "id": "UCO6gpeCBe-CfSSFjhJ69u0w",
+        "snippet": {
+            "title": "Farhan Siddiqui",
+            "description": "",
+            "publishedAt": "2018-11-08T20:15:21Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTaQSvnBVmHMuiZwkVXjdpFSnReI5dlX_--INEsrQ=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTaQSvnBVmHMuiZwkVXjdpFSnReI5dlX_--INEsrQ=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTaQSvnBVmHMuiZwkVXjdpFSnReI5dlX_--INEsrQ=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Farhan Siddiqui",
+                "description": ""
+            },
+            "country": "IN"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUO6gpeCBe-CfSSFjhJ69u0w"
+            }
+        },
+        "statistics": {
+            "viewCount": "10611330",
+            "hiddenSubscriberCount": true,
+            "videoCount": "250"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/04rlf",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Music",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Farhan Siddiqui",
+                "keywords": "\"Farhan Siddiqui\" \"FARHAN SIDDIQUI\" FARHAN SIDDIQUI",
+                "country": "IN"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

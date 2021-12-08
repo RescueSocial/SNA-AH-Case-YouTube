@@ -1,0 +1,71 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "Bc_b7I-Um6eMsbds0rZOnmi1qMU",
+        "id": "UC9w8oWWD4auLaFGMGdD4IQw",
+        "snippet": {
+            "title": "Princess Tiffany",
+            "description": "Random gossip, chit chat and lifestyle channel!",
+            "publishedAt": "2019-12-22T23:49:32.339194Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLROToMVVTaKY8RGyjX5tS2RYOhoaSX1rEhj124=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLROToMVVTaKY8RGyjX5tS2RYOhoaSX1rEhj124=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLROToMVVTaKY8RGyjX5tS2RYOhoaSX1rEhj124=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Princess Tiffany",
+                "description": "Random gossip, chit chat and lifestyle channel!"
+            },
+            "country": "GB"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU9w8oWWD4auLaFGMGdD4IQw"
+            }
+        },
+        "statistics": {
+            "viewCount": "13529242",
+            "hiddenSubscriberCount": true,
+            "videoCount": "535"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr",
+                "/m/019_rr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Princess Tiffany",
+                "description": "Random gossip, chit chat and lifestyle channel!",
+                "keywords": "\"MEGHAN MARKLE\" \"PRINCE HARRY\" \"THE DUCHESS OF SUSSEX\" \"THE ROYAL FAMILY\" \"THE DUKE OF CAMBRIDGE\"",
+                "unsubscribedTrailer": "ITuF_8DjitM",
+                "country": "GB"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "6zuQip8vzVKQ5a7Th7KiFRUDMBs",
+        "id": "UCaNBHUYhJ1sNFiPntc-M3hw",
+        "snippet": {
+            "title": "Malay Politics",
+            "description": "",
+            "publishedAt": "2019-05-16T04:17:48Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQ7uAm_CRaJrDWIqTQvVpUU9fXr8cxsd_9-Aw=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQ7uAm_CRaJrDWIqTQvVpUU9fXr8cxsd_9-Aw=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQ7uAm_CRaJrDWIqTQvVpUU9fXr8cxsd_9-Aw=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Malay Politics",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUaNBHUYhJ1sNFiPntc-M3hw"
+            }
+        },
+        "statistics": {
+            "viewCount": "97777",
+            "subscriberCount": "244",
+            "hiddenSubscriberCount": false,
+            "videoCount": "3440"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/05qt0",
+                "/m/098wr",
+                "/m/04rlf"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Politics",
+                "https://en.wikipedia.org/wiki/Society",
+                "https://en.wikipedia.org/wiki/Music"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Malay Politics"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

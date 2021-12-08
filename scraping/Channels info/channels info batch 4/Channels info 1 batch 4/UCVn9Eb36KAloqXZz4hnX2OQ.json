@@ -1,0 +1,64 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "KULWyCHzZS-AVsXiz4ntfRLOmqI",
+        "id": "UCVn9Eb36KAloqXZz4hnX2OQ",
+        "snippet": {
+            "title": "Rocco Mercurio",
+            "description": "",
+            "publishedAt": "2012-11-06T19:25:12Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRz1INILLdMFAQBY0d6bwAkCQrJ_sZgYu8MWw=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRz1INILLdMFAQBY0d6bwAkCQrJ_sZgYu8MWw=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRz1INILLdMFAQBY0d6bwAkCQrJ_sZgYu8MWw=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Rocco Mercurio",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUVn9Eb36KAloqXZz4hnX2OQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "2717",
+            "subscriberCount": "7",
+            "hiddenSubscriberCount": false,
+            "videoCount": "2"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Rocco Mercurio"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

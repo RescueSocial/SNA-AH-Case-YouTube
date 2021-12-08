@@ -1,0 +1,63 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "U4Xs-7w-XsYbsV4FBCHR0XP2eZs",
+        "id": "UCmJtjGEBhLgeQvbEHYAGyLg",
+        "snippet": {
+            "title": "Roland Nagy",
+            "description": "",
+            "publishedAt": "2009-06-22T15:04:52Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLR1EtbF6ho2QJJNvGc7nrR9FkO5TGZEGRgGSg=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLR1EtbF6ho2QJJNvGc7nrR9FkO5TGZEGRgGSg=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLR1EtbF6ho2QJJNvGc7nrR9FkO5TGZEGRgGSg=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Roland Nagy",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUmJtjGEBhLgeQvbEHYAGyLg"
+            }
+        },
+        "statistics": {
+            "viewCount": "142515",
+            "hiddenSubscriberCount": true,
+            "videoCount": "95"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Roland Nagy"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "ueO0L-nfCdsl437v8xakqVSggsM",
+        "id": "UCZhk-4ZlxgL0hqcQJBIdHuA",
+        "snippet": {
+            "title": "Southern Take",
+            "description": "",
+            "publishedAt": "2015-11-09T16:35:30Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSpo4UNUCoY5FGkgVTc81Y5fWVD9-kkPTCMmmGW1Q=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSpo4UNUCoY5FGkgVTc81Y5fWVD9-kkPTCMmmGW1Q=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSpo4UNUCoY5FGkgVTc81Y5fWVD9-kkPTCMmmGW1Q=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Southern Take",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUZhk-4ZlxgL0hqcQJBIdHuA"
+            }
+        },
+        "statistics": {
+            "viewCount": "53323",
+            "subscriberCount": "803",
+            "hiddenSubscriberCount": false,
+            "videoCount": "14"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr",
+                "/m/019_rr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Southern Take"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

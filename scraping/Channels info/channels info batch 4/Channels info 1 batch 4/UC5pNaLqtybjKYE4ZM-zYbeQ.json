@@ -1,0 +1,67 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "m4W91Yk7nrHbnHSLsK6vr5rUFKM",
+        "id": "UC5pNaLqtybjKYE4ZM-zYbeQ",
+        "snippet": {
+            "title": "Primo Showbiz",
+            "description": "",
+            "publishedAt": "2015-09-16T16:15:24Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTn5YXG16emPMu3q4R2u4b9SXVNyMg32tw_0A=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTn5YXG16emPMu3q4R2u4b9SXVNyMg32tw_0A=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTn5YXG16emPMu3q4R2u4b9SXVNyMg32tw_0A=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Primo Showbiz",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU5pNaLqtybjKYE4ZM-zYbeQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "14752",
+            "subscriberCount": "9",
+            "hiddenSubscriberCount": false,
+            "videoCount": "590"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/019_rr",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Primo Showbiz"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

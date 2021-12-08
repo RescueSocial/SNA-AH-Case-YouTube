@@ -1,0 +1,66 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "OCrT49eJ80XjuNSd4zwYs82GZpI",
+        "id": "UCOPaB9YQQUc3kG2CncDlu8Q",
+        "snippet": {
+            "title": "FLOW BGM",
+            "description": "",
+            "publishedAt": "2021-07-23T14:45:17.139318Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/KSz1OClGYYDmRIPWyFbjc0nCtSWlJxaNmHW65Ui0Cla4zraBQgtwxxmoWS6A1_QCKBk2fOjc=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/KSz1OClGYYDmRIPWyFbjc0nCtSWlJxaNmHW65Ui0Cla4zraBQgtwxxmoWS6A1_QCKBk2fOjc=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/KSz1OClGYYDmRIPWyFbjc0nCtSWlJxaNmHW65Ui0Cla4zraBQgtwxxmoWS6A1_QCKBk2fOjc=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "FLOW BGM",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUOPaB9YQQUc3kG2CncDlu8Q"
+            }
+        },
+        "statistics": {
+            "viewCount": "18821",
+            "subscriberCount": "74",
+            "hiddenSubscriberCount": false,
+            "videoCount": "35"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/04rlf",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Music",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "FLOW BGM"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

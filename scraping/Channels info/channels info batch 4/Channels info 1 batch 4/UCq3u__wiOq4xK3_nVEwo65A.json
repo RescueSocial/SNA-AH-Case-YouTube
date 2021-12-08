@@ -1,0 +1,71 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "whreEmZ87Dfy6Bx2qRLNRZA1xdQ",
+        "id": "UCq3u__wiOq4xK3_nVEwo65A",
+        "snippet": {
+            "title": "FILTER'D",
+            "description": "",
+            "publishedAt": "2018-10-27T16:39:19Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTYpnHDIKxS0UMK3UqA7iXp6Z_tuGHkXpGYAGff=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTYpnHDIKxS0UMK3UqA7iXp6Z_tuGHkXpGYAGff=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTYpnHDIKxS0UMK3UqA7iXp6Z_tuGHkXpGYAGff=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "FILTER'D",
+                "description": ""
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUq3u__wiOq4xK3_nVEwo65A"
+            }
+        },
+        "statistics": {
+            "viewCount": "2902865",
+            "hiddenSubscriberCount": true,
+            "videoCount": "71"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/019_rr",
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "FILTER'D",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/ITuXweH_SI1UKdqCJ0kmKBLijbM6nqfGtUc7lgyZdYkFjgF2wCncvxw2JZR7enpI7BZKm-HUzr0"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

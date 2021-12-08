@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "6GdqsiQ0J2mCZFOHppExhclXkk4",
+        "id": "UC0q0nYvy61_0WSNqgUYQtBg",
+        "snippet": {
+            "title": "Suru",
+            "description": "Just For Fun",
+            "publishedAt": "2018-02-17T03:42:45Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/P4TzdMn46M-1WHmY8FwS-fALWPSDmW-TMaUC8FpVc7A44A1tNsxToU5bJTgGpa3rtXRKpexp=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/P4TzdMn46M-1WHmY8FwS-fALWPSDmW-TMaUC8FpVc7A44A1tNsxToU5bJTgGpa3rtXRKpexp=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/P4TzdMn46M-1WHmY8FwS-fALWPSDmW-TMaUC8FpVc7A44A1tNsxToU5bJTgGpa3rtXRKpexp=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Suru",
+                "description": "Just For Fun"
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU0q0nYvy61_0WSNqgUYQtBg"
+            }
+        },
+        "statistics": {
+            "viewCount": "106502",
+            "subscriberCount": "202",
+            "hiddenSubscriberCount": false,
+            "videoCount": "387"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Suru",
+                "description": "Just For Fun"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/xi9qy-gJe2xCHOnv9g1dBkv6O1PA9q2ozCU3ZTmKfE5YO3ySU4rlC7WlR-eU8-TfaPbeO7quSTo"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

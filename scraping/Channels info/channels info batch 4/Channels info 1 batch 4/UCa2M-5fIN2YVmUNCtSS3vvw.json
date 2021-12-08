@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "_eknCUvCOe0fWcB_hTJ-CJzMpI4",
+        "id": "UCa2M-5fIN2YVmUNCtSS3vvw",
+        "snippet": {
+            "title": "The Morning Toast",
+            "description": "",
+            "customUrl": "themorningtoast",
+            "publishedAt": "2017-06-12T16:16:24Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQuTQvJCvF__onov3yv4zteHJZXEg3d4qx6XAoX=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQuTQvJCvF__onov3yv4zteHJZXEg3d4qx6XAoX=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQuTQvJCvF__onov3yv4zteHJZXEg3d4qx6XAoX=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "The Morning Toast",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUa2M-5fIN2YVmUNCtSS3vvw"
+            }
+        },
+        "statistics": {
+            "viewCount": "19439262",
+            "subscriberCount": "77500",
+            "hiddenSubscriberCount": false,
+            "videoCount": "682"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/0f2f9",
+                "/m/02jjt",
+                "/m/019_rr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Television_program",
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "The Morning Toast",
+                "unsubscribedTrailer": "YFInmvqcXkc"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/JDs-Eq0brFDyaV4nJ99O9kzoVepbWslkwcZpJ6EHNk5LHrk30YbG8MVoEeDeh9keVr3SDAD4eA"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

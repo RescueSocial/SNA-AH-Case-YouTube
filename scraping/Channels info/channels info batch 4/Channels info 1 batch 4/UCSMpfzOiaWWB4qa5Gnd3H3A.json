@@ -1,0 +1,69 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "CWXK5NxPkFPbaEDsrDjZHlbLsRo",
+        "id": "UCSMpfzOiaWWB4qa5Gnd3H3A",
+        "snippet": {
+            "title": "Music boy",
+            "description": "EDITOR  ",
+            "publishedAt": "2020-05-19T10:21:46.132857Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/8m34pflWK42DePVVzwD9XXTAuJaT99tCPoskQiJiUzRggWm38vQZzyNvB-ge13D-FfGxS2yePAQ=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/8m34pflWK42DePVVzwD9XXTAuJaT99tCPoskQiJiUzRggWm38vQZzyNvB-ge13D-FfGxS2yePAQ=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/8m34pflWK42DePVVzwD9XXTAuJaT99tCPoskQiJiUzRggWm38vQZzyNvB-ge13D-FfGxS2yePAQ=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Music boy",
+                "description": "EDITOR  "
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUSMpfzOiaWWB4qa5Gnd3H3A"
+            }
+        },
+        "statistics": {
+            "viewCount": "96026",
+            "subscriberCount": "548",
+            "hiddenSubscriberCount": false,
+            "videoCount": "101"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/04rlf",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Music",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Music boy",
+                "description": "EDITOR  "
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

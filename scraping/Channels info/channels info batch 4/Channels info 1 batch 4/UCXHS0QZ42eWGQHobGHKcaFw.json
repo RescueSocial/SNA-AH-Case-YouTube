@@ -1,0 +1,69 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "M7Kd8DY6amgmI__3m3mQpl_eKVQ",
+        "id": "UCXHS0QZ42eWGQHobGHKcaFw",
+        "snippet": {
+            "title": "Khan Lo",
+            "description": "",
+            "publishedAt": "2016-12-08T13:23:35Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTNlfn3gmwS0qeSd2QQ2FdVUYLHlpB9xG_cVw=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTNlfn3gmwS0qeSd2QQ2FdVUYLHlpB9xG_cVw=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTNlfn3gmwS0qeSd2QQ2FdVUYLHlpB9xG_cVw=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Khan Lo",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUXHS0QZ42eWGQHobGHKcaFw"
+            }
+        },
+        "statistics": {
+            "viewCount": "808",
+            "subscriberCount": "1",
+            "hiddenSubscriberCount": false,
+            "videoCount": "45"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/05qt0",
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Politics",
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Khan Lo"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/ljx3bebUooGxK2Ysp41QbSdTe0DlPbouBkPbd8nLZJAbsI9c4fVW8IZek1tbxA6vEMexC-CoBQ"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

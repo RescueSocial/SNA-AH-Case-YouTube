@@ -1,0 +1,68 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "m2W0ElVI6sFS5ytIrMljNmD01NE",
+        "id": "UCBz6RbA3FgbmCHqLrPIekzQ",
+        "snippet": {
+            "title": "after eating tacos",
+            "description": "",
+            "publishedAt": "2011-10-01T15:53:49Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRZdPptzwr1TBmnFEvASmbcRYugzUvQRQ2VfCE=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRZdPptzwr1TBmnFEvASmbcRYugzUvQRQ2VfCE=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRZdPptzwr1TBmnFEvASmbcRYugzUvQRQ2VfCE=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "after eating tacos",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUBz6RbA3FgbmCHqLrPIekzQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "3039",
+            "subscriberCount": "6",
+            "hiddenSubscriberCount": false,
+            "videoCount": "15"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/068hy",
+                "/m/019_rr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Pet",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "after eating tacos"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

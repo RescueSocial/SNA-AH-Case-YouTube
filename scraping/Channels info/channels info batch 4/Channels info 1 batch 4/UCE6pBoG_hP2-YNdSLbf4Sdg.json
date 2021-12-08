@@ -1,0 +1,68 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "DPRGk9TlaBJD5EtiH_ge3pvU81I",
+        "id": "UCE6pBoG_hP2-YNdSLbf4Sdg",
+        "snippet": {
+            "title": "hollywood status",
+            "description": "",
+            "publishedAt": "2021-06-19T10:18:24.791987Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/s3MP1KgvseNZ4NNp54dYlMWmr5klZKyrwb0E7UShaiA4DIWPN1cFAasUe_8X8a4tACQx3RrQ=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/s3MP1KgvseNZ4NNp54dYlMWmr5klZKyrwb0E7UShaiA4DIWPN1cFAasUe_8X8a4tACQx3RrQ=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/s3MP1KgvseNZ4NNp54dYlMWmr5klZKyrwb0E7UShaiA4DIWPN1cFAasUe_8X8a4tACQx3RrQ=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "hollywood status",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUE6pBoG_hP2-YNdSLbf4Sdg"
+            }
+        },
+        "statistics": {
+            "viewCount": "491166",
+            "hiddenSubscriberCount": true,
+            "videoCount": "143"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "hollywood status"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/V2mNp1M5hPg1uJLT_jAPkJWdbhUA_pFW2lMH7iQFkygeXK5KvKhNEzlgY-oi5gqgu9FjHoSXcA"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

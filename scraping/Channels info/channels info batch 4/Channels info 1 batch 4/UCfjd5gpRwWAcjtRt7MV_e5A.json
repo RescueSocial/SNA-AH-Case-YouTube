@@ -1,0 +1,75 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "naJaWC1WsnNvQkUJw7Y9n-73vzc",
+        "id": "UCfjd5gpRwWAcjtRt7MV_e5A",
+        "snippet": {
+            "title": "Nerd Report",
+            "description": "Reporting the latest in movie news! ",
+            "customUrl": "nerdreport",
+            "publishedAt": "2013-06-26T08:00:05Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRWGmdeXFbbiMdUQfSgr9gzeyWFKhNyrjiGRMdqNQ=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRWGmdeXFbbiMdUQfSgr9gzeyWFKhNyrjiGRMdqNQ=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRWGmdeXFbbiMdUQfSgr9gzeyWFKhNyrjiGRMdqNQ=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Nerd Report",
+                "description": "Reporting the latest in movie news! "
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUfjd5gpRwWAcjtRt7MV_e5A"
+            }
+        },
+        "statistics": {
+            "viewCount": "1463666",
+            "subscriberCount": "20300",
+            "hiddenSubscriberCount": false,
+            "videoCount": "1376"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Nerd Report",
+                "description": "Reporting the latest in movie news! ",
+                "keywords": "Trailer review \"movie review\" reaction \"trailer reaction\" \"trailer review\" breakdown \"movie trailer\" \"official trailer\" \"box office\" \"movie news\" movies movie trailers MovieTrailer MovieReview \"entertainment news\" \"Movie News\" \"Official Trailer\" DC Marvel preview news \"Sneak Peak\" \"First Look\" Film Hollywood",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/LXYv8v2ytKJ3muQ3NtrrJT9NRKYDanIxAxfRcpueMR7J082C_OS2Yb1NtbnThHc2fGn16W2OMMw"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

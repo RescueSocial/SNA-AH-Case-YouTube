@@ -1,0 +1,71 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "Db2Z7BJxcClJmrWHKtE_-gie5CI",
+        "id": "UCQAxdqat3tvdZfTg1gbmkbA",
+        "snippet": {
+            "title": "She and I",
+            "description": "",
+            "publishedAt": "2018-06-07T13:18:15Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/cHFFWiZGQjjNGrK9tdSq8e88ubcp9aEPnc5CmcA8ixrD239oSH-PvuKrKbQXHuZzMK5IepiQ=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/cHFFWiZGQjjNGrK9tdSq8e88ubcp9aEPnc5CmcA8ixrD239oSH-PvuKrKbQXHuZzMK5IepiQ=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/cHFFWiZGQjjNGrK9tdSq8e88ubcp9aEPnc5CmcA8ixrD239oSH-PvuKrKbQXHuZzMK5IepiQ=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "She and I",
+                "description": ""
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUQAxdqat3tvdZfTg1gbmkbA"
+            }
+        },
+        "statistics": {
+            "viewCount": "7901",
+            "subscriberCount": "258",
+            "hiddenSubscriberCount": false,
+            "videoCount": "51"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/019_rr",
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "She and I",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/cSQ0yOpJf6n-R-WW2ZECBhcaXH_WHYuGxVGB3guo7I6sZL7bi21W0_CILzRYbQovGofntJcsbQ"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

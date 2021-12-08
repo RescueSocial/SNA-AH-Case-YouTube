@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "ewEZs34mjgr4fU-akgdruscS-W0",
+        "id": "UCmzEfFjvsQyFX-7hEB_5Lfg",
+        "snippet": {
+            "title": "Scottish Parliament TV",
+            "description": "Watch all meetings at the Scottish Parliament live.",
+            "customUrl": "scottishparliamenttv",
+            "publishedAt": "2018-11-06T11:03:32Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTh-TPvwpMXRm08KaweKeplmtqtDvF4QHpUq8at=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTh-TPvwpMXRm08KaweKeplmtqtDvF4QHpUq8at=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTh-TPvwpMXRm08KaweKeplmtqtDvF4QHpUq8at=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Scottish Parliament TV",
+                "description": "Watch all meetings at the Scottish Parliament live."
+            },
+            "country": "GB"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUmzEfFjvsQyFX-7hEB_5Lfg"
+            }
+        },
+        "statistics": {
+            "viewCount": "40233",
+            "subscriberCount": "709",
+            "hiddenSubscriberCount": false,
+            "videoCount": "249"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr",
+                "/m/05qt0"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society",
+                "https://en.wikipedia.org/wiki/Politics"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Scottish Parliament TV",
+                "description": "Watch all meetings at the Scottish Parliament live.",
+                "country": "GB"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/NMLG7zDb87MEJ8zJ7z_oHIXdDRecbcax4ziR-ct2SVa7xyh_YzpVi00of0YC_f0xxzuSsEdMuw"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

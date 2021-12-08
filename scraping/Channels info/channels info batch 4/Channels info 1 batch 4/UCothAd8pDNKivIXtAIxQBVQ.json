@@ -1,0 +1,67 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "Ycny_IKpqLeJBYTQYVKhO7qwkKM",
+        "id": "UCothAd8pDNKivIXtAIxQBVQ",
+        "snippet": {
+            "title": "Amanda Rae",
+            "description": "",
+            "publishedAt": "2012-04-04T01:35:17Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTaG609NksxAVdISoSNqncHiDE0s3Q9jetR6vE=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTaG609NksxAVdISoSNqncHiDE0s3Q9jetR6vE=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTaG609NksxAVdISoSNqncHiDE0s3Q9jetR6vE=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Amanda Rae",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUothAd8pDNKivIXtAIxQBVQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "993057",
+            "subscriberCount": "15700",
+            "hiddenSubscriberCount": false,
+            "videoCount": "57"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/019_rr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Amanda Rae"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/X6rUzS2PwyR-tW9xKA2wAz8xTp1tIudSBtx0aOAGDqPv2NZkJ9cBDoAlBwYCpiJ-4lNkICoPoA"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

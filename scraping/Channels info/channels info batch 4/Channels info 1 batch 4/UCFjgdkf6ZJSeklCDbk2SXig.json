@@ -1,0 +1,77 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "vNXW8kuX-FQgcEy67In8J4za0d4",
+        "id": "UCFjgdkf6ZJSeklCDbk2SXig",
+        "snippet": {
+            "title": "Newsbits Live",
+            "description": "Breaking newsworthy stories..",
+            "publishedAt": "2019-02-14T13:28:32Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQuFgrOIV9qdWyXbNIoH7NBn0IToNB_LrsmRUnn=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQuFgrOIV9qdWyXbNIoH7NBn0IToNB_LrsmRUnn=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQuFgrOIV9qdWyXbNIoH7NBn0IToNB_LrsmRUnn=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Newsbits Live",
+                "description": "Breaking newsworthy stories.."
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUFjgdkf6ZJSeklCDbk2SXig"
+            }
+        },
+        "statistics": {
+            "viewCount": "98463",
+            "hiddenSubscriberCount": true,
+            "videoCount": "60"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/019_rr",
+                "/m/05qt0",
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                "https://en.wikipedia.org/wiki/Politics",
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Newsbits Live",
+                "description": "Breaking newsworthy stories..",
+                "keywords": "News Entertainment",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/sKnSMAuIk0nYpp0jKIhSeQAeDAmfTZaMiNX9Hg3EpJI3yWMAJqVTnStpREdhLVw1-r7K77Zv"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

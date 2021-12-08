@@ -1,0 +1,69 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "tmWO0OfesdzwOejKJKFK65u4OPM",
+        "id": "UCOmBWLmwo2on7fekUUJlA1A",
+        "snippet": {
+            "title": "Manny Geek",
+            "description": "",
+            "publishedAt": "2018-10-09T22:37:40Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSbIMOjA4OWCu4FID8KeI3RlM4S8O-vlz48CVwJ=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSbIMOjA4OWCu4FID8KeI3RlM4S8O-vlz48CVwJ=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSbIMOjA4OWCu4FID8KeI3RlM4S8O-vlz48CVwJ=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Manny Geek",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUOmBWLmwo2on7fekUUJlA1A"
+            }
+        },
+        "statistics": {
+            "viewCount": "509",
+            "subscriberCount": "7",
+            "hiddenSubscriberCount": false,
+            "videoCount": "31"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Manny Geek"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/tqvMhbVdaIAairoovAh85gbxQS_POOzhf-Pb2Mrk59bVVQpYwf6Jyqs7CuNEgjZEoBISol0r"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

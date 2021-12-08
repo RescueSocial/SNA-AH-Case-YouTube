@@ -1,0 +1,69 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "z94qfrMt6JLYWgRDDgpkggSm1pQ",
+        "id": "UCDoan4feZDSYc5sX1Po_LCg",
+        "snippet": {
+            "title": "2Awesome Hollywood",
+            "description": "Be the first to see the latest TRAILER, Clip, & newest promo content for the most anticipated upcoming films",
+            "publishedAt": "2018-07-11T16:30:05Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSnPeFKaDHOn67qDWw_Ma8fgcxA1dPqaZzP8ZpI=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSnPeFKaDHOn67qDWw_Ma8fgcxA1dPqaZzP8ZpI=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSnPeFKaDHOn67qDWw_Ma8fgcxA1dPqaZzP8ZpI=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "2Awesome Hollywood",
+                "description": "Be the first to see the latest TRAILER, Clip, & newest promo content for the most anticipated upcoming films"
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUDoan4feZDSYc5sX1Po_LCg"
+            }
+        },
+        "statistics": {
+            "viewCount": "6038",
+            "subscriberCount": "18",
+            "hiddenSubscriberCount": false,
+            "videoCount": "104"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02vxn",
+                "/m/02jjt",
+                "/m/0f2f9"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Television_program"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "2Awesome Hollywood",
+                "description": "Be the first to see the latest TRAILER, Clip, & newest promo content for the most anticipated upcoming films"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "uXtAOfW9wko2z7KXGKD3hl6rlo8",
+        "id": "UC5uwPbW4FGY1lMlrCkNI5WQ",
+        "snippet": {
+            "title": "SueMe",
+            "description": "",
+            "publishedAt": "2019-05-11T23:03:41Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQsBG410hfxoWIbEgFOOLJyeMfLW7FT8a9eoSqH=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQsBG410hfxoWIbEgFOOLJyeMfLW7FT8a9eoSqH=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQsBG410hfxoWIbEgFOOLJyeMfLW7FT8a9eoSqH=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "SueMe",
+                "description": ""
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU5uwPbW4FGY1lMlrCkNI5WQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "5247277",
+            "subscriberCount": "55500",
+            "hiddenSubscriberCount": false,
+            "videoCount": "549"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/019_rr",
+                "/m/03glg"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                "https://en.wikipedia.org/wiki/Hobby"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "SueMe",
+                "moderateComments": true,
+                "country": "US"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

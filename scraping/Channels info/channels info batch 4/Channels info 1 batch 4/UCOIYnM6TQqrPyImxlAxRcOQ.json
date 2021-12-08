@@ -1,0 +1,69 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "aViKRXLAjiIggZOiZSMb_ZIRdHI",
+        "id": "UCOIYnM6TQqrPyImxlAxRcOQ",
+        "snippet": {
+            "title": "Frenchie Deux",
+            "description": "",
+            "customUrl": "frenchiedeux",
+            "publishedAt": "2021-08-06T03:35:45.314518Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/l0DXzNFSMuPhAxS1tNvpJebHreWxcTRh9vCl1GwRbJ38cTK6woZnuliICOwY2oYusWNcbntv=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/l0DXzNFSMuPhAxS1tNvpJebHreWxcTRh9vCl1GwRbJ38cTK6woZnuliICOwY2oYusWNcbntv=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/l0DXzNFSMuPhAxS1tNvpJebHreWxcTRh9vCl1GwRbJ38cTK6woZnuliICOwY2oYusWNcbntv=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Frenchie Deux",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUOIYnM6TQqrPyImxlAxRcOQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "221763",
+            "subscriberCount": "7090",
+            "hiddenSubscriberCount": false,
+            "videoCount": "70"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/019_rr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Frenchie Deux"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/6zz_ZnzGd32sB7QgepO8nqq63sdseyEP7Ntb89_e9ghe5pBWIXX6fWC6x8M4hxGPnygIvLxQnQ"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

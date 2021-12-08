@@ -1,0 +1,80 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "fXNsqQ3dxyjEQW1SHVFAfaM1htY",
+        "id": "UCxSz6JVYmzVhtkraHWZC7HQ",
+        "snippet": {
+            "title": "Liza Koshy",
+            "description": "Just a little brown girl with big dreams.",
+            "publishedAt": "2013-09-02T22:55:05Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSnmybVZX5iqf9p5mtXWOne6K7Z_xToGR7kuYAfFA=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSnmybVZX5iqf9p5mtXWOne6K7Z_xToGR7kuYAfFA=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSnmybVZX5iqf9p5mtXWOne6K7Z_xToGR7kuYAfFA=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Liza Koshy",
+                "description": "Just a little brown girl with big dreams."
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUxSz6JVYmzVhtkraHWZC7HQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "2556772810",
+            "subscriberCount": "17500000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "190"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/0f2f9",
+                "/m/02vxn",
+                "/m/02jjt",
+                "/m/019_rr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Television_program",
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Liza Koshy",
+                "description": "Just a little brown girl with big dreams.",
+                "keywords": "Liza Koshy Lizzza Vine",
+                "moderateComments": true,
+                "unsubscribedTrailer": "Gdnl3BlkRCk",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/On3xpG7DvRHq8ECBh5xfGtQYwv_6AZXnqyTJNvYP8pFEsXsX3nRxvpP7XMjfGpTsIE6MnHHW"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

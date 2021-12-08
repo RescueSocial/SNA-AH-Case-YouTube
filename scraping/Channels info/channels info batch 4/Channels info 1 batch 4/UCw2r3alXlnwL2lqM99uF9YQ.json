@@ -1,0 +1,71 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "JwJKcs1PYpkmKUkJy-WR84uuoBA",
+        "id": "UCw2r3alXlnwL2lqM99uF9YQ",
+        "snippet": {
+            "title": "Cupple Webstar",
+            "description": "This is a news channel for Indian Audience. Find all news related to politics, sports, entertainment here,",
+            "customUrl": "cupplewebstar",
+            "publishedAt": "2017-06-15T18:58:06Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSnGVztbooNft7_5yNaYREJIpLrJunTs-Zwlb443g=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSnGVztbooNft7_5yNaYREJIpLrJunTs-Zwlb443g=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSnGVztbooNft7_5yNaYREJIpLrJunTs-Zwlb443g=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Cupple Webstar",
+                "description": "This is a news channel for Indian Audience. Find all news related to politics, sports, entertainment here,"
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUw2r3alXlnwL2lqM99uF9YQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "603458",
+            "subscriberCount": "750",
+            "hiddenSubscriberCount": false,
+            "videoCount": "8514"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Cupple Webstar",
+                "description": "This is a news channel for Indian Audience. Find all news related to politics, sports, entertainment here,"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/bn6cJAoLn8V3Y8nifiSebhrnIHnerr34ntuFsEzvFaLPdPdeXE0eO-N4D1MIsXU4Wur27euSNw"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

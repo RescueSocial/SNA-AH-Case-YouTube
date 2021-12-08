@@ -1,0 +1,71 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "M182ovgSeyQI3D7WtLAT1uk1hzs",
+        "id": "UCS6DND5ABEloPumuk5JzrYQ",
+        "snippet": {
+            "title": "Christopher Murray",
+            "description": "",
+            "publishedAt": "2011-10-15T03:23:38Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSTKgClSFisd2MYJFs3rsOrI-snrjBjlfN6uxovBd0=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSTKgClSFisd2MYJFs3rsOrI-snrjBjlfN6uxovBd0=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSTKgClSFisd2MYJFs3rsOrI-snrjBjlfN6uxovBd0=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Christopher Murray",
+                "description": ""
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUS6DND5ABEloPumuk5JzrYQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "7395",
+            "subscriberCount": "26",
+            "hiddenSubscriberCount": false,
+            "videoCount": "216"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02vxn",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Christopher Murray",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/8Io5qXNxJC_tcePLuRdEI85IyQpkftHhB3G66G0KzB3iyS0bgc5fHLbqYgR8pSQbtYdH84Yc"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

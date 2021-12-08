@@ -1,0 +1,67 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "DBfknFrfaa_-TUVPkdeAHRFGAf4",
+        "id": "UCbSQ0r-HXZDTYPuVAdGm7kw",
+        "snippet": {
+            "title": "Hero VS Hero",
+            "description": "",
+            "publishedAt": "2021-11-28T07:41:14.895562Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/pfH2KMCVqg-u8guqErdCV6wJ8G5IjnR96Ce3DqaFTlbIs8refaSJnc3iwFYF-14IbUpprNRk=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/pfH2KMCVqg-u8guqErdCV6wJ8G5IjnR96Ce3DqaFTlbIs8refaSJnc3iwFYF-14IbUpprNRk=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/pfH2KMCVqg-u8guqErdCV6wJ8G5IjnR96Ce3DqaFTlbIs8refaSJnc3iwFYF-14IbUpprNRk=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Hero VS Hero",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUbSQ0r-HXZDTYPuVAdGm7kw"
+            }
+        },
+        "statistics": {
+            "viewCount": "39",
+            "subscriberCount": "6",
+            "hiddenSubscriberCount": false,
+            "videoCount": "5"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Hero VS Hero",
+                "unsubscribedTrailer": "FOjTvGPdvYc"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

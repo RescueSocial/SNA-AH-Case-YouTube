@@ -1,0 +1,71 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "WHx0kAqsGh1xXQzL0T8ePCfhOlQ",
+        "id": "UCQUyHTFwqBYNw-nnQYaxBZQ",
+        "snippet": {
+            "title": "Mahad World",
+            "description": "",
+            "publishedAt": "2021-03-19T05:16:50.361435Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/GgIYtY2K3FUxilR-VhEBXKCBzIS_IA4NuAOWQWXp5_dWm_LVMhNQfL_Ft2h7QeOB5X8-9NdMWQ=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/GgIYtY2K3FUxilR-VhEBXKCBzIS_IA4NuAOWQWXp5_dWm_LVMhNQfL_Ft2h7QeOB5X8-9NdMWQ=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/GgIYtY2K3FUxilR-VhEBXKCBzIS_IA4NuAOWQWXp5_dWm_LVMhNQfL_Ft2h7QeOB5X8-9NdMWQ=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Mahad World",
+                "description": ""
+            },
+            "country": "PK"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUQUyHTFwqBYNw-nnQYaxBZQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "510096",
+            "subscriberCount": "2020",
+            "hiddenSubscriberCount": false,
+            "videoCount": "163"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Mahad World",
+                "country": "PK"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/stOHxHTAeMysKRi29blICeeQPCPJ-sJLcnwiU2Qr2tVE-ASq8HumZ-GSTFQDkQEWsmypA1gLDA"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

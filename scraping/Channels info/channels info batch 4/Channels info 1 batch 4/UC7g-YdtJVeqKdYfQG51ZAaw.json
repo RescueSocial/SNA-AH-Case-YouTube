@@ -1,0 +1,66 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "F22wWl8V9JtD9UCVnBgxrB9Zd_Q",
+        "id": "UC7g-YdtJVeqKdYfQG51ZAaw",
+        "snippet": {
+            "title": "ThehunterWebX",
+            "description": "",
+            "publishedAt": "2020-08-28T23:21:04.49175Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRyujiCt6Tq_hgowkazIIGinXkc1b9-okIgEGyF=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRyujiCt6Tq_hgowkazIIGinXkc1b9-okIgEGyF=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRyujiCt6Tq_hgowkazIIGinXkc1b9-okIgEGyF=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "ThehunterWebX",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU7g-YdtJVeqKdYfQG51ZAaw"
+            }
+        },
+        "statistics": {
+            "viewCount": "92532",
+            "subscriberCount": "160",
+            "hiddenSubscriberCount": false,
+            "videoCount": "20"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02vxn",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "ThehunterWebX"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

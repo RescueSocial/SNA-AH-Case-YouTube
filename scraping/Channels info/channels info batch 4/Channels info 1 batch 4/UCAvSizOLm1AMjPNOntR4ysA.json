@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "E0BqVWtRsSOacrqeP4c_iIRbWiA",
+        "id": "UCAvSizOLm1AMjPNOntR4ysA",
+        "snippet": {
+            "title": "Diane's Channel",
+            "description": "",
+            "customUrl": "dianepatchen",
+            "publishedAt": "2011-09-01T03:26:33Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRyV2eSKOu7k4alSbPWcNH-BMzBT8souViP67zdhw=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRyV2eSKOu7k4alSbPWcNH-BMzBT8souViP67zdhw=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRyV2eSKOu7k4alSbPWcNH-BMzBT8souViP67zdhw=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Diane's Channel",
+                "description": ""
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUAvSizOLm1AMjPNOntR4ysA"
+            }
+        },
+        "statistics": {
+            "viewCount": "1784748",
+            "subscriberCount": "6960",
+            "hiddenSubscriberCount": false,
+            "videoCount": "307"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/019_rr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Diane's Channel",
+                "keywords": "Live Streams Fun Drama Resolutions Contests",
+                "moderateComments": true,
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/Dz6tn21_SDJMdAWMVfrYRONPz_weW5WGiYFeJwzp4VrkuW0LcdQaNysIBLPujIYYr_LY4aSL"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

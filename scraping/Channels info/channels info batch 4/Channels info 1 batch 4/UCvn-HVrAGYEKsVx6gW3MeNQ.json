@@ -1,0 +1,76 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "CPtkGf6uzvji10jpRu0fQrLsDtk",
+        "id": "UCvn-HVrAGYEKsVx6gW3MeNQ",
+        "snippet": {
+            "title": "VH1",
+            "description": "",
+            "customUrl": "vh1",
+            "publishedAt": "2006-04-02T03:33:07Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/aDKveod2Fe2n8yf8o_x54vCe6sTMw_x6aWo_iwswm4vbz-uAJyOsPj_5txENN8es1Aj_4kzYCFI=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/aDKveod2Fe2n8yf8o_x54vCe6sTMw_x6aWo_iwswm4vbz-uAJyOsPj_5txENN8es1Aj_4kzYCFI=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/aDKveod2Fe2n8yf8o_x54vCe6sTMw_x6aWo_iwswm4vbz-uAJyOsPj_5txENN8es1Aj_4kzYCFI=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "VH1",
+                "description": ""
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUvn-HVrAGYEKsVx6gW3MeNQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "1461111738",
+            "subscriberCount": "3290000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "2767"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/0f2f9"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Television_program"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "VH1",
+                "keywords": "VH1 \"Reality Shows\" \"Love & Hip Hop\" \"Black Ink Crew\" \"Basketball Wives\" \"RuPaul's Drag Race\"",
+                "moderateComments": true,
+                "unsubscribedTrailer": "ep0Fd3lI1PA",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/FG624FLisE3S-hVbvGI0ay8mdP_8bt402jJ2afitOBIoCoAPQ4_aihhTjc5LbFKBziOqA_kDcDI"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

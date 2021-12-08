@@ -1,0 +1,72 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "Qz6uZLC2PTMXCS3yXiuhJ5MPc7Y",
+        "id": "UCuyOnjaXfJIMxCPobhqpmBg",
+        "snippet": {
+            "title": "David",
+            "description": "",
+            "customUrl": "dshares",
+            "publishedAt": "2009-10-17T01:48:13Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTeA_IcbbDc6AIJXoWmxlzhvutaDblzxOLOSLAc=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTeA_IcbbDc6AIJXoWmxlzhvutaDblzxOLOSLAc=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTeA_IcbbDc6AIJXoWmxlzhvutaDblzxOLOSLAc=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "David",
+                "description": ""
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUuyOnjaXfJIMxCPobhqpmBg"
+            }
+        },
+        "statistics": {
+            "viewCount": "9325945",
+            "subscriberCount": "7050",
+            "hiddenSubscriberCount": false,
+            "videoCount": "61"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "David",
+                "keywords": "\"David Shares\"",
+                "unsubscribedTrailer": "zK-4j_n9Q9U",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/WWwq0NOtjoNPstNdY4sR_siktVDr2mDFOxaL0RqvuGTF0fV_W3fGmDmGhgxla2EaYNOMjvyDDA"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

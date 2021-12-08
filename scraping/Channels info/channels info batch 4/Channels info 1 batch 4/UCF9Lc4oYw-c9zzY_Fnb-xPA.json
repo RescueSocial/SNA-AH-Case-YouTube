@@ -1,0 +1,65 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "GyJJn67vXC6iJtE2Q-8ntOE0-Cw",
+        "id": "UCF9Lc4oYw-c9zzY_Fnb-xPA",
+        "snippet": {
+            "title": "LoyalBoss Ronni",
+            "description": "#TRUTHMATTERS",
+            "publishedAt": "2012-01-24T14:12:35Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/Oev-JeuGE0jvc5EzSOL4H0BaZnDqGmPTd8XhENUKtPS_lIYJBA9HucKoe8XmeSw3dtgjQwWoBA=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/Oev-JeuGE0jvc5EzSOL4H0BaZnDqGmPTd8XhENUKtPS_lIYJBA9HucKoe8XmeSw3dtgjQwWoBA=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/Oev-JeuGE0jvc5EzSOL4H0BaZnDqGmPTd8XhENUKtPS_lIYJBA9HucKoe8XmeSw3dtgjQwWoBA=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "LoyalBoss Ronni",
+                "description": "#TRUTHMATTERS"
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUF9Lc4oYw-c9zzY_Fnb-xPA"
+            }
+        },
+        "statistics": {
+            "viewCount": "1271",
+            "subscriberCount": "72",
+            "hiddenSubscriberCount": false,
+            "videoCount": "4"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "LoyalBoss Ronni",
+                "description": "#TRUTHMATTERS"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

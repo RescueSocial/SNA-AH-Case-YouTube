@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "uNTG4qu1AuIpEVEci5arzTtMp74",
+        "id": "UCFOq-dKCPu3PcmaCMEGDzTA",
+        "snippet": {
+            "title": "WKRG",
+            "description": "",
+            "customUrl": "wkrgnews",
+            "publishedAt": "2008-01-16T21:05:22Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQacJUk8mADOx4CzNAf7aicXJ6xb863EflqkyfTdA=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQacJUk8mADOx4CzNAf7aicXJ6xb863EflqkyfTdA=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQacJUk8mADOx4CzNAf7aicXJ6xb863EflqkyfTdA=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "WKRG",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUFOq-dKCPu3PcmaCMEGDzTA"
+            }
+        },
+        "statistics": {
+            "viewCount": "100487238",
+            "subscriberCount": "89600",
+            "hiddenSubscriberCount": false,
+            "videoCount": "38540"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "WKRG",
+                "keywords": "Mobile Alabama News Gulf Coast Fairhope Daphne Pensacola Florida WKRG TV Local Television LIVE",
+                "trackingAnalyticsAccountId": "UA-483844-16"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/szNgNnm_J1gxfpQnfBVQO2WvEFjHoQuVJM9fCHls90ZuCN2N1y5l8hJov21Tw7GRAW_gICMnnyM"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

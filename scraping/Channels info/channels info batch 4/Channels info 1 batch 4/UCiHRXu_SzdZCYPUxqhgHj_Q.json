@@ -1,0 +1,66 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "D3TwzfBuIQxdZS90TWe4fEop1T4",
+        "id": "UCiHRXu_SzdZCYPUxqhgHj_Q",
+        "snippet": {
+            "title": "Mckenzie Britney",
+            "description": "",
+            "publishedAt": "2013-11-12T16:00:00Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRCAoOuSDsZpsTG-DV6giBKHsgQwzqIgCcc=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRCAoOuSDsZpsTG-DV6giBKHsgQwzqIgCcc=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRCAoOuSDsZpsTG-DV6giBKHsgQwzqIgCcc=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Mckenzie Britney",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUiHRXu_SzdZCYPUxqhgHj_Q"
+            }
+        },
+        "statistics": {
+            "viewCount": "33250",
+            "subscriberCount": "24",
+            "hiddenSubscriberCount": false,
+            "videoCount": "103"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02vxn",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Mckenzie Britney"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

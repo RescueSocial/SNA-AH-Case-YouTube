@@ -1,0 +1,59 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "FsWl2LnnVc8Ty58U0gaiQUG_Bp8",
+        "id": "UC_2BDc_9NWvKEkROY015j1A",
+        "snippet": {
+            "title": "Fuchsia co",
+            "description": "",
+            "publishedAt": "2015-09-08T01:53:54Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQcPf40dZhoRNN6JGZpHJZ-l5XGR1r0xY5VUotv=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQcPf40dZhoRNN6JGZpHJZ-l5XGR1r0xY5VUotv=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQcPf40dZhoRNN6JGZpHJZ-l5XGR1r0xY5VUotv=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Fuchsia co",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU_2BDc_9NWvKEkROY015j1A"
+            }
+        },
+        "statistics": {
+            "viewCount": "1099477",
+            "subscriberCount": "1830",
+            "hiddenSubscriberCount": false,
+            "videoCount": "1"
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Fuchsia co"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/-g2AU6YP8q_R9cKzd5hEpOMBzRfvPLblgKuPt8Gh8R1UnKBbKBGdJvvLss9IjAwUiBwu2LqkFGc"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

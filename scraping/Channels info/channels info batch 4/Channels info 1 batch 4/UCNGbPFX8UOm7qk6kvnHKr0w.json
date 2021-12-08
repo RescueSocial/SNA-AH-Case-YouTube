@@ -1,0 +1,78 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "EdFjH4t9QyO145lC8SJa8ffZv6k",
+        "id": "UCNGbPFX8UOm7qk6kvnHKr0w",
+        "snippet": {
+            "title": "Andrew Santino",
+            "description": "",
+            "customUrl": "andrewsantinowhiskeyginger",
+            "publishedAt": "2006-09-08T05:29:39Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTJFzF1bsewIxuGCgz-AT2evi0BM0RVtg3VXU6Gvw=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTJFzF1bsewIxuGCgz-AT2evi0BM0RVtg3VXU6Gvw=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTJFzF1bsewIxuGCgz-AT2evi0BM0RVtg3VXU6Gvw=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Andrew Santino",
+                "description": ""
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUNGbPFX8UOm7qk6kvnHKr0w"
+            }
+        },
+        "statistics": {
+            "viewCount": "28956595",
+            "subscriberCount": "248000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "166"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/09kqc",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Humour",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Andrew Santino",
+                "keywords": "\"whiskey ginger\" \"andrew santino\" \"andrew santino podcast\" \"bad friends\" \"bad friends podcast\" podcasting tigerbelly \"trash tuesday\" ymh \"monday morning podcast\"",
+                "moderateComments": true,
+                "unsubscribedTrailer": "8zrBAEVuSGg",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/XXxQyhMlECNZKhf4MCSn4i9hhVU50qFrW_ylkwHgM_tAXPTut2SJ0BTvNna1z6TePYQ2Na3O"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

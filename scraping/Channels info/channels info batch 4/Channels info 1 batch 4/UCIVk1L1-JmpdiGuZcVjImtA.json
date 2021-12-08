@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "RJytbV8NjZabjeX70QUSuNz14Jo",
+        "id": "UCIVk1L1-JmpdiGuZcVjImtA",
+        "snippet": {
+            "title": "ABC15 Arizona",
+            "description": "This is the official YouTube channel for ABC15 in Phoenix.\n\nWe are Everything Arizona: Breaking News, Weather, Investigations and Smart Shopper reports.\n",
+            "customUrl": "abc15",
+            "publishedAt": "2008-10-09T20:23:22Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTgKnEptt8-lZLiOLIAbFuAq4MR0J_m78EN38kh=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTgKnEptt8-lZLiOLIAbFuAq4MR0J_m78EN38kh=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTgKnEptt8-lZLiOLIAbFuAq4MR0J_m78EN38kh=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "ABC15 Arizona",
+                "description": "This is the official YouTube channel for ABC15 in Phoenix.\n\nWe are Everything Arizona: Breaking News, Weather, Investigations and Smart Shopper reports.\n"
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUIVk1L1-JmpdiGuZcVjImtA"
+            }
+        },
+        "statistics": {
+            "viewCount": "335154223",
+            "subscriberCount": "339000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "89538"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "ABC15 Arizona",
+                "description": "This is the official YouTube channel for ABC15 in Phoenix.\n\nWe are Everything Arizona: Breaking News, Weather, Investigations and Smart Shopper reports.\n",
+                "keywords": "ABC15 \"abc 15\" Arizona Phoenix News \"local news\"",
+                "trackingAnalyticsAccountId": "UA-40057697-11",
+                "moderateComments": true
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/SonNAxai1fW74-P-jDj3GjFuGlDMjrEzgrzDRapTJQeuEfmlPaQORypAUDC6JiqucSHLNwf6"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

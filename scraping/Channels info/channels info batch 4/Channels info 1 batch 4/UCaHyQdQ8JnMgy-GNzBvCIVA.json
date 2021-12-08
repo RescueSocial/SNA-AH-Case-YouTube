@@ -1,0 +1,74 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "w3w_LOemMz-oATWIoXbPj7YZo0Y",
+        "id": "UCaHyQdQ8JnMgy-GNzBvCIVA",
+        "snippet": {
+            "title": "TheCountryInk",
+            "description": "Global News and Opinion",
+            "customUrl": "thecountryink",
+            "publishedAt": "2020-04-28T20:39:22.321361Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQs8aYODhBuXU2dyM-jg50gZi3VNXwyvesxa1Ie=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQs8aYODhBuXU2dyM-jg50gZi3VNXwyvesxa1Ie=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQs8aYODhBuXU2dyM-jg50gZi3VNXwyvesxa1Ie=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "TheCountryInk",
+                "description": "Global News and Opinion"
+            },
+            "country": "GB"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUaHyQdQ8JnMgy-GNzBvCIVA"
+            }
+        },
+        "statistics": {
+            "viewCount": "257559",
+            "subscriberCount": "964",
+            "hiddenSubscriberCount": false,
+            "videoCount": "99"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "TheCountryInk",
+                "description": "Global News and Opinion",
+                "keywords": "the country ink",
+                "country": "GB"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/BcGh4PzQU2FwOYhWM5bwnB3vb4udk0jG4iYut9qg6gc5mY1x7iBlf_x_tPX5U3ych1MR7zMi4Q"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

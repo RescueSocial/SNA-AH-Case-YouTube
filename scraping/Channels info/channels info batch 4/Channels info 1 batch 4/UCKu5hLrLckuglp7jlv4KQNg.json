@@ -1,0 +1,56 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "cFQfe3mm1WvAcAwEzGLAtX0WDWM",
+        "id": "UCKu5hLrLckuglp7jlv4KQNg",
+        "snippet": {
+            "title": "Fraksis",
+            "description": "",
+            "publishedAt": "2020-02-19T00:42:28.372986Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQxc2qFEEfb1Bl0tCj07fRqCDn-OaV2UrK4kg=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQxc2qFEEfb1Bl0tCj07fRqCDn-OaV2UrK4kg=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQxc2qFEEfb1Bl0tCj07fRqCDn-OaV2UrK4kg=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Fraksis",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUKu5hLrLckuglp7jlv4KQNg"
+            }
+        },
+        "statistics": {
+            "viewCount": "643977",
+            "subscriberCount": "980",
+            "hiddenSubscriberCount": false,
+            "videoCount": "1"
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Fraksis"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

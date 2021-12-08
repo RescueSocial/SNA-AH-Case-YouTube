@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "SIpuLIIyVmeYae0Q692Pf6yhP7Q",
+        "id": "UCB98Z2c9wUDlzG28SDP9gXw",
+        "snippet": {
+            "title": "Emon YT",
+            "description": "please like and subscribe if you like my video",
+            "publishedAt": "2018-07-17T08:13:00Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTBy50KGb-j9ZsaSPikJHXCX7rTVy6HETG_MweC=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTBy50KGb-j9ZsaSPikJHXCX7rTVy6HETG_MweC=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTBy50KGb-j9ZsaSPikJHXCX7rTVy6HETG_MweC=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Emon YT",
+                "description": "please like and subscribe if you like my video"
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUB98Z2c9wUDlzG28SDP9gXw"
+            }
+        },
+        "statistics": {
+            "viewCount": "1017772",
+            "subscriberCount": "910",
+            "hiddenSubscriberCount": false,
+            "videoCount": "4"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Emon YT",
+                "description": "please like and subscribe if you like my video"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/1N4HCJhSplVpTGPXeMaYnc0bybIvVPnKO57GrEStSBUJv78_Ilklv2RfQTOLhvHAHVnVuuHo"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

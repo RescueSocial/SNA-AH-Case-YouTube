@@ -1,0 +1,80 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "kMNvFJkN7yzb61CcY9uSFtiDids",
+        "id": "CGnOndxwaaQ",
+        "snippet": {
+            "publishedAt": "2015-06-26T20:36:41Z",
+            "channelId": "UCbp3fkS6cxI1aekmIPIDCGg",
+            "title": "Amber Heard at 'Magic Mike XXL' Premiere in Los Angeles",
+            "description": "http://amberheardbrasil.com",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/CGnOndxwaaQ/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/CGnOndxwaaQ/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/CGnOndxwaaQ/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/CGnOndxwaaQ/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Amber Heard",
+            "tags": [
+                "amber heard",
+                "magic mike xxl",
+                "amber heard magic mike xxl",
+                "amber heard magic mike",
+                "magic mike",
+                "mmxxl",
+                "amber heard interview",
+                "amber heard premiere",
+                "magic mike xxl premiere",
+                "matt bomer",
+                "channing tatum",
+                "magic mike xxl channing tatum"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Heard at 'Magic Mike XXL' Premiere in Los Angeles",
+                "description": "http://amberheardbrasil.com"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT3M45S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "4367",
+            "likeCount": "17",
+            "dislikeCount": "6",
+            "favoriteCount": "0",
+            "commentCount": "2"
+        }
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "RGpcrtX3VgjbnyPjpr67TsblY2k",
+        "id": "UC-nuIFCuhF-SKmxMzf4gMXg",
+        "snippet": {
+            "title": "St. Augustine's Bville",
+            "description": "",
+            "publishedAt": "2014-09-05T04:47:51Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTWHJt-C2-aR_VrLtM8U10TtJ0ozfzxPsxCCcus=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTWHJt-C2-aR_VrLtM8U10TtJ0ozfzxPsxCCcus=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTWHJt-C2-aR_VrLtM8U10TtJ0ozfzxPsxCCcus=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "St. Augustine's Bville",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU-nuIFCuhF-SKmxMzf4gMXg"
+            }
+        },
+        "statistics": {
+            "viewCount": "28752",
+            "subscriberCount": "204",
+            "hiddenSubscriberCount": false,
+            "videoCount": "397"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr",
+                "/m/06bvp",
+                "/m/019_rr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society",
+                "https://en.wikipedia.org/wiki/Religion",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": true
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "St. Augustine's Bville"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

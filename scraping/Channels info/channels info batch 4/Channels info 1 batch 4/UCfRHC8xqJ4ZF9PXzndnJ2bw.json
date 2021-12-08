@@ -1,0 +1,65 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "tEinvy9nHvO9vjry-kEtgIpist4",
+        "id": "UCfRHC8xqJ4ZF9PXzndnJ2bw",
+        "snippet": {
+            "title": "Wooly Wo",
+            "description": "",
+            "publishedAt": "2018-09-08T16:55:32Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTo66GNe_uYkYihD4pKZSeofCAzP9JlVQ0QT4OK0g=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTo66GNe_uYkYihD4pKZSeofCAzP9JlVQ0QT4OK0g=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTo66GNe_uYkYihD4pKZSeofCAzP9JlVQ0QT4OK0g=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Wooly Wo",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUfRHC8xqJ4ZF9PXzndnJ2bw"
+            }
+        },
+        "statistics": {
+            "viewCount": "14525",
+            "hiddenSubscriberCount": true,
+            "videoCount": "58"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Wooly Wo"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

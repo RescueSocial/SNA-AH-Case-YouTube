@@ -1,0 +1,72 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "qoLfWeROWixv874L7g0L2ACmR74",
+        "id": "UCz9F8siEvEugBcsSALXMHPQ",
+        "snippet": {
+            "title": "Matias Shaw",
+            "description": "Hey guys. Just made my new channel because YouTube took my other one down.",
+            "publishedAt": "2018-09-01T15:41:17Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLS4PF6XpmOumRwiuEGbIJRHGaJ6XSnbBtNh4fPO=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLS4PF6XpmOumRwiuEGbIJRHGaJ6XSnbBtNh4fPO=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLS4PF6XpmOumRwiuEGbIJRHGaJ6XSnbBtNh4fPO=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Matias Shaw",
+                "description": "Hey guys. Just made my new channel because YouTube took my other one down."
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUz9F8siEvEugBcsSALXMHPQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "1597954",
+            "subscriberCount": "2660",
+            "hiddenSubscriberCount": false,
+            "videoCount": "1045"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/0bzvm2",
+                "/m/02ntfj",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Video_game_culture",
+                "https://en.wikipedia.org/wiki/Action-adventure_game",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Matias Shaw",
+                "description": "Hey guys. Just made my new channel because YouTube took my other one down."
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/7Pa1omw8TuiMmuUu6tXzv23-_8JRMpXx2sKYuT1F5rurPQo-YaQ4ZxhygLG5mBGZwxg_4OU1"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

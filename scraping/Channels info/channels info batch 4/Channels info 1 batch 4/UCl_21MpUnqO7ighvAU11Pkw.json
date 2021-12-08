@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "xcp8lvMhBD5FKHbZq1Xv014oIiQ",
+        "id": "UCl_21MpUnqO7ighvAU11Pkw",
+        "snippet": {
+            "title": "ADDICTIVE MEDIA",
+            "description": "",
+            "publishedAt": "2020-06-01T05:37:05.363787Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSEDnE5igsJDFGWH67SLTp1wTIkkWhy6CLBIRCx=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSEDnE5igsJDFGWH67SLTp1wTIkkWhy6CLBIRCx=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSEDnE5igsJDFGWH67SLTp1wTIkkWhy6CLBIRCx=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "ADDICTIVE MEDIA",
+                "description": ""
+            },
+            "country": "IN"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUl_21MpUnqO7ighvAU11Pkw"
+            }
+        },
+        "statistics": {
+            "viewCount": "9906262",
+            "subscriberCount": "26200",
+            "hiddenSubscriberCount": false,
+            "videoCount": "227"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn",
+                "/m/04rlf"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Music"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "ADDICTIVE MEDIA",
+                "country": "IN"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/2xGOQ8JnFWTZcQl1UnAsIHTP9X6-ZpqsNs1fqt1j2HSgFg8E8V-Ad14dQJMAmjHNLzAGHTci5b4"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

@@ -1,0 +1,71 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "yepY6d8U2RniZbZs3AFbym0n_b0",
+        "id": "UCQkHY3eN9VCkKPGCj87-T1g",
+        "snippet": {
+            "title": "cornwallchannel",
+            "description": "",
+            "publishedAt": "2010-07-18T22:44:30Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRqqmuZg-G3Bti6Ak9qgCar7lWLOXM3CekC54lk=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRqqmuZg-G3Bti6Ak9qgCar7lWLOXM3CekC54lk=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRqqmuZg-G3Bti6Ak9qgCar7lWLOXM3CekC54lk=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "cornwallchannel",
+                "description": ""
+            },
+            "country": "GB"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUQkHY3eN9VCkKPGCj87-T1g"
+            }
+        },
+        "statistics": {
+            "viewCount": "61577",
+            "subscriberCount": "270",
+            "hiddenSubscriberCount": false,
+            "videoCount": "38"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02wbm",
+                "/m/019_rr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Food",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "cornwallchannel",
+                "country": "GB"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/_3EkLKTPf9gyU2DCVpzGDRP0RslGjdbt33KUoFj4KVliv_pRj__4dDRx-Lw95w3Tp9Als3WQnD0"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

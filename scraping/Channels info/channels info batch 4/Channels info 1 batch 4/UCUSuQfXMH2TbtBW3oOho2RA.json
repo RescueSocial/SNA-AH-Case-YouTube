@@ -1,0 +1,67 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "PApDsIjd332zCH12BB_sZY_VxRg",
+        "id": "UCUSuQfXMH2TbtBW3oOho2RA",
+        "snippet": {
+            "title": "Rupa Creation",
+            "description": "",
+            "publishedAt": "2020-08-12T04:58:54.232372Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/M6GazI-SrreQNA3yR6f3cz7zOsRo5s5Ran7qGu48_qqL1dPeZ0FpO62DxV9dkoKeN8t8jV0Z=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/M6GazI-SrreQNA3yR6f3cz7zOsRo5s5Ran7qGu48_qqL1dPeZ0FpO62DxV9dkoKeN8t8jV0Z=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/M6GazI-SrreQNA3yR6f3cz7zOsRo5s5Ran7qGu48_qqL1dPeZ0FpO62DxV9dkoKeN8t8jV0Z=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Rupa Creation",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUUSuQfXMH2TbtBW3oOho2RA"
+            }
+        },
+        "statistics": {
+            "viewCount": "281948",
+            "hiddenSubscriberCount": true,
+            "videoCount": "27"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/04rlf",
+                "/m/028sqc",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Music",
+                "https://en.wikipedia.org/wiki/Music_of_Asia",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Rupa Creation"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

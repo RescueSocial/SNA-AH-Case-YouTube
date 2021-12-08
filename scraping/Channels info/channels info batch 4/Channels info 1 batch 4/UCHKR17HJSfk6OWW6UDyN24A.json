@@ -1,0 +1,69 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "yD7q9pLPwvf6KjYnCooN_LeDf1Y",
+        "id": "UCHKR17HJSfk6OWW6UDyN24A",
+        "snippet": {
+            "title": "Highlight Fever",
+            "description": "",
+            "publishedAt": "2018-04-13T01:13:07Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSjZ1Sne7oZW4W1nXezxpQopqnV5bbUMW1H5rJjaw=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSjZ1Sne7oZW4W1nXezxpQopqnV5bbUMW1H5rJjaw=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSjZ1Sne7oZW4W1nXezxpQopqnV5bbUMW1H5rJjaw=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Highlight Fever",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUHKR17HJSfk6OWW6UDyN24A"
+            }
+        },
+        "statistics": {
+            "viewCount": "11839",
+            "subscriberCount": "21",
+            "hiddenSubscriberCount": false,
+            "videoCount": "32"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/018w8",
+                "/m/06ntj",
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Basketball",
+                "https://en.wikipedia.org/wiki/Sport",
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Highlight Fever"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

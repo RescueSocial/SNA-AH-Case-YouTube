@@ -1,0 +1,69 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "zBJzo17R2QFe-qJE4jJx4_8lyh0",
+        "id": "UCXFaTG0RB-Aytym1kr-xUpw",
+        "snippet": {
+            "title": "Evergreen Movies 2050",
+            "description": "",
+            "publishedAt": "2020-07-25T09:54:40.857401Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/YERWYK3blQagL3YFHujcGtBxvOCF5pysQjinkISz8ywt-i2Y9AxJ-uvrKoA3VkmaUxnUXp4Rjg=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/YERWYK3blQagL3YFHujcGtBxvOCF5pysQjinkISz8ywt-i2Y9AxJ-uvrKoA3VkmaUxnUXp4Rjg=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/YERWYK3blQagL3YFHujcGtBxvOCF5pysQjinkISz8ywt-i2Y9AxJ-uvrKoA3VkmaUxnUXp4Rjg=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Evergreen Movies 2050",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUXFaTG0RB-Aytym1kr-xUpw"
+            }
+        },
+        "statistics": {
+            "viewCount": "77629",
+            "hiddenSubscriberCount": true,
+            "videoCount": "342"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/019_rr",
+                "/m/07yv9",
+                "/m/02vxn",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                "https://en.wikipedia.org/wiki/Vehicle",
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Evergreen Movies 2050"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "f8ZWF2WhELZm-IX0VO4pqCV9JwY",
+        "id": "UCuoycmvCWeAbghwfZaBAbww",
+        "snippet": {
+            "title": "How Good It is ?",
+            "description": "Your destination for movie news, trailers, reviews & more. \ud83c\udfac #whattowatch",
+            "publishedAt": "2013-01-11T02:26:51Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/Lx1K8S2n0Oc4BelbustGSbEYjyFs55Td0URtgS2kLjXue7_6uL7xzuXchF1wjUwffuDCEc4f=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/Lx1K8S2n0Oc4BelbustGSbEYjyFs55Td0URtgS2kLjXue7_6uL7xzuXchF1wjUwffuDCEc4f=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/Lx1K8S2n0Oc4BelbustGSbEYjyFs55Td0URtgS2kLjXue7_6uL7xzuXchF1wjUwffuDCEc4f=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "How Good It is ?",
+                "description": "Your destination for movie news, trailers, reviews & more. \ud83c\udfac #whattowatch"
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUuoycmvCWeAbghwfZaBAbww"
+            }
+        },
+        "statistics": {
+            "viewCount": "6176",
+            "subscriberCount": "1",
+            "hiddenSubscriberCount": false,
+            "videoCount": "15"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "How Good It is ?",
+                "description": "Your destination for movie news, trailers, reviews & more. \ud83c\udfac #whattowatch"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/EBl6G-CRw3pjCMhuPeBXzNY3e_wr4t9SGbBWbqC223W35Y_YNHJ30DxPnaJQCPZ9tnEnWt0sVNs"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

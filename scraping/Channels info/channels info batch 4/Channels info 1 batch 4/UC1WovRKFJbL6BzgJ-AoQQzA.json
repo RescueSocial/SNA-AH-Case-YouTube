@@ -1,0 +1,71 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "_Ely6J3TvmoXR9e1JavaIs7SrU8",
+        "id": "UC1WovRKFJbL6BzgJ-AoQQzA",
+        "snippet": {
+            "title": "KimJun Art",
+            "description": "",
+            "publishedAt": "2011-08-30T03:20:05Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTav2I5T8H3WicSZcL1lxJVevrUIbz4DwfyK7VutQ=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTav2I5T8H3WicSZcL1lxJVevrUIbz4DwfyK7VutQ=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTav2I5T8H3WicSZcL1lxJVevrUIbz4DwfyK7VutQ=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "KimJun Art",
+                "description": ""
+            },
+            "country": "ID"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU1WovRKFJbL6BzgJ-AoQQzA"
+            }
+        },
+        "statistics": {
+            "viewCount": "3073",
+            "subscriberCount": "73",
+            "hiddenSubscriberCount": false,
+            "videoCount": "13"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/03glg",
+                "/m/019_rr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Hobby",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "KimJun Art",
+                "country": "ID"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/EKxt1-tEaDaiQ-0eS0q2X0IkD3TOmfSNcT53UkEXu_B3EVg3JrAGaS0kYCb7AeJdTUBjt-HJ"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

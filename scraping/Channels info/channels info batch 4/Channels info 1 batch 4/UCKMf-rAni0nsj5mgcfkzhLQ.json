@@ -1,0 +1,74 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "jdcYGopERKlca9KOYjSX01GxEQ4",
+        "id": "UCKMf-rAni0nsj5mgcfkzhLQ",
+        "snippet": {
+            "title": "Moondoria",
+            "description": "Playing video games and doing reviews.",
+            "publishedAt": "2014-04-29T20:02:39Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQJlobK72pHODvt-2nmIc1W9zdncI1Niicx1btVpg=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQJlobK72pHODvt-2nmIc1W9zdncI1Niicx1btVpg=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQJlobK72pHODvt-2nmIc1W9zdncI1Niicx1btVpg=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Moondoria",
+                "description": "Playing video games and doing reviews."
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUKMf-rAni0nsj5mgcfkzhLQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "92841",
+            "subscriberCount": "469",
+            "hiddenSubscriberCount": false,
+            "videoCount": "252"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/0bzvm2",
+                "/m/02ntfj",
+                "/m/025zzc",
+                "/m/0403l3g"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Video_game_culture",
+                "https://en.wikipedia.org/wiki/Action-adventure_game",
+                "https://en.wikipedia.org/wiki/Action_game",
+                "https://en.wikipedia.org/wiki/Role-playing_video_game"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Moondoria",
+                "description": "Playing video games and doing reviews."
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/MZOdgglx1NHUdpr6P8x2wgDErLYbJhvKXVYuyP5ly9ANKPQnjqogKLNU2WqGWXfCtmOq_Cbwqg"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

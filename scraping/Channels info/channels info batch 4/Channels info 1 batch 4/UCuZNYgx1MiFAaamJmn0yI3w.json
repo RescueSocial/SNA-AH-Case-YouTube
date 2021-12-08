@@ -1,0 +1,72 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "oW2Um9irLX9PHCeg1ikXn3AE6Ss",
+        "id": "UCuZNYgx1MiFAaamJmn0yI3w",
+        "snippet": {
+            "title": "Being Artist",
+            "description": "?????",
+            "publishedAt": "2020-07-10T17:59:30.640969Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRG9qNXItWjbJlYyo4UfJrpHRC0qzPDfVX7beUa=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRG9qNXItWjbJlYyo4UfJrpHRC0qzPDfVX7beUa=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRG9qNXItWjbJlYyo4UfJrpHRC0qzPDfVX7beUa=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Being Artist",
+                "description": "?????"
+            },
+            "country": "IN"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUuZNYgx1MiFAaamJmn0yI3w"
+            }
+        },
+        "statistics": {
+            "viewCount": "456",
+            "subscriberCount": "42",
+            "hiddenSubscriberCount": false,
+            "videoCount": "5"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/03glg",
+                "/m/019_rr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Hobby",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Being Artist",
+                "description": "?????",
+                "country": "IN"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/h09t_nJvXjA8DWNXeK-UUcWZjl-wDgUJxTpeGVxyXTzZMuG4GHOjPomiG_-4ydie2CkZ9svNwg"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "8R9hXSj5ZeD_7Ko-uMJTHkiPA28",
+        "id": "UCCUntCQUJVZ8X-6Ug60ko_Q",
+        "snippet": {
+            "title": "Vyral News",
+            "description": "",
+            "publishedAt": "2018-10-26T15:31:46Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLThhRaOuEhWwZ0ksBR7JIm08tNam3zXIIzzYKyTHw=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLThhRaOuEhWwZ0ksBR7JIm08tNam3zXIIzzYKyTHw=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLThhRaOuEhWwZ0ksBR7JIm08tNam3zXIIzzYKyTHw=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Vyral News",
+                "description": ""
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUCUntCQUJVZ8X-6Ug60ko_Q"
+            }
+        },
+        "statistics": {
+            "viewCount": "388010",
+            "subscriberCount": "1450",
+            "hiddenSubscriberCount": false,
+            "videoCount": "146"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02vxn",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Vyral News",
+                "keywords": "Noticias cine musica series",
+                "unsubscribedTrailer": "yAPqx3mlv-M",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/DSchHFeMcNlnEOu7xLDjapA70-wwdR-L4mjlo_ZSOeA7lAjRHe6sax2GQmHyJ0W7OmrMZulDQg"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

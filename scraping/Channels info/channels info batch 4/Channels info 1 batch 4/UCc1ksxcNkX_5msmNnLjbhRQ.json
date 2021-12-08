@@ -1,0 +1,64 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "7gLl_NLhChk_VXAup5P-WV5_ujk",
+        "id": "UCc1ksxcNkX_5msmNnLjbhRQ",
+        "snippet": {
+            "title": "Ange NEVER",
+            "description": "",
+            "publishedAt": "2021-10-03T12:04:01.91888Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/wDRbUULqa8e3UrZkwbarNDY471-d_RojPP-WUabBfIwB9H7Q1EnSdAabo9B4vaPk28ataNo2=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/wDRbUULqa8e3UrZkwbarNDY471-d_RojPP-WUabBfIwB9H7Q1EnSdAabo9B4vaPk28ataNo2=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/wDRbUULqa8e3UrZkwbarNDY471-d_RojPP-WUabBfIwB9H7Q1EnSdAabo9B4vaPk28ataNo2=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Ange NEVER",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUc1ksxcNkX_5msmNnLjbhRQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "1786",
+            "subscriberCount": "6",
+            "hiddenSubscriberCount": false,
+            "videoCount": "5"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Ange NEVER"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

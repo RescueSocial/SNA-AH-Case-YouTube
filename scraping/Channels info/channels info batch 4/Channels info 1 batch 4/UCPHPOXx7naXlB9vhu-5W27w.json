@@ -1,0 +1,67 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "SrmDxSTtDPV-na9YoX43x4fs5VU",
+        "id": "UCPHPOXx7naXlB9vhu-5W27w",
+        "snippet": {
+            "title": "Wellington Juku",
+            "description": "Comedic videos , standup , and Funny relationship advice .",
+            "publishedAt": "2012-07-04T15:25:49Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQzC20xt6ASg_QvHXAilwJdVz2JQONqv98XNx_gUQ=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQzC20xt6ASg_QvHXAilwJdVz2JQONqv98XNx_gUQ=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQzC20xt6ASg_QvHXAilwJdVz2JQONqv98XNx_gUQ=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Wellington Juku",
+                "description": "Comedic videos , standup , and Funny relationship advice ."
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUPHPOXx7naXlB9vhu-5W27w"
+            }
+        },
+        "statistics": {
+            "viewCount": "1845427",
+            "subscriberCount": "4530",
+            "hiddenSubscriberCount": false,
+            "videoCount": "496"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Wellington Juku",
+                "description": "Comedic videos , standup , and Funny relationship advice ."
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

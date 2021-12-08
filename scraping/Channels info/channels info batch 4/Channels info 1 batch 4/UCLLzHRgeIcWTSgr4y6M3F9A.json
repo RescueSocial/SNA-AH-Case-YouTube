@@ -1,0 +1,72 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "13qxygCW3NEOKFYXXiTr1dbB_Nk",
+        "id": "UCLLzHRgeIcWTSgr4y6M3F9A",
+        "snippet": {
+            "title": "Marisol Ortega",
+            "description": "",
+            "publishedAt": "2013-03-05T20:07:19Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLR77GTbg5_oaomS55s2AwSeEo8fbLV_JS8GjOObKg=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLR77GTbg5_oaomS55s2AwSeEo8fbLV_JS8GjOObKg=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLR77GTbg5_oaomS55s2AwSeEo8fbLV_JS8GjOObKg=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Marisol Ortega",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UULLzHRgeIcWTSgr4y6M3F9A"
+            }
+        },
+        "statistics": {
+            "viewCount": "103636",
+            "hiddenSubscriberCount": true,
+            "videoCount": "1350"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/019_rr",
+                "/m/0f2f9",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                "https://en.wikipedia.org/wiki/Television_program",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Marisol Ortega",
+                "keywords": "Reality Star",
+                "unsubscribedTrailer": "namf7TMzDFE"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/xAY1MjlCIGSRGzcP2HvmP3ufyupVwN5uYc2lty6VO2S2o733H4gWR8Bw-f9qc_7wL1Hk9JMnVAI"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

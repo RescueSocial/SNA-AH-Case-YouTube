@@ -1,0 +1,69 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "nkNujJGXwIJFfhTRLHmEcQamI0w",
+        "id": "UCmx7N8fQkdXr-6g4GWSjiYQ",
+        "snippet": {
+            "title": "Casey North",
+            "description": "",
+            "publishedAt": "2016-08-31T06:58:49Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQ5HjZNgks5JutCh6_U2vNNSOFymR3mKjC-3tsO=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQ5HjZNgks5JutCh6_U2vNNSOFymR3mKjC-3tsO=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQ5HjZNgks5JutCh6_U2vNNSOFymR3mKjC-3tsO=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Casey North",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUmx7N8fQkdXr-6g4GWSjiYQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "91459",
+            "subscriberCount": "33",
+            "hiddenSubscriberCount": false,
+            "videoCount": "8"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Casey North"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/js8m-SjmP2PS278rfvTWnQLqmliMBLRXp0OgUyqcUzPXn-NJuJ5gcL_G3x7kXV-DxOdJcBfae9A"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

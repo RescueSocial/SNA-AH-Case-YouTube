@@ -1,0 +1,69 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "UfJOCNmwha18ao4AjsN4kpPfalM",
+        "id": "UCCT3YXNA3VSM1WXjh2i-12Q",
+        "snippet": {
+            "title": "News of the World",
+            "description": "Daily news from all around the world. ",
+            "publishedAt": "2020-02-04T23:04:33.904449Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/bwMMMHIRn8U7Rp69dS41fGwpW5mhMUTHT-1WU84Wlkw5mWkMpU99UhWWuY2NHeTuZ56qeG4l5A=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/bwMMMHIRn8U7Rp69dS41fGwpW5mhMUTHT-1WU84Wlkw5mWkMpU99UhWWuY2NHeTuZ56qeG4l5A=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/bwMMMHIRn8U7Rp69dS41fGwpW5mhMUTHT-1WU84Wlkw5mWkMpU99UhWWuY2NHeTuZ56qeG4l5A=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "News of the World",
+                "description": "Daily news from all around the world. "
+            },
+            "country": "ES"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUCT3YXNA3VSM1WXjh2i-12Q"
+            }
+        },
+        "statistics": {
+            "viewCount": "491039",
+            "subscriberCount": "1320",
+            "hiddenSubscriberCount": false,
+            "videoCount": "12973"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "News of the World",
+                "description": "Daily news from all around the world. ",
+                "keywords": "news reddit",
+                "country": "ES"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

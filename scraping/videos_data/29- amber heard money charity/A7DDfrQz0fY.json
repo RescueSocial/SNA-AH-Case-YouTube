@@ -1,0 +1,74 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "Af2XeiDxAmnAYzkOwA_sJhXrPFc",
+        "id": "A7DDfrQz0fY",
+        "snippet": {
+            "publishedAt": "2021-12-04T01:54:20Z",
+            "channelId": "UCeX20-rTnN46DUD6C7IplWg",
+            "title": "News 3 Now Live at Four: December 3, 2021",
+            "description": "WISC-TV/Channel3000.com",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/A7DDfrQz0fY/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/A7DDfrQz0fY/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/A7DDfrQz0fY/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/A7DDfrQz0fY/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/A7DDfrQz0fY/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Channel 3000 / News 3 Now",
+            "tags": [
+                "newscast"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "News 3 Now Live at Four: December 3, 2021",
+                "description": "WISC-TV/Channel3000.com"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT58M21S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "68",
+            "likeCount": "0",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

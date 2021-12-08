@@ -1,0 +1,80 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "dao0MFIIzHBCBdUerxJgytP93YI",
+        "id": "UCoehRqkqt8QGZCWPrXxltXg",
+        "snippet": {
+            "title": "journeyVEVO",
+            "description": "Journey on Vevo - Official Music Videos, Live Performances, Interviews and more...",
+            "publishedAt": "2009-09-02T23:37:34Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLT3yQe1uvs_H-IREn067rQuklMAm-Hm9blTq1kXmg=s88-c-k-c0x00ffffff-no-rj-mo",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLT3yQe1uvs_H-IREn067rQuklMAm-Hm9blTq1kXmg=s240-c-k-c0x00ffffff-no-rj-mo",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLT3yQe1uvs_H-IREn067rQuklMAm-Hm9blTq1kXmg=s800-c-k-c0x00ffffff-no-rj-mo",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "journeyVEVO",
+                "description": "Journey on Vevo - Official Music Videos, Live Performances, Interviews and more..."
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUoehRqkqt8QGZCWPrXxltXg"
+            }
+        },
+        "statistics": {
+            "viewCount": "1109555357",
+            "subscriberCount": "453000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "61"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/04rlf",
+                "/m/06by7",
+                "/m/064t9"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Music",
+                "https://en.wikipedia.org/wiki/Rock_music",
+                "https://en.wikipedia.org/wiki/Pop_music"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "journeyVEVO",
+                "description": "Journey on Vevo - Official Music Videos, Live Performances, Interviews and more...",
+                "keywords": "vevo music video official",
+                "unsubscribedTrailer": "OMD8hBsA-RI",
+                "defaultLanguage": "en"
+            }
+        },
+        "contentOwnerDetails": {},
+        "localizations": {
+            "en_US": {
+                "title": "journeyVEVO",
+                "description": "Journey on Vevo - Official Music Videos, Live Performances, Interviews and more..."
+            }
+        }
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "Op9p-caoKs6bitJY_t9EGdaHUGI",
+        "id": "UCnxEiSk7LsbbN01rsErhh4A",
+        "snippet": {
+            "title": "The Eddie Brock Report",
+            "description": "",
+            "publishedAt": "2021-01-30T02:54:54.77894Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSzIESeMeethhwYiWc2DZDOJ7pRcz8Czt433LT_=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSzIESeMeethhwYiWc2DZDOJ7pRcz8Czt433LT_=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSzIESeMeethhwYiWc2DZDOJ7pRcz8Czt433LT_=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "The Eddie Brock Report",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUnxEiSk7LsbbN01rsErhh4A"
+            }
+        },
+        "statistics": {
+            "viewCount": "214437",
+            "subscriberCount": "387",
+            "hiddenSubscriberCount": false,
+            "videoCount": "187"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/019_rr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "The Eddie Brock Report"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

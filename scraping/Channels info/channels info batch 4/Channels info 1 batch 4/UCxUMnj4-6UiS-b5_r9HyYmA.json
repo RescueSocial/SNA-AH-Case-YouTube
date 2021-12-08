@@ -1,0 +1,66 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "iJ5PJFPjZ1RBJCPxqdR9QVJKU1g",
+        "id": "UCxUMnj4-6UiS-b5_r9HyYmA",
+        "snippet": {
+            "title": "88Mrpups",
+            "description": "",
+            "publishedAt": "2013-04-01T11:24:23Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQLfb0rjGSSYTSOZPKaOW1xWtH3MNcQW0EPFg=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQLfb0rjGSSYTSOZPKaOW1xWtH3MNcQW0EPFg=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQLfb0rjGSSYTSOZPKaOW1xWtH3MNcQW0EPFg=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "88Mrpups",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUxUMnj4-6UiS-b5_r9HyYmA"
+            }
+        },
+        "statistics": {
+            "viewCount": "45652",
+            "subscriberCount": "34",
+            "hiddenSubscriberCount": false,
+            "videoCount": "214"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "88Mrpups"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

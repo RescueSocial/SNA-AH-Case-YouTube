@@ -1,0 +1,66 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "TYCA-pVFxvnjyH7zfXP424VoAoA",
+        "id": "UC0wKlhu52D0G-9mt8ZdHxCg",
+        "snippet": {
+            "title": "Javed",
+            "description": "",
+            "publishedAt": "2016-04-05T15:55:22Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTfqmNT_310EH5dB4Yl7GULXREeLl79rUQ0Wg=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTfqmNT_310EH5dB4Yl7GULXREeLl79rUQ0Wg=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTfqmNT_310EH5dB4Yl7GULXREeLl79rUQ0Wg=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Javed",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU0wKlhu52D0G-9mt8ZdHxCg"
+            }
+        },
+        "statistics": {
+            "viewCount": "672509",
+            "subscriberCount": "365",
+            "hiddenSubscriberCount": false,
+            "videoCount": "1668"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Javed"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

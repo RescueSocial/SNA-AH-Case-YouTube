@@ -1,0 +1,72 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "QRxf1_qnmiE5GRdzbmsTit3LQjk",
+        "id": "UCOr_eKBC1cMjvPdzvxnwv-A",
+        "snippet": {
+            "title": "On Set",
+            "description": "Photos from the filming, video, etc.",
+            "publishedAt": "2017-03-12T07:33:12Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTfatWEeu1-sEUl7LQM409zqKUAY4oZBbfMMmKu=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTfatWEeu1-sEUl7LQM409zqKUAY4oZBbfMMmKu=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTfatWEeu1-sEUl7LQM409zqKUAY4oZBbfMMmKu=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "On Set",
+                "description": "Photos from the filming, video, etc."
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUOr_eKBC1cMjvPdzvxnwv-A"
+            }
+        },
+        "statistics": {
+            "viewCount": "59206",
+            "subscriberCount": "71",
+            "hiddenSubscriberCount": false,
+            "videoCount": "91"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "On Set",
+                "description": "Photos from the filming, video, etc.",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/55JSwiMAQs0r-yGhpUqBP41k81CHSMqi2E2rBqt69oy3Px_8iSb2EmbOfnTklYH9_WU4YUgjhYg"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

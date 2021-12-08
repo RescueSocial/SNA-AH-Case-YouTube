@@ -1,0 +1,68 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "JUVZiYI8gZxH8wOdzksg8roUM0c",
+        "id": "UCNIzYxA6BW7mCNvynlhShuA",
+        "snippet": {
+            "title": "THROUGH THE GRIFFINSCOPE",
+            "description": "",
+            "publishedAt": "2021-04-25T22:38:48.824754Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLS1yWHmckKN3BajUfOUzTvHRlMxhaXnHSb_KvST=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLS1yWHmckKN3BajUfOUzTvHRlMxhaXnHSb_KvST=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLS1yWHmckKN3BajUfOUzTvHRlMxhaXnHSb_KvST=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "THROUGH THE GRIFFINSCOPE",
+                "description": ""
+            },
+            "country": "GB"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUNIzYxA6BW7mCNvynlhShuA"
+            }
+        },
+        "statistics": {
+            "viewCount": "2086564",
+            "subscriberCount": "7710",
+            "hiddenSubscriberCount": false,
+            "videoCount": "339"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/019_rr",
+                "/m/0kt51"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                "https://en.wikipedia.org/wiki/Health"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "THROUGH THE GRIFFINSCOPE",
+                "country": "GB"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

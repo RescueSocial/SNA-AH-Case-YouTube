@@ -1,0 +1,76 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "s0PJGmajUqL5UgxgboBC0iGH6iw",
+        "id": "UC_YFbvKedjnVjqrZqBR4L8Q",
+        "snippet": {
+            "title": "News4JAX",
+            "description": "News4Jax WJXT4 The Local Station -- the most trusted source for local news in Northeast Florida and Southeast Georgia.",
+            "customUrl": "news4jax",
+            "publishedAt": "2017-07-03T20:51:48Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLT2FEuXNLX7S0Tc70wBzHkrkfIcp6bUpsY-e7CM=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLT2FEuXNLX7S0Tc70wBzHkrkfIcp6bUpsY-e7CM=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLT2FEuXNLX7S0Tc70wBzHkrkfIcp6bUpsY-e7CM=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "News4JAX",
+                "description": "News4Jax WJXT4 The Local Station -- the most trusted source for local news in Northeast Florida and Southeast Georgia."
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU_YFbvKedjnVjqrZqBR4L8Q"
+            }
+        },
+        "statistics": {
+            "viewCount": "192702888",
+            "subscriberCount": "231000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "61751"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "News4JAX",
+                "description": "News4Jax WJXT4 The Local Station -- the most trusted source for local news in Northeast Florida and Southeast Georgia.",
+                "keywords": "Jacksonville Florida news News4Jax WJXT WCWJ",
+                "trackingAnalyticsAccountId": "UA-17700581-22",
+                "moderateComments": true,
+                "unsubscribedTrailer": "r0eJYcglqxw",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/8CTgjZhj-K4YC7Fz3NH5Fht6SFnmcf7N3UuDQHUieTfwSo6ZnR0t2bzo3kjy4OuCWK8xOk3AJEU"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "QWc4jn4fj8ibxoytTKeQEobsC18",
+        "id": "UCVkChok5mGRkbe5mZ-kI38A",
+        "snippet": {
+            "title": "Al Crespo",
+            "description": "",
+            "publishedAt": "2011-01-07T10:19:59Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSbRSsOWfWIXPPsHIBHs4C8DKaBxuhw_fiTPiZU=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSbRSsOWfWIXPPsHIBHs4C8DKaBxuhw_fiTPiZU=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSbRSsOWfWIXPPsHIBHs4C8DKaBxuhw_fiTPiZU=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Al Crespo",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUVkChok5mGRkbe5mZ-kI38A"
+            }
+        },
+        "statistics": {
+            "viewCount": "669584",
+            "subscriberCount": "302",
+            "hiddenSubscriberCount": false,
+            "videoCount": "785"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr",
+                "/m/05qt0"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society",
+                "https://en.wikipedia.org/wiki/Politics"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Al Crespo"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/C4FsiHyPM6ddYxhFK75XkPGFfv73mS2-_AN7gSWww3wMby_YpgdTRTr6xgm4R1csNTSgqmpr"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

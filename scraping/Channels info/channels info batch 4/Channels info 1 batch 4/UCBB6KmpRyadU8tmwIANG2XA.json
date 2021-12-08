@@ -1,0 +1,72 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "9jg4Qj4gLi-pvFRAVmOU-k_QWsg",
+        "id": "UCBB6KmpRyadU8tmwIANG2XA",
+        "snippet": {
+            "title": "Parallel Universal Studios",
+            "description": "Welcome to the Twilight Zone. Here you will see alternate realities. A world parallel to your own.",
+            "publishedAt": "2020-05-27T17:47:44.707502Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTgMy95rlseksPWkuEvvRT2gqHZwbWzqnToweqz=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTgMy95rlseksPWkuEvvRT2gqHZwbWzqnToweqz=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTgMy95rlseksPWkuEvvRT2gqHZwbWzqnToweqz=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Parallel Universal Studios",
+                "description": "Welcome to the Twilight Zone. Here you will see alternate realities. A world parallel to your own."
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUBB6KmpRyadU8tmwIANG2XA"
+            }
+        },
+        "statistics": {
+            "viewCount": "4710",
+            "subscriberCount": "30",
+            "hiddenSubscriberCount": false,
+            "videoCount": "2"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Parallel Universal Studios",
+                "description": "Welcome to the Twilight Zone. Here you will see alternate realities. A world parallel to your own.",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/fg-_quDTecVOVIUMRnJVmdIfhNWfwhtOMYhEls_NB5Z2h3XNt6EoqSajtNQhe0GHKuHbM9027f4"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

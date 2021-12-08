@@ -1,0 +1,64 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "mlpVxSOko7Xo0D4b48nUTGv3vmE",
+        "id": "UCvMsNZdbtuFKOCkF0rhXdYA",
+        "snippet": {
+            "title": "Tom Hunt",
+            "description": "",
+            "publishedAt": "2018-12-10T16:33:54Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSIVKVaMEleKDE3pr6txhYxOvK8uKb0OStbxg=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSIVKVaMEleKDE3pr6txhYxOvK8uKb0OStbxg=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSIVKVaMEleKDE3pr6txhYxOvK8uKb0OStbxg=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Tom Hunt",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUvMsNZdbtuFKOCkF0rhXdYA"
+            }
+        },
+        "statistics": {
+            "viewCount": "51",
+            "subscriberCount": "0",
+            "hiddenSubscriberCount": false,
+            "videoCount": "4"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/019_rr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Tom Hunt"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

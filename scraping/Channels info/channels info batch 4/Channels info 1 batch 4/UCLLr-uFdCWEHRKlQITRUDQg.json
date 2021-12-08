@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "F05VAhfxvfJaTQ0ngf2D-6EPibQ",
+        "id": "UCLLr-uFdCWEHRKlQITRUDQg",
+        "snippet": {
+            "title": "Shut The Muck Up",
+            "description": "",
+            "customUrl": "shutthemuckup",
+            "publishedAt": "2017-09-10T01:21:08Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQFghgImeB6MbyF2xoW4-kKoRrDYzTDxZG5Y3q8pg=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQFghgImeB6MbyF2xoW4-kKoRrDYzTDxZG5Y3q8pg=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQFghgImeB6MbyF2xoW4-kKoRrDYzTDxZG5Y3q8pg=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Shut The Muck Up",
+                "description": ""
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UULLr-uFdCWEHRKlQITRUDQg"
+            }
+        },
+        "statistics": {
+            "viewCount": "6099900",
+            "subscriberCount": "5470",
+            "hiddenSubscriberCount": false,
+            "videoCount": "196"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/019_rr",
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Shut The Muck Up",
+                "country": "US"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "d-hLYmGEkes2uS37wK4ppe7ngjw",
+        "id": "UCcA6sKBFLbN4Xo4jfqs40zw",
+        "snippet": {
+            "title": "KateNashVEVO",
+            "description": "",
+            "publishedAt": "2009-05-12T05:28:22Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/56HH1H-AQdTC03h2DOy9i-eNN8sZGGsRUW9pRDD-En_6YVXYIuCrnS6q5r31I3wtnw3eznUemZE=s88-c-k-c0x00ffffff-no-nd-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/56HH1H-AQdTC03h2DOy9i-eNN8sZGGsRUW9pRDD-En_6YVXYIuCrnS6q5r31I3wtnw3eznUemZE=s240-c-k-c0x00ffffff-no-nd-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/56HH1H-AQdTC03h2DOy9i-eNN8sZGGsRUW9pRDD-En_6YVXYIuCrnS6q5r31I3wtnw3eznUemZE=s800-c-k-c0x00ffffff-no-nd-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "KateNashVEVO",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUcA6sKBFLbN4Xo4jfqs40zw"
+            }
+        },
+        "statistics": {
+            "viewCount": "41675138",
+            "subscriberCount": "56400",
+            "hiddenSubscriberCount": false,
+            "videoCount": "26"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/064t9",
+                "/m/05rwpb",
+                "/m/04rlf"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Pop_music",
+                "https://en.wikipedia.org/wiki/Independent_music",
+                "https://en.wikipedia.org/wiki/Music"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "KateNashVEVO",
+                "unsubscribedTrailer": "VYuIzoq0K2E"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

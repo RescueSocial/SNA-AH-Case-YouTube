@@ -1,0 +1,66 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "TBZw0RTCZVU3mgYwBp-xTqddTLU",
+        "id": "UCVldB3WuiHHxZndA3yLSRGQ",
+        "snippet": {
+            "title": "FILM T&N",
+            "description": "",
+            "publishedAt": "2018-12-01T14:30:55Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTE6LAE3DkutcgFEZa1mju1Dr-T0w4fRz2xOA3B=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTE6LAE3DkutcgFEZa1mju1Dr-T0w4fRz2xOA3B=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTE6LAE3DkutcgFEZa1mju1Dr-T0w4fRz2xOA3B=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "FILM T&N",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUVldB3WuiHHxZndA3yLSRGQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "49239",
+            "subscriberCount": "73",
+            "hiddenSubscriberCount": false,
+            "videoCount": "15"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "FILM T&N"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

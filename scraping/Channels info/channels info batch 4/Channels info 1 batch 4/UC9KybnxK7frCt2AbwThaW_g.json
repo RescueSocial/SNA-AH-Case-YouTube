@@ -1,0 +1,74 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "fuYvEYcIP0KEuvgkz1r2YCIF1qY",
+        "id": "UC9KybnxK7frCt2AbwThaW_g",
+        "snippet": {
+            "title": "Medium Rare",
+            "description": "Medium Rare is an internet news & commentary show hosted by ragreynolds.",
+            "customUrl": "mediumrarerag",
+            "publishedAt": "2017-07-07T11:57:11Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLS6Ko17BMiP2hBKU98ig63IVJ9Z4sJGtyKfTI33=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLS6Ko17BMiP2hBKU98ig63IVJ9Z4sJGtyKfTI33=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLS6Ko17BMiP2hBKU98ig63IVJ9Z4sJGtyKfTI33=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Medium Rare",
+                "description": "Medium Rare is an internet news & commentary show hosted by ragreynolds."
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU9KybnxK7frCt2AbwThaW_g"
+            }
+        },
+        "statistics": {
+            "viewCount": "1040968",
+            "subscriberCount": "9100",
+            "hiddenSubscriberCount": false,
+            "videoCount": "170"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Medium Rare",
+                "description": "Medium Rare is an internet news & commentary show hosted by ragreynolds.",
+                "keywords": "drama commentary \"youtube news\" ragreynolds \"medium rare\"",
+                "moderateComments": true,
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/QZVZHWCNyWBketya3gF6FzOFhG8JEtQvFSJAV4QoCTFWRdKGyZDCERs4D6PQQINiD4wuwUxRQQ"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

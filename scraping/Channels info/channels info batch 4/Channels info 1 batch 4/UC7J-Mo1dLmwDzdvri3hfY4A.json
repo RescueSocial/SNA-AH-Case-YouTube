@@ -1,0 +1,68 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "LsSnERNzLOM85ugNTE0mExMCKg0",
+        "id": "UC7J-Mo1dLmwDzdvri3hfY4A",
+        "snippet": {
+            "title": "Dhamo Edit",
+            "description": "",
+            "publishedAt": "2021-02-04T12:30:19.783017Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTKKnuCjnErcMd1jL8Aj6i_0joTLqLXyyMVy6c-=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTKKnuCjnErcMd1jL8Aj6i_0joTLqLXyyMVy6c-=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTKKnuCjnErcMd1jL8Aj6i_0joTLqLXyyMVy6c-=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Dhamo Edit",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU7J-Mo1dLmwDzdvri3hfY4A"
+            }
+        },
+        "statistics": {
+            "viewCount": "154045",
+            "hiddenSubscriberCount": true,
+            "videoCount": "102"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02vxn",
+                "/m/02jjt",
+                "/m/04rlf"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Music"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Dhamo Edit",
+                "unsubscribedTrailer": "wHgiEcxhDwI"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

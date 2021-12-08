@@ -1,0 +1,74 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "xUzNBtjQiwKaSU42BlwDOUftdZ0",
+        "id": "UCBxW_YYPp3J9LGo-alcWk4g",
+        "snippet": {
+            "title": "VTM",
+            "description": "",
+            "publishedAt": "2021-04-20T08:52:34.330572Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/oTzFvburzOAzrsA3mTzkEUueaaffmCcjKfTLMyIf0rFhKpTyBiyTeqaQD08xbciwYJdhP1GKLaw=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/oTzFvburzOAzrsA3mTzkEUueaaffmCcjKfTLMyIf0rFhKpTyBiyTeqaQD08xbciwYJdhP1GKLaw=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/oTzFvburzOAzrsA3mTzkEUueaaffmCcjKfTLMyIf0rFhKpTyBiyTeqaQD08xbciwYJdhP1GKLaw=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "VTM",
+                "description": ""
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUBxW_YYPp3J9LGo-alcWk4g"
+            }
+        },
+        "statistics": {
+            "viewCount": "657753",
+            "hiddenSubscriberCount": true,
+            "videoCount": "353"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/019_rr",
+                "/m/0f2f9",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                "https://en.wikipedia.org/wiki/Television_program",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "VTM",
+                "unsubscribedTrailer": "u4S-vOVJ4Cw",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/D8UNfLm6-IK9-ELrwaeIOVtUsun1n2pRok1hrLaq6wCOL6c60-TJGts7OAXki7dVuSbgl9Wb"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

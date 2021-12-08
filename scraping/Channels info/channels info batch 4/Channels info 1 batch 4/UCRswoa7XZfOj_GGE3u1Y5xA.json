@@ -1,0 +1,67 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "dgD7wVStcJEEQB55g3zYMCUGTDw",
+        "id": "UCRswoa7XZfOj_GGE3u1Y5xA",
+        "snippet": {
+            "title": "STATUS WILD",
+            "description": "",
+            "publishedAt": "2021-03-23T14:24:46.803492Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/nsg4W9z-v1T8nuM-GbbTbEusvA2zLAvRWPz-5-BwPAWgBJm0vyrRDVYAEKHvMw9wjKHMFBbqcQ=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/nsg4W9z-v1T8nuM-GbbTbEusvA2zLAvRWPz-5-BwPAWgBJm0vyrRDVYAEKHvMw9wjKHMFBbqcQ=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/nsg4W9z-v1T8nuM-GbbTbEusvA2zLAvRWPz-5-BwPAWgBJm0vyrRDVYAEKHvMw9wjKHMFBbqcQ=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "STATUS WILD",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UURswoa7XZfOj_GGE3u1Y5xA"
+            }
+        },
+        "statistics": {
+            "viewCount": "5273",
+            "subscriberCount": "19",
+            "hiddenSubscriberCount": false,
+            "videoCount": "171"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/04rlf",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Music",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "STATUS WILD",
+                "keywords": "Reel Rells \"Whatsapp status\" Youtube \"Trending via\" Trend Trending"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

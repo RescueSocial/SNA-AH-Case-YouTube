@@ -1,0 +1,75 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "YZT5ZHvl8VEPqKTD7aAfsq9tXKo",
+        "id": "UCQMr7OFh4vRa71EcDuwJNCA",
+        "snippet": {
+            "title": "Pandora US",
+            "description": "workmanager07@gmail.com",
+            "publishedAt": "2020-12-18T14:35:23.565136Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQ50aTbJ_gmGsO0jr_TnOoxW1_tkO6ZT7_1XcYk=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQ50aTbJ_gmGsO0jr_TnOoxW1_tkO6ZT7_1XcYk=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQ50aTbJ_gmGsO0jr_TnOoxW1_tkO6ZT7_1XcYk=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Pandora US",
+                "description": "workmanager07@gmail.com"
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUQMr7OFh4vRa71EcDuwJNCA"
+            }
+        },
+        "statistics": {
+            "viewCount": "5432089",
+            "subscriberCount": "14300",
+            "hiddenSubscriberCount": false,
+            "videoCount": "107"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/019_rr",
+                "/m/01k8wb",
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                "https://en.wikipedia.org/wiki/Knowledge",
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Pandora US",
+                "description": "workmanager07@gmail.com",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/aoXfuRrTtY_ABfW0wI3ZRZD1lCmoHBUJoI5wUpfEiRvQanJw8JD0bu-2CQMOcSHBPO_Gj0gmQoY"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

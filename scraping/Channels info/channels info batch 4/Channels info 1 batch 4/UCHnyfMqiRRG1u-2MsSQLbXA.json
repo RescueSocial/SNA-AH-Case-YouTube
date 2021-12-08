@@ -1,0 +1,76 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "foTVU-I3xm3tJ_kLNo2N6p3IH2Q",
+        "id": "UCHnyfMqiRRG1u-2MsSQLbXA",
+        "snippet": {
+            "title": "Veritasium",
+            "description": "An element of truth - videos about science, education, and anything else I find interesting.",
+            "customUrl": "veritasium",
+            "publishedAt": "2010-07-21T07:18:02Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQc01e109GiUGTWt6ALCJ6fEs-q8542L87r9E31VQ=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQc01e109GiUGTWt6ALCJ6fEs-q8542L87r9E31VQ=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQc01e109GiUGTWt6ALCJ6fEs-q8542L87r9E31VQ=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Veritasium",
+                "description": "An element of truth - videos about science, education, and anything else I find interesting."
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUHnyfMqiRRG1u-2MsSQLbXA"
+            }
+        },
+        "statistics": {
+            "viewCount": "1457918993",
+            "subscriberCount": "11000000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "327"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/01k8wb",
+                "/m/019_rr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Knowledge",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Veritasium",
+                "description": "An element of truth - videos about science, education, and anything else I find interesting.",
+                "keywords": "\"science videos\" science \"science education\" \"science literacy\" veritasium misconceptions physics education astronomy \"science songs\" chemistry biology teaching learning",
+                "unsubscribedTrailer": "HeQX2HjkcNo",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/a1xsCZios_8WImF2U6EANw1EZS0lXi9NEx5cLbrEp8w9mv5FJFMu5494fBm-OpJujgte4AvyZg"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

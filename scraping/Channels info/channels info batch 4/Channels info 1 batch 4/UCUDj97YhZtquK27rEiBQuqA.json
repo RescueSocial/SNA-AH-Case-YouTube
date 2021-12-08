@@ -1,0 +1,77 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "3ClnXsbG4wdG8mUaxAcXC55jnpg",
+        "id": "UCUDj97YhZtquK27rEiBQuqA",
+        "snippet": {
+            "title": "TOPFAMOUSMOVIES",
+            "description": "",
+            "customUrl": "topfamousmovies",
+            "publishedAt": "2016-12-23T16:13:57Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSv-GAcwWhZoxaPO3JQDiW_6RyD8cKw7LwwatOp=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSv-GAcwWhZoxaPO3JQDiW_6RyD8cKw7LwwatOp=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSv-GAcwWhZoxaPO3JQDiW_6RyD8cKw7LwwatOp=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "TOPFAMOUSMOVIES",
+                "description": ""
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUUDj97YhZtquK27rEiBQuqA"
+            }
+        },
+        "statistics": {
+            "viewCount": "455422",
+            "subscriberCount": "1020",
+            "hiddenSubscriberCount": false,
+            "videoCount": "7"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02vxn",
+                "/m/02jjt",
+                "/m/02lkt",
+                "/m/04rlf"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Electronic_music",
+                "https://en.wikipedia.org/wiki/Music"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "TOPFAMOUSMOVIES",
+                "keywords": "TOP FAMOUS MOVIES",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/tM9DtVKJaO4a0YHB7jT9UVdbNEbp5nS9EI8XCNKNoQ8EKU7JWkEEHkOtA1yI9mijY0ffXoIjvUw"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

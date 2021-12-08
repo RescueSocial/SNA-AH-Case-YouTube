@@ -1,0 +1,69 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "q8Avi2uZcrKfQy5DRc4GaBfnzMM",
+        "id": "UCWNB8Y-pVHuj_jl2cr02dVA",
+        "snippet": {
+            "title": "Today News",
+            "description": "Hot News  from all around the world!",
+            "publishedAt": "2016-08-17T17:29:00Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSgFdB1NMM4LNn83LzlFl-lWwm3IdJdDoi-h5Q9=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSgFdB1NMM4LNn83LzlFl-lWwm3IdJdDoi-h5Q9=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSgFdB1NMM4LNn83LzlFl-lWwm3IdJdDoi-h5Q9=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Today News",
+                "description": "Hot News  from all around the world!"
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUWNB8Y-pVHuj_jl2cr02dVA"
+            }
+        },
+        "statistics": {
+            "viewCount": "89940",
+            "subscriberCount": "65",
+            "hiddenSubscriberCount": false,
+            "videoCount": "11"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Today News",
+                "description": "Hot News  from all around the world!",
+                "keywords": "Today News"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/yQGkvIEFvVn8pprPR_ZKkjexa6o_bdAkNY59rDIa-8YyyFMdv86Aai4empgbpJwt40ubIYV4VQ"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

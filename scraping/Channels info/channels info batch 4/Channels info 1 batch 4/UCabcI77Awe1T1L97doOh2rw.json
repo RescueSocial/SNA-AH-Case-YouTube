@@ -1,0 +1,66 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "fFYWPpg15kNWOIjVXgqL8R9XCA8",
+        "id": "UCabcI77Awe1T1L97doOh2rw",
+        "snippet": {
+            "title": "beats_dp",
+            "description": "",
+            "publishedAt": "2021-01-04T06:50:03.363741Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLT5lYqdP6mr7rl2mc4uUQbSCSPY35oVeqX0aiHM=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLT5lYqdP6mr7rl2mc4uUQbSCSPY35oVeqX0aiHM=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLT5lYqdP6mr7rl2mc4uUQbSCSPY35oVeqX0aiHM=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "beats_dp",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUabcI77Awe1T1L97doOh2rw"
+            }
+        },
+        "statistics": {
+            "viewCount": "221798435",
+            "subscriberCount": "271000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "181"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/04rlf",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Music",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "beats_dp"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

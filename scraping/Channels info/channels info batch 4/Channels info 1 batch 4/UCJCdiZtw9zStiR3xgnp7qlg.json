@@ -1,0 +1,72 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "Aq56UAoxjP_NdrGVuzX6vvmjHVc",
+        "id": "UCJCdiZtw9zStiR3xgnp7qlg",
+        "snippet": {
+            "title": "First Coast News",
+            "description": "The official YouTube channel of First Coast News, NBC 12/ABC 25 in Jacksonville, Florida.",
+            "customUrl": "firstcoastnews",
+            "publishedAt": "2016-10-07T17:43:47Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQD37OFzjSI4RP-zWuqMV1KSM2t5qnzLZFX2_ER=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQD37OFzjSI4RP-zWuqMV1KSM2t5qnzLZFX2_ER=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQD37OFzjSI4RP-zWuqMV1KSM2t5qnzLZFX2_ER=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "First Coast News",
+                "description": "The official YouTube channel of First Coast News, NBC 12/ABC 25 in Jacksonville, Florida."
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUJCdiZtw9zStiR3xgnp7qlg"
+            }
+        },
+        "statistics": {
+            "viewCount": "63463032",
+            "hiddenSubscriberCount": true,
+            "videoCount": "32881"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "First Coast News",
+                "description": "The official YouTube channel of First Coast News, NBC 12/ABC 25 in Jacksonville, Florida.",
+                "keywords": "WTLV \"First Coast News\"",
+                "moderateComments": true,
+                "unsubscribedTrailer": "sxHcU-MTO2E"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/n82y_sF3YJ92m1MCb6UcWKjXRbPo-GfZJEEPdd89njYgT722OU1N5L-On0cRq09vHpIH_6U50w"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

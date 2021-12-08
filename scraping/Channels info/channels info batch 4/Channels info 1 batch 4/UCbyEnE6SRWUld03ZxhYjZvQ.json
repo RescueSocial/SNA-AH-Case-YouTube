@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "QpghK-7q5HSSn5PKWSf2qt6mi7A",
+        "id": "UCbyEnE6SRWUld03ZxhYjZvQ",
+        "snippet": {
+            "title": "arkansasonline",
+            "description": "",
+            "publishedAt": "2007-07-10T15:43:04Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQBKREY2xJ8ILQRPLU_4lJJ2m56d8MN94g82R0j7g=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQBKREY2xJ8ILQRPLU_4lJJ2m56d8MN94g82R0j7g=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQBKREY2xJ8ILQRPLU_4lJJ2m56d8MN94g82R0j7g=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "arkansasonline",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUbyEnE6SRWUld03ZxhYjZvQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "6983589",
+            "subscriberCount": "6800",
+            "hiddenSubscriberCount": false,
+            "videoCount": "1535"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/019_rr",
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "arkansasonline",
+                "trackingAnalyticsAccountId": "UA 85037855-1"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/2cOKYja67P8nMPuK2OEBl829lwjfJv5MbTF0f8_AEkCbC21Wuix9uTOgveudqa7A_EqTtPRuSQ"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "3yS1mFFeaMW2fMdlI79iinh4M7s",
+        "id": "UCVbAPwEFqoHjyedAIi82Pyw",
+        "snippet": {
+            "title": "Action Cuts",
+            "description": "",
+            "publishedAt": "2020-07-05T14:49:04.098498Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/BEjTIk3OW2c-N9ci3mK2kdSMInlrk9tSNDB8ylPlLivykGm9d3H4wbaZQDLpHAcWnh68G4x4GA=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/BEjTIk3OW2c-N9ci3mK2kdSMInlrk9tSNDB8ylPlLivykGm9d3H4wbaZQDLpHAcWnh68G4x4GA=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/BEjTIk3OW2c-N9ci3mK2kdSMInlrk9tSNDB8ylPlLivykGm9d3H4wbaZQDLpHAcWnh68G4x4GA=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Action Cuts",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUVbAPwEFqoHjyedAIi82Pyw"
+            }
+        },
+        "statistics": {
+            "viewCount": "29846",
+            "subscriberCount": "241",
+            "hiddenSubscriberCount": false,
+            "videoCount": "94"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02vxn",
+                "/m/04rlf",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Music",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Action Cuts",
+                "keywords": "Action Cuts \"#Action Cuts\" \"Action Cuts\" \"#Action Shorts\" \"#Action Status\""
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "K6g5kyt2TT2YX0aP3lzaWM-Tryw",
+        "id": "UCVkQ66VFU4h5PUxzP-I35ew",
+        "snippet": {
+            "title": "The Prodigal Heel",
+            "description": "",
+            "publishedAt": "2013-06-05T00:04:04Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQ1AsE7icScZdtnJCE37fIAwxKxgAnJ0tEJpzsspQ=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQ1AsE7icScZdtnJCE37fIAwxKxgAnJ0tEJpzsspQ=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQ1AsE7icScZdtnJCE37fIAwxKxgAnJ0tEJpzsspQ=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "The Prodigal Heel",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUVkQ66VFU4h5PUxzP-I35ew"
+            }
+        },
+        "statistics": {
+            "viewCount": "33149",
+            "subscriberCount": "1400",
+            "hiddenSubscriberCount": false,
+            "videoCount": "316"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "The Prodigal Heel"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/SHi2-mrPNgPuGoi322Nn1hQuqxP_jkIUlhT6FYzJ5iFFyY6WTQRalSh_FsB7WJyQ1fACqGVBZCs"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

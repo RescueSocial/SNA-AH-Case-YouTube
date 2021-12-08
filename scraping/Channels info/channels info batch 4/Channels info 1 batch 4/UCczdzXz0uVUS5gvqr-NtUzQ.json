@@ -1,0 +1,80 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "5pVNxNKmC9x3GirBQJUSH2aA2C0",
+        "id": "UCczdzXz0uVUS5gvqr-NtUzQ",
+        "snippet": {
+            "title": "Daniel Ahonen",
+            "description": "",
+            "publishedAt": "2006-05-11T19:27:03Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQVCrluZtx9ywvZj6YXq2-9-kfEFiIXLkkXUMMQBA=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQVCrluZtx9ywvZj6YXq2-9-kfEFiIXLkkXUMMQBA=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQVCrluZtx9ywvZj6YXq2-9-kfEFiIXLkkXUMMQBA=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Daniel Ahonen",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUczdzXz0uVUS5gvqr-NtUzQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "31399770",
+            "subscriberCount": "31200",
+            "hiddenSubscriberCount": false,
+            "videoCount": "15"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/0bzvm2",
+                "/m/02vxn",
+                "/m/0f2f9",
+                "/m/0403l3g",
+                "/m/02vx4",
+                "/m/02ntfj",
+                "/m/025zzc",
+                "/m/02jjt",
+                "/m/022dc6"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Video_game_culture",
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Television_program",
+                "https://en.wikipedia.org/wiki/Role-playing_video_game",
+                "https://en.wikipedia.org/wiki/Association_football",
+                "https://en.wikipedia.org/wiki/Action-adventure_game",
+                "https://en.wikipedia.org/wiki/Action_game",
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Sports_game"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Daniel Ahonen"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

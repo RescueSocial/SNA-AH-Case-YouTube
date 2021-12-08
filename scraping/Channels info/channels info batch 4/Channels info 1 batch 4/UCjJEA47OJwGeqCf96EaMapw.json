@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "_B7pIMexyWHNKO-upxWsRDtmPXQ",
+        "id": "UCjJEA47OJwGeqCf96EaMapw",
+        "snippet": {
+            "title": "\u0645\u062a\u0646\u0648\u0639\u0627\u062a \u0645\u064a\u062f\u0648 ",
+            "description": "\u0627\u0641\u0644\u0627\u0645 \u0648\u0645\u0633\u0644\u0633\u0644\u0627\u062a ",
+            "publishedAt": "2021-12-01T21:39:51.618412Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/qKd3xQyOPA-5vTf223g6gPE1pLcG7Ew73hVP5XIuPTrG6lpOJHemOYX3wt5oDFQeOFjVdaGV9cQ=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/qKd3xQyOPA-5vTf223g6gPE1pLcG7Ew73hVP5XIuPTrG6lpOJHemOYX3wt5oDFQeOFjVdaGV9cQ=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/qKd3xQyOPA-5vTf223g6gPE1pLcG7Ew73hVP5XIuPTrG6lpOJHemOYX3wt5oDFQeOFjVdaGV9cQ=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "\u0645\u062a\u0646\u0648\u0639\u0627\u062a \u0645\u064a\u062f\u0648 ",
+                "description": "\u0627\u0641\u0644\u0627\u0645 \u0648\u0645\u0633\u0644\u0633\u0644\u0627\u062a "
+            },
+            "country": "EG"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUjJEA47OJwGeqCf96EaMapw"
+            }
+        },
+        "statistics": {
+            "viewCount": "154",
+            "subscriberCount": "11",
+            "hiddenSubscriberCount": false,
+            "videoCount": "7"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/04rlf",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Music",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "\u0645\u062a\u0646\u0648\u0639\u0627\u062a \u0645\u064a\u062f\u0648 ",
+                "description": "\u0627\u0641\u0644\u0627\u0645 \u0648\u0645\u0633\u0644\u0633\u0644\u0627\u062a ",
+                "keywords": "\"\u0642\u0646\u0627\u0647 \u0627\u0641\u0644\u0627\u0645 \u0648\u0645\u0633\u0644\u0633\u0644\u0627\u062a\"",
+                "country": "EG"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "vo013bF5h4JNngIJ50WGZlpaZog",
+        "id": "UC0-9tHeSN5lz4P40DuXkLTQ",
+        "snippet": {
+            "title": "Now Trending",
+            "description": "",
+            "publishedAt": "2016-08-18T02:14:15Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRfWRW7y02Ao0ydD9VhTwWO73scwVhW67ZNzw=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRfWRW7y02Ao0ydD9VhTwWO73scwVhW67ZNzw=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRfWRW7y02Ao0ydD9VhTwWO73scwVhW67ZNzw=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Now Trending",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU0-9tHeSN5lz4P40DuXkLTQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "1781",
+            "subscriberCount": "1",
+            "hiddenSubscriberCount": false,
+            "videoCount": "10"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Now Trending"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

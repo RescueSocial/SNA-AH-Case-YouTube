@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "pRphOoECjA8P8GYBUn5jdv9NrmI",
+        "id": "UCXN6PNVpx8t-7xH5K22lX0g",
+        "snippet": {
+            "title": "Truest Tech",
+            "description": "",
+            "publishedAt": "2019-02-24T14:33:14Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTm9rGPBylUAKAx8friZeJR35CfyMKhNKRYjEw=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTm9rGPBylUAKAx8friZeJR35CfyMKhNKRYjEw=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTm9rGPBylUAKAx8friZeJR35CfyMKhNKRYjEw=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Truest Tech",
+                "description": ""
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUXN6PNVpx8t-7xH5K22lX0g"
+            }
+        },
+        "statistics": {
+            "viewCount": "50305",
+            "subscriberCount": "1020",
+            "hiddenSubscriberCount": false,
+            "videoCount": "36"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/019_rr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Truest Tech",
+                "keywords": "\"In The Tens\" \"In The 10\" \"In The 10s\" \"top tens\" \"top 10\" \"world records\" celebrities celebrity",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/G2t4ujRgqKMvhoLLb4Qnb59qytcZUKrvy7fIn5xvbrF1EXU87boVU_cBGH6wO9HlGO-1rbAzHQ"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

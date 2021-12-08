@@ -1,0 +1,56 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "ZiHW_O2VKdpkdnvcC-JBsX8naY0",
+        "id": "UCg0drFE8XdPMaVNuj6x_djA",
+        "snippet": {
+            "title": "Steve Memferd",
+            "description": "",
+            "publishedAt": "2015-11-24T03:35:47Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRn3K0kMgWbulCbpqBdhx3mSj5twLKFYSTJ7g=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRn3K0kMgWbulCbpqBdhx3mSj5twLKFYSTJ7g=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRn3K0kMgWbulCbpqBdhx3mSj5twLKFYSTJ7g=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Steve Memferd",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUg0drFE8XdPMaVNuj6x_djA"
+            }
+        },
+        "statistics": {
+            "viewCount": "277",
+            "subscriberCount": "0",
+            "hiddenSubscriberCount": false,
+            "videoCount": "1"
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Steve Memferd"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

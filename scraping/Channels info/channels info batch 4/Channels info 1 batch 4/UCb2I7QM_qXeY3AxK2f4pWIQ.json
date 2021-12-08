@@ -1,0 +1,69 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "RaWTmWtxXGqZif5JRPYOkAomPEA",
+        "id": "UCb2I7QM_qXeY3AxK2f4pWIQ",
+        "snippet": {
+            "title": "Angel Egotrip",
+            "description": "",
+            "publishedAt": "2021-06-22T10:14:16.571246Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/upz1g8OX5fbPBzwHymu-Lu9kH0QE9wktMKEZ4cbiQNDvuhHS1KIp4QIP1vprhSoCdkO9XpNTGQ=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/upz1g8OX5fbPBzwHymu-Lu9kH0QE9wktMKEZ4cbiQNDvuhHS1KIp4QIP1vprhSoCdkO9XpNTGQ=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/upz1g8OX5fbPBzwHymu-Lu9kH0QE9wktMKEZ4cbiQNDvuhHS1KIp4QIP1vprhSoCdkO9XpNTGQ=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Angel Egotrip",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUb2I7QM_qXeY3AxK2f4pWIQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "117029",
+            "hiddenSubscriberCount": true,
+            "videoCount": "313"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Angel Egotrip"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/rqGG0favJsFVLlyIr6BaUeJYmQ4_YnGlKPmx7YNazi7z1mcaKLrFaRv_-cGvZ43XkjfWjaFp3w"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

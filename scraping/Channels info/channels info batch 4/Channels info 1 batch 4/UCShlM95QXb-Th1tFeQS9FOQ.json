@@ -1,0 +1,74 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "QovYwV1Bi_71PU3x38a7VCXg2YA",
+        "id": "UCShlM95QXb-Th1tFeQS9FOQ",
+        "snippet": {
+            "title": "Nguyen Binh Tuyen",
+            "description": "This is a news channel.",
+            "publishedAt": "2018-03-04T04:44:31Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQYrpZSbNM6DzWxJWhTLzyNLywtwuX7vureZsbt=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQYrpZSbNM6DzWxJWhTLzyNLywtwuX7vureZsbt=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQYrpZSbNM6DzWxJWhTLzyNLywtwuX7vureZsbt=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Nguyen Binh Tuyen",
+                "description": "This is a news channel."
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUShlM95QXb-Th1tFeQS9FOQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "64396",
+            "subscriberCount": "409",
+            "hiddenSubscriberCount": false,
+            "videoCount": "133"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02lkt",
+                "/m/04rlf"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Electronic_music",
+                "https://en.wikipedia.org/wiki/Music"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Nguyen Binh Tuyen",
+                "description": "This is a news channel.",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/nOWJr4eE5bZ1Uism8iLz9YK08ddK6K1NmJlJt0XOfKaj3Jyy142mjWLSOz01RJhvsNtCI6c1Dg"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

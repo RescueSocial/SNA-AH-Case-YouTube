@@ -1,0 +1,74 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "rgoZoFa0JZ5oKuP0OVri2vOlUJ0",
+        "id": "UCPsSnSR7ymSE8on3wafNbqg",
+        "snippet": {
+            "title": "WSB-TV",
+            "description": "local news and weather",
+            "customUrl": "wsbtv",
+            "publishedAt": "2011-05-06T18:34:45Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSS4zhwIM5Au-JVrwNoCGTmfRaGods3zMmyNepQ2A=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSS4zhwIM5Au-JVrwNoCGTmfRaGods3zMmyNepQ2A=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSS4zhwIM5Au-JVrwNoCGTmfRaGods3zMmyNepQ2A=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "WSB-TV",
+                "description": "local news and weather"
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUPsSnSR7ymSE8on3wafNbqg"
+            }
+        },
+        "statistics": {
+            "viewCount": "199111073",
+            "subscriberCount": "219000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "8623"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "WSB-TV",
+                "description": "local news and weather",
+                "keywords": "atlanta news wsb-tv investigative raw video weather clark howard consumer investigations surveillance channel jovita moore justin farmer",
+                "moderateComments": true,
+                "unsubscribedTrailer": "XtMGqH4SxYQ",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/fEQ64E3r8R0TSzhesJprTLYaBCsUJJUaOCir0erXCPvgs71CqezdJzYmwwluJuMoDQL4Hcqy"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

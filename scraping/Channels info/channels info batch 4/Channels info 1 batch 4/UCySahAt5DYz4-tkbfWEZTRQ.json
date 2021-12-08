@@ -1,0 +1,75 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "q1ku2h3u7y1ACo0sk15IjBxv8c0",
+        "id": "UCySahAt5DYz4-tkbfWEZTRQ",
+        "snippet": {
+            "title": "Internet Curator",
+            "description": "Curating any interesting or trending topics from the internet.",
+            "publishedAt": "2019-11-03T11:36:11.361948Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTDbLq59CAN1biYtr8KFznYXkoBfhCFwzwYtQ=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTDbLq59CAN1biYtr8KFznYXkoBfhCFwzwYtQ=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTDbLq59CAN1biYtr8KFznYXkoBfhCFwzwYtQ=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Internet Curator",
+                "description": "Curating any interesting or trending topics from the internet."
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUySahAt5DYz4-tkbfWEZTRQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "218851",
+            "subscriberCount": "100",
+            "hiddenSubscriberCount": false,
+            "videoCount": "17"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Internet Curator",
+                "description": "Curating any interesting or trending topics from the internet.",
+                "moderateComments": true,
+                "unsubscribedTrailer": "Cl6n2_AM7AE",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/NfLjXTt1ZisMXDE8VycomjH2XemV9XEBvZYfc5lXCRVoDA0nNQEckUk2I56CbQ9V7fYIlXSpbw"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

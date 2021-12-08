@@ -1,0 +1,75 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "RYt5T0xrYxDyNyZ49hkJIsLqM1g",
+        "id": "UClDcFUYzSt0Xbh7oRV_QNCg",
+        "snippet": {
+            "title": "4 NEWS",
+            "description": "News, news online, news fast",
+            "customUrl": "4newsuk",
+            "publishedAt": "2006-08-03T15:14:47Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTahAAEshRNagABrLnbqOiQeUowH8uEBbHHjNta=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTahAAEshRNagABrLnbqOiQeUowH8uEBbHHjNta=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTahAAEshRNagABrLnbqOiQeUowH8uEBbHHjNta=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "4 NEWS",
+                "description": "News, news online, news fast"
+            },
+            "country": "GB"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUlDcFUYzSt0Xbh7oRV_QNCg"
+            }
+        },
+        "statistics": {
+            "viewCount": "83852",
+            "subscriberCount": "846",
+            "hiddenSubscriberCount": false,
+            "videoCount": "413"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02vx4",
+                "/m/098wr",
+                "/m/06ntj"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Association_football",
+                "https://en.wikipedia.org/wiki/Society",
+                "https://en.wikipedia.org/wiki/Sport"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "4 NEWS",
+                "description": "News, news online, news fast",
+                "country": "GB"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/fyYrRX4FwmYH0xxbP_-rzZLRu_bZndVHoZj6NWG6bhGk5G_1-EJrIhfjRMde6um69QN6z_7AbFQ"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

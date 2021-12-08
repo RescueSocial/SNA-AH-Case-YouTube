@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "2D3dl3QFPiuDrJKP79RtLO6kDw4",
+        "id": "UCuZRhV6efE9Kr09-i6dn1ww",
+        "snippet": {
+            "title": "Cinema Shogun",
+            "description": "Honest Reviews and Opinions on the latest Movies/TV Shows and Pop Culture News.",
+            "customUrl": "cinemashogun",
+            "publishedAt": "2021-04-24T21:04:09.12646Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQqmOXU-GIwCeOAs6f_uoO-xz9w3EfBfJAC-MAx=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQqmOXU-GIwCeOAs6f_uoO-xz9w3EfBfJAC-MAx=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQqmOXU-GIwCeOAs6f_uoO-xz9w3EfBfJAC-MAx=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Cinema Shogun",
+                "description": "Honest Reviews and Opinions on the latest Movies/TV Shows and Pop Culture News."
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUuZRhV6efE9Kr09-i6dn1ww"
+            }
+        },
+        "statistics": {
+            "viewCount": "7187427",
+            "subscriberCount": "34800",
+            "hiddenSubscriberCount": false,
+            "videoCount": "332"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr",
+                "/m/019_rr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Cinema Shogun",
+                "description": "Honest Reviews and Opinions on the latest Movies/TV Shows and Pop Culture News.",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/h5bXNrvDw6IHtAsn3AyZZqbscr47VPEux5wpjC-ATCEOUhvFhonO-pyZl7vAWi5Jw981yDHwDIo"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

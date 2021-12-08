@@ -1,0 +1,66 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "VW_lOt2apgRXjiRH5MZHRnI7u-w",
+        "id": "UC0U8tmHFHbyuYc18APnnyzg",
+        "snippet": {
+            "title": "fishTv",
+            "description": "",
+            "publishedAt": "2015-05-29T20:33:28Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSVxzPDoT8Hv7mYn3cFKl4Nkl2ydlsVqmPEdA=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSVxzPDoT8Hv7mYn3cFKl4Nkl2ydlsVqmPEdA=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSVxzPDoT8Hv7mYn3cFKl4Nkl2ydlsVqmPEdA=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "fishTv",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU0U8tmHFHbyuYc18APnnyzg"
+            }
+        },
+        "statistics": {
+            "viewCount": "258464",
+            "subscriberCount": "193",
+            "hiddenSubscriberCount": false,
+            "videoCount": "109"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/04rlf"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Music"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "fishTv"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

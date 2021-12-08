@@ -1,0 +1,62 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "QF9IZlwOfXart7G1uUrz9fUjCUE",
+        "id": "UC87oL-_PwvK65JYjTGhNu_w",
+        "snippet": {
+            "title": "DAILY HOT NEWS",
+            "description": "Hot News",
+            "publishedAt": "2018-12-20T04:41:45Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRP6xcR4zhswFQBbOrNG3eyZkPCs_hStsXP9GYQ=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRP6xcR4zhswFQBbOrNG3eyZkPCs_hStsXP9GYQ=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRP6xcR4zhswFQBbOrNG3eyZkPCs_hStsXP9GYQ=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "DAILY HOT NEWS",
+                "description": "Hot News"
+            },
+            "country": "VN"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU87oL-_PwvK65JYjTGhNu_w"
+            }
+        },
+        "statistics": {
+            "viewCount": "202429",
+            "hiddenSubscriberCount": true,
+            "videoCount": "4225"
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "DAILY HOT NEWS",
+                "description": "Hot News",
+                "keywords": "Tin nong",
+                "country": "VN"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/TPQ_3y7MnTml4IhQoi0Rn-VPCfIaAtTsIm40e1-UJYjc_Kij2J47Y-7EzVUrAyN2KS7Azw67"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

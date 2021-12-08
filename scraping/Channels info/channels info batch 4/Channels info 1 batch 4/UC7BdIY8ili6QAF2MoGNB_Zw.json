@@ -1,0 +1,69 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "lKUQGRa3mWu2UDC9N0eoRlPwiSQ",
+        "id": "UC7BdIY8ili6QAF2MoGNB_Zw",
+        "snippet": {
+            "title": "Thanh Nien News NewsVietnam.org",
+            "description": "",
+            "publishedAt": "2012-01-07T04:53:43Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQT1MD0PKg--3tdmKH5_ncO07PsTBw0dU8iXMrVHw=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQT1MD0PKg--3tdmKH5_ncO07PsTBw0dU8iXMrVHw=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQT1MD0PKg--3tdmKH5_ncO07PsTBw0dU8iXMrVHw=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Thanh Nien News NewsVietnam.org",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU7BdIY8ili6QAF2MoGNB_Zw"
+            }
+        },
+        "statistics": {
+            "viewCount": "5271256",
+            "subscriberCount": "3660",
+            "hiddenSubscriberCount": false,
+            "videoCount": "8410"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/05qt0",
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Politics",
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Thanh Nien News NewsVietnam.org"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/77S9B-zNmSqhn3SiXhV7HxPDxkzVBp4OfLit8fDqBOWzAZGrNjvDvtKFS_JoSYfCQLCRyn4CNg"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

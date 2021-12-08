@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "zE-Ogfj4yMG-dNz4uWdotNk7u7A",
+        "id": "UCjmGwjC7pytqz8vvL5lIuxA",
+        "snippet": {
+            "title": "Canoe",
+            "description": "",
+            "publishedAt": "2018-01-18T14:57:38Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLS6Ae7tT8PFT4KS-c6utTPd6IyhvvB5NPzvfjWn=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLS6Ae7tT8PFT4KS-c6utTPd6IyhvvB5NPzvfjWn=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLS6Ae7tT8PFT4KS-c6utTPd6IyhvvB5NPzvfjWn=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Canoe",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUjmGwjC7pytqz8vvL5lIuxA"
+            }
+        },
+        "statistics": {
+            "viewCount": "4779439",
+            "subscriberCount": "7500",
+            "hiddenSubscriberCount": false,
+            "videoCount": "12341"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr",
+                "/m/05qt0"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society",
+                "https://en.wikipedia.org/wiki/Politics"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Canoe"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/6S13868aaTjLHrVzF4qrVbYiZXIv1wiE_z5HQiOSX3287F21z3xiWr4UUq8lLHahehRW-Ebak_s"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "Co_ikszg655FrQj2kRr__SS5gxk",
+        "id": "UC9jGg2glXjk8qxIXgJjWZpg",
+        "snippet": {
+            "title": "Mix Movieclips",
+            "description": "",
+            "publishedAt": "2020-01-07T21:02:21.81724Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSHnpKhnz2Jg_asFTBUaXTSiH3dflAi6Yn8sXbk=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSHnpKhnz2Jg_asFTBUaXTSiH3dflAi6Yn8sXbk=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSHnpKhnz2Jg_asFTBUaXTSiH3dflAi6Yn8sXbk=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Mix Movieclips",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU9jGg2glXjk8qxIXgJjWZpg"
+            }
+        },
+        "statistics": {
+            "viewCount": "4957",
+            "subscriberCount": "27",
+            "hiddenSubscriberCount": false,
+            "videoCount": "1"
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Mix Movieclips"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "C1tdcHlFSKPnSW8Zz-QGaoe9sQo",
+        "id": "UCl10lbJ7IR4hjHTfdPY1IIg",
+        "snippet": {
+            "title": "Secret Stories C.I.C.",
+            "description": "",
+            "publishedAt": "2021-06-02T09:00:00.050181Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/qVjVw07KoZMQ7Y2qoyHhy7YzlyVBvC4DiRi1Gd0DqwHZ8MpjVgzHwKEEB7zSvDYAtAgynOmMto4=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/qVjVw07KoZMQ7Y2qoyHhy7YzlyVBvC4DiRi1Gd0DqwHZ8MpjVgzHwKEEB7zSvDYAtAgynOmMto4=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/qVjVw07KoZMQ7Y2qoyHhy7YzlyVBvC4DiRi1Gd0DqwHZ8MpjVgzHwKEEB7zSvDYAtAgynOmMto4=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Secret Stories C.I.C.",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUl10lbJ7IR4hjHTfdPY1IIg"
+            }
+        },
+        "statistics": {
+            "viewCount": "558",
+            "subscriberCount": "10",
+            "hiddenSubscriberCount": false,
+            "videoCount": "3"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/019_rr",
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Secret Stories C.I.C."
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

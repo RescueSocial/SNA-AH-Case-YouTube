@@ -1,0 +1,74 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "6hqWYoxOJL2WlBm88kcNOlw1eDQ",
+        "id": "UC4eYXhJI4-7wSWc8UNRwD4A",
+        "snippet": {
+            "title": "NPR Music",
+            "description": "The official YouTube channel for NPR Music featuring Tiny Desk Concerts, live shows, documentaries and more.  Find more at www.npr.org/music",
+            "customUrl": "nprmusic",
+            "publishedAt": "2008-01-03T16:53:30Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTsXk5nEOKKabk8BITs9DYeYR09vM0vORF7c37bEA=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTsXk5nEOKKabk8BITs9DYeYR09vM0vORF7c37bEA=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTsXk5nEOKKabk8BITs9DYeYR09vM0vORF7c37bEA=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "NPR Music",
+                "description": "The official YouTube channel for NPR Music featuring Tiny Desk Concerts, live shows, documentaries and more.  Find more at www.npr.org/music"
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU4eYXhJI4-7wSWc8UNRwD4A"
+            }
+        },
+        "statistics": {
+            "viewCount": "1902657029",
+            "subscriberCount": "6400000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "2144"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/04rlf"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Music"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "NPR Music",
+                "description": "The official YouTube channel for NPR Music featuring Tiny Desk Concerts, live shows, documentaries and more.  Find more at www.npr.org/music",
+                "keywords": "\"tiny desk\" NPR music nprmusic concerts interviews news \"tiny desk concert\" \"studio sessions\"",
+                "unsubscribedTrailer": "KGczofguB0c",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/wnDLzs6xjCYFvSLITAeSB1pXKQTP-UfI7dVO11-i_mJQZGh0TNFCDaeyQCVwZs5nPt75XLuTIg"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

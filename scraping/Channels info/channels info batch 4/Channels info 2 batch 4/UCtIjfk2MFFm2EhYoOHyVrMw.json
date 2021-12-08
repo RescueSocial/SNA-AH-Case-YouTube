@@ -1,0 +1,56 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "3ub7GntzsvVGgIm282-K7ckHJ0U",
+        "id": "UCtIjfk2MFFm2EhYoOHyVrMw",
+        "snippet": {
+            "title": "Megan Kusek",
+            "description": "",
+            "publishedAt": "2012-10-28T17:35:16Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLR5jYDfpQGxzWnLlGl1ZwwXE_nWpxgN4K8aSg=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLR5jYDfpQGxzWnLlGl1ZwwXE_nWpxgN4K8aSg=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLR5jYDfpQGxzWnLlGl1ZwwXE_nWpxgN4K8aSg=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Megan Kusek",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUtIjfk2MFFm2EhYoOHyVrMw"
+            }
+        },
+        "statistics": {
+            "viewCount": "224",
+            "subscriberCount": "1",
+            "hiddenSubscriberCount": false,
+            "videoCount": "1"
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Megan Kusek"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

@@ -1,0 +1,59 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "puicoKPeO-BwhL5NHntdtHAWtEA",
+        "id": "UCigcO8_cXkvUuo0xxvEKJow",
+        "snippet": {
+            "title": "Daily hot trends",
+            "description": "",
+            "publishedAt": "2019-11-06T07:35:53.381895Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/eeZBCVA9TBUguMMiXGXd2gW2m-4e8yX9e7LFlbey4RQgQVg79rm8Yih8qHGZchukyOG6s4kj=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/eeZBCVA9TBUguMMiXGXd2gW2m-4e8yX9e7LFlbey4RQgQVg79rm8Yih8qHGZchukyOG6s4kj=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/eeZBCVA9TBUguMMiXGXd2gW2m-4e8yX9e7LFlbey4RQgQVg79rm8Yih8qHGZchukyOG6s4kj=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Daily hot trends",
+                "description": ""
+            },
+            "country": "HK"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUigcO8_cXkvUuo0xxvEKJow"
+            }
+        },
+        "statistics": {
+            "viewCount": "336449",
+            "subscriberCount": "604",
+            "hiddenSubscriberCount": false,
+            "videoCount": "3428"
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Daily hot trends",
+                "country": "HK"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

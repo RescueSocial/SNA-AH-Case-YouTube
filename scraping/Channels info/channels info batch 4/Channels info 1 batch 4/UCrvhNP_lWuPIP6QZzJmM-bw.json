@@ -1,0 +1,77 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "rwOOx0uOFQC6lGc-zFVTETB7auY",
+        "id": "UCrvhNP_lWuPIP6QZzJmM-bw",
+        "snippet": {
+            "title": "New York Post",
+            "description": "The New York Post is your source for breaking news, news about New York, sports, business, entertainment, opinion, real estate, culture, fashion, and more.",
+            "customUrl": "nypost",
+            "publishedAt": "2006-03-02T20:49:28Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQodKN2TmJHwM1rVdm8jfQSM-OpmweWdVz7gl6ZdA=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQodKN2TmJHwM1rVdm8jfQSM-OpmweWdVz7gl6ZdA=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQodKN2TmJHwM1rVdm8jfQSM-OpmweWdVz7gl6ZdA=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "New York Post",
+                "description": "The New York Post is your source for breaking news, news about New York, sports, business, entertainment, opinion, real estate, culture, fashion, and more."
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUrvhNP_lWuPIP6QZzJmM-bw"
+            }
+        },
+        "statistics": {
+            "viewCount": "606777302",
+            "subscriberCount": "714000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "8119"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "New York Post",
+                "description": "The New York Post is your source for breaking news, news about New York, sports, business, entertainment, opinion, real estate, culture, fashion, and more.",
+                "keywords": "\"new york post\" \"ny post\" nypost news \"us news\" \"breaking news\" \"world news\" \"latest news\" story stories \"top stories\"",
+                "moderateComments": true,
+                "unsubscribedTrailer": "bYoU08k4OQU",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/1Ufm5bc-cylmujzbHj0ZcCVjh_qU-kUQkUPCIT4U_Soy0y35rYMbR90BK-kLR_eY_0b8wqCMzg"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

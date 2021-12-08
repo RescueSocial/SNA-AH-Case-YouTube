@@ -1,0 +1,66 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "qukuKORRzAT3BQfen_lbb8PzfE0",
+        "id": "UCc6E5gZ1zBx7X1k_icIYR9A",
+        "snippet": {
+            "title": "The Consortium Ltd.",
+            "description": "",
+            "publishedAt": "2015-08-19T09:27:00Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLT6_eOGssDA7pFMqKrX2ztWs_5o62hbeWajm3OB=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLT6_eOGssDA7pFMqKrX2ztWs_5o62hbeWajm3OB=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLT6_eOGssDA7pFMqKrX2ztWs_5o62hbeWajm3OB=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "The Consortium Ltd.",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUc6E5gZ1zBx7X1k_icIYR9A"
+            }
+        },
+        "statistics": {
+            "viewCount": "173",
+            "subscriberCount": "4",
+            "hiddenSubscriberCount": false,
+            "videoCount": "18"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/05qt0",
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Politics",
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "The Consortium Ltd."
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

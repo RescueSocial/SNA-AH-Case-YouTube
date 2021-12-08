@@ -1,0 +1,71 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "tlknYAZhzVIbysnGeSOfdAEz81o",
+        "id": "UCs90BbegZ0FrjA7RHDW6ebQ",
+        "snippet": {
+            "title": "Reel Movie Talk",
+            "description": "",
+            "publishedAt": "2017-09-14T15:59:19Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQWwoSNzYGhfFW8T50vBglInqkyeuuufOh6ukZi=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQWwoSNzYGhfFW8T50vBglInqkyeuuufOh6ukZi=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQWwoSNzYGhfFW8T50vBglInqkyeuuufOh6ukZi=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Reel Movie Talk",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUs90BbegZ0FrjA7RHDW6ebQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "3465",
+            "subscriberCount": "31",
+            "hiddenSubscriberCount": false,
+            "videoCount": "146"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Reel Movie Talk",
+                "keywords": "Film Movies \"Movie News\" \"Movie Reviews\" \"Coming Soon\" \"Movie Trivia\" \"Box Office\" Entertainment Discussion",
+                "unsubscribedTrailer": "cMIUSlDriHU"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/825S4MIf8rtU7DQmdlmQDUWqcmrF3bW18uiJvlZmTOs-mocHW8R_b4FXlcBHokgOmOda5cbN3A"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "mJiD88rhKaW2HQSI2bCZ9JIvddM",
+        "id": "UC9L1RoQ3JYltJXJHUl55zcg",
+        "snippet": {
+            "title": "artphot",
+            "description": "New York City events and some international events.",
+            "customUrl": "artphot",
+            "publishedAt": "2006-11-01T08:17:20Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQbFre2SaRftcgjYHZIHoUQT4H09SKmD07LT2Jw=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQbFre2SaRftcgjYHZIHoUQT4H09SKmD07LT2Jw=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQbFre2SaRftcgjYHZIHoUQT4H09SKmD07LT2Jw=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "artphot",
+                "description": "New York City events and some international events."
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU9L1RoQ3JYltJXJHUl55zcg"
+            }
+        },
+        "statistics": {
+            "viewCount": "17416491",
+            "subscriberCount": "29300",
+            "hiddenSubscriberCount": false,
+            "videoCount": "3596"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/01lyv",
+                "/m/04rlf"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Country_music",
+                "https://en.wikipedia.org/wiki/Music"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "artphot",
+                "description": "New York City events and some international events.",
+                "keywords": "artphot",
+                "unsubscribedTrailer": "ZUhrtG5cjPA"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/5JzskO6JQKnJMn4n65lCxnwIF9PU6d_tqzxKpMTsfWWssjd2aesmAQ-6D7NHOHG1p5l_YbCtRQ"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

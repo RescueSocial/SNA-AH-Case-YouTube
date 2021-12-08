@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "VW9AMBg5xjWoCyqtsSwp2Zwc6Sg",
+        "id": "UC57FISY2Kx5w3jPhz6HccqA",
+        "snippet": {
+            "title": "Its Entertainment",
+            "description": "",
+            "publishedAt": "2019-11-28T08:54:39.884971Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQ1og3XwFsDk6L2mpml6zscSuVWBLvP64NoLkNP=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQ1og3XwFsDk6L2mpml6zscSuVWBLvP64NoLkNP=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQ1og3XwFsDk6L2mpml6zscSuVWBLvP64NoLkNP=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Its Entertainment",
+                "description": ""
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU57FISY2Kx5w3jPhz6HccqA"
+            }
+        },
+        "statistics": {
+            "viewCount": "4326",
+            "subscriberCount": "8",
+            "hiddenSubscriberCount": false,
+            "videoCount": "71"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/0f2f9",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Television_program",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Its Entertainment",
+                "keywords": "\"Entertainment News\" \"Hollywood News\" \"Celebrity News\" \"Royal Family\" \"top stories\" Entertainment \"Hollywood stars\" Hollywood \"Hollywood celebrities\" \"Hollywood gossip\" \"Celebrities gossip\"",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/iS_9Mhzs9e5X7d_eZ4OyjiO4peU13K57Gb0rW53KKKJ2At_LwnyTyhq9PIA9T1lJ2c37gFAuQQ"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

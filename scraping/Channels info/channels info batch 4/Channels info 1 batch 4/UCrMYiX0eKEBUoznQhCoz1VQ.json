@@ -1,0 +1,69 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "Tg9a4QVUeD_L90sRHkbmI024y98",
+        "id": "UCrMYiX0eKEBUoznQhCoz1VQ",
+        "snippet": {
+            "title": "The Candy",
+            "description": "",
+            "publishedAt": "2017-02-23T09:11:23Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTcCG60kUQ221YZe4-ov5qZMam7WEv8NKWBTn4R=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTcCG60kUQ221YZe4-ov5qZMam7WEv8NKWBTn4R=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTcCG60kUQ221YZe4-ov5qZMam7WEv8NKWBTn4R=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "The Candy",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUrMYiX0eKEBUoznQhCoz1VQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "336014",
+            "subscriberCount": "303",
+            "hiddenSubscriberCount": false,
+            "videoCount": "1313"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "The Candy"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/ze3TN1RHFtX01_DgnHAM_oe4szKM9QWIzTwxYJAi5Q8rKJBHQLt13TibHggJHpDx89IFu4xH"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

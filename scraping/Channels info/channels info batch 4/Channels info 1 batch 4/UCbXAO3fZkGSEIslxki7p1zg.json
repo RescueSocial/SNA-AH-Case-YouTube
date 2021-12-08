@@ -1,0 +1,68 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "oG3s9dAgTioZY_gC_ecUtk6LNoo",
+        "id": "UCbXAO3fZkGSEIslxki7p1zg",
+        "snippet": {
+            "title": "karan sharma",
+            "description": "",
+            "publishedAt": "2019-04-24T10:51:35Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/BUxCqB9lylrRvpAGa4ZSJ1wxtmapEJ5myLvZpiMSt3pyiJQbmthjco7GgHGIQ0UBZqcjFB3EpA=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/BUxCqB9lylrRvpAGa4ZSJ1wxtmapEJ5myLvZpiMSt3pyiJQbmthjco7GgHGIQ0UBZqcjFB3EpA=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/BUxCqB9lylrRvpAGa4ZSJ1wxtmapEJ5myLvZpiMSt3pyiJQbmthjco7GgHGIQ0UBZqcjFB3EpA=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "karan sharma",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUbXAO3fZkGSEIslxki7p1zg"
+            }
+        },
+        "statistics": {
+            "viewCount": "196593",
+            "hiddenSubscriberCount": true,
+            "videoCount": "257"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "karan sharma"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/vd3Lf0hzGiSkoRT6TnMgXTed3gYtXROhNoMzltBvIoYwVjddQ_bFLl3r0PxJHdkLHMv9pHlogA"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

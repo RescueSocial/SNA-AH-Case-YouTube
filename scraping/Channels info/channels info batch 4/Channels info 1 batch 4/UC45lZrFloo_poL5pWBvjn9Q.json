@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "GGPb3hEyiPHk98ZTirYAIH7cfyI",
+        "id": "UC45lZrFloo_poL5pWBvjn9Q",
+        "snippet": {
+            "title": "Dislike Bomb",
+            "description": "",
+            "publishedAt": "2018-04-17T18:25:57Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQuD2GphVD87B4sEixy_m4sQ12TofWaTkWdN7Is=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQuD2GphVD87B4sEixy_m4sQ12TofWaTkWdN7Is=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQuD2GphVD87B4sEixy_m4sQ12TofWaTkWdN7Is=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Dislike Bomb",
+                "description": ""
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU45lZrFloo_poL5pWBvjn9Q"
+            }
+        },
+        "statistics": {
+            "viewCount": "1027853",
+            "subscriberCount": "829",
+            "hiddenSubscriberCount": false,
+            "videoCount": "98"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Dislike Bomb",
+                "unsubscribedTrailer": "DHynFVW7-KY",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/719GfyBak89NOmIjrE5v2GS3KCeVq6f1A_bmJGeX-xC4gDulDZamWyzL-PwGd08GlfJdMc0j"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

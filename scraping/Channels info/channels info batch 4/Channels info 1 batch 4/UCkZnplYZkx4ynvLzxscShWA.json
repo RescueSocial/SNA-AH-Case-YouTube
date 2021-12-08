@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "lVdYVUaeOR64z1-FqfGqdfGZNdw",
+        "id": "UCkZnplYZkx4ynvLzxscShWA",
+        "snippet": {
+            "title": "Ashley Miller",
+            "description": "",
+            "customUrl": "ashleymillertv",
+            "publishedAt": "2013-09-05T17:01:48Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTIz-5cm3NLQmyBt6YXwhgc8YQLzXvKSJiDm2mVVg=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTIz-5cm3NLQmyBt6YXwhgc8YQLzXvKSJiDm2mVVg=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTIz-5cm3NLQmyBt6YXwhgc8YQLzXvKSJiDm2mVVg=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Ashley Miller",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUkZnplYZkx4ynvLzxscShWA"
+            }
+        },
+        "statistics": {
+            "viewCount": "37038964",
+            "subscriberCount": "80400",
+            "hiddenSubscriberCount": false,
+            "videoCount": "3224"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/019_rr",
+                "/m/02jjt",
+                "/m/0f2f9"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Television_program"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Ashley Miller"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/6gYVgmRBXtBKi6tRCx8bWISuFGtki6G2eelHzlxxa0cf4-VGcNZ9Jwb0vOlogU8QVip71eLOhhs"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

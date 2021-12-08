@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "lWV-qbVGd8xTUFOzhdChXACw0cg",
+        "id": "UC8QdPax-fk6NNHl8OnJOJMg",
+        "snippet": {
+            "title": "Saman Waqas",
+            "description": "",
+            "publishedAt": "2016-08-06T18:19:10Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQdHJS0j0TFNLGvEleXLc7VPSIt2_kATrT8eg=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQdHJS0j0TFNLGvEleXLc7VPSIt2_kATrT8eg=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQdHJS0j0TFNLGvEleXLc7VPSIt2_kATrT8eg=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Saman Waqas",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU8QdPax-fk6NNHl8OnJOJMg"
+            }
+        },
+        "statistics": {
+            "viewCount": "36788",
+            "subscriberCount": "21",
+            "hiddenSubscriberCount": false,
+            "videoCount": "326"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Saman Waqas",
+                "keywords": "us weekly magazine"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/RksPfCb_BlNheN-WUTcgZ8qSd8jX1YYlRhSPaeGLS5c7BjPGDPHxLjWRWTSkTYBSAP2qxmyjSXg"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

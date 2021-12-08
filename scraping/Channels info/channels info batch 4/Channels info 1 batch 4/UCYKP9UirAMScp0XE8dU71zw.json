@@ -1,0 +1,68 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "d0UC5HDF1yaYY5d_3ciyNhTg8wA",
+        "id": "UCYKP9UirAMScp0XE8dU71zw",
+        "snippet": {
+            "title": "anastaed",
+            "description": "",
+            "publishedAt": "2010-09-15T04:51:41Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQxFDebA7-hS0xL7CmiSXPHhD5DWCAYMTcAhQ=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQxFDebA7-hS0xL7CmiSXPHhD5DWCAYMTcAhQ=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQxFDebA7-hS0xL7CmiSXPHhD5DWCAYMTcAhQ=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "anastaed",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUYKP9UirAMScp0XE8dU71zw"
+            }
+        },
+        "statistics": {
+            "viewCount": "11855645",
+            "subscriberCount": "2840",
+            "hiddenSubscriberCount": false,
+            "videoCount": "35"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn",
+                "/m/0f2f9"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Television_program"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "anastaed"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

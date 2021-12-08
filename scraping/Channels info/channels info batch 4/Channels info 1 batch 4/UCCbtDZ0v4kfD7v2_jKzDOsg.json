@@ -1,0 +1,72 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "XQ__yCJiNhWdmekmgk4WQxmbt7I",
+        "id": "UCCbtDZ0v4kfD7v2_jKzDOsg",
+        "snippet": {
+            "title": "badbiscuit",
+            "description": "",
+            "customUrl": "badbiscuit",
+            "publishedAt": "2012-10-17T18:17:42Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSlbqNkUbsX4PFVcAX6rqyOE0ArWBnxeMKNMnaUsA=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSlbqNkUbsX4PFVcAX6rqyOE0ArWBnxeMKNMnaUsA=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSlbqNkUbsX4PFVcAX6rqyOE0ArWBnxeMKNMnaUsA=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "badbiscuit",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUCbtDZ0v4kfD7v2_jKzDOsg"
+            }
+        },
+        "statistics": {
+            "viewCount": "1133268",
+            "subscriberCount": "3890",
+            "hiddenSubscriberCount": false,
+            "videoCount": "595"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/019_rr",
+                "/m/03glg"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                "https://en.wikipedia.org/wiki/Hobby"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "badbiscuit",
+                "unsubscribedTrailer": "GFcXQ8tjCp4"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/njBg2HOCvQecwWu5BmfmcIjC3a_QxX4WfLMY9Erhw4GuQESo0rpPp6KHjCpMUVr6oXnc0T_v"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

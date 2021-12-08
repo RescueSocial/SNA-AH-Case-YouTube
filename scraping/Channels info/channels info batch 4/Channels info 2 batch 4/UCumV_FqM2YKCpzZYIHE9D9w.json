@@ -1,0 +1,68 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "pOeR7dcGLG3zFa63nICXZ1Q7O8A",
+        "id": "UCumV_FqM2YKCpzZYIHE9D9w",
+        "snippet": {
+            "title": "Michelle XX",
+            "description": "",
+            "publishedAt": "2020-11-13T02:13:39.625792Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/tdC1zcAmALw8bz9fvLmNz9UsLY8Gcp8Pr-yMKHhrURCeTq_pTbGLLCtYxlVK69e2EmepVkoPQQ=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/tdC1zcAmALw8bz9fvLmNz9UsLY8Gcp8Pr-yMKHhrURCeTq_pTbGLLCtYxlVK69e2EmepVkoPQQ=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/tdC1zcAmALw8bz9fvLmNz9UsLY8Gcp8Pr-yMKHhrURCeTq_pTbGLLCtYxlVK69e2EmepVkoPQQ=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Michelle XX",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUumV_FqM2YKCpzZYIHE9D9w"
+            }
+        },
+        "statistics": {
+            "viewCount": "254790",
+            "subscriberCount": "3390",
+            "hiddenSubscriberCount": false,
+            "videoCount": "96"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr",
+                "/m/02jjt",
+                "/m/019_rr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society",
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Michelle XX"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

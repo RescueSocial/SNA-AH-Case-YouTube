@@ -1,0 +1,68 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "MVX6_o8EmQoAsgwTPiKHUVjH97g",
+        "id": "UCwRJHlNjssU29Qh95qsLzdA",
+        "snippet": {
+            "title": "JohnnyDeppSan",
+            "description": "",
+            "customUrl": "johnnydeppsan",
+            "publishedAt": "2014-02-09T10:05:53Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQh9DRHhQ2LEtMXr7nFkx0DhqP7OL0zRAu-GVTy=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQh9DRHhQ2LEtMXr7nFkx0DhqP7OL0zRAu-GVTy=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQh9DRHhQ2LEtMXr7nFkx0DhqP7OL0zRAu-GVTy=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "JohnnyDeppSan",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUwRJHlNjssU29Qh95qsLzdA"
+            }
+        },
+        "statistics": {
+            "viewCount": "22892715",
+            "subscriberCount": "26200",
+            "hiddenSubscriberCount": false,
+            "videoCount": "87"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "JohnnyDeppSan",
+                "moderateComments": true
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

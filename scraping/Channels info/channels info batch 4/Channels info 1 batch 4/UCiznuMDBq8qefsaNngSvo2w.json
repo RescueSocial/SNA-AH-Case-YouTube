@@ -1,0 +1,72 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "4Cnvganse1ezVta-I0RddrBKeB0",
+        "id": "UCiznuMDBq8qefsaNngSvo2w",
+        "snippet": {
+            "title": "GlobalNewsRoom",
+            "description": "",
+            "customUrl": "globalnewsroom",
+            "publishedAt": "2014-11-13T13:26:07Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQBy6vXAnk6KVbwgXf0h0nhJs4lsADUS5ieT_XN=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQBy6vXAnk6KVbwgXf0h0nhJs4lsADUS5ieT_XN=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQBy6vXAnk6KVbwgXf0h0nhJs4lsADUS5ieT_XN=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "GlobalNewsRoom",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUiznuMDBq8qefsaNngSvo2w"
+            }
+        },
+        "statistics": {
+            "viewCount": "404611",
+            "subscriberCount": "702",
+            "hiddenSubscriberCount": false,
+            "videoCount": "363"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "GlobalNewsRoom",
+                "keywords": "Global News Room",
+                "trackingAnalyticsAccountId": "UA-61048907-1"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/jBx-0LKkvzjneMg9-OpsoUMHV-iAYaK8PwpEnU2sgjUlcBpX2WfopK4R_ECUPw9L9Qk_qYYG0A"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

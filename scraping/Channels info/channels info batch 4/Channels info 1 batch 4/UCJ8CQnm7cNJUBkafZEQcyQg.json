@@ -1,0 +1,75 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "BPrqiUxFUiflqQderyda9v_YPUQ",
+        "id": "UCJ8CQnm7cNJUBkafZEQcyQg",
+        "snippet": {
+            "title": "NewsPedia Channel",
+            "description": "NewsPedia Channel is a Channel that discusses trends that are happening at this time yesterday and what happens next and will always update.",
+            "publishedAt": "2016-10-01T14:49:29Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSJDNCNAJA8vNyY_CoiqQQtFM4BdRnqDQC3g_df=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSJDNCNAJA8vNyY_CoiqQQtFM4BdRnqDQC3g_df=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSJDNCNAJA8vNyY_CoiqQQtFM4BdRnqDQC3g_df=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "NewsPedia Channel",
+                "description": "NewsPedia Channel is a Channel that discusses trends that are happening at this time yesterday and what happens next and will always update."
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUJ8CQnm7cNJUBkafZEQcyQg"
+            }
+        },
+        "statistics": {
+            "viewCount": "4699",
+            "subscriberCount": "3",
+            "hiddenSubscriberCount": false,
+            "videoCount": "20"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr",
+                "/m/05qt0",
+                "/m/02vxn",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society",
+                "https://en.wikipedia.org/wiki/Politics",
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "NewsPedia Channel",
+                "description": "NewsPedia Channel is a Channel that discusses trends that are happening at this time yesterday and what happens next and will always update.",
+                "keywords": "NewsPedia Channel"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/zYbsw8Og9vlvby-GssbSN45H_X2fqstAq0OXeRizBoY-ROV_7FEroRdK-ay2LaoIvy5Op6vyy0Y"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

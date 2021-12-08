@@ -1,0 +1,81 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "yl5VsfJbEJSs8_haqRrGLe6JcQY",
+        "id": "kX_9Go0Z8e4",
+        "snippet": {
+            "publishedAt": "2011-10-02T17:14:19Z",
+            "channelId": "UCnBZyuORqO-720xS6N4VSMQ",
+            "title": "George Strait - Amarillo By Morning (Live From The Astrodome)",
+            "description": "This is George performing \"Amarillo By Morning\" live from the Astrodome.\r\n\r\nThe best version of my favorite song!\r\n\r\nThis is property of George Strait and MCA Records.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/kX_9Go0Z8e4/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/kX_9Go0Z8e4/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/kX_9Go0Z8e4/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/kX_9Go0Z8e4/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "WinstonFreedman",
+            "tags": [
+                "george",
+                "strait",
+                "amarillo",
+                "by",
+                "morning",
+                "live",
+                "from",
+                "the",
+                "astrodome",
+                "concert",
+                "2002",
+                "country",
+                "music"
+            ],
+            "categoryId": "10",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "George Strait - Amarillo By Morning (Live From The Astrodome)",
+                "description": "This is George performing \"Amarillo By Morning\" live from the Astrodome.\r\n\r\nThe best version of my favorite song!\r\n\r\nThis is property of George Strait and MCA Records."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT2M58S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "26280650",
+            "likeCount": "86590",
+            "dislikeCount": "3515",
+            "favoriteCount": "0",
+            "commentCount": "4817"
+        }
+    }
+]

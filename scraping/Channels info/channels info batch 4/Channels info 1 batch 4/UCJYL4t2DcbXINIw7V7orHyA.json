@@ -1,0 +1,67 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "4kk0goXukHRfto2oZxOvo4ShhGo",
+        "id": "UCJYL4t2DcbXINIw7V7orHyA",
+        "snippet": {
+            "title": "Daphne Blake",
+            "description": "",
+            "publishedAt": "2020-04-27T05:16:43.006446Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRgF4Lop9BAEIFWhuJhUz4E7V5LpM8VFP-oUTFW=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRgF4Lop9BAEIFWhuJhUz4E7V5LpM8VFP-oUTFW=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRgF4Lop9BAEIFWhuJhUz4E7V5LpM8VFP-oUTFW=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Daphne Blake",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUJYL4t2DcbXINIw7V7orHyA"
+            }
+        },
+        "statistics": {
+            "viewCount": "173473",
+            "subscriberCount": "530",
+            "hiddenSubscriberCount": false,
+            "videoCount": "34"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Daphne Blake"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/8ZP6iyCO8uABmvj0OrTHDxEa2oUFkwkQYES-izM41pjd7gFBiz4flCAh_HUgwLMjqYlVj87qmw"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

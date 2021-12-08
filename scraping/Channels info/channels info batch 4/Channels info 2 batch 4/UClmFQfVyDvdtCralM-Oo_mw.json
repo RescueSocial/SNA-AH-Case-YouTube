@@ -1,0 +1,75 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "W3xGJ9pT44dtwXzxm8L0ImmlmTg",
+        "id": "UClmFQfVyDvdtCralM-Oo_mw",
+        "snippet": {
+            "title": "MLive",
+            "description": "MLive.com is the top source for news, sports, business and entertainment across the great state of Michigan. In addition to the latest breaking news and features in the Great Lakes State, check out videos from Michigan and Michigan State athletics, as well as the Detroit Pistons, Detroit Red Wings, Detroit Lions and Detroit Tigers.",
+            "customUrl": "mlive",
+            "publishedAt": "2007-09-14T13:12:30Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRECWPsWQCSrk1mkFIHuqazMstsW9BjIKLXosH6bg=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRECWPsWQCSrk1mkFIHuqazMstsW9BjIKLXosH6bg=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRECWPsWQCSrk1mkFIHuqazMstsW9BjIKLXosH6bg=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "MLive",
+                "description": "MLive.com is the top source for news, sports, business and entertainment across the great state of Michigan. In addition to the latest breaking news and features in the Great Lakes State, check out videos from Michigan and Michigan State athletics, as well as the Detroit Pistons, Detroit Red Wings, Detroit Lions and Detroit Tigers."
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUlmFQfVyDvdtCralM-Oo_mw"
+            }
+        },
+        "statistics": {
+            "viewCount": "382328759",
+            "subscriberCount": "351000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "38563"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr",
+                "/m/06ntj"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society",
+                "https://en.wikipedia.org/wiki/Sport"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "MLive",
+                "description": "MLive.com is the top source for news, sports, business and entertainment across the great state of Michigan. In addition to the latest breaking news and features in the Great Lakes State, check out videos from Michigan and Michigan State athletics, as well as the Detroit Pistons, Detroit Red Wings, Detroit Lions and Detroit Tigers.",
+                "keywords": "mlive michigan news",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/CRGlRX8RO9Tyjrjmni6-Hi61tl5xScz-sdm1YNoHoF-G-EukFX5VhFLR_F3iSyXR5BZ_DNHsQA"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

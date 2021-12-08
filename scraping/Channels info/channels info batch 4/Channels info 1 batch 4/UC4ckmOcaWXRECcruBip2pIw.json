@@ -1,0 +1,69 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "RIw5hKEDYpTqtof-PWP0Fa2CseI",
+        "id": "UC4ckmOcaWXRECcruBip2pIw",
+        "snippet": {
+            "title": "JS CREATION",
+            "description": "Status maker",
+            "publishedAt": "2021-03-23T04:49:37.674106Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/Npt9YyOjP9b2hz9NbSb1b4DEkw8sfYXMC0QOJLAXwKnxRu0qoX7t-wshhOKyf-9i7eKHPMXBEQ=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/Npt9YyOjP9b2hz9NbSb1b4DEkw8sfYXMC0QOJLAXwKnxRu0qoX7t-wshhOKyf-9i7eKHPMXBEQ=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/Npt9YyOjP9b2hz9NbSb1b4DEkw8sfYXMC0QOJLAXwKnxRu0qoX7t-wshhOKyf-9i7eKHPMXBEQ=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "JS CREATION",
+                "description": "Status maker"
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU4ckmOcaWXRECcruBip2pIw"
+            }
+        },
+        "statistics": {
+            "viewCount": "5689",
+            "subscriberCount": "16",
+            "hiddenSubscriberCount": false,
+            "videoCount": "26"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/04rlf",
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Music",
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "JS CREATION",
+                "description": "Status maker"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

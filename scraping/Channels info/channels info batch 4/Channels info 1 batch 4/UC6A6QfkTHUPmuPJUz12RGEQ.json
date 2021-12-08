@@ -1,0 +1,56 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "sVQORh7610_F6wWvXlo19oLksdw",
+        "id": "UC6A6QfkTHUPmuPJUz12RGEQ",
+        "snippet": {
+            "title": "Sachin Kuswaha",
+            "description": "",
+            "publishedAt": "2019-05-19T16:16:36Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTc_-_y0-h8JixF543ihXya07hL12BGnefy-g=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTc_-_y0-h8JixF543ihXya07hL12BGnefy-g=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTc_-_y0-h8JixF543ihXya07hL12BGnefy-g=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Sachin Kuswaha",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU6A6QfkTHUPmuPJUz12RGEQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "110",
+            "subscriberCount": "1",
+            "hiddenSubscriberCount": false,
+            "videoCount": "2"
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Sachin Kuswaha"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

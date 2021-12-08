@@ -1,0 +1,75 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "ZtwR_dh5hQcoISI6lSG5sSsicGE",
+        "id": "UCZ9dViYsOulUhR04hVkpsMw",
+        "snippet": {
+            "title": "Wirtualna Polska",
+            "description": "Oficjalny kana\u0142 najwi\u0119kszego portalu w Polsce.",
+            "publishedAt": "2007-06-19T13:55:13Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSnFOlGeB3mZpPkVhXJe9Ge5daYwX0kUz5MvqS5=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSnFOlGeB3mZpPkVhXJe9Ge5daYwX0kUz5MvqS5=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSnFOlGeB3mZpPkVhXJe9Ge5daYwX0kUz5MvqS5=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Wirtualna Polska",
+                "description": "Oficjalny kana\u0142 najwi\u0119kszego portalu w Polsce."
+            },
+            "country": "PL"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUZ9dViYsOulUhR04hVkpsMw"
+            }
+        },
+        "statistics": {
+            "viewCount": "372165904",
+            "subscriberCount": "318000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "6065"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr",
+                "/m/05qt0"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society",
+                "https://en.wikipedia.org/wiki/Politics"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Wirtualna Polska",
+                "description": "Oficjalny kana\u0142 najwi\u0119kszego portalu w Polsce.",
+                "keywords": "wirtualna polska telewizja internetowa wppl wp.pl wp wp.tv plotki skandale \"wirtualna polska\" wp.tv wideo.wp.pl video.wp.pl \"WP Wideo\" #dziejsienazywo #dziejesiewpolsce #dziejesiejesienia",
+                "moderateComments": true,
+                "unsubscribedTrailer": "KduCqDQrKZk",
+                "country": "PL"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/8y6yNlYpH4E8rB2gASzM336icDm81zYUnkf7lVyrLTGvtubdwqf8SA1hDAojskFABsQ_Qbh9OA"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

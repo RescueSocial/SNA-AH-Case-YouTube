@@ -1,0 +1,76 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "9Ldlu-Ok645LWkzuE3oB4oSGo2I",
+        "id": "UCfLdIEPs1tYj4ieEdJnyNyw",
+        "snippet": {
+            "title": "Lauv",
+            "description": "https://lauv.lnk.to/fake",
+            "customUrl": "lauvsongs",
+            "publishedAt": "2015-03-10T08:39:42Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQ5ekTpdXb24L4MLx6X7fiuMR_n214k_hS-k_euOw=s88-c-k-c0x00ffffff-no-rj-mo",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQ5ekTpdXb24L4MLx6X7fiuMR_n214k_hS-k_euOw=s240-c-k-c0x00ffffff-no-rj-mo",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQ5ekTpdXb24L4MLx6X7fiuMR_n214k_hS-k_euOw=s800-c-k-c0x00ffffff-no-rj-mo",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Lauv",
+                "description": "https://lauv.lnk.to/fake"
+            },
+            "country": "US"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUfLdIEPs1tYj4ieEdJnyNyw"
+            }
+        },
+        "statistics": {
+            "viewCount": "1660381532",
+            "subscriberCount": "4150000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "145"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/04rlf",
+                "/m/064t9"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Music",
+                "https://en.wikipedia.org/wiki/Pop_music"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Lauv",
+                "description": "https://lauv.lnk.to/fake",
+                "keywords": "lauv \"lauv songs\" luv luav lavu lave lauve louv \"lauv music\" \"pop music\"",
+                "unsubscribedTrailer": "OHioqT9d-kY",
+                "country": "US"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/feyvaaa2CVWEV-iyvrCNupdQxdeekvPvp8SFKmOme6xAu6mN9s1XfRuT245Wz37QgAeUWS8hVg"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

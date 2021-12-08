@@ -1,0 +1,66 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "J7z1IDAha38GWvjzfjUDFjsqX8U",
+        "id": "UC2k7Ohub5laMOrnJ44dZpmg",
+        "snippet": {
+            "title": "Allandre Thomas",
+            "description": "",
+            "publishedAt": "2015-08-15T23:10:46Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQ0ExBkiS3aDFwiL8xMEimnvoVp9uDARJkBtQ=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQ0ExBkiS3aDFwiL8xMEimnvoVp9uDARJkBtQ=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLQ0ExBkiS3aDFwiL8xMEimnvoVp9uDARJkBtQ=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Allandre Thomas",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU2k7Ohub5laMOrnJ44dZpmg"
+            }
+        },
+        "statistics": {
+            "viewCount": "525",
+            "subscriberCount": "9",
+            "hiddenSubscriberCount": false,
+            "videoCount": "4"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr",
+                "/m/06bvp"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society",
+                "https://en.wikipedia.org/wiki/Religion"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Allandre Thomas"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

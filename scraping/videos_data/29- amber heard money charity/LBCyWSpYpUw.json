@@ -1,0 +1,66 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "6ArZ7aSVyl_g444J2GprWSHw5zU",
+        "id": "LBCyWSpYpUw",
+        "snippet": {
+            "publishedAt": "2021-11-29T15:42:17Z",
+            "channelId": "UCKnFcVpoBm6mAXwR1qvwNyQ",
+            "title": "The Morning Hustle 11/29/2021",
+            "description": "What's good ya'll! We back! Hit that Like & Subscribe button..\n\nwww.themorninghustle.com \n\n@headkrack @goangie @starringlorel @coobtrax",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/LBCyWSpYpUw/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/LBCyWSpYpUw/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/LBCyWSpYpUw/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/LBCyWSpYpUw/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Coobtrax",
+            "categoryId": "23",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "The Morning Hustle 11/29/2021",
+                "description": "What's good ya'll! We back! Hit that Like & Subscribe button..\n\nwww.themorninghustle.com \n\n@headkrack @goangie @starringlorel @coobtrax"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT49M38S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "559",
+            "likeCount": "21",
+            "dislikeCount": "1",
+            "favoriteCount": "0",
+            "commentCount": "1"
+        }
+    }
+]

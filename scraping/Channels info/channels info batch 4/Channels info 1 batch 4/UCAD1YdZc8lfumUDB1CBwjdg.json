@@ -1,0 +1,71 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "tPoAzAUrlr0katn6b7rsmhoo2n8",
+        "id": "UCAD1YdZc8lfumUDB1CBwjdg",
+        "snippet": {
+            "title": "Roy",
+            "description": "Roy",
+            "publishedAt": "2017-12-30T14:29:41Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/nm_Oc1E8m8KZFdy9NOQYllW0FFKFVyKyWm_W1JA6oofsjImMdCagPaPri9DqE1Zuce8gbxeemQ=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/nm_Oc1E8m8KZFdy9NOQYllW0FFKFVyKyWm_W1JA6oofsjImMdCagPaPri9DqE1Zuce8gbxeemQ=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/nm_Oc1E8m8KZFdy9NOQYllW0FFKFVyKyWm_W1JA6oofsjImMdCagPaPri9DqE1Zuce8gbxeemQ=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Roy",
+                "description": "Roy"
+            },
+            "country": "IN"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUAD1YdZc8lfumUDB1CBwjdg"
+            }
+        },
+        "statistics": {
+            "viewCount": "36187",
+            "subscriberCount": "183",
+            "hiddenSubscriberCount": false,
+            "videoCount": "63"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified",
+            "madeForKids": false
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Roy",
+                "description": "Roy",
+                "keywords": "Roy",
+                "country": "IN"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "ckz4CsGh8ZDH-ir7GopOI5eQ9Cg",
+        "id": "UCgPhBW5a7dyV-FQ8bwJw-lg",
+        "snippet": {
+            "title": "Poil Base",
+            "description": "",
+            "publishedAt": "2016-12-03T07:28:40Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTriVS791qa9fD3PACU2FC94uQTK87fyxD_ltmu=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTriVS791qa9fD3PACU2FC94uQTK87fyxD_ltmu=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLTriVS791qa9fD3PACU2FC94uQTK87fyxD_ltmu=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Poil Base",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUgPhBW5a7dyV-FQ8bwJw-lg"
+            }
+        },
+        "statistics": {
+            "viewCount": "95864",
+            "hiddenSubscriberCount": true,
+            "videoCount": "1253"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/019_rr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Poil Base"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/VnowvMqreW-XHgtDHgyrDe16WQyBpdr7prGJUDLt-lEsAOoyGdWL0xjUToaslGthCftiSpTY7Q"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

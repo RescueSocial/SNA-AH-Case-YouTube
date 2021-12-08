@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "PkvQRng8gLAzCx8Ch8tRNqBo5zU",
+        "id": "UCj20XZvnUIvkEj6K8tJ5zuA",
+        "snippet": {
+            "title": "witchorking",
+            "description": "Emma, 24, Sweden.",
+            "publishedAt": "2011-09-21T12:30:45Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRXFaecD2n4DMKSzdfjKKM2biGS0-ZV5LWeeBrRqA=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRXFaecD2n4DMKSzdfjKKM2biGS0-ZV5LWeeBrRqA=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRXFaecD2n4DMKSzdfjKKM2biGS0-ZV5LWeeBrRqA=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "witchorking",
+                "description": "Emma, 24, Sweden."
+            },
+            "country": "SE"
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUj20XZvnUIvkEj6K8tJ5zuA"
+            }
+        },
+        "statistics": {
+            "viewCount": "37677184",
+            "subscriberCount": "19900",
+            "hiddenSubscriberCount": false,
+            "videoCount": "82"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02vxn",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "witchorking",
+                "description": "Emma, 24, Sweden.",
+                "unsubscribedTrailer": "17EUe-xwj9U",
+                "country": "SE"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/Nz7Cgf5Dd13o5iZpGb7zmoXR3YuiA32rjtCAiq3-J1sluhh3tieSR8iA1QUHNuN6xxMENXqW"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

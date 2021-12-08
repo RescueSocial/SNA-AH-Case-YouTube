@@ -1,0 +1,66 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "lSLWLa8od21HHsWm021aXSy2UT8",
+        "id": "UCA214iUN3Mf8bLZ7u3XNd2Q",
+        "snippet": {
+            "title": "Marvel Scenes and MORE!",
+            "description": "",
+            "publishedAt": "2017-09-12T12:37:48Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLThjggcGWnag0_ZAaOAAuHWlqCEQDsnPwgvZA=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLThjggcGWnag0_ZAaOAAuHWlqCEQDsnPwgvZA=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLThjggcGWnag0_ZAaOAAuHWlqCEQDsnPwgvZA=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Marvel Scenes and MORE!",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUA214iUN3Mf8bLZ7u3XNd2Q"
+            }
+        },
+        "statistics": {
+            "viewCount": "640088",
+            "subscriberCount": "377",
+            "hiddenSubscriberCount": false,
+            "videoCount": "22"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Marvel Scenes and MORE!"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

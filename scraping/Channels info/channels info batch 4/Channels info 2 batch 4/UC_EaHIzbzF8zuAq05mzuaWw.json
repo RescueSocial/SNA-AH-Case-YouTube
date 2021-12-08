@@ -1,0 +1,66 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "_pweaL9huLEAe_RAif3XI0lmRgM",
+        "id": "UC_EaHIzbzF8zuAq05mzuaWw",
+        "snippet": {
+            "title": "boo",
+            "description": "",
+            "publishedAt": "2021-10-21T12:01:14.804681Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/Et2rlSSqvwC-ceHytBX_LGGpJVMSsbFtnL9XCNfCwdEtRTWWRro1iIzShHAjDw8QyE50VzBkAB4=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/Et2rlSSqvwC-ceHytBX_LGGpJVMSsbFtnL9XCNfCwdEtRTWWRro1iIzShHAjDw8QyE50VzBkAB4=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/Et2rlSSqvwC-ceHytBX_LGGpJVMSsbFtnL9XCNfCwdEtRTWWRro1iIzShHAjDw8QyE50VzBkAB4=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "boo",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU_EaHIzbzF8zuAq05mzuaWw"
+            }
+        },
+        "statistics": {
+            "viewCount": "1845",
+            "subscriberCount": "27",
+            "hiddenSubscriberCount": false,
+            "videoCount": "12"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/019_rr",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "boo"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

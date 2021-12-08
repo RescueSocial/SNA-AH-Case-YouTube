@@ -1,0 +1,71 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "bEyxBB0NAP1W237pP2IVV4XTTRs",
+        "id": "UC7rH4clHzQ6HdlYOopuJTEQ",
+        "snippet": {
+            "title": "Smile Please",
+            "description": "",
+            "publishedAt": "2021-01-28T13:16:08.090788Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/y-NHye2hTh46TR538AfUO8PQB7eLjkHe3xeF2SX2MpQUE_EyEAFCZj4dniAQys6PsCOCU9o1=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/y-NHye2hTh46TR538AfUO8PQB7eLjkHe3xeF2SX2MpQUE_EyEAFCZj4dniAQys6PsCOCU9o1=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/y-NHye2hTh46TR538AfUO8PQB7eLjkHe3xeF2SX2MpQUE_EyEAFCZj4dniAQys6PsCOCU9o1=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Smile Please",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU7rH4clHzQ6HdlYOopuJTEQ"
+            }
+        },
+        "statistics": {
+            "viewCount": "81750",
+            "subscriberCount": "271",
+            "hiddenSubscriberCount": false,
+            "videoCount": "695"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/02jjt",
+                "/m/02vxn",
+                "/m/019_rr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Entertainment",
+                "https://en.wikipedia.org/wiki/Film",
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Smile Please"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/T05G3QOsNphdvUvyOp7eeV9AaQQqXzLRC5kTyyJB2SrFRHpxjkb52P1Ry4YLlIUHewtxMc7ikA"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

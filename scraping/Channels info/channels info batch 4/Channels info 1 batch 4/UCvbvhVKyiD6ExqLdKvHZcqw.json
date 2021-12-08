@@ -1,0 +1,67 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "gmcBz-G-oLEnWEbt8_4zGeoyBwU",
+        "id": "UCvbvhVKyiD6ExqLdKvHZcqw",
+        "snippet": {
+            "title": "#IAmNotOk Hashtag",
+            "description": "",
+            "publishedAt": "2019-05-02T05:53:36Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRmAnUlXX2ftaY1yF5WO97gEGWv1ciLv6-ImnAb=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRmAnUlXX2ftaY1yF5WO97gEGWv1ciLv6-ImnAb=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRmAnUlXX2ftaY1yF5WO97gEGWv1ciLv6-ImnAb=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "#IAmNotOk Hashtag",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUvbvhVKyiD6ExqLdKvHZcqw"
+            }
+        },
+        "statistics": {
+            "viewCount": "343586",
+            "subscriberCount": "405",
+            "hiddenSubscriberCount": false,
+            "videoCount": "2"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "#IAmNotOk Hashtag"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/Mfqp3WDDCHuZIy5XhyaMwP9DJkzfgAFKvIO-qlbl8oirOGR7fGVu_i7dZyGu176Zl8eFhCCQjrQ"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

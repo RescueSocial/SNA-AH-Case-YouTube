@@ -1,0 +1,67 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "ccWL8K8WPWA-B3JilEJehonOuDk",
+        "id": "UCbSrNkRsn7U42BzO2dxi5mw",
+        "snippet": {
+            "title": "Bishop Project",
+            "description": "",
+            "publishedAt": "2019-04-22T19:26:36Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSQjGnc3r30Z9AUGWl1f2RNcQA7Vs2J2S10dmbH=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSQjGnc3r30Z9AUGWl1f2RNcQA7Vs2J2S10dmbH=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSQjGnc3r30Z9AUGWl1f2RNcQA7Vs2J2S10dmbH=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Bishop Project",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UUbSrNkRsn7U42BzO2dxi5mw"
+            }
+        },
+        "statistics": {
+            "viewCount": "29473",
+            "subscriberCount": "221",
+            "hiddenSubscriberCount": false,
+            "videoCount": "5"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Bishop Project"
+            },
+            "image": {
+                "bannerExternalUrl": "https://yt3.ggpht.com/cqVX3welGOkf6wurQlrK_rmRzjJ1CmfAmuilCRe2926PnvVKSKK7LqJYeiFfAaeQqmtWQOiuOA"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]

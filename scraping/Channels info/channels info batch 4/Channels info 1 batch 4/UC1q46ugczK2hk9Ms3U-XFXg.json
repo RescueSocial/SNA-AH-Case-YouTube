@@ -1,0 +1,71 @@
+[
+    {
+        "kind": "youtube#channel",
+        "etag": "nQCkcbmzGDopLGC8crBZFnZoe1M",
+        "id": "UC1q46ugczK2hk9Ms3U-XFXg",
+        "snippet": {
+            "title": "News Mogul",
+            "description": "",
+            "publishedAt": "2015-12-21T12:31:21Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSpLj6v3e_NbOPq3w2jaGsvvdRvceK3MtkC3qQG=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSpLj6v3e_NbOPq3w2jaGsvvdRvceK3MtkC3qQG=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLSpLj6v3e_NbOPq3w2jaGsvvdRvceK3MtkC3qQG=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "News Mogul",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "",
+                "uploads": "UU1q46ugczK2hk9Ms3U-XFXg"
+            }
+        },
+        "statistics": {
+            "viewCount": "142113",
+            "subscriberCount": "256",
+            "hiddenSubscriberCount": false,
+            "videoCount": "56"
+        },
+        "topicDetails": {
+            "topicIds": [
+                "/m/098wr",
+                "/m/02jjt"
+            ],
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Society",
+                "https://en.wikipedia.org/wiki/Entertainment"
+            ]
+        },
+        "status": {
+            "privacyStatus": "public",
+            "isLinked": true,
+            "longUploadsStatus": "longUploadsUnspecified"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "News Mogul",
+                "keywords": "Enetratinment news facts travel movies tollywood bollywood hollywood usa india",
+                "unsubscribedTrailer": "I9PSTqTTAvQ"
+            },
+            "image": {
+                "bannerExternalUrl": "https://lh3.googleusercontent.com/bHgSy6sstoFN-jhZW514EAM4awEmHP7DpwINTLMSTlHvfRvlkxkwjMPpchHmDBgkl4IgaHJfY4I"
+            }
+        },
+        "contentOwnerDetails": {}
+    }
+]
