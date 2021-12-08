@@ -25,7 +25,7 @@
 ### note: video_data and video_detais folders have jupyter notebook inside each used to clean and combine the csv files.
 
 ### note: combined files and videos comments info are too large to be on GitHub so it's on Google Drive:
-https://www.freelancer.com/users/l.php?url=https:%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F1CCavukBqzA-3ImLnKWlYi8oSkY5qxVzy%3Fusp%3Dsharing&sig=0347f2d811d5bfd8cc16ca0f072637e872cb567aee0d2d02bb82fc0f1d0c012c
+https://drive.google.com/drive/folders/1CCavukBqzA-3ImLnKWlYi8oSkY5qxVzy
 
 ## Googledrive map:
 
