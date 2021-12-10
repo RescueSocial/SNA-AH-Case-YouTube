@@ -1,0 +1,66 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "Rrda42HN1U_E2dVOk036ZttZPQk",
+        "id": "YK0ijINKqV4",
+        "snippet": {
+            "publishedAt": "2016-08-17T03:32:51Z",
+            "channelId": "UC7BdIY8ili6QAF2MoGNB_Zw",
+            "title": "Johnny Depp and Amber Heard reach divorce settlement",
+            "description": "Video credit: Reuters",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/YK0ijINKqV4/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/YK0ijINKqV4/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/YK0ijINKqV4/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/YK0ijINKqV4/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Thanh Nien News NewsVietnam.org",
+            "categoryId": "1",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Johnny Depp and Amber Heard reach divorce settlement",
+                "description": "Video credit: Reuters"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT1M17S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "202",
+            "likeCount": "1",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "1"
+        }
+    }
+]

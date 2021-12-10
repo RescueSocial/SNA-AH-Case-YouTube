@@ -1,0 +1,64 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "7eKomudmYwk-XrbqEipvFAfLATA",
+        "id": "R9ApNqXXRR4",
+        "snippet": {
+            "publishedAt": "2013-04-16T19:23:34Z",
+            "channelId": "UCpvy7R6hAUqAAZQI0rQIcxw",
+            "title": "SNN: Lee Lawsuit",
+            "description": "The husband of Denise Amber Lee files a wrongful death suit.  SNN Exclusive coverage.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/R9ApNqXXRR4/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/R9ApNqXXRR4/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/R9ApNqXXRR4/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Sarasota Herald-Tribune",
+            "tags": [
+                "local_news"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "SNN: Lee Lawsuit",
+                "description": "The husband of Denise Amber Lee files a wrongful death suit.  SNN Exclusive coverage."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT2M48S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "69",
+            "likeCount": "0",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

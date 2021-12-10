@@ -1,0 +1,67 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "NYtAtBfee1wA3650aq7dUwv25H0",
+        "id": "Jr0GmduORkM",
+        "snippet": {
+            "publishedAt": "2021-11-30T21:02:18Z",
+            "channelId": "UCJCdiZtw9zStiR3xgnp7qlg",
+            "title": "Day 2 of jury selection in Kimberly Kessler murder trial",
+            "description": "The woman accused of murdering hairstylist Joleen Cummings was excluded from her own trial Monday and earlier today for continued disruptive behavior.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/Jr0GmduORkM/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/Jr0GmduORkM/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/Jr0GmduORkM/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/Jr0GmduORkM/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "First Coast News",
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Day 2 of jury selection in Kimberly Kessler murder trial",
+                "description": "The woman accused of murdering hairstylist Joleen Cummings was excluded from her own trial Monday and earlier today for continued disruptive behavior."
+            },
+            "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+            "duration": "PT2H19M10S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "12329",
+            "likeCount": "77",
+            "dislikeCount": "1",
+            "favoriteCount": "0",
+            "commentCount": "5"
+        }
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "-aggn4T34KvjiA2dJ6QqQq09aPI",
+        "id": "79YMBN0e2L0",
+        "snippet": {
+            "publishedAt": "2016-05-27T21:46:59Z",
+            "channelId": "UCdtXPiqI2cLorKaPrfpKc4g",
+            "title": "Justin Bieber Sued Over 'Sorry,' Accused of Stealing Riff",
+            "description": "Casey Dienel has filed a lawsuit for copyright infringement against the pop star and his \"Sorry\" collaborator, Skrillex.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/79YMBN0e2L0/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/79YMBN0e2L0/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/79YMBN0e2L0/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/79YMBN0e2L0/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Entertainment Tonight",
+            "tags": [
+                "etonline",
+                "entertainment tonight",
+                "et",
+                "Justin Bieber",
+                "celebrity",
+                "ETtrending",
+                "ET Online",
+                "news",
+                "ET NOW"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Justin Bieber Sued Over 'Sorry,' Accused of Stealing Riff",
+                "description": "Casey Dienel has filed a lawsuit for copyright infringement against the pop star and his \"Sorry\" collaborator, Skrillex."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT1M24S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "43479",
+            "likeCount": "204",
+            "dislikeCount": "43",
+            "favoriteCount": "0",
+            "commentCount": "135"
+        }
+    }
+]

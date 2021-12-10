@@ -1,0 +1,74 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "_rnACEq-7rzxJQFGmLZTQm44h0A",
+        "id": "UU9GyFqqm6U",
+        "snippet": {
+            "publishedAt": "2017-09-18T22:43:50Z",
+            "channelId": "UCDG0mJ_zkrODDT-4VTEV6TQ",
+            "title": "Crash victim: Police cover-up 'disappointing'",
+            "description": "He was the person trying to get into his parked car in Grand Rapids when it was hit by Kent County Assistant Prosecutor Josh Kuiper. (Sept. 18, 2017)",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/UU9GyFqqm6U/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/UU9GyFqqm6U/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/UU9GyFqqm6U/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/UU9GyFqqm6U/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/UU9GyFqqm6U/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "WOOD TV8",
+            "tags": [
+                "news"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Crash victim: Police cover-up 'disappointing'",
+                "description": "He was the person trying to get into his parked car in Grand Rapids when it was hit by Kent County Assistant Prosecutor Josh Kuiper. (Sept. 18, 2017)"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT5M27S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "163627",
+            "likeCount": "1680",
+            "dislikeCount": "54",
+            "favoriteCount": "0",
+            "commentCount": "403"
+        }
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "6nIc1Po_G6LM5I2FkVGx5zh_88A",
+        "id": "_vT8OTiwBls",
+        "snippet": {
+            "publishedAt": "2020-03-21T03:01:13Z",
+            "channelId": "UCF51kC6MAaIMnKDYVvK5lpw",
+            "title": "PUBLIC FIGURES & PUBLICLY\u00a0FIBBING",
+            "description": "CM305- Midterm Presentation",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/_vT8OTiwBls/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/_vT8OTiwBls/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/_vT8OTiwBls/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/_vT8OTiwBls/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/_vT8OTiwBls/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Gabriella Ramirez",
+            "tags": [
+                "iMovie"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "PUBLIC FIGURES & PUBLICLY\u00a0FIBBING",
+                "description": "CM305- Midterm Presentation"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT6M30S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "6",
+            "likeCount": "0",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

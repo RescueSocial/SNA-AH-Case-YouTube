@@ -1,0 +1,61 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "1FlVvl28BkqWCmkbFMm9vkQuMzs",
+        "id": "r7cNlJM23TE",
+        "snippet": {
+            "publishedAt": "2018-03-27T14:39:21Z",
+            "channelId": "UCbyEnE6SRWUld03ZxhYjZvQ",
+            "title": "Arkansas school shooter Mitchell Johnson speaks in 2007 deposition",
+            "description": "Mitchell Johnson, one of the two shooters at Westside Middle School in 1998, speaks in this deposition recorded in 2007.\n20 years since Westside shooting: arkansasonline.com/westside/",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/r7cNlJM23TE/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/r7cNlJM23TE/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/r7cNlJM23TE/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "arkansasonline",
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Arkansas school shooter Mitchell Johnson speaks in 2007 deposition",
+                "description": "Mitchell Johnson, one of the two shooters at Westside Middle School in 1998, speaks in this deposition recorded in 2007.\n20 years since Westside shooting: arkansasonline.com/westside/"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT2H26M40S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "8722",
+            "likeCount": "53",
+            "dislikeCount": "5",
+            "favoriteCount": "0",
+            "commentCount": "62"
+        }
+    }
+]

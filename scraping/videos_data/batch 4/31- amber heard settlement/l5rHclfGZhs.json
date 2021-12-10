@@ -1,0 +1,75 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "ysYN1qPv-6b2mbrkoBeUfvWihs4",
+        "id": "l5rHclfGZhs",
+        "snippet": {
+            "publishedAt": "2016-08-19T16:33:03Z",
+            "channelId": "UCuHGal4WA7wy4hIB1axVVtQ",
+            "title": "Amber Heard donates divorce settlement to charity",
+            "description": "Amber Heard donates divorce settlement to charity",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/l5rHclfGZhs/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/l5rHclfGZhs/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/l5rHclfGZhs/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/l5rHclfGZhs/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/l5rHclfGZhs/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Muza Channel",
+            "tags": [
+                "Amber Heard",
+                "jhoni deep"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Heard donates divorce settlement to charity",
+                "description": "Amber Heard donates divorce settlement to charity"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT5M4S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "5",
+            "likeCount": "0",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

@@ -1,0 +1,71 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "TIWxKb2E9Bf6V0OTNS13Bg1Nt2c",
+        "id": "pmxMFi8GD04",
+        "snippet": {
+            "publishedAt": "2021-11-29T21:10:11Z",
+            "channelId": "UCua3F32pVWBu-WWctQOCAAA",
+            "title": "#Atlanta City Council Public Safety & Legal Administration Committee Meeting: November 29, 2021",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/pmxMFi8GD04/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/pmxMFi8GD04/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/pmxMFi8GD04/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/pmxMFi8GD04/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/pmxMFi8GD04/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "atlcouncil - Atlanta City Council",
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "#Atlanta City Council Public Safety & Legal Administration Committee Meeting: November 29, 2021",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT2H17M2S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "98",
+            "likeCount": "0",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

@@ -1,0 +1,78 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "5z3EwtQCDTPwWdlrBhMa6awT5d0",
+        "id": "l2Sxa_JqHKk",
+        "snippet": {
+            "publishedAt": "2021-12-02T04:59:53Z",
+            "channelId": "UCcTzK_2JDmFYGnUiaUleQYg",
+            "title": "Derek and Ex-Wife Kellie Plead-Not-Guilty To Tax-Evasion-Charges",
+            "description": "Video Credit: CBS 4 Minnesota",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/l2Sxa_JqHKk/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/l2Sxa_JqHKk/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/l2Sxa_JqHKk/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/l2Sxa_JqHKk/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/l2Sxa_JqHKk/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Lisa Cabrera",
+            "tags": [
+                "Derek Chauvin",
+                "kellie chauvin",
+                "Zoom",
+                "minnesota",
+                "Taxes"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Derek and Ex-Wife Kellie Plead-Not-Guilty To Tax-Evasion-Charges",
+                "description": "Video Credit: CBS 4 Minnesota"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT6M15S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "13235",
+            "likeCount": "1192",
+            "dislikeCount": "5",
+            "favoriteCount": "0",
+            "commentCount": "72"
+        }
+    }
+]

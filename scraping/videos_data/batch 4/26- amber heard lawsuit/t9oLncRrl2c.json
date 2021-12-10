@@ -1,0 +1,67 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "NW_2rkjOFUkznuHfzqqigbWt8nw",
+        "id": "t9oLncRrl2c",
+        "snippet": {
+            "publishedAt": "2021-12-05T14:27:51Z",
+            "channelId": "UCFYW2x6hlPQsAjhzfX5F6ug",
+            "title": "CAIR 27th Virtual Banquet",
+            "description": "CAIR's 27th Virtual Banquet, \"Turning the Tide, Building a Just Future\"\n\nDONATE: https://action.cair.com/a/2021virtual_gala",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/t9oLncRrl2c/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/t9oLncRrl2c/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/t9oLncRrl2c/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/t9oLncRrl2c/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "CAIRtv",
+            "categoryId": "29",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "CAIR 27th Virtual Banquet",
+                "description": "CAIR's 27th Virtual Banquet, \"Turning the Tide, Building a Just Future\"\n\nDONATE: https://action.cair.com/a/2021virtual_gala"
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT2H17M53S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "320",
+            "likeCount": "14",
+            "dislikeCount": "1",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

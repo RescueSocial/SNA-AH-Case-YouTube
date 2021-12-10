@@ -1,0 +1,80 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "RbkyyY2-pTZcdVLTvzxKaTbyLG4",
+        "id": "I0d92T5Xxeg",
+        "snippet": {
+            "publishedAt": "2019-05-03T17:49:35Z",
+            "channelId": "UCVxBA3Cbu3pm8w8gEIoMEog",
+            "title": "Hospital employee drops newborn baby girl in delivery room I ABC7",
+            "description": "An Arizona couple is speaking out after posting a video on social media showing a hospital employee dropping their newborn baby in the delivery room. https://abc7.la/2LuftJU",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/I0d92T5Xxeg/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/I0d92T5Xxeg/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/I0d92T5Xxeg/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/I0d92T5Xxeg/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "ABC7",
+            "tags": [
+                "baby",
+                "infant",
+                "newborn",
+                "hospital",
+                "mother",
+                "father",
+                "mom",
+                "dad",
+                "parents",
+                "maternity",
+                "delivery"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Hospital employee drops newborn baby girl in delivery room I ABC7",
+                "description": "An Arizona couple is speaking out after posting a video on social media showing a hospital employee dropping their newborn baby in the delivery room. https://abc7.la/2LuftJU"
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT1M30S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "4931144",
+            "likeCount": "81270",
+            "dislikeCount": "2869",
+            "favoriteCount": "0",
+            "commentCount": "11360"
+        }
+    }
+]
