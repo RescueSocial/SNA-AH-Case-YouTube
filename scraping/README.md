@@ -1,5 +1,7 @@
 ## folders and files map
 
+> __combined files for videos (filtered)__ | folder: contains the 6983 videos with video title or describtion contains "Amber Heard"
+
 > __Account info__ | folder: contains scraped account info JSON files
 
 > __videos comments info --old__ | folder: contains the scraped JSON files but only 20 comment for each video
