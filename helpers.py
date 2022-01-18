@@ -128,7 +128,7 @@ def barh(df, title, threshold=float("inf"), c=0):
     fig.show("svg")
 
 
-def bar_peaks(df_head, title):
+def bar_peaks(df_head, title, threshold=0):
     """
     A function to plot bar graph for peaks
     Args:
@@ -140,29 +140,37 @@ def bar_peaks(df_head, title):
 
     fig.update_layout(
         xaxis=dict(
-            title="Comments Creation Date", tickmode="array", tickvals=df_head.date
+            title="Comments Creation Date", tickmode="array", tickvals=df_head[f"{df_head.columns[0]}"]
         )
     )
 
-    fig.update_traces(marker_color="red", opacity=1, textposition="auto")
+    clrs = ["red" if (y > threshold) else "#5296dd" for y in df_head[f"{df_head.columns[1]}"]]
+    fig.update_traces(marker_color=clrs, opacity=1, textposition="auto")
     fig.update_xaxes(tickangle=45)
     fig.show("svg")
 
+def contr_peaks(df, user, n=5, threshold=0):
+    df_user = df.query(" username == @user ")
+    df_user_daily = df_user.groupby('date')['text'].count().to_frame().reset_index().rename(columns={'text': 'ncomments'})
+    df_user_daily.sort_values(['ncomments', 'date'], ascending=[False, False], inplace=True)
     
-def bar_dates(df, title, threshold=float("inf")):
-    fig = px.bar(df, x="date", y="ncomments", text="ncomments")
+    bar_peaks(df_user_daily.head(n), f'"{user}"' + ' Top Contributions', threshold=threshold)
 
-    fig.update_layout(
-        title={"text": title, "x": 0.5, "xanchor": "center", "yanchor": "top"}
-    )
-    fig.update_layout(xaxis=dict(title="Comments Creation Date", tickmode="linear"))
+# # Same as bar_peaks     
+# def bar_dates(df, title, threshold=float("inf")):
+#     fig = px.bar(df, x="date", y="ncomments", text="ncomments")
 
-    clrs = ["red" if (y > threshold) else "#5296dd" for y in df["ncomments"]]
-    fig.update_traces(
-        marker_color=clrs, marker_line_width=1.5, opacity=1, textposition="auto"
-    )
-    fig.update_xaxes(tickangle=45)
-    fig.show("svg")
+#     fig.update_layout(
+#         title={"text": title, "x": 0.5, "xanchor": "center", "yanchor": "top"}
+#     )
+#     fig.update_layout(xaxis=dict(title="Comments Creation Date", tickmode="linear"))
+
+#     clrs = ["red" if (y > threshold) else "#5296dd" for y in df["ncomments"]]
+#     fig.update_traces(
+#         marker_color=clrs, marker_line_width=1.5, opacity=1, textposition="auto"
+#     )
+#     fig.update_xaxes(tickangle=45)
+#     fig.show("svg")
     
 
 def draw_heatmap(*args, **kwargs):
