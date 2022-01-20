@@ -1,0 +1,60 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "8Djx3uJgl8QszgVuYoj_GbBTS3k",
+        "id": "3dqicC2u8pU",
+        "snippet": {
+            "publishedAt": "2021-10-11T19:38:40Z",
+            "channelId": "UC2I0-uvu2nR3iBe6kNkD5ug",
+            "title": "AQUAMAN 2 2022 Teaser Trailer   Jason Momoa, Amber Heard Fan Made",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/3dqicC2u8pU/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/3dqicC2u8pU/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/3dqicC2u8pU/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "4k TRAILERS & MOVIES",
+            "categoryId": "10",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "AQUAMAN 2 2022 Teaser Trailer   Jason Momoa, Amber Heard Fan Made",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT4M18S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "12",
+            "likeCount": "1",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "QavWxxIjpjFUAQPlKerOJiLH_R0",
+        "id": "n-Od8O1QJao",
+        "snippet": {
+            "publishedAt": "2016-11-08T14:20:26Z",
+            "channelId": "UCTTqe0Zfjq_UQ7LiCQGnhRw",
+            "title": "Amberlife - Fly",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/n-Od8O1QJao/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/n-Od8O1QJao/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/n-Od8O1QJao/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Edgaras Lubys",
+            "tags": [
+                "edgaras lubys",
+                "amberlife"
+            ],
+            "categoryId": "10",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amberlife - Fly",
+                "description": ""
+            },
+            "defaultAudioLanguage": "lt"
+        },
+        "contentDetails": {
+            "duration": "PT4M24S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "18632",
+            "likeCount": "198",
+            "favoriteCount": "0",
+            "commentCount": "12"
+        }
+    }
+]

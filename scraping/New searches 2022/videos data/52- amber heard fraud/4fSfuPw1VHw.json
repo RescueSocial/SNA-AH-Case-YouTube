@@ -1,0 +1,68 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "J6iupdvGnrSqhIuy4X4AhEQhu9w",
+        "id": "4fSfuPw1VHw",
+        "snippet": {
+            "publishedAt": "2021-12-18T19:42:28Z",
+            "channelId": "UC3l-bobp_xuBlL_lRRS5RmA",
+            "title": "Johnny vs Amber Discovery Plus Documentary",
+            "description": "Hear Johnny Depp's UK Lawyer speak about that TMZ video. \n\n#johnnydepp #amberheard amber",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/4fSfuPw1VHw/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/4fSfuPw1VHw/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/4fSfuPw1VHw/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "UnBoxPHD",
+            "tags": [
+                "Johnny vs Amber discovery",
+                "Johnny and Amber discovery documentary",
+                "Johnny depp discovery plus",
+                "Johnny depp",
+                "Amber heard"
+            ],
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Johnny vs Amber Discovery Plus Documentary",
+                "description": "Hear Johnny Depp's UK Lawyer speak about that TMZ video. \n\n#johnnydepp #amberheard amber"
+            },
+            "defaultAudioLanguage": "en-GB"
+        },
+        "contentDetails": {
+            "duration": "PT1M42S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "8582",
+            "likeCount": "126",
+            "favoriteCount": "0",
+            "commentCount": "67"
+        }
+    }
+]

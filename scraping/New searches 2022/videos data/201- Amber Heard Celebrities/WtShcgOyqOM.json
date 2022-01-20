@@ -1,0 +1,80 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "Su6GjmVfE2NHMZMOMe0RyPCg8Cw",
+        "id": "WtShcgOyqOM",
+        "snippet": {
+            "publishedAt": "2020-03-19T10:15:00Z",
+            "channelId": "UChs7lcuw4qOCxl3SJRPuidQ",
+            "title": "Amber Heard's reaction to the support of celebrities for Johnny Depp in their lawsuit",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/WtShcgOyqOM/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/WtShcgOyqOM/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/WtShcgOyqOM/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/WtShcgOyqOM/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/WtShcgOyqOM/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "DT Media",
+            "tags": [
+                "DT Media",
+                "news",
+                "Amber Heard",
+                "reaction",
+                "support",
+                "celebrities",
+                "Johnny Depp",
+                "lawsuit"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Heard's reaction to the support of celebrities for Johnny Depp in their lawsuit",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT3M13S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": false,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "3969",
+            "likeCount": "34",
+            "favoriteCount": "0",
+            "commentCount": "4"
+        }
+    }
+]

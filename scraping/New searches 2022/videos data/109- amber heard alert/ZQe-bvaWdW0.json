@@ -1,0 +1,85 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "G7Uj_EnJsuEAUiDD-DtEjfTGP54",
+        "id": "ZQe-bvaWdW0",
+        "snippet": {
+            "publishedAt": "2021-04-19T14:09:46Z",
+            "channelId": "UCxMXl9L79X1Mq_4iwCOyPFg",
+            "title": "Amber Alert Issued For Texas Teens Devany Betancourt And Marina Nelson",
+            "description": "An Amber Alert was issued for two teenagers from Seagoville, Devany Betancourt, 16, and Marina Nelson, 17. Katie Johnston reports.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/ZQe-bvaWdW0/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/ZQe-bvaWdW0/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/ZQe-bvaWdW0/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/ZQe-bvaWdW0/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/ZQe-bvaWdW0/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "CBSDFW",
+            "tags": [
+                "news",
+                "digital",
+                "DFW",
+                "Dallas",
+                "CBS",
+                "Devany Betancourt",
+                "Marina Nelson",
+                "DFW News",
+                "Seagoville",
+                "Missing Person",
+                "Abduction"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "Amber Alert Issued For Texas Teens Devany Betancourt And Marina Nelson",
+                "description": "An Amber Alert was issued for two teenagers from Seagoville, Devany Betancourt, 16, and Marina Nelson, 17. Katie Johnston reports."
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT49S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "3554",
+            "likeCount": "46",
+            "favoriteCount": "0",
+            "commentCount": "11"
+        }
+    }
+]

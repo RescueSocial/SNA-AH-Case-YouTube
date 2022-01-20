@@ -1,0 +1,75 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "ap0QI7TGVSJ6E3-Mz5EQK_8LyHE",
+        "id": "LiZ2l2a0YnA",
+        "snippet": {
+            "publishedAt": "2019-09-24T19:59:22Z",
+            "channelId": "UCz8K1occVvDTYDfFo7N5EZw",
+            "title": "Amber Guyger Trial 911 Call",
+            "description": "Amber Guyger Trial 911 Call",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/LiZ2l2a0YnA/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/LiZ2l2a0YnA/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/LiZ2l2a0YnA/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/LiZ2l2a0YnA/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/LiZ2l2a0YnA/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Law&Crime Network",
+            "tags": [
+                "Amber Guyger Trial 911 Call"
+            ],
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "Amber Guyger Trial 911 Call",
+                "description": "Amber Guyger Trial 911 Call"
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT1M37S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "7604",
+            "likeCount": "58",
+            "favoriteCount": "0",
+            "commentCount": "44"
+        }
+    }
+]

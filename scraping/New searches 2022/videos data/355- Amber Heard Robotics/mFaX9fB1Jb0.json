@@ -1,0 +1,85 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "RlhEWJGBHEFJXXXpQJkWmE-JiUQ",
+        "id": "mFaX9fB1Jb0",
+        "snippet": {
+            "publishedAt": "2021-05-13T18:10:46Z",
+            "channelId": "UCcgqJ1blFKqbC2bWGY4Opmg",
+            "title": "Building the gripper for the robot arm (Dynamixel + Amber)",
+            "description": "Today we have build the gripper for the 7 axis robotic arm (Amber B1). But it should be useful also for other robot arms. The gripper uses torque control and torque based position control, which make this gripper ideal for fragile light objects as well as for heavy objects. All this is possible thanks to Dynamixel servo.\n\nBig thank you to ROBOTIS for the Dynamixel Servo: \nNorth and South America Region: https://www.robotis.us/dynamixel-xh540-v150-r/\nEurope, Asia, Africa, Oceania/Australia Region: http://en.robotis.com/shop_en/item.php?it_id=902-0142-000\n\nThe link to the KickStarter campaign of Amber B1: https://bit.ly/3tvuYTc\n\nSpecial thanks to my special Patrons: Matthew Harrison, RobotDigg Shanghai, Shounak Bhattacharya and Vikas Marwaha!\n\nPlease subscribe. This will help me to develop other projects like this, to bring the bright future closer! \r\n\r\nOne time donation:\r\nhttps://www.paypal.me/Skyentific\r\n\r\nIf you want to help this channel, please support me on Patreon: \r\nhttps://www.patreon.com/Skyentific\r\n\r\nInstagram: https://www.instagram.com/skyentificinsta/\r\nFacebook: https://www.facebook.com/SkyentificFace\r\nTwitter: https://twitter.com/SkyentificTweet\r\n\r\n#robotics #robot #robotarm",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/mFaX9fB1Jb0/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/mFaX9fB1Jb0/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/mFaX9fB1Jb0/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/mFaX9fB1Jb0/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/mFaX9fB1Jb0/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Skyentific",
+            "tags": [
+                "robotic arm",
+                "robot arm",
+                "brushless",
+                "harmonic drive",
+                "robot",
+                "robotics",
+                "Dynamixel",
+                "servo",
+                "gripper",
+                "torque",
+                "robotis"
+            ],
+            "categoryId": "28",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "Building the gripper for the robot arm (Dynamixel + Amber)",
+                "description": "Today we have build the gripper for the 7 axis robotic arm (Amber B1). But it should be useful also for other robot arms. The gripper uses torque control and torque based position control, which make this gripper ideal for fragile light objects as well as for heavy objects. All this is possible thanks to Dynamixel servo.\n\nBig thank you to ROBOTIS for the Dynamixel Servo: \nNorth and South America Region: https://www.robotis.us/dynamixel-xh540-v150-r/\nEurope, Asia, Africa, Oceania/Australia Region: http://en.robotis.com/shop_en/item.php?it_id=902-0142-000\n\nThe link to the KickStarter campaign of Amber B1: https://bit.ly/3tvuYTc\n\nSpecial thanks to my special Patrons: Matthew Harrison, RobotDigg Shanghai, Shounak Bhattacharya and Vikas Marwaha!\n\nPlease subscribe. This will help me to develop other projects like this, to bring the bright future closer! \r\n\r\nOne time donation:\r\nhttps://www.paypal.me/Skyentific\r\n\r\nIf you want to help this channel, please support me on Patreon: \r\nhttps://www.patreon.com/Skyentific\r\n\r\nInstagram: https://www.instagram.com/skyentificinsta/\r\nFacebook: https://www.facebook.com/SkyentificFace\r\nTwitter: https://twitter.com/SkyentificTweet\r\n\r\n#robotics #robot #robotarm"
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT15M38S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "13726",
+            "likeCount": "757",
+            "favoriteCount": "0",
+            "commentCount": "67"
+        }
+    }
+]

@@ -1,0 +1,80 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "DSXQCwCOOxC1vIdV-Zyf8nA_Tkw",
+        "id": "8rmCRx0X_h0",
+        "snippet": {
+            "publishedAt": "2021-05-10T21:57:31Z",
+            "channelId": "UCNZyLULUQBp5e9Q1cKtvk6Q",
+            "title": "AMBER Alert Canceled After East Orange, N.J. Infant Found Unharmed",
+            "description": "New Jersey State Police were looking for Chinna Payne, who is less than one month old. CBS2's Jessica Layton reports.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/8rmCRx0X_h0/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/8rmCRx0X_h0/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/8rmCRx0X_h0/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/8rmCRx0X_h0/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/8rmCRx0X_h0/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "CBS New York",
+            "tags": [
+                "CBS2 News At 5",
+                "Jessica Layton",
+                "AMBER Alert",
+                "New Jersey",
+                "East Orange",
+                "Local TV"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "AMBER Alert Canceled After East Orange, N.J. Infant Found Unharmed",
+                "description": "New Jersey State Police were looking for Chinna Payne, who is less than one month old. CBS2's Jessica Layton reports."
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT1M31S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": false,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "15031",
+            "likeCount": "289",
+            "favoriteCount": "0",
+            "commentCount": "84"
+        }
+    }
+]

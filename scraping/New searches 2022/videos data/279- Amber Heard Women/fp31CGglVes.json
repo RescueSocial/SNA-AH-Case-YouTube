@@ -1,0 +1,65 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "ANZ0izIRxk8Im96cBhSkNgZ-xRM",
+        "id": "fp31CGglVes",
+        "snippet": {
+            "publishedAt": "2019-01-12T14:21:35Z",
+            "channelId": "UCcqHguQpdy6S8Cqj6Pdz22g",
+            "title": "Amber Rose speaks up against men on what women should do.\ud83d\ude33",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/fp31CGglVes/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/fp31CGglVes/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/fp31CGglVes/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/fp31CGglVes/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Street Dreamz",
+            "categoryId": "10",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Rose speaks up against men on what women should do.\ud83d\ude33",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT1M",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "16",
+            "likeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "1iUOJRM9Z8IGSVBeqjHPSQ75QGQ",
+        "id": "kwIQSKCeTHs",
+        "snippet": {
+            "publishedAt": "2018-11-27T00:15:14Z",
+            "channelId": "UC-HTZQeFXSn-hT21lFkSaKQ",
+            "title": "Aquaman in 4DX | Jason Momoa, Amber Heard, Yahya Abdul-Mateen II",
+            "description": "Jason Momoa, Amber Heard, Yahya Abdul-Mateen II shout out 'Aquaman' will be an epic underwater adventure in 4DX.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/kwIQSKCeTHs/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/kwIQSKCeTHs/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/kwIQSKCeTHs/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/kwIQSKCeTHs/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/kwIQSKCeTHs/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "4DX",
+            "tags": [
+                "Jason Momoa",
+                "Amber Heard",
+                "Yahya Abdul-Mateen II",
+                "aquaman",
+                "4DX",
+                "4d",
+                "cinema",
+                "movie",
+                "film",
+                "theater",
+                "theatre",
+                "experience",
+                "cast",
+                "justice league"
+            ],
+            "categoryId": "1",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Aquaman in 4DX | Jason Momoa, Amber Heard, Yahya Abdul-Mateen II",
+                "description": "Jason Momoa, Amber Heard, Yahya Abdul-Mateen II shout out 'Aquaman' will be an epic underwater adventure in 4DX."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT52S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "3622",
+            "likeCount": "59",
+            "favoriteCount": "0",
+            "commentCount": "4"
+        }
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "hwAqmiOaW2xddAzpj7B8bhMh3jY",
+        "id": "zWjYic4E9bU",
+        "snippet": {
+            "publishedAt": "2015-10-07T01:57:39Z",
+            "channelId": "UCTw5tVNl7OnJgcuYMKo_9vw",
+            "title": "Fearless Fitness and Eat Fit Live Team call with Amber Lanier",
+            "description": "Two star diamond coach Amber Lanier shares how she accomplished the 20 coaches in 30 days recruitment push as well as how to shift your mindset.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/zWjYic4E9bU/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/zWjYic4E9bU/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/zWjYic4E9bU/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/zWjYic4E9bU/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Samantha Kreisle",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Fearless Fitness and Eat Fit Live Team call with Amber Lanier",
+                "description": "Two star diamond coach Amber Lanier shares how she accomplished the 20 coaches in 30 days recruitment push as well as how to shift your mindset."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT30M23S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "55",
+            "likeCount": "2",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

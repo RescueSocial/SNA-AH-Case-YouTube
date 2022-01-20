@@ -1,0 +1,65 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "futC1eLkY0o1YdXK6VpW-23HJZ4",
+        "id": "-6xoHUCsn4E",
+        "snippet": {
+            "publishedAt": "2020-08-02T16:08:46Z",
+            "channelId": "UCgkRk8hIHXDb2uQA6INxKlw",
+            "title": "Johnny depp and Amber heard at Venice film festival",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/-6xoHUCsn4E/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/-6xoHUCsn4E/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/-6xoHUCsn4E/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/-6xoHUCsn4E/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Deepak Verma",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Johnny depp and Amber heard at Venice film festival",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT18S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "17496",
+            "likeCount": "561",
+            "favoriteCount": "0",
+            "commentCount": "4"
+        }
+    }
+]

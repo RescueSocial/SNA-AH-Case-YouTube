@@ -1,0 +1,65 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "mKykWlbELLKbPF330_lXTtvdhwE",
+        "id": "HATYgIbjxsg",
+        "snippet": {
+            "publishedAt": "2020-09-23T05:31:40Z",
+            "channelId": "UC95FiEcamI5IIuLKd55lKXQ",
+            "title": "Georgia Beer Reviews: Green Man ESB Special Amber Ale",
+            "description": "5.5% alcohol. 32 IBUs. Brewed and canned by Green Man Brewing Company, Asheville, North Carolina.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/HATYgIbjxsg/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/HATYgIbjxsg/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/HATYgIbjxsg/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/HATYgIbjxsg/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "John Anile",
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Georgia Beer Reviews: Green Man ESB Special Amber Ale",
+                "description": "5.5% alcohol. 32 IBUs. Brewed and canned by Green Man Brewing Company, Asheville, North Carolina."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT5M20S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "34",
+            "likeCount": "5",
+            "favoriteCount": "0",
+            "commentCount": "2"
+        }
+    }
+]

@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "wp-gPcugy836w-MeS0jo9XOxi_I",
+        "id": "E79fVwTq9xM",
+        "snippet": {
+            "publishedAt": "2019-11-21T22:33:08Z",
+            "channelId": "UCVnjt9mMx46gMUeTtONXimQ",
+            "title": "Hondo Police say they will reconsider second Amber Alert for missing teen",
+            "description": "Eva Garcia has been missing for more than a month. On Thursday, community members showed up to Hondo Police headquarters, demanding updates on the case.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/E79fVwTq9xM/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/E79fVwTq9xM/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/E79fVwTq9xM/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/E79fVwTq9xM/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "KENS 5: Your San Antonio News Source",
+            "tags": [
+                "public-safety",
+                "community",
+                "news",
+                "local"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "Hondo Police say they will reconsider second Amber Alert for missing teen",
+                "description": "Eva Garcia has been missing for more than a month. On Thursday, community members showed up to Hondo Police headquarters, demanding updates on the case."
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT1M47S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "1200",
+            "likeCount": "7",
+            "favoriteCount": "0",
+            "commentCount": "7"
+        }
+    }
+]

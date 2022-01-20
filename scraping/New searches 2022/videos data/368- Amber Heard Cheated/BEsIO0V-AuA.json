@@ -1,0 +1,60 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "1RnnpEKsRwKezivJR9xcADoRPUY",
+        "id": "BEsIO0V-AuA",
+        "snippet": {
+            "publishedAt": "2020-02-02T06:59:31Z",
+            "channelId": "UCGi5An_wQvv5Ks9cmWzbJ9A",
+            "title": "Amber Heard confiesa las agresiones f\u00edsicas hacia Johnny Depp. Conversacion sub espa\u00f1ol.",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/BEsIO0V-AuA/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/BEsIO0V-AuA/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/BEsIO0V-AuA/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Mai Luzzera",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Heard confiesa las agresiones f\u00edsicas hacia Johnny Depp. Conversacion sub espa\u00f1ol.",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT10M9S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "145533",
+            "likeCount": "1222",
+            "favoriteCount": "0",
+            "commentCount": "347"
+        }
+    }
+]

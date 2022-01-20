@@ -1,0 +1,60 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "baDxXN2G21dXneVoLB9A-kxy5yA",
+        "id": "BVqEp4iDIo8",
+        "snippet": {
+            "publishedAt": "2019-06-28T05:37:07Z",
+            "channelId": "UCqZToE5yIxsPV6uVWgsGU5A",
+            "title": "new beer try announcement!Bell's Amber Ale!",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/BVqEp4iDIo8/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/BVqEp4iDIo8/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/BVqEp4iDIo8/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Rudy g Funk",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "new beer try announcement!Bell's Amber Ale!",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT2H23M34S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "37",
+            "likeCount": "5",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

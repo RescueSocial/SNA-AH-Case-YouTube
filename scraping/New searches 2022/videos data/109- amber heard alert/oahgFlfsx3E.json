@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "l4J4mgzJuVCJm9iDT3GDRbldN2Y",
+        "id": "oahgFlfsx3E",
+        "snippet": {
+            "publishedAt": "2020-02-11T04:09:37Z",
+            "channelId": "UCjpzEgbbDUg4YC6vpSrzsyg",
+            "title": "Father, 3-year-old girl reunited after Amber Alert abduction",
+            "description": "The father of the 3-year-old girl, who Apopka police say was abducted from her front yard Monday morning, is thanking law enforcement officers who helped reunite him with his daughter.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/oahgFlfsx3E/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/oahgFlfsx3E/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/oahgFlfsx3E/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/oahgFlfsx3E/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/oahgFlfsx3E/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "WKMG News 6 ClickOrlando",
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Father, 3-year-old girl reunited after Amber Alert abduction",
+                "description": "The father of the 3-year-old girl, who Apopka police say was abducted from her front yard Monday morning, is thanking law enforcement officers who helped reunite him with his daughter."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT2M15S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "5936",
+            "likeCount": "36",
+            "favoriteCount": "0",
+            "commentCount": "3"
+        }
+    }
+]

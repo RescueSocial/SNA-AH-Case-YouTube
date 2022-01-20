@@ -1,0 +1,66 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "1u--o6UyWNe2ynwQQR2Y_s6IzTU",
+        "id": "GjAAmO5BkbA",
+        "snippet": {
+            "publishedAt": "2007-09-25T01:52:34Z",
+            "channelId": "UCsw3JY7wvhbqNU2biaoOa0g",
+            "title": "Amber scared the crap out of me!",
+            "description": "My two BFF's pulled a fast one on me! Brittany told me she needed some dress clothes for a concert coming up...but really Amber was in the closet with a mask on and scared me half to death!! Oh I know they think they're funny!!",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/GjAAmO5BkbA/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/GjAAmO5BkbA/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/GjAAmO5BkbA/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Heather James",
+            "tags": [
+                "Amber",
+                "scared",
+                "crap",
+                "out",
+                "me"
+            ],
+            "categoryId": "23",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber scared the crap out of me!",
+                "description": "My two BFF's pulled a fast one on me! Brittany told me she needed some dress clothes for a concert coming up...but really Amber was in the closet with a mask on and scared me half to death!! Oh I know they think they're funny!!"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT22S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "4102",
+            "likeCount": "8",
+            "favoriteCount": "0"
+        }
+    }
+]

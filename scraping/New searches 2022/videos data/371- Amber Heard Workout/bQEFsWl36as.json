@@ -1,0 +1,60 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "YZO52NDKdV7nwMmF5hVtq5oa88o",
+        "id": "bQEFsWl36as",
+        "snippet": {
+            "publishedAt": "2021-07-30T00:02:16Z",
+            "channelId": "UC5RuI6252JBUDAKpBK4TTnQ",
+            "title": "Amber heard in metro",
+            "description": "#amberheard\n#metro",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/bQEFsWl36as/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/bQEFsWl36as/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/bQEFsWl36as/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "World is Beautiful",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber heard in metro",
+                "description": "#amberheard\n#metro"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT3S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "44",
+            "likeCount": "2",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

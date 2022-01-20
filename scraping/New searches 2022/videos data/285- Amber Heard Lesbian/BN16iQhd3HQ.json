@@ -1,0 +1,80 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "z-KOCn4yGkxvOQiIFJa-5eyX6k8",
+        "id": "BN16iQhd3HQ",
+        "snippet": {
+            "publishedAt": "2020-03-08T00:15:02Z",
+            "channelId": "UChs7lcuw4qOCxl3SJRPuidQ",
+            "title": "Bianca Butti gets jealous after Amber Heard secretly meets deal with Johnny Depp",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/BN16iQhd3HQ/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/BN16iQhd3HQ/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/BN16iQhd3HQ/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/BN16iQhd3HQ/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/BN16iQhd3HQ/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "DT Media",
+            "tags": [
+                "DT Media",
+                "news",
+                "Bianca Butti",
+                "jealous",
+                "Amber Heard",
+                "secretly",
+                "deal",
+                "Johnny Depp"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Bianca Butti gets jealous after Amber Heard secretly meets deal with Johnny Depp",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT3M26S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": false,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "2505",
+            "likeCount": "7",
+            "favoriteCount": "0",
+            "commentCount": "7"
+        }
+    }
+]

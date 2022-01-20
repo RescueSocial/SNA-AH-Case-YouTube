@@ -1,0 +1,71 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "AQZJxbNwCKffKDlMQ1cprTG1sjo",
+        "id": "a8vFU03MoBE",
+        "snippet": {
+            "publishedAt": "2020-07-09T00:53:10Z",
+            "channelId": "UCD8J6kWlnsWM0V28QmebX4Q",
+            "title": "Amber Heard photographed by Terry Richardson for Interview Magazine",
+            "description": "Amber Heard photographed by Terry Richardson for Interview Magazine",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/a8vFU03MoBE/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/a8vFU03MoBE/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/a8vFU03MoBE/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/a8vFU03MoBE/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/a8vFU03MoBE/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Creators",
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Heard photographed by Terry Richardson for Interview Magazine",
+                "description": "Amber Heard photographed by Terry Richardson for Interview Magazine"
+            },
+            "defaultAudioLanguage": "es"
+        },
+        "contentDetails": {
+            "duration": "PT36S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "74",
+            "likeCount": "1",
+            "favoriteCount": "0",
+            "commentCount": "1"
+        }
+    }
+]

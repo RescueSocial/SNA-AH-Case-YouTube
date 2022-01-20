@@ -1,0 +1,74 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "Mu8ay-N51CPgam6VENoqrPe-byI",
+        "id": "uQjHYtwsxgM",
+        "snippet": {
+            "publishedAt": "2011-11-25T04:52:48Z",
+            "channelId": "UCgzCwdvH6yUK2aVpKi-4Waw",
+            "title": "Who is Amber Alexa?",
+            "description": "Sneak peak of Amber Alexa",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/uQjHYtwsxgM/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/uQjHYtwsxgM/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/uQjHYtwsxgM/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/uQjHYtwsxgM/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Amber Alexa",
+            "tags": [
+                "Amber",
+                "alexa",
+                "model",
+                "glamour",
+                "entertainment"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Who is Amber Alexa?",
+                "description": "Sneak peak of Amber Alexa"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT4M47S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {
+                "ytRating": "ytAgeRestricted"
+            },
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "1254",
+            "likeCount": "9",
+            "favoriteCount": "0",
+            "commentCount": "2"
+        }
+    }
+]

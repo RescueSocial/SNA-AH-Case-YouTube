@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "Hn9tCDrQaFqmzVpU2WkiIDKf8Gw",
+        "id": "_-tuG6nNL1w",
+        "snippet": {
+            "publishedAt": "2020-04-25T17:21:17Z",
+            "channelId": "UCVoJxFNSGTkF3ff-26JUuZA",
+            "title": "Spanish Project Amber y Bree",
+            "description": "Spanish Students discuss the effects of Alcohol Addiction",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/_-tuG6nNL1w/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/_-tuG6nNL1w/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/_-tuG6nNL1w/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/_-tuG6nNL1w/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/_-tuG6nNL1w/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Briana Patterson",
+            "categoryId": "23",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Spanish Project Amber y Bree",
+                "description": "Spanish Students discuss the effects of Alcohol Addiction"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT4M53S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": true
+        },
+        "statistics": {
+            "viewCount": "10",
+            "likeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

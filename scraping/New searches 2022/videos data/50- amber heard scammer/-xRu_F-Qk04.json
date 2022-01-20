@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "V-UxPrNiCBgvBW2cNt1hMb3r9Us",
+        "id": "-xRu_F-Qk04",
+        "snippet": {
+            "publishedAt": "2021-10-16T03:36:18Z",
+            "channelId": "UCcNNgoWBH5qmSUoXhhPWaEg",
+            "title": "Judge rejects amber heard for the 4th time",
+            "description": "Subscribe \nGo follow the tiktok acct in the video",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/-xRu_F-Qk04/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/-xRu_F-Qk04/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/-xRu_F-Qk04/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/-xRu_F-Qk04/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/-xRu_F-Qk04/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Lord random tiktoks",
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Judge rejects amber heard for the 4th time",
+                "description": "Subscribe \nGo follow the tiktok acct in the video"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT1M1S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "12",
+            "likeCount": "3",
+            "favoriteCount": "0",
+            "commentCount": "2"
+        }
+    }
+]

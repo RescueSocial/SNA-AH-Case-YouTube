@@ -1,0 +1,71 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "bjX8J6hClgI_QOmkOqREE_UazRU",
+        "id": "DSxjb0yrHkg",
+        "snippet": {
+            "publishedAt": "2021-09-18T15:11:42Z",
+            "channelId": "UCggr4hG6-Hr6ZrkrTc6wHLQ",
+            "title": "Southern California AMBER Alert at 4am in the Morning (EAS #4906-4909) 9/18/21",
+            "description": "An AMBER Alert was issued for San Bernardino and Riverside Counties. Remember please sure hit the like button and subscribe to my channel today.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/DSxjb0yrHkg/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/DSxjb0yrHkg/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/DSxjb0yrHkg/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/DSxjb0yrHkg/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/DSxjb0yrHkg/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Los Angeles EAS",
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Southern California AMBER Alert at 4am in the Morning (EAS #4906-4909) 9/18/21",
+                "description": "An AMBER Alert was issued for San Bernardino and Riverside Counties. Remember please sure hit the like button and subscribe to my channel today."
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT8M53S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "300",
+            "likeCount": "9",
+            "favoriteCount": "0",
+            "commentCount": "5"
+        }
+    }
+]

@@ -1,0 +1,75 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "rGSgjmJeVSz-q791a7b6QZE0D9w",
+        "id": "o5FV_IHocwU",
+        "snippet": {
+            "publishedAt": "2015-04-05T04:14:05Z",
+            "channelId": "UCjroJE6UjOEKtgL-Phry6iQ",
+            "title": "AMBER AND HYUNA friendships part2",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/o5FV_IHocwU/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/o5FV_IHocwU/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/o5FV_IHocwU/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/o5FV_IHocwU/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/o5FV_IHocwU/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "leelyamy 19",
+            "tags": [
+                "Hyuna (Award Winner)",
+                "Dance (Interest)",
+                "Amber"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "AMBER AND HYUNA friendships part2",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT4M58S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "24616",
+            "likeCount": "434",
+            "favoriteCount": "0",
+            "commentCount": "11"
+        }
+    }
+]

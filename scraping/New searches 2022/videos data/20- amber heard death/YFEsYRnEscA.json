@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "ehcjF6CC2jKTTXaCGQBaJ7F5GEc",
+        "id": "YFEsYRnEscA",
+        "snippet": {
+            "publishedAt": "2019-12-07T03:13:25Z",
+            "channelId": "UCu45_8m5YDucUKhwP7rBxbg",
+            "title": "AMBER TORRES RACE CRASH FULL VIDEO!",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/YFEsYRnEscA/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/YFEsYRnEscA/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/YFEsYRnEscA/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/YFEsYRnEscA/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/YFEsYRnEscA/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Russel Dela Cruz",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "AMBER TORRES RACE CRASH FULL VIDEO!",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT4M16S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "47327",
+            "likeCount": "251",
+            "favoriteCount": "0",
+            "commentCount": "22"
+        }
+    }
+]

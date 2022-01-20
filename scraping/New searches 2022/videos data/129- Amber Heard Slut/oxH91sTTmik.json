@@ -1,0 +1,74 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "reNzyvvD2J_lllFjSOsTrnufO3o",
+        "id": "oxH91sTTmik",
+        "snippet": {
+            "publishedAt": "2016-05-03T21:01:01Z",
+            "channelId": "UCdtXPiqI2cLorKaPrfpKc4g",
+            "title": "Amber Rose Gets Her Own Talk Show",
+            "description": "The model is heading to VH1 this summer.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/oxH91sTTmik/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/oxH91sTTmik/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/oxH91sTTmik/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/oxH91sTTmik/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Entertainment Tonight",
+            "tags": [
+                "ET Online",
+                "entertainment tonight",
+                "etonline",
+                "talk show",
+                "et",
+                "Amber Rose",
+                "trending"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Rose Gets Her Own Talk Show",
+                "description": "The model is heading to VH1 this summer."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT1M7S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "6690",
+            "likeCount": "52",
+            "favoriteCount": "0",
+            "commentCount": "7"
+        }
+    }
+]

@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "a99_6JzlKe38KWc_d57JOexL8JQ",
+        "id": "AyEjD5EYIVc",
+        "snippet": {
+            "publishedAt": "2021-10-11T13:03:14Z",
+            "channelId": "UCJR5Y05af3h8sPRz52iKi7g",
+            "title": "Assessing Amber for connection training",
+            "description": "This video is our first session from the Connection training course, seeing how she reacts to the treats in buckets and trying to read her body language.\nhttps://connectiontraining.com/",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/AyEjD5EYIVc/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/AyEjD5EYIVc/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/AyEjD5EYIVc/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/AyEjD5EYIVc/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/AyEjD5EYIVc/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Connecting with Amber and Dobs",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Assessing Amber for connection training",
+                "description": "This video is our first session from the Connection training course, seeing how she reacts to the treats in buckets and trying to read her body language.\nhttps://connectiontraining.com/"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT9M54S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "18",
+            "likeCount": "1",
+            "favoriteCount": "0",
+            "commentCount": "1"
+        }
+    }
+]

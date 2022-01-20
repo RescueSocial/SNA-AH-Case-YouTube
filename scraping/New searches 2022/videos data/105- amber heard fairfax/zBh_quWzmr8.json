@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "LyHjDxySaPhKzcBAFyZgm-IzN9c",
+        "id": "zBh_quWzmr8",
+        "snippet": {
+            "publishedAt": "2016-06-23T22:39:40Z",
+            "channelId": "UChQ6kvZ1J5nNGl8NCEaq3hQ",
+            "title": "Amber's Closet | Dare To Be Me",
+            "description": "@Amberscloset shares her story of monumental moment in her life that allowed her to stand-out, be proud, and dare to be her true self. Make sure to like us for new videos all week!Share your #beautyconpride moments with us!",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/zBh_quWzmr8/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/zBh_quWzmr8/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/zBh_quWzmr8/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/zBh_quWzmr8/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/zBh_quWzmr8/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Beautycon",
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber's Closet | Dare To Be Me",
+                "description": "@Amberscloset shares her story of monumental moment in her life that allowed her to stand-out, be proud, and dare to be her true self. Make sure to like us for new videos all week!Share your #beautyconpride moments with us!"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT1M38S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "1895",
+            "likeCount": "65",
+            "favoriteCount": "0",
+            "commentCount": "4"
+        }
+    }
+]

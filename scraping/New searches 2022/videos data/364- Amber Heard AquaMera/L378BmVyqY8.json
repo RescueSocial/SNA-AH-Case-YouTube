@@ -1,0 +1,78 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "G2cDP12OFWSt7MGT3D3eKXAbvXg",
+        "id": "L378BmVyqY8",
+        "snippet": {
+            "publishedAt": "2015-09-18T21:11:54Z",
+            "channelId": "UCGntETBeosU4-zbRdneetwQ",
+            "title": "Amber Heard smiling compilation emotions #2",
+            "description": "Amber Heard smiling compilation",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/L378BmVyqY8/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/L378BmVyqY8/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/L378BmVyqY8/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/L378BmVyqY8/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/L378BmVyqY8/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Emotions",
+            "tags": [
+                "Amber Heard (Celebrity)",
+                "Emotion (Quotation Subject)",
+                "Funny",
+                "Face",
+                "Smile (Quotation Subject)",
+                "You"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Heard smiling compilation emotions #2",
+                "description": "Amber Heard smiling compilation"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT1M19S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "2632",
+            "likeCount": "27",
+            "favoriteCount": "0",
+            "commentCount": "5"
+        }
+    }
+]

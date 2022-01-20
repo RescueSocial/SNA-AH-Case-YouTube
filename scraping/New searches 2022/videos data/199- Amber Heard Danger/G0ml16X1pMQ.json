@@ -1,0 +1,78 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "fMssTkOlJZasbalToV_W9kMg2lo",
+        "id": "G0ml16X1pMQ",
+        "snippet": {
+            "publishedAt": "2017-02-14T14:19:19Z",
+            "channelId": "UCkBS_xU1WQ7FVsDoQ_OPeDg",
+            "title": "Amber Alert For Missing Gary Teen Believed To Be In \"Extreme Danger\"",
+            "description": "Police in Gary, Indiana, have issued an Amber Alert for a missing teenager believed to be in extreme danger. Chastinea Reeves, 15, has been missing for more than 24 hours. CBS 2's Mike Puccinelli reports.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/G0ml16X1pMQ/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/G0ml16X1pMQ/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/G0ml16X1pMQ/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/G0ml16X1pMQ/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/G0ml16X1pMQ/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "CBS Chicago",
+            "tags": [
+                "CBS 2 News Morning",
+                "Missing Girl",
+                "Amber Alert",
+                "Gary",
+                "Indiana",
+                "Mike Puccinelli"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Alert For Missing Gary Teen Believed To Be In \"Extreme Danger\"",
+                "description": "Police in Gary, Indiana, have issued an Amber Alert for a missing teenager believed to be in extreme danger. Chastinea Reeves, 15, has been missing for more than 24 hours. CBS 2's Mike Puccinelli reports."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT2M45S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "944",
+            "likeCount": "7",
+            "favoriteCount": "0",
+            "commentCount": "3"
+        }
+    }
+]

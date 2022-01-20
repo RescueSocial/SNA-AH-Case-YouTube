@@ -1,0 +1,62 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "CH7UBZgfhj_0mTchRNTBt7DL7Po",
+        "id": "k6nc3uZ7xU4",
+        "snippet": {
+            "publishedAt": "2012-03-01T13:44:31Z",
+            "channelId": "UCXtBd8Q4et4E957ycpv5c4g",
+            "title": "amber's death by Magisto",
+            "description": "Created by Magisto - Magical Video Editor (www.magisto.com)",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/k6nc3uZ7xU4/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/k6nc3uZ7xU4/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/k6nc3uZ7xU4/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "joshua mangiam",
+            "tags": [
+                "magisto"
+            ],
+            "categoryId": "1",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "amber's death by Magisto",
+                "description": "Created by Magisto - Magical Video Editor (www.magisto.com)"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT21S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "49",
+            "likeCount": "1",
+            "favoriteCount": "0"
+        }
+    }
+]

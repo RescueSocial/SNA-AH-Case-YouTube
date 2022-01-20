@@ -1,0 +1,72 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "H4sZy1ocugZ5AAojjPyIV4qDnoE",
+        "id": "bScMj_NFFwo",
+        "snippet": {
+            "publishedAt": "2019-10-11T21:18:51Z",
+            "channelId": "UCvB00gFzUPFXBw0f33tN1jg",
+            "title": "Training Blend Episode 004 with Amber Brannigan",
+            "description": "Episode #4 of the official podcast of the State of Nebraska Training and Development team. This episode features Amber Brannigan, State Building Division Administrator.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/bScMj_NFFwo/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/bScMj_NFFwo/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/bScMj_NFFwo/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/bScMj_NFFwo/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/bScMj_NFFwo/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Nebraska Department of Administrative Services",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "Training Blend Episode 004 with Amber Brannigan",
+                "description": "Episode #4 of the official podcast of the State of Nebraska Training and Development team. This episode features Amber Brannigan, State Building Division Administrator."
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT14M26S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "40",
+            "likeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

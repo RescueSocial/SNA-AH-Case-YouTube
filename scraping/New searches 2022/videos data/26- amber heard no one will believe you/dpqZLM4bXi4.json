@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "R-3MjeFzLKv0bRzQLupbQ1VeuT4",
+        "id": "dpqZLM4bXi4",
+        "snippet": {
+            "publishedAt": "2021-07-01T16:08:29Z",
+            "channelId": "UCrNwU8tFJmidx07GOStsIXg",
+            "title": "The Amber Neal Show \u201cWhy you shouldn\u2019t sleep with him on the 1st date\u201d",
+            "description": "The Amber Neal Show \u201cWhy you shouldn\u2019t sleep with him on the 1st date\u201d",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/dpqZLM4bXi4/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/dpqZLM4bXi4/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/dpqZLM4bXi4/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/dpqZLM4bXi4/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/dpqZLM4bXi4/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Boss Up Houston Network",
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "The Amber Neal Show \u201cWhy you shouldn\u2019t sleep with him on the 1st date\u201d",
+                "description": "The Amber Neal Show \u201cWhy you shouldn\u2019t sleep with him on the 1st date\u201d"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT55M39S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "19",
+            "likeCount": "1",
+            "favoriteCount": "0",
+            "commentCount": "1"
+        }
+    }
+]

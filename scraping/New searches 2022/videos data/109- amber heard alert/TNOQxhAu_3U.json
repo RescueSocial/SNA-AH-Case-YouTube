@@ -1,0 +1,81 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "-0WAuqXbOWJVAkNaJT5AQcAH7XM",
+        "id": "TNOQxhAu_3U",
+        "snippet": {
+            "publishedAt": "2019-09-06T16:11:44Z",
+            "channelId": "UCNZyLULUQBp5e9Q1cKtvk6Q",
+            "title": "Amber Alert Cancelled After 3-Year-Old Girl Found Safe After Alleged Shooting",
+            "description": "A little girl found safe after long island law enforcement and residents came together to bring her home. police say 3-year-old Vanessa Tennant-Mitchell has been found in Riverhead. CBS2's Tara Jakeway reports.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/TNOQxhAu_3U/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/TNOQxhAu_3U/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/TNOQxhAu_3U/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/TNOQxhAu_3U/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/TNOQxhAu_3U/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "CBS New York",
+            "tags": [
+                "CBS2 News At Noon",
+                "Amber alert",
+                "Riverhead",
+                "New York",
+                "Vanessa Tennant-Mitchell",
+                "Tara Jakeway",
+                "Local TV"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "Amber Alert Cancelled After 3-Year-Old Girl Found Safe After Alleged Shooting",
+                "description": "A little girl found safe after long island law enforcement and residents came together to bring her home. police say 3-year-old Vanessa Tennant-Mitchell has been found in Riverhead. CBS2's Tara Jakeway reports."
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT2M13S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": false,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "609",
+            "likeCount": "13",
+            "favoriteCount": "0",
+            "commentCount": "2"
+        }
+    }
+]

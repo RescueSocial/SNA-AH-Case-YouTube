@@ -1,0 +1,67 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "kTgQNe-r-KyD5gIGgZwN-gbIJDM",
+        "id": "6fJ-8XclHEo",
+        "snippet": {
+            "publishedAt": "2016-06-10T23:56:58Z",
+            "channelId": "UCIYVU7fPs_n6gJIBso3ryeg",
+            "title": "Anti-trafficking activist fears Alvarez may be a victim",
+            "description": "Thirteen days and one Amber Alert since she was last seen, 9-year-old Diana Alvarez still hasn't been found.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/6fJ-8XclHEo/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/6fJ-8XclHEo/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/6fJ-8XclHEo/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/6fJ-8XclHEo/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "NBC2 News",
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "Anti-trafficking activist fears Alvarez may be a victim",
+                "description": "Thirteen days and one Amber Alert since she was last seen, 9-year-old Diana Alvarez still hasn't been found."
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT2M16S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "390",
+            "likeCount": "2",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

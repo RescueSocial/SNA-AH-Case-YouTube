@@ -1,0 +1,68 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "kIKs2cIw8x6nomXITUOI0YFufOE",
+        "id": "nDVgeF_lmqQ",
+        "snippet": {
+            "publishedAt": "2014-07-28T22:17:42Z",
+            "channelId": "UC0knIoLoY07gMEoB9VODt-A",
+            "title": "AMBER HEARD/SEBASTIAN STAN\\\"Crazy in Love\"",
+            "description": "\"Crazy in Love\", \u0438\u0441\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c: Kadebostany",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/nDVgeF_lmqQ/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/nDVgeF_lmqQ/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/nDVgeF_lmqQ/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "\u041c\u043e\u043d\u0430 \u0421\u0430\u043a\u0441",
+            "tags": [
+                "Sebastian Stan (Film Actor)",
+                "Amber Heard (Celebrity)",
+                "Crazy",
+                "Drama (TV Genre)",
+                "Have",
+                "You"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "AMBER HEARD/SEBASTIAN STAN\\\"Crazy in Love\"",
+                "description": "\"Crazy in Love\", \u0438\u0441\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c: Kadebostany"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT1M28S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "13563",
+            "likeCount": "147",
+            "favoriteCount": "0",
+            "commentCount": "4"
+        }
+    }
+]

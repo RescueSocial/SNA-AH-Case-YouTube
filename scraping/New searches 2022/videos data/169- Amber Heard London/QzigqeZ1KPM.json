@@ -1,0 +1,84 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "Qq7-xHM_ASuQWsVeoCB-r0WVwK0",
+        "id": "QzigqeZ1KPM",
+        "snippet": {
+            "publishedAt": "2015-01-20T22:59:28Z",
+            "channelId": "UCELw9A4gNI87V141iOFgS4w",
+            "title": "Johnny Depp and Amber Heard at the premiere in London",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/QzigqeZ1KPM/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/QzigqeZ1KPM/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/QzigqeZ1KPM/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/QzigqeZ1KPM/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "\u0422\u0430\u0442\u044c\u044f\u043d\u0430 \u0417\u0430\u043c\u043e\u0440\u043e\u0447\u043a\u0438\u043d\u0430",
+            "tags": [
+                "Amber Heard (Celebrity)",
+                "Johnny Depp (Celebrity)",
+                "Music (TV Genre)",
+                "London",
+                "Jack",
+                "Pirates",
+                "Television (Invention)",
+                "Live",
+                "Caribbean",
+                "Have",
+                "John F. Kennedy (US President)",
+                "You",
+                "England",
+                "Sparrow",
+                "Should",
+                "United Kingdom (Country)",
+                "Captain"
+            ],
+            "categoryId": "10",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Johnny Depp and Amber Heard at the premiere in London",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT1M9S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "72",
+            "likeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

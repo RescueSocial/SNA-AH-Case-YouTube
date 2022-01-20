@@ -1,0 +1,81 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "kKy9kidoaRcuogrWz3Iz3X14Gfc",
+        "id": "IBXXs7d5nnQ",
+        "snippet": {
+            "publishedAt": "2020-02-29T16:15:00Z",
+            "channelId": "UChs7lcuw4qOCxl3SJRPuidQ",
+            "title": "Amber Heard is scared! Her lawyer revealed that they are 'weak' in their fight with Johnny Depp",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/IBXXs7d5nnQ/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/IBXXs7d5nnQ/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/IBXXs7d5nnQ/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/IBXXs7d5nnQ/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/IBXXs7d5nnQ/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "DT Media",
+            "tags": [
+                "DT Media",
+                "news",
+                "Amber Heard",
+                "scared",
+                "lawyer",
+                "revealed",
+                "weak",
+                "fight",
+                "Johnny Depp"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Heard is scared! Her lawyer revealed that they are 'weak' in their fight with Johnny Depp",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT3M29S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": false,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "2851",
+            "likeCount": "61",
+            "favoriteCount": "0",
+            "commentCount": "9"
+        }
+    }
+]

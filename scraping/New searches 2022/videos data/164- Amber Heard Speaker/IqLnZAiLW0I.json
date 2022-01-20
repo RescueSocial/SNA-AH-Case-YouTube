@@ -1,0 +1,77 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "_RI2b8xqPwZJEgL06akhNuQynjI",
+        "id": "IqLnZAiLW0I",
+        "snippet": {
+            "publishedAt": "2019-02-18T08:01:20Z",
+            "channelId": "UCBQOPzN3_6cBt0xauMkPW2g",
+            "title": "Pronounce \"Amber Heard\" - South Korean accent vs. native U.S.",
+            "description": "Native vs. accented American English.\n\nWhat phrase should we do next?",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/IqLnZAiLW0I/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/IqLnZAiLW0I/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/IqLnZAiLW0I/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/IqLnZAiLW0I/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/IqLnZAiLW0I/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "AccentZero",
+            "tags": [
+                "English",
+                "English pronunciation",
+                "South Korean accent",
+                "pronounce",
+                "how to say"
+            ],
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Pronounce \"Amber Heard\" - South Korean accent vs. native U.S.",
+                "description": "Native vs. accented American English.\n\nWhat phrase should we do next?"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT26S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "20",
+            "likeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

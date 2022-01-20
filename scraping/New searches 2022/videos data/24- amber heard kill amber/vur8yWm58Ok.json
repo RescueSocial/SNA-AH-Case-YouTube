@@ -1,0 +1,74 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "ArfndVbIHj5bxfppNfnCcpMR9ko",
+        "id": "vur8yWm58Ok",
+        "snippet": {
+            "publishedAt": "2021-01-26T22:20:57Z",
+            "channelId": "UCDG0mJ_zkrODDT-4VTEV6TQ",
+            "title": "Day 2 of hearings for man accused of killing Amber Griffin",
+            "description": "Tuesday was day two of the preliminary hearing of Derek Horton, a man accused of killing his girlfriend Amber Griffin last fall in Battle Creek. (Jan. 26, 2021)",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/vur8yWm58Ok/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/vur8yWm58Ok/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/vur8yWm58Ok/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/vur8yWm58Ok/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/vur8yWm58Ok/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "WOOD TV8",
+            "tags": [
+                "news"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Day 2 of hearings for man accused of killing Amber Griffin",
+                "description": "Tuesday was day two of the preliminary hearing of Derek Horton, a man accused of killing his girlfriend Amber Griffin last fall in Battle Creek. (Jan. 26, 2021)"
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT1M31S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "464",
+            "likeCount": "2",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "b-zrF3F3JJ3D7YO-R16A-QR093o",
+        "id": "rx4b77cvVnY",
+        "snippet": {
+            "publishedAt": "2019-10-31T16:23:16Z",
+            "channelId": "UC1dVGItBqV4w-4xQHoX1UDg",
+            "title": "Missing NC 3-year-old found safe, AMBER Alert canceled",
+            "description": "Allyson Oxendie was found, along with her two dogs, Thursday morning.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/rx4b77cvVnY/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/rx4b77cvVnY/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/rx4b77cvVnY/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/rx4b77cvVnY/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/rx4b77cvVnY/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "CBS 17",
+            "tags": [
+                "video"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Missing NC 3-year-old found safe, AMBER Alert canceled",
+                "description": "Allyson Oxendie was found, along with her two dogs, Thursday morning."
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT20S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "275",
+            "likeCount": "8",
+            "favoriteCount": "0",
+            "commentCount": "2"
+        }
+    }
+]

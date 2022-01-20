@@ -1,0 +1,75 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "Jx0WmA9nftyNZONPDHIgD95TXMI",
+        "id": "VFH2ddnZ4uo",
+        "snippet": {
+            "publishedAt": "2016-05-31T18:38:39Z",
+            "channelId": "UCEf9tCFR9u8eorfLdLlHh0A",
+            "title": "Amber Heard Fires Back Against Depp's 'Blackmail' Claims",
+            "description": "Amber Heard is firing back against Johnny Depp's claims that she is just blackmailing him with her abuse allegations.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/VFH2ddnZ4uo/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/VFH2ddnZ4uo/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/VFH2ddnZ4uo/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/VFH2ddnZ4uo/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/VFH2ddnZ4uo/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "New You Media",
+            "tags": [
+                "Johnny Depp",
+                "Amber Heard",
+                "Divorce"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Heard Fires Back Against Depp's 'Blackmail' Claims",
+                "description": "Amber Heard is firing back against Johnny Depp's claims that she is just blackmailing him with her abuse allegations."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT59S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "86",
+            "likeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

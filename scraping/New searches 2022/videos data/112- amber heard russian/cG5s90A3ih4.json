@@ -1,0 +1,75 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "OdFA3PXAphS6vh8nmwHTS1d_dbA",
+        "id": "cG5s90A3ih4",
+        "snippet": {
+            "publishedAt": "2018-11-29T16:54:35Z",
+            "channelId": "UCBQOPzN3_6cBt0xauMkPW2g",
+            "title": "Pronounce \"Amber Heard\" - Russian accent vs. native U.S.",
+            "description": "Native vs. accented American English.\n\nWhat phrase should we do next?",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/cG5s90A3ih4/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/cG5s90A3ih4/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/cG5s90A3ih4/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/cG5s90A3ih4/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/cG5s90A3ih4/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "AccentZero",
+            "tags": [
+                "English pronunciation",
+                "Russian accent"
+            ],
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Pronounce \"Amber Heard\" - Russian accent vs. native U.S.",
+                "description": "Native vs. accented American English.\n\nWhat phrase should we do next?"
+            },
+            "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+            "duration": "PT26S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "20",
+            "likeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

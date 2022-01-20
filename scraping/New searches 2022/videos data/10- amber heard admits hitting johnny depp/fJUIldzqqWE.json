@@ -1,0 +1,71 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "otwhfru5_KLuKenfLSxVsWpAD5U",
+        "id": "fJUIldzqqWE",
+        "snippet": {
+            "publishedAt": "2020-11-07T00:01:38Z",
+            "channelId": "UCLrJ-q0GAb8gRbMG_R87SAA",
+            "title": "Johnny Depp being gaslighted and  Amber Heard admitting to physically abuse",
+            "description": "\"I WAS F***G HITTING YOU\"\n\n\"YOU ARE SUCH A BABY\"\n\n\"I DID START A PHYSICAL FIGHT\"",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/fJUIldzqqWE/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/fJUIldzqqWE/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/fJUIldzqqWE/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/fJUIldzqqWE/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Trendish Trends",
+            "tags": [
+                "#johnnydepp",
+                "#amberheard",
+                "#justiceforjohnnydepp",
+                "#uselection2020"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Johnny Depp being gaslighted and  Amber Heard admitting to physically abuse",
+                "description": "\"I WAS F***G HITTING YOU\"\n\n\"YOU ARE SUCH A BABY\"\n\n\"I DID START A PHYSICAL FIGHT\""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT54S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "78",
+            "likeCount": "8",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

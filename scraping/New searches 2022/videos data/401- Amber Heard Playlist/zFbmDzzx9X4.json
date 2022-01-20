@@ -1,0 +1,66 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "ZIaGmUUV156cLCpfpld8xhI20fQ",
+        "id": "zFbmDzzx9X4",
+        "snippet": {
+            "publishedAt": "2021-06-07T15:57:51Z",
+            "channelId": "UCSzfhSLUETmH0xqw339TNGw",
+            "title": "\ud83d\udd25\ud83c\udff9 playlist for Amber kin\u2019s \u2615\ufe0f\ud83e\ude82 (voiceover)",
+            "description": "Sub to me pls",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/zFbmDzzx9X4/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/zFbmDzzx9X4/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/zFbmDzzx9X4/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/zFbmDzzx9X4/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "281wolfhound",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "\ud83d\udd25\ud83c\udff9 playlist for Amber kin\u2019s \u2615\ufe0f\ud83e\ude82 (voiceover)",
+                "description": "Sub to me pls"
+            },
+            "defaultAudioLanguage": "ase"
+        },
+        "contentDetails": {
+            "duration": "PT19M",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "2231",
+            "likeCount": "146",
+            "favoriteCount": "0",
+            "commentCount": "10"
+        }
+    }
+]

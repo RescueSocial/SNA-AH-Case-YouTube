@@ -1,0 +1,81 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "lIDBmkedeIXaXC79vX2mupi6msU",
+        "id": "gtSxm5PXXLo",
+        "snippet": {
+            "publishedAt": "2019-10-01T21:42:20Z",
+            "channelId": "UCxMXl9L79X1Mq_4iwCOyPFg",
+            "title": "Team Coverage And Reaction To Amber Guyger Found Guilty Of Murdering Botham Jean",
+            "description": "A jury in Dallas has reached a decision in the trial of former Dallas Police Officer Amber Guyger. They found the 31-year-old guilty of murder.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/gtSxm5PXXLo/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/gtSxm5PXXLo/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/gtSxm5PXXLo/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/gtSxm5PXXLo/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/gtSxm5PXXLo/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "CBSDFW",
+            "tags": [
+                "CBS 11 News Evening",
+                "Amber Guyger trial",
+                "guilty verdict",
+                "murder",
+                "murder trial",
+                "Botham Jean",
+                "Dallas Police"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "Team Coverage And Reaction To Amber Guyger Found Guilty Of Murdering Botham Jean",
+                "description": "A jury in Dallas has reached a decision in the trial of former Dallas Police Officer Amber Guyger. They found the 31-year-old guilty of murder."
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT10M18S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "8940",
+            "likeCount": "129",
+            "favoriteCount": "0",
+            "commentCount": "92"
+        }
+    }
+]

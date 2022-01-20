@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "SRb1tjYE4sxVKnvaUhB3chXtfko",
+        "id": "RjgxRRz6_vk",
+        "snippet": {
+            "publishedAt": "2021-05-05T07:59:42Z",
+            "channelId": "UCShfibbIE7tXxhuQ9QYOT6A",
+            "title": "AQUAMAN 2 2022 Teaser Trailer   Jason Momoa, Amber Heard Fan Made",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/RjgxRRz6_vk/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/RjgxRRz6_vk/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/RjgxRRz6_vk/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/RjgxRRz6_vk/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/RjgxRRz6_vk/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Vanny Theara",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "AQUAMAN 2 2022 Teaser Trailer   Jason Momoa, Amber Heard Fan Made",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT4M18S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "30",
+            "likeCount": "1",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

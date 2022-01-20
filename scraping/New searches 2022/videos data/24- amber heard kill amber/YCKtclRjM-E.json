@@ -1,0 +1,72 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "diVdNzVFDylAr01IdlvupVWYfiY",
+        "id": "YCKtclRjM-E",
+        "snippet": {
+            "publishedAt": "2014-02-13T23:28:20Z",
+            "channelId": "UCVr-TwiGNnveWyOouIyz2fQ",
+            "title": "Amber Heard and Johnny Depp's Date Night at '3 Days to Kill' Premiere",
+            "description": "\"Extra's\" Terri Seymour caught up with actress Amber Heard at the \"3 Days to Kill\" premiere who was out for a date night with fianc\u00e9 Johnny Depp.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/YCKtclRjM-E/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/YCKtclRjM-E/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/YCKtclRjM-E/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/YCKtclRjM-E/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "extratv",
+            "tags": [
+                "amber heard",
+                "johnny depp",
+                "3 days to kill",
+                "premiere",
+                "valentine's day"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Heard and Johnny Depp's Date Night at '3 Days to Kill' Premiere",
+                "description": "\"Extra's\" Terri Seymour caught up with actress Amber Heard at the \"3 Days to Kill\" premiere who was out for a date night with fianc\u00e9 Johnny Depp."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT1M45S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "5939",
+            "likeCount": "39",
+            "favoriteCount": "0",
+            "commentCount": "5"
+        }
+    }
+]

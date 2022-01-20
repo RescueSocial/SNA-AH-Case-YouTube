@@ -1,0 +1,60 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "seQr4wbKSupVbHwa76Wx4EZRgwQ",
+        "id": "yYXcvtlxUk0",
+        "snippet": {
+            "publishedAt": "2021-09-24T06:49:51Z",
+            "channelId": "UCePwcM8q5XJpK-92LVoZyYg",
+            "title": "\ud83d\udd25\ud83d\udd25\ud83d\udd25Amber Heard \ud83d\udd25\ud83d\udd25\ud83d\udd25WhatsApp status.",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/yYXcvtlxUk0/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/yYXcvtlxUk0/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/yYXcvtlxUk0/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Zaddy INDO music",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "\ud83d\udd25\ud83d\udd25\ud83d\udd25Amber Heard \ud83d\udd25\ud83d\udd25\ud83d\udd25WhatsApp status.",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT1M",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "190",
+            "likeCount": "18",
+            "favoriteCount": "0",
+            "commentCount": "4"
+        }
+    }
+]

@@ -1,0 +1,78 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "YT3WknrrGKEF3KCIwL5obkJ6yqk",
+        "id": "7BjrI2ZBtZI",
+        "snippet": {
+            "publishedAt": "2014-12-26T18:21:48Z",
+            "channelId": "UCJIjz3y7D4tlZqPYkV3mWpw",
+            "title": "O G Amber London   Beep Me 911 Freestyle Prod Sky L",
+            "description": "trk 7\nO G Amber London   Beep Me 911 Freestyle Prod Sky L",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/7BjrI2ZBtZI/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/7BjrI2ZBtZI/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/7BjrI2ZBtZI/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/7BjrI2ZBtZI/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/7BjrI2ZBtZI/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Coka Sosa",
+            "tags": [
+                "O G Amber London Beep Me 911 Freestyle Prod Sky L",
+                "Beep Me 911",
+                "Rap",
+                "London",
+                "Hiphop",
+                "Freestyle"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "O G Amber London   Beep Me 911 Freestyle Prod Sky L",
+                "description": "trk 7\nO G Amber London   Beep Me 911 Freestyle Prod Sky L"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT3M9S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "344",
+            "likeCount": "8",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

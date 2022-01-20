@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "ZXe379WR-71qBCn1knU81lCl2XE",
+        "id": "mUPJlnLzrjk",
+        "snippet": {
+            "publishedAt": "2013-01-27T05:25:21Z",
+            "channelId": "UCfOAsH5C1XiOfyxdEi7on9g",
+            "title": "W28: Bustin' Some Myths (Amber)",
+            "description": "My thoughts on a few trans* related myths",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/mUPJlnLzrjk/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/mUPJlnLzrjk/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/mUPJlnLzrjk/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/mUPJlnLzrjk/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/mUPJlnLzrjk/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "FTMSweethearts",
+            "tags": [
+                "FTM"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "W28: Bustin' Some Myths (Amber)",
+                "description": "My thoughts on a few trans* related myths"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT8M36S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": false,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "55",
+            "likeCount": "1",
+            "favoriteCount": "0",
+            "commentCount": "1"
+        }
+    }
+]

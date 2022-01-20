@@ -1,0 +1,67 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "Kn6gn6B4IGb5yCntb7SpQGWUcXY",
+        "id": "H5ZGDXyNP94",
+        "snippet": {
+            "publishedAt": "2008-04-10T22:06:56Z",
+            "channelId": "UC5xJYoY8nLd5oz4Z9RlGVEQ",
+            "title": "FHM Girls - Amber Arbucci",
+            "description": "FHM Promo",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/H5ZGDXyNP94/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/H5ZGDXyNP94/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/H5ZGDXyNP94/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "fastfashiondj",
+            "tags": [
+                "Amber",
+                "Arbucci",
+                "Vinny",
+                "FHM",
+                "Models"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "FHM Girls - Amber Arbucci",
+                "description": "FHM Promo"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT55S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "6562",
+            "likeCount": "4",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

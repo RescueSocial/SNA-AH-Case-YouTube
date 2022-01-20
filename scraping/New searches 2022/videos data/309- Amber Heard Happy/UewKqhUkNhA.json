@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "0W-gt4XCSMS-qE_YZFPYt_1swS0",
+        "id": "UewKqhUkNhA",
+        "snippet": {
+            "publishedAt": "2021-10-08T23:01:53Z",
+            "channelId": "UCPJCDUUd_kON1e2CcWC6Udg",
+            "title": "Amber edit/happy spooky month!",
+            "description": "#halloween #genshinimpact #edit",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/UewKqhUkNhA/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/UewKqhUkNhA/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/UewKqhUkNhA/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/UewKqhUkNhA/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/UewKqhUkNhA/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Just remila",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber edit/happy spooky month!",
+                "description": "#halloween #genshinimpact #edit"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT20S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "50",
+            "likeCount": "3",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

@@ -1,0 +1,76 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "7JlBxjKiYmaO_pj16Pewl_ZiEJE",
+        "id": "K2T6XtPh1rE",
+        "snippet": {
+            "publishedAt": "2020-02-20T23:05:37Z",
+            "channelId": "UC5SQnMaPmg79B8616fP2yBQ",
+            "title": "Wisconsin Amber Alert suspect arrested in Stephenson County",
+            "description": "Stephenson County Deputies arrested a suspect in an Amber Alert missing persons case, 19-year-old Austin Dailey, after a high speed chase on Wednesday.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/K2T6XtPh1rE/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/K2T6XtPh1rE/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/K2T6XtPh1rE/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/K2T6XtPh1rE/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/K2T6XtPh1rE/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Eyewitness News WTVO WQRF",
+            "tags": [
+                "video",
+                "local news",
+                "rockford"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Wisconsin Amber Alert suspect arrested in Stephenson County",
+                "description": "Stephenson County Deputies arrested a suspect in an Amber Alert missing persons case, 19-year-old Austin Dailey, after a high speed chase on Wednesday."
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT29S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "121",
+            "likeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

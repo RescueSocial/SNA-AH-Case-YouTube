@@ -1,0 +1,71 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "eXio4aX0rIvvO_jV9OBjG8UegG4",
+        "id": "6ApKYQJRjXI",
+        "snippet": {
+            "publishedAt": "2022-01-03T23:28:46Z",
+            "channelId": "UCa92R6qRpBhm-yA4oQiseiQ",
+            "title": "Amberlynn Reid and Foodie Beauty",
+            "description": "BLUGH",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/6ApKYQJRjXI/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/6ApKYQJRjXI/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/6ApKYQJRjXI/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/6ApKYQJRjXI/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/6ApKYQJRjXI/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Deity",
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amberlynn Reid and Foodie Beauty",
+                "description": "BLUGH"
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT2H13M26S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "444",
+            "likeCount": "45",
+            "favoriteCount": "0",
+            "commentCount": "6"
+        }
+    }
+]

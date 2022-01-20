@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "xa2DrXOYfq83_w1IKGBmyhdUF4A",
+        "id": "TSNSjHyNeWY",
+        "snippet": {
+            "publishedAt": "2013-05-25T18:57:08Z",
+            "channelId": "UCG0CLos2-aRG_lcZMvlMR9g",
+            "title": "Amber - Sexual ( Chillout Mix )",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/TSNSjHyNeWY/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/TSNSjHyNeWY/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/TSNSjHyNeWY/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/TSNSjHyNeWY/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/TSNSjHyNeWY/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Chilloutloungeme2",
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber - Sexual ( Chillout Mix )",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT5M54S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "66165",
+            "likeCount": "346",
+            "favoriteCount": "0",
+            "commentCount": "17"
+        }
+    }
+]

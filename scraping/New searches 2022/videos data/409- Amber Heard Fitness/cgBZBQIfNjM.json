@@ -1,0 +1,71 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "U-us3KPa5R-i225op2wVo0mSAeM",
+        "id": "cgBZBQIfNjM",
+        "snippet": {
+            "publishedAt": "2022-01-08T06:52:13Z",
+            "channelId": "UCfVSlNDKv4RVT23Jmufj90g",
+            "title": "McCuck Live: Hamberg Discusses the Sheet of Piece Cuban",
+            "description": "Streamed Live Jan 7, 2022",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/cgBZBQIfNjM/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/cgBZBQIfNjM/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/cgBZBQIfNjM/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/cgBZBQIfNjM/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/cgBZBQIfNjM/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "CHUCK E CHEESE RANCH",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "McCuck Live: Hamberg Discusses the Sheet of Piece Cuban",
+                "description": "Streamed Live Jan 7, 2022"
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT1H16M20S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "1980",
+            "likeCount": "41",
+            "favoriteCount": "0",
+            "commentCount": "64"
+        }
+    }
+]

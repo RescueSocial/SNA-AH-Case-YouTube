@@ -1,0 +1,79 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "rnapumPzKYUs5yWuKoxJWmd93SI",
+        "id": "9aHzdDj6mlE",
+        "snippet": {
+            "publishedAt": "2017-10-02T06:24:35Z",
+            "channelId": "UCnIg2DRFZ4bObnHGHMdn0Bg",
+            "title": "[Pinyin | Eng] A-Mei - I want Happiness (Amber Liu Cover)",
+            "description": "mp3 : Amber's Soundcloud\nlyrics : asianmusiclyrics.blogspot.co.id\neditor : Saptalia Saras",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/9aHzdDj6mlE/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/9aHzdDj6mlE/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/9aHzdDj6mlE/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/9aHzdDj6mlE/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/9aHzdDj6mlE/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Saptalia Saras",
+            "tags": [
+                "amberliu",
+                "iwanthappiness",
+                "amber cover",
+                "amber lyrics",
+                "fx",
+                "amberfx"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "[Pinyin | Eng] A-Mei - I want Happiness (Amber Liu Cover)",
+                "description": "mp3 : Amber's Soundcloud\nlyrics : asianmusiclyrics.blogspot.co.id\neditor : Saptalia Saras"
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT3M26S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "8359",
+            "likeCount": "169",
+            "favoriteCount": "0",
+            "commentCount": "4"
+        }
+    }
+]

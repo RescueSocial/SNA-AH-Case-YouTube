@@ -1,0 +1,82 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "6YOVvaowA1o4bnFJLqRSBIIgQCI",
+        "id": "pQaYedihUQY",
+        "snippet": {
+            "publishedAt": "2016-06-21T22:45:58Z",
+            "channelId": "UCIYVU7fPs_n6gJIBso3ryeg",
+            "title": "Why was no Amber Alert sent when Alvarez initially went missing?",
+            "description": "Nine-year-old Diana Alvarez has been missing from her San Carlos Park home for 24 days and counting. In the days that followed, family and neighbors questioned why no Amber Alert was issued.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/pQaYedihUQY/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/pQaYedihUQY/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/pQaYedihUQY/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/pQaYedihUQY/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "NBC2 News",
+            "tags": [
+                "wbbh",
+                "nbc2",
+                "amber alert",
+                "diana alvarez",
+                "san carlos park",
+                "fort myers",
+                "lee county",
+                "florida",
+                "swfl",
+                "fl",
+                "southwest florida",
+                "lee county sheriff's office",
+                "missing person"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "Why was no Amber Alert sent when Alvarez initially went missing?",
+                "description": "Nine-year-old Diana Alvarez has been missing from her San Carlos Park home for 24 days and counting. In the days that followed, family and neighbors questioned why no Amber Alert was issued."
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT2M44S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "141",
+            "likeCount": "2",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

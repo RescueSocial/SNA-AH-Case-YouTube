@@ -1,0 +1,65 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "8vFEXJzMeGDxAVKAvvc71WXoK7s",
+        "id": "C2uZelekDwg",
+        "snippet": {
+            "publishedAt": "2017-10-13T19:45:51Z",
+            "channelId": "UCz8K1occVvDTYDfFo7N5EZw",
+            "title": "Jessica Chambers Murder Trial Day 4 Part 1 Tellis Police Interview",
+            "description": "Jessica Chambers Murder Trial Day Day 4 Part 1 Tellis Police Interview",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/C2uZelekDwg/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/C2uZelekDwg/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/C2uZelekDwg/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Law&Crime Network",
+            "tags": [
+                "Jessica Chambers Murder Trial Day Day 4 Part 1 Tellis Police Interview"
+            ],
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "Jessica Chambers Murder Trial Day 4 Part 1 Tellis Police Interview",
+                "description": "Jessica Chambers Murder Trial Day Day 4 Part 1 Tellis Police Interview"
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT2H13M21S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "34642",
+            "likeCount": "158",
+            "favoriteCount": "0",
+            "commentCount": "74"
+        }
+    }
+]

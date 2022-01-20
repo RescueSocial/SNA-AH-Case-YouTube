@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "Y371A7-kdcG3YwgW3MZjPBLDWus",
+        "id": "nLCJeXCzrjA",
+        "snippet": {
+            "publishedAt": "2020-12-05T04:55:14Z",
+            "channelId": "UCYqt6hTYAKJHLbymr0KypWw",
+            "title": "This is disgusting. Johnny Depp & Amber Heard meme.",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/nLCJeXCzrjA/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/nLCJeXCzrjA/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/nLCJeXCzrjA/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/nLCJeXCzrjA/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/nLCJeXCzrjA/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "CustomMaurice",
+            "categoryId": "20",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "This is disgusting. Johnny Depp & Amber Heard meme.",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT15S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "863",
+            "likeCount": "79",
+            "favoriteCount": "0",
+            "commentCount": "21"
+        }
+    }
+]

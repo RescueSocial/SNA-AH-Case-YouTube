@@ -1,0 +1,76 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "6qt-lWfVw4IBn9IDC1MgMKOxfkA",
+        "id": "vx-kXYtukU8",
+        "snippet": {
+            "publishedAt": "2010-12-28T03:05:20Z",
+            "channelId": "UCHfE2BZLzjZKRuSjVQvavBg",
+            "title": "Amber GoW2 Team",
+            "description": "A few clips from our GoW2 team who are currently 4th on GB \nGood luck in the playoffs guys",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/vx-kXYtukU8/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/vx-kXYtukU8/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/vx-kXYtukU8/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/vx-kXYtukU8/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/vx-kXYtukU8/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "TeamAmber360",
+            "tags": [
+                "team amber",
+                "GoW2",
+                "GB",
+                "Gamebattles matches"
+            ],
+            "categoryId": "20",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber GoW2 Team",
+                "description": "A few clips from our GoW2 team who are currently 4th on GB \nGood luck in the playoffs guys"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT1M41S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "60",
+            "likeCount": "1",
+            "favoriteCount": "0",
+            "commentCount": "1"
+        }
+    }
+]

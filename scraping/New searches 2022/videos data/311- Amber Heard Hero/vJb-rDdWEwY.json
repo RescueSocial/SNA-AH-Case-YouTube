@@ -1,0 +1,81 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "tABsT0Yy5bFphhTHdtCMdF7uELI",
+        "id": "vJb-rDdWEwY",
+        "snippet": {
+            "publishedAt": "2021-11-07T12:45:01Z",
+            "channelId": "UCIvutj6kl1nD8ZOrafVAJkw",
+            "title": "Proc\u00e8s Johnny Depp : cette petite victoire c.o.n.tre Amber Heard qu'il vient de remporter",
+            "description": "-Merci d'avoir regard\u00e9 la vid\u00e9o\n-Aide-moi \u00e0 aimer + suivre cette cha\u00eene + partager cette vid\u00e9o\n-Merci beaucoup",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/vJb-rDdWEwY/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/vJb-rDdWEwY/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/vJb-rDdWEwY/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/vJb-rDdWEwY/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/vJb-rDdWEwY/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Nouvelles g\u00e9n\u00e9rales",
+            "tags": [
+                "Edouard Philippe",
+                "Jean-Michel Blanquer",
+                "Blanquer Brigitte",
+                "Macron Bernard",
+                "Cazeneuve",
+                "Xavier Bertrand",
+                "Jean-Luc M\u00e9lenchon",
+                "Mask Singer",
+                "Bertrand-Kamal"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Proc\u00e8s Johnny Depp : cette petite victoire c.o.n.tre Amber Heard qu'il vient de remporter",
+                "description": "-Merci d'avoir regard\u00e9 la vid\u00e9o\n-Aide-moi \u00e0 aimer + suivre cette cha\u00eene + partager cette vid\u00e9o\n-Merci beaucoup"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT2M31S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "11",
+            "likeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

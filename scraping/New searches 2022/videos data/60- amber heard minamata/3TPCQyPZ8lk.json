@@ -1,0 +1,79 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "BFoWQ_U7tQnq8lEQj7EXyQHFuuA",
+        "id": "3TPCQyPZ8lk",
+        "snippet": {
+            "publishedAt": "2020-02-22T05:34:35Z",
+            "channelId": "UClGmXjkij__C8wfRKdlFqxQ",
+            "title": "Johnny Depp y las demandas de Amber Heard hacia \u00e9l.",
+            "description": "Parodia de las conversaciones entre Johnny Depp y Amber Heard. En las que muestran la posibilidad que \u00e9l sea la v\u00edctima de la violencia dom\u00e9stica.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/3TPCQyPZ8lk/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/3TPCQyPZ8lk/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/3TPCQyPZ8lk/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/3TPCQyPZ8lk/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/3TPCQyPZ8lk/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "ANTIVIRALES",
+            "tags": [
+                "Johnny Depp",
+                "Amber Heard",
+                "Violencia de G\u00e9nero",
+                "Violencia Dom\u00e9stica",
+                "Parodia"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "es-419",
+            "localized": {
+                "title": "Johnny Depp y las demandas de Amber Heard hacia \u00e9l.",
+                "description": "Parodia de las conversaciones entre Johnny Depp y Amber Heard. En las que muestran la posibilidad que \u00e9l sea la v\u00edctima de la violencia dom\u00e9stica."
+            },
+            "defaultAudioLanguage": "es-419"
+        },
+        "contentDetails": {
+            "duration": "PT3M46S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "69",
+            "likeCount": "9",
+            "favoriteCount": "0",
+            "commentCount": "1"
+        }
+    }
+]

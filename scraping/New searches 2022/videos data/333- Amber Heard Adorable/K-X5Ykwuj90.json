@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "hU1t_OT1Ki3hXvg0ZGeXfYD7iAg",
+        "id": "K-X5Ykwuj90",
+        "snippet": {
+            "publishedAt": "2018-12-13T10:28:30Z",
+            "channelId": "UCmi4IYEBEOMP61h10c8xGUA",
+            "title": "Aquaman in Manila | Premiere Night x Fan Meet with Amber Heard, Jason Momoa and James Wan",
+            "description": "#Aquaman #AquamanMovie #AquamanPH",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/K-X5Ykwuj90/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/K-X5Ykwuj90/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/K-X5Ykwuj90/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/K-X5Ykwuj90/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/K-X5Ykwuj90/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "calm, Genno",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Aquaman in Manila | Premiere Night x Fan Meet with Amber Heard, Jason Momoa and James Wan",
+                "description": "#Aquaman #AquamanMovie #AquamanPH"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT13M57S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "168",
+            "likeCount": "4",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

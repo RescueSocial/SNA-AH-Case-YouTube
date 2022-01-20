@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "RP_qbIiHIwdOgc6jv_lV4ZPpKKE",
+        "id": "3Qyk1gX-2N0",
+        "snippet": {
+            "publishedAt": "2018-05-17T04:45:17Z",
+            "channelId": "UCXKPtub1ff9UTOKIMxe_l_A",
+            "title": "Amber Daines \u2013\u00a0Personal Brand Video",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/3Qyk1gX-2N0/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/3Qyk1gX-2N0/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/3Qyk1gX-2N0/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/3Qyk1gX-2N0/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/3Qyk1gX-2N0/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "The Politics of Everything",
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Daines \u2013\u00a0Personal Brand Video",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT2M18S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "739",
+            "likeCount": "5",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

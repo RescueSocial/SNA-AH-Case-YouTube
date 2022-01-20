@@ -1,0 +1,72 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "y8zF2iCKA-5FHX6ht2iO8x1NMsA",
+        "id": "UvTwv3Qmc68",
+        "snippet": {
+            "publishedAt": "2018-04-06T06:51:10Z",
+            "channelId": "UCqMdEOPBZbGPykVOhUqWqfA",
+            "title": "Amber Alert canceled for Hamburg Township mother, daughter",
+            "description": "An Amber Alert for a 7-year-old Hamburg Township girl and her mother has been canceled.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/UvTwv3Qmc68/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/UvTwv3Qmc68/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/UvTwv3Qmc68/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/UvTwv3Qmc68/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/UvTwv3Qmc68/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Click On Detroit | Local 4 | WDIV",
+            "tags": [
+                "Livingston County"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Alert canceled for Hamburg Township mother, daughter",
+                "description": "An Amber Alert for a 7-year-old Hamburg Township girl and her mother has been canceled."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT1M50S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "4",
+            "likeCount": "0",
+            "favoriteCount": "0"
+        }
+    }
+]

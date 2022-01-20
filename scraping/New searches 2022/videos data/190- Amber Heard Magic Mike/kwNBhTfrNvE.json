@@ -1,0 +1,81 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "UC6LYbJsULpksbj9IES9cmyTN2o",
+        "id": "kwNBhTfrNvE",
+        "snippet": {
+            "publishedAt": "2015-05-05T22:03:38Z",
+            "channelId": "UCbp3fkS6cxI1aekmIPIDCGg",
+            "title": "First Look at the New 'Magic Mike XXL' Trailer",
+            "description": "http://amberheardbrasil.com/\n\n\u00a9 2015 ABC News Internet Ventures. All rights reserved.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/kwNBhTfrNvE/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/kwNBhTfrNvE/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/kwNBhTfrNvE/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/kwNBhTfrNvE/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Amber Heard",
+            "tags": [
+                "Magic Mike (Award-Winning Work)",
+                "Trailer (Website Category)",
+                "Amber Heard",
+                "Channing Tatum",
+                "Matt Bomer",
+                "Magic Mike",
+                "Magic Mike XXL",
+                "MMXXL",
+                "Elizabeth Banks",
+                "Joe Manganiello",
+                "Jada Pinkett Smith",
+                "Andie MacDowell",
+                "Donald Glover",
+                "Gabriel Iglesias"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "First Look at the New 'Magic Mike XXL' Trailer",
+                "description": "http://amberheardbrasil.com/\n\n\u00a9 2015 ABC News Internet Ventures. All rights reserved."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT1M1S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "1708",
+            "likeCount": "7",
+            "favoriteCount": "0",
+            "commentCount": "1"
+        }
+    }
+]

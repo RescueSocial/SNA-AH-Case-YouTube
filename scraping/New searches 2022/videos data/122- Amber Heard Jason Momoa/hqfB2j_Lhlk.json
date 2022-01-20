@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "U3T5YGWaBGtJhJrRAmZvBirP4JM",
+        "id": "hqfB2j_Lhlk",
+        "snippet": {
+            "publishedAt": "2018-12-11T13:43:48Z",
+            "channelId": "UC_7PUt-NQLqFPLTWSKLO9ig",
+            "title": "Jason Momoa, Amber Heard and James Wan at the \u2018Aquaman\u2019 Asian Press Conference, Part 2",
+            "description": "#AquamanPH #Aquaman #JasonMomoa #AmberHeard #JamesWan",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/hqfB2j_Lhlk/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/hqfB2j_Lhlk/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/hqfB2j_Lhlk/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/hqfB2j_Lhlk/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/hqfB2j_Lhlk/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Pelikula Mania",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Jason Momoa, Amber Heard and James Wan at the \u2018Aquaman\u2019 Asian Press Conference, Part 2",
+                "description": "#AquamanPH #Aquaman #JasonMomoa #AmberHeard #JamesWan"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT11M28S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "823",
+            "likeCount": "7",
+            "favoriteCount": "0",
+            "commentCount": "1"
+        }
+    }
+]

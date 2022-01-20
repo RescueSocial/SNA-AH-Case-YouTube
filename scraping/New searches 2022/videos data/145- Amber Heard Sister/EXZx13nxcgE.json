@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "A-jC8kzxByqJW-O4DG30Qd0Agbw",
+        "id": "EXZx13nxcgE",
+        "snippet": {
+            "publishedAt": "2015-04-29T02:33:07Z",
+            "channelId": "UCpYZRg4RxasTw88m-T0dBnw",
+            "title": "Patti LaBelle, Lil' Kim, Amber Riley - Lady Marmalade (Live on DWTS)",
+            "description": "Patti LaBelle, Lil' Kim & Amber Riley perform the #1 smash Lady Marmalade live on the Dancing With The Stars 10th Anniversary Special.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/EXZx13nxcgE/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/EXZx13nxcgE/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/EXZx13nxcgE/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/EXZx13nxcgE/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "QueenBeeTV",
+            "tags": [
+                "Patti LaBelle",
+                "lil kim",
+                "amber riley",
+                "lady marmalade",
+                "live",
+                "dancing with the stars"
+            ],
+            "categoryId": "10",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Patti LaBelle, Lil' Kim, Amber Riley - Lady Marmalade (Live on DWTS)",
+                "description": "Patti LaBelle, Lil' Kim & Amber Riley perform the #1 smash Lady Marmalade live on the Dancing With The Stars 10th Anniversary Special."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT3M27S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "2316732",
+            "likeCount": "29736",
+            "favoriteCount": "0",
+            "commentCount": "1350"
+        }
+    }
+]

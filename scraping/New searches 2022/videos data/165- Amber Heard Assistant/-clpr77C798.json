@@ -1,0 +1,80 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "4h087B8WPq8lhrsvlgUvTmNe49Q",
+        "id": "-clpr77C798",
+        "snippet": {
+            "publishedAt": "2020-03-03T14:15:01Z",
+            "channelId": "UChs7lcuw4qOCxl3SJRPuidQ",
+            "title": "Amber Heard got angry when Johnny Depp's assistant revealed that he is NOT single now",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/-clpr77C798/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/-clpr77C798/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/-clpr77C798/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/-clpr77C798/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/-clpr77C798/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "DT Media",
+            "tags": [
+                "DT Media",
+                "news",
+                "Amber Heard",
+                "angry",
+                "Johnny Depp",
+                "assistant",
+                "NOT",
+                "single"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Heard got angry when Johnny Depp's assistant revealed that he is NOT single now",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT2M46S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": false,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "3725",
+            "likeCount": "29",
+            "favoriteCount": "0",
+            "commentCount": "12"
+        }
+    }
+]

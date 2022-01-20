@@ -1,0 +1,65 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "wHRSQNpaaqOhRw13gXCSsNucXKc",
+        "id": "xSTcuZtowCc",
+        "snippet": {
+            "publishedAt": "2020-08-11T03:20:13Z",
+            "channelId": "UCs6HCv4rCN93HyuabEnQXTg",
+            "title": "Oracle Reading Johnny Depp & Amber Heard",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/xSTcuZtowCc/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/xSTcuZtowCc/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/xSTcuZtowCc/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/xSTcuZtowCc/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "tin-foil rican",
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Oracle Reading Johnny Depp & Amber Heard",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT14M58S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "545",
+            "likeCount": "14",
+            "favoriteCount": "0",
+            "commentCount": "9"
+        }
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "cQzDoar4Zwh-jyVTSz9cHuTcDe8",
+        "id": "Cnmcw7FzpMs",
+        "snippet": {
+            "publishedAt": "2016-05-31T17:43:56Z",
+            "channelId": "UChFX1tLtuNBvG4PSCM6d-Nw",
+            "title": "Amber Heard Insists Silence Over Johnny Depp\u2019s Alleged Abuse Was To Save His Career",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/Cnmcw7FzpMs/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/Cnmcw7FzpMs/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/Cnmcw7FzpMs/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/Cnmcw7FzpMs/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Hollywood Life Tube",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Heard Insists Silence Over Johnny Depp\u2019s Alleged Abuse Was To Save His Career",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT28S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "25",
+            "likeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "z2HqfS7iOaye2jhdnrFNt942Aw4",
+        "id": "jh4aPAk4oFU",
+        "snippet": {
+            "publishedAt": "2015-07-03T01:54:40Z",
+            "channelId": "UCRT9cylEIR4CPV39IlWy1pA",
+            "title": "Magic Mike XXL - Movie Review",
+            "description": "Movie review for Magic Mike XXL starring Channing Tatum, Joe Manganiello and Amber Heard! As Jada Pinkett Smith's character says in this film \"Is there any magic left in this Mike?\"",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/jh4aPAk4oFU/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/jh4aPAk4oFU/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/jh4aPAk4oFU/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/jh4aPAk4oFU/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/jh4aPAk4oFU/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Jennifer Lacy",
+            "tags": [
+                "Magic Mike XXL",
+                "Magic Mike",
+                "Channing Tatum",
+                "Joe Manganiello",
+                "Amber Heard",
+                "Steven Soderburgh",
+                "Male strippers"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Magic Mike XXL - Movie Review",
+                "description": "Movie review for Magic Mike XXL starring Channing Tatum, Joe Manganiello and Amber Heard! As Jada Pinkett Smith's character says in this film \"Is there any magic left in this Mike?\""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT5M29S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "124",
+            "likeCount": "1",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

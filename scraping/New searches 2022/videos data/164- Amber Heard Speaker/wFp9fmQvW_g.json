@@ -1,0 +1,77 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "oDTZN_eCQssaGcQVeIj3Hk_fn1Y",
+        "id": "wFp9fmQvW_g",
+        "snippet": {
+            "publishedAt": "2019-01-10T18:40:02Z",
+            "channelId": "UCBQOPzN3_6cBt0xauMkPW2g",
+            "title": "Pronounce \"Amber Heard\" - Brazilian accent vs. native U.S.",
+            "description": "Native vs. accented American English.\n\nWhat phrase should we do next?",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/wFp9fmQvW_g/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/wFp9fmQvW_g/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/wFp9fmQvW_g/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/wFp9fmQvW_g/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/wFp9fmQvW_g/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "AccentZero",
+            "tags": [
+                "English",
+                "English pronunciation",
+                "Brazilian accent",
+                "pronounce",
+                "how to say"
+            ],
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Pronounce \"Amber Heard\" - Brazilian accent vs. native U.S.",
+                "description": "Native vs. accented American English.\n\nWhat phrase should we do next?"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT26S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "3",
+            "likeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

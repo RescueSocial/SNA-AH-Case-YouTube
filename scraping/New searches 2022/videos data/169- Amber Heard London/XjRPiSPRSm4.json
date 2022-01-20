@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "s2A-Yx0jjJTpr9x-crhe2seYalY",
+        "id": "XjRPiSPRSm4",
+        "snippet": {
+            "publishedAt": "2015-07-01T00:02:25Z",
+            "channelId": "UCbp3fkS6cxI1aekmIPIDCGg",
+            "title": "Amber Heard at \"Magic Mike XXL\" Premiere in London",
+            "description": "http://amberheardbrasil.com",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/XjRPiSPRSm4/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/XjRPiSPRSm4/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/XjRPiSPRSm4/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/XjRPiSPRSm4/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Amber Heard",
+            "tags": [
+                "amber heard",
+                "magic mike xxl",
+                "channing tatum",
+                "amber heard and channing tatum",
+                "amber heard videos",
+                "amber heard magic mike xxl"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Heard at \"Magic Mike XXL\" Premiere in London",
+                "description": "http://amberheardbrasil.com"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT31S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "401",
+            "likeCount": "10",
+            "favoriteCount": "0",
+            "commentCount": "3"
+        }
+    }
+]

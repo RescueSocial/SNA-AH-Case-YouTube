@@ -1,0 +1,65 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "kFqBY4Co8HXLvFd3g7JYvi4aZAs",
+        "id": "InPlp_8t2SU",
+        "snippet": {
+            "publishedAt": "2016-10-22T19:25:14Z",
+            "channelId": "UCkg_Oz0Fr0jMfdRvj6J6_Yg",
+            "title": "Beats By Dre \"Got No Strings\" Commercial FT.  Famous Nicki Minaj, Amber Rose, Dj Kaled and More!!",
+            "description": "Like, Comment, subscribe, and enjoy!!",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/InPlp_8t2SU/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/InPlp_8t2SU/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/InPlp_8t2SU/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/InPlp_8t2SU/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "TOP VIDS",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Beats By Dre \"Got No Strings\" Commercial FT.  Famous Nicki Minaj, Amber Rose, Dj Kaled and More!!",
+                "description": "Like, Comment, subscribe, and enjoy!!"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT1M43S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "1896",
+            "likeCount": "48",
+            "favoriteCount": "0",
+            "commentCount": "1"
+        }
+    }
+]

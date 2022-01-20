@@ -1,0 +1,65 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "SLApOrFiQBtKDWWzkLVMJmgI5es",
+        "id": "AHBDF_4V_zQ",
+        "snippet": {
+            "publishedAt": "2020-02-28T17:09:06Z",
+            "channelId": "UCvNA9MnTeMf4rR0hn54QwbA",
+            "title": "Johnny Depp Threatens to Murder Amber Heard In Shocking Texts",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/AHBDF_4V_zQ/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/AHBDF_4V_zQ/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/AHBDF_4V_zQ/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/AHBDF_4V_zQ/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Celeb Showbiz",
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Johnny Depp Threatens to Murder Amber Heard In Shocking Texts",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT3M50S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "67",
+            "likeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "1"
+        }
+    }
+]

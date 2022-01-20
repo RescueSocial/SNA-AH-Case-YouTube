@@ -1,0 +1,71 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "6tOMFsz767lN29HzJZ5kCxZjOTM",
+        "id": "jW0t8jMi970",
+        "snippet": {
+            "publishedAt": "2021-12-28T19:45:01Z",
+            "channelId": "UCvtdELo0EIWNHolx2nef2Xw",
+            "title": "Johnny Depp tromp\u00e9 par Amber Heard @vec James Franco ? Ces informations croustillantes qui pourraien",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/jW0t8jMi970/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/jW0t8jMi970/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/jW0t8jMi970/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Nouvelles 24h",
+            "tags": [
+                "Michel Leeb",
+                "Chantal Goya",
+                "Jean-Jacques Debout",
+                "Patrick Bruel",
+                "Danse avec les stars",
+                "Benjamin Castaldi",
+                "Christina Milian",
+                "Amel Bent",
+                "Michel Sardou"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Johnny Depp tromp\u00e9 par Amber Heard @vec James Franco ? Ces informations croustillantes qui pourraien",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT2M",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "7",
+            "likeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

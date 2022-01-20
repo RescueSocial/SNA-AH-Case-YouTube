@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "BPyZgwXnqIdEvtCFentOzYuQxF8",
+        "id": "EDeEx1UNEjg",
+        "snippet": {
+            "publishedAt": "2013-05-07T18:12:09Z",
+            "channelId": "UC5yWEj3A6AaDlT7-UGO_yrg",
+            "title": "How to Identify Amber Without Damaging It",
+            "description": "A Simple test to distinguish between real and fake amber without the \"hot pin\" test",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/EDeEx1UNEjg/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/EDeEx1UNEjg/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/EDeEx1UNEjg/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/EDeEx1UNEjg/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/EDeEx1UNEjg/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "JewelryNerds",
+            "tags": [
+                "Antique (Literature Subject)"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "How to Identify Amber Without Damaging It",
+                "description": "A Simple test to distinguish between real and fake amber without the \"hot pin\" test"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT2M17S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "39914",
+            "likeCount": "338",
+            "favoriteCount": "0",
+            "commentCount": "46"
+        }
+    }
+]

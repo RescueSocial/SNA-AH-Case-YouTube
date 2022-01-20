@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "eeERE8nonSXNZWG-6G-LfAO6oPY",
+        "id": "KUsDq0Za078",
+        "snippet": {
+            "publishedAt": "2014-10-08T02:20:44Z",
+            "channelId": "UCHqsAh-88Wv2du7eRhHvUGQ",
+            "title": "Dance Moms 'Amber Alert' Full Song",
+            "description": "I've heard this song a long time ago and I'm so glad they danced to it. \n\nSong: Touch\nArtist: Lights Fade Low",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/KUsDq0Za078/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/KUsDq0Za078/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/KUsDq0Za078/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/KUsDq0Za078/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/KUsDq0Za078/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Dancer the Math Geek",
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Dance Moms 'Amber Alert' Full Song",
+                "description": "I've heard this song a long time ago and I'm so glad they danced to it. \n\nSong: Touch\nArtist: Lights Fade Low"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT4M54S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "117337",
+            "likeCount": "634",
+            "favoriteCount": "0",
+            "commentCount": "47"
+        }
+    }
+]

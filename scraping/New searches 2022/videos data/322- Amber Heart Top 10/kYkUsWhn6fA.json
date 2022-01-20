@@ -1,0 +1,65 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "Qq4rGcMY3T2gC-XEXWdx29rwxkU",
+        "id": "kYkUsWhn6fA",
+        "snippet": {
+            "publishedAt": "2021-03-12T03:07:34Z",
+            "channelId": "UCMgo1JcLwiLappJz3jhCofQ",
+            "title": "Amber test video for sale",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/kYkUsWhn6fA/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/kYkUsWhn6fA/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/kYkUsWhn6fA/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/kYkUsWhn6fA/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Rare Materials",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber test video for sale",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT5M2S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "904",
+            "likeCount": "10",
+            "favoriteCount": "0",
+            "commentCount": "11"
+        }
+    }
+]

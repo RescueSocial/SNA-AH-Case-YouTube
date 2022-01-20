@@ -1,0 +1,65 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "O_f-4JwYGvbGurw4QSO1Y7QNXjw",
+        "id": "MEQBRNhM3rM",
+        "snippet": {
+            "publishedAt": "2021-05-21T18:26:00Z",
+            "channelId": "UCN9ASGgLVno5vqjFlLjsAMA",
+            "title": "Amber Lynn Vitale, CN | Beauty, Stress & Digestion!",
+            "description": "Amber Lynn Vitale, CN | Beauty, Stress & Digestion!",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/MEQBRNhM3rM/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/MEQBRNhM3rM/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/MEQBRNhM3rM/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/MEQBRNhM3rM/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Healthy Planet",
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Lynn Vitale, CN | Beauty, Stress & Digestion!",
+                "description": "Amber Lynn Vitale, CN | Beauty, Stress & Digestion!"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT1H32M18S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "224",
+            "likeCount": "5",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

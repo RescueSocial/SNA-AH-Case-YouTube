@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "191MOfTdaoAscn9NNNJ6FQdglFE",
+        "id": "YpUQKI83KTI",
+        "snippet": {
+            "publishedAt": "2020-12-13T14:04:03Z",
+            "channelId": "UC6l1ILln8BVubC4C6vSoW8w",
+            "title": "AMBER LAU AND JACKSON WANG FUNNY VIDEO CLIP",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/YpUQKI83KTI/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/YpUQKI83KTI/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/YpUQKI83KTI/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/YpUQKI83KTI/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/YpUQKI83KTI/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Edoroese Tv",
+            "tags": [
+                "#mymovieapps #videoshop #VivaVideo #Musical.ly #followme"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "AMBER LAU AND JACKSON WANG FUNNY VIDEO CLIP",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT2M28S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "6414",
+            "likeCount": "114",
+            "favoriteCount": "0",
+            "commentCount": "5"
+        }
+    }
+]

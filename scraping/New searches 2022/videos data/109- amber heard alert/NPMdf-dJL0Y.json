@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "GOLgOnY2LhhkNmqcEBeMI0iE86k",
+        "id": "NPMdf-dJL0Y",
+        "snippet": {
+            "publishedAt": "2019-11-19T01:28:36Z",
+            "channelId": "UC1k18aXwJtoEESRTLj1vFdg",
+            "title": "Amber Heard and Gabourey Sidibe Read The Letters From Stanford Sexual Assault Case Survivor",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/NPMdf-dJL0Y/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/NPMdf-dJL0Y/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/NPMdf-dJL0Y/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/NPMdf-dJL0Y/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/NPMdf-dJL0Y/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Women of the Year",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Heard and Gabourey Sidibe Read The Letters From Stanford Sexual Assault Case Survivor",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT8M17S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "33",
+            "likeCount": "2",
+            "favoriteCount": "0",
+            "commentCount": "4"
+        }
+    }
+]

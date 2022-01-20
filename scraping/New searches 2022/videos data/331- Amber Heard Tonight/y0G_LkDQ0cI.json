@@ -1,0 +1,75 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "GEDXkGl6I20qPbukgaQ9oymn_mk",
+        "id": "y0G_LkDQ0cI",
+        "snippet": {
+            "publishedAt": "2012-08-25T12:18:49Z",
+            "channelId": "UCG7eR0A2e5CtgYgMijrTFLA",
+            "title": "Amber- This is your night lyrics",
+            "description": " ",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/y0G_LkDQ0cI/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/y0G_LkDQ0cI/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/y0G_LkDQ0cI/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/y0G_LkDQ0cI/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Kate Ka",
+            "tags": [
+                "Amber",
+                "this",
+                "is",
+                "your",
+                "night",
+                "Lyrics (Website Category)",
+                "This Is Your Night (Musical Recording)",
+                "Music (TV Genre)"
+            ],
+            "categoryId": "10",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber- This is your night lyrics",
+                "description": " "
+            }
+        },
+        "contentDetails": {
+            "duration": "PT4M4S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "1143268",
+            "likeCount": "7395",
+            "favoriteCount": "0",
+            "commentCount": "356"
+        }
+    }
+]

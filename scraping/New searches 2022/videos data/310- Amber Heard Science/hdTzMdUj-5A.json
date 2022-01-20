@@ -1,0 +1,75 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "UpywbDFNBHmlAF-f8rC2nhoxtCI",
+        "id": "hdTzMdUj-5A",
+        "snippet": {
+            "publishedAt": "2018-01-07T14:33:06Z",
+            "channelId": "UC1SB_TyRooHPwJQ5xiT8SIw",
+            "title": "Aquaman 2018 Trailer - Amber Heard - Sci-Fi HD Movie",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/hdTzMdUj-5A/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/hdTzMdUj-5A/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/hdTzMdUj-5A/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/hdTzMdUj-5A/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/hdTzMdUj-5A/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Movie TRAILERS",
+            "tags": [
+                "Aquaman 2018 Trailer Amber Heard - Sci-Fi HD Movie",
+                "Aquaman 2018 Trailer",
+                "Aquaman 2018"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Aquaman 2018 Trailer - Amber Heard - Sci-Fi HD Movie",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT1M22S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "146",
+            "likeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

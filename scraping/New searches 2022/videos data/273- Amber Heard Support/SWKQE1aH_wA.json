@@ -1,0 +1,81 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "nnYsA16aCNRCjCTVw-XN-aqLEPc",
+        "id": "SWKQE1aH_wA",
+        "snippet": {
+            "publishedAt": "2020-03-16T00:15:02Z",
+            "channelId": "UChs7lcuw4qOCxl3SJRPuidQ",
+            "title": "Amber Heard threw profanity at Penelope Cruz as a support for Johnny Depp's lawsuit",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/SWKQE1aH_wA/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/SWKQE1aH_wA/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/SWKQE1aH_wA/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/SWKQE1aH_wA/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/SWKQE1aH_wA/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "DT Media",
+            "tags": [
+                "DT Media",
+                "news",
+                "Amber Heard",
+                "threw",
+                "profanity",
+                "Penelope Cruz",
+                "support",
+                "Johnny Depp",
+                "lawsuit"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Heard threw profanity at Penelope Cruz as a support for Johnny Depp's lawsuit",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT3M20S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": false,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "1802",
+            "likeCount": "22",
+            "favoriteCount": "0",
+            "commentCount": "10"
+        }
+    }
+]

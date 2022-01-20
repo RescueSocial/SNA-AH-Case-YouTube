@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "W_0n5pA3wVSxPIpap1vklOh2YCI",
+        "id": "BjUF6yO5Vik",
+        "snippet": {
+            "publishedAt": "2016-11-30T21:12:52Z",
+            "channelId": "UCMw5XnF5EyupxQA_ZzNKx0Q",
+            "title": "Amber Heard Speaks Up",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/BjUF6yO5Vik/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/BjUF6yO5Vik/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/BjUF6yO5Vik/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/BjUF6yO5Vik/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/BjUF6yO5Vik/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Energievampire",
+            "categoryId": "1",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Heard Speaks Up",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT2M10S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "1092",
+            "likeCount": "6",
+            "favoriteCount": "0",
+            "commentCount": "3"
+        }
+    }
+]

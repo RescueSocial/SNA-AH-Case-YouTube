@@ -1,0 +1,64 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "0X20NrvLn0qODHhsbf05VvlzYS0",
+        "id": "Ldxw-NQF1O0",
+        "snippet": {
+            "publishedAt": "2017-11-18T16:22:11Z",
+            "channelId": "UCbp3fkS6cxI1aekmIPIDCGg",
+            "title": "Amber Heard for ALLURE  - Behind the scenes #1",
+            "description": "https://amberheardbrasil.com/",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/Ldxw-NQF1O0/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/Ldxw-NQF1O0/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/Ldxw-NQF1O0/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Amber Heard",
+            "tags": [
+                "amber heard",
+                "amber heard photoshoot"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Heard for ALLURE  - Behind the scenes #1",
+                "description": "https://amberheardbrasil.com/"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT6S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "1046",
+            "likeCount": "11",
+            "favoriteCount": "0",
+            "commentCount": "11"
+        }
+    }
+]

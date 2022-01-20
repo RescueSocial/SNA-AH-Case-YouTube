@@ -1,0 +1,74 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "zevtBue7b5B9yXAeTvNfrwIif7M",
+        "id": "io_0jT4C2is",
+        "snippet": {
+            "publishedAt": "2019-09-24T23:22:44Z",
+            "channelId": "UCBu0KdNokE4MqdkacvH37_A",
+            "title": "Amber Guyger Trial Day 2: The 911 call",
+            "description": "Day 2 of the trial of Amber Guyger dealt with the 911 call Guyger made after she shot Botham Jean.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/io_0jT4C2is/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/io_0jT4C2is/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/io_0jT4C2is/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/io_0jT4C2is/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "WFAA",
+            "tags": [
+                "local",
+                "dallas-county",
+                "botham-jean",
+                "special-reports",
+                "news"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "Amber Guyger Trial Day 2: The 911 call",
+                "description": "Day 2 of the trial of Amber Guyger dealt with the 911 call Guyger made after she shot Botham Jean."
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT2M22S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "4445",
+            "likeCount": "36",
+            "favoriteCount": "0",
+            "commentCount": "16"
+        }
+    }
+]

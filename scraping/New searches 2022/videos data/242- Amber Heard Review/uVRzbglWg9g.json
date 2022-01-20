@@ -1,0 +1,71 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "jgGt48ZPSQSSNTEI7L4hUogP7y0",
+        "id": "uVRzbglWg9g",
+        "snippet": {
+            "publishedAt": "2020-11-06T03:44:41Z",
+            "channelId": "UCRzsPVcXfngG1Bu-roarPpg",
+            "title": "Avalanche Amber Ale 5.0% abv# The Beer Review Guy",
+            "description": "Breckinridge Brewery. Fine Colorado Ales.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/uVRzbglWg9g/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/uVRzbglWg9g/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/uVRzbglWg9g/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/uVRzbglWg9g/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/uVRzbglWg9g/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Jerry Fort the Beer Review Guy",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Avalanche Amber Ale 5.0% abv# The Beer Review Guy",
+                "description": "Breckinridge Brewery. Fine Colorado Ales."
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT6M2S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "76",
+            "likeCount": "6",
+            "favoriteCount": "0",
+            "commentCount": "4"
+        }
+    }
+]

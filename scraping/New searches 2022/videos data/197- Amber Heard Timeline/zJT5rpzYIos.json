@@ -1,0 +1,79 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "2oNHftoLVhsNYz8elb2JpS3eoXc",
+        "id": "zJT5rpzYIos",
+        "snippet": {
+            "publishedAt": "2019-09-23T21:39:07Z",
+            "channelId": "UCxMXl9L79X1Mq_4iwCOyPFg",
+            "title": "Timeline In Amber Guyger Murder Case",
+            "description": "A year after the shooting death of Botham Jean, the trial of former Dallas Police Officer Amber Guyger got underway Monday.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/zJT5rpzYIos/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/zJT5rpzYIos/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/zJT5rpzYIos/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/zJT5rpzYIos/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/zJT5rpzYIos/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "CBSDFW",
+            "tags": [
+                "CBS 11 News Evening",
+                "Amber Guyger Trial",
+                "timeline",
+                "Botham Jean",
+                "former Dallas officer"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "Timeline In Amber Guyger Murder Case",
+                "description": "A year after the shooting death of Botham Jean, the trial of former Dallas Police Officer Amber Guyger got underway Monday."
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT1M11S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "1637",
+            "likeCount": "15",
+            "favoriteCount": "0",
+            "commentCount": "2"
+        }
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "XQkLMjch4VFFW1d2XToraIGelJA",
+        "id": "S_xukz_f_IM",
+        "snippet": {
+            "publishedAt": "2017-10-06T20:29:18Z",
+            "channelId": "UCPl_FkI6fPyByz0xIygS6Hg",
+            "title": "AMBER LULU & PREZOO CAMERA ZAWAFUMA LIVE WAKITOMASANA KIMAHABA HADHARANI",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/S_xukz_f_IM/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/S_xukz_f_IM/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/S_xukz_f_IM/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "steve King",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "AMBER LULU & PREZOO CAMERA ZAWAFUMA LIVE WAKITOMASANA KIMAHABA HADHARANI",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT1M33S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "13846",
+            "likeCount": "55",
+            "favoriteCount": "0",
+            "commentCount": "4"
+        }
+    }
+]

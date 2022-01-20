@@ -1,0 +1,79 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "XNuzaqgjF5GywtbVInpf0YyAYBo",
+        "id": "sEe_AIGm3Ek",
+        "snippet": {
+            "publishedAt": "2014-11-18T16:37:00Z",
+            "channelId": "UCwnEYrWh-U6RT8uBjYUgTlg",
+            "title": "f(x) Amber in her element",
+            "description": "The title says it all. Hope you guys have as much fun watching as I had fun editing this. [There's an option to turn on subs.]\n\nAs always, video credits go to all the original owners/uploaders/subbers/channels/fancams etc., no credit taken for myself, no evil intended, all for pure enjoyment and fangirling. Please visit these other channels to support them.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/sEe_AIGm3Ek/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/sEe_AIGm3Ek/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/sEe_AIGm3Ek/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/sEe_AIGm3Ek/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Banana Bunch",
+            "tags": [
+                "Amber",
+                "f(x)"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "f(x) Amber in her element",
+                "description": "The title says it all. Hope you guys have as much fun watching as I had fun editing this. [There's an option to turn on subs.]\n\nAs always, video credits go to all the original owners/uploaders/subbers/channels/fancams etc., no credit taken for myself, no evil intended, all for pure enjoyment and fangirling. Please visit these other channels to support them."
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT8M4S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": false,
+            "regionRestriction": {
+                "blocked": [
+                    "HK",
+                    "KR",
+                    "MO",
+                    "SG",
+                    "TW"
+                ]
+            },
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "1264290",
+            "likeCount": "30429",
+            "favoriteCount": "0",
+            "commentCount": "804"
+        }
+    }
+]

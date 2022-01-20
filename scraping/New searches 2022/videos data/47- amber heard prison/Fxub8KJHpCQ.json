@@ -1,0 +1,74 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "3sOZn2yRWLhACxZt9uvl66zXHNg",
+        "id": "Fxub8KJHpCQ",
+        "snippet": {
+            "publishedAt": "2020-03-06T05:24:03Z",
+            "channelId": "UCqljG729uc-_CWm6o_2GB9g",
+            "title": "At least 19 years in prison for Amber Rose Rush's killer",
+            "description": "Dunedin's own, and only, local television channel.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/Fxub8KJHpCQ/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/Fxub8KJHpCQ/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/Fxub8KJHpCQ/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/Fxub8KJHpCQ/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/Fxub8KJHpCQ/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Channel 39",
+            "tags": [
+                "39DunedinNews",
+                "39DunedinTelevision"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "At least 19 years in prison for Amber Rose Rush's killer",
+                "description": "Dunedin's own, and only, local television channel."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT1M28S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "137",
+            "likeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

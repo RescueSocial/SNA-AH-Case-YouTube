@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "jFFpcbrcZWcDV-9jKDhxJjDAPiA",
+        "id": "prTxdo4cki4",
+        "snippet": {
+            "publishedAt": "2016-10-11T03:06:44Z",
+            "channelId": "UCVyMa95OU8-PW8dWDHKWklQ",
+            "title": "Team building tips with Amber Newman",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/prTxdo4cki4/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/prTxdo4cki4/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/prTxdo4cki4/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/prTxdo4cki4/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/prTxdo4cki4/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Lindsay Hay",
+            "categoryId": "23",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Team building tips with Amber Newman",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT37M57S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "42",
+            "likeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

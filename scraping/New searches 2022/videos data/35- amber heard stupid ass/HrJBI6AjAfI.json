@@ -1,0 +1,69 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "25V_fC2CsZKGezwWJg7y2GyeCCk",
+        "id": "HrJBI6AjAfI",
+        "snippet": {
+            "publishedAt": "2016-04-28T22:51:20Z",
+            "channelId": "UC8IBQNdmJLnktzMNxOhLOmQ",
+            "title": "Amber Coyle Comedy Reel",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/HrJBI6AjAfI/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/HrJBI6AjAfI/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/HrJBI6AjAfI/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/HrJBI6AjAfI/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/HrJBI6AjAfI/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Amber Coyle",
+            "categoryId": "23",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Coyle Comedy Reel",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT4M9S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "449",
+            "likeCount": "4",
+            "favoriteCount": "0"
+        }
+    }
+]

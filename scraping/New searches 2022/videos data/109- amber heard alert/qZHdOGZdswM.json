@@ -1,0 +1,78 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "AmF4FosqQvZ4EfmKaKoaXuFLd74",
+        "id": "qZHdOGZdswM",
+        "snippet": {
+            "publishedAt": "2021-06-28T23:18:35Z",
+            "channelId": "UCO6kzQ-7wcG0x8W5LpBA9RQ",
+            "title": "Amber Alert: Change in strategy in search for missing Summer Wells",
+            "description": "Tuesday will mark two weeks since Summer Wells disappeared from her home in Hawkins County.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/qZHdOGZdswM/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/qZHdOGZdswM/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/qZHdOGZdswM/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/qZHdOGZdswM/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/qZHdOGZdswM/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "NewsChannel 5",
+            "tags": [
+                "amber alert",
+                "missing girl",
+                "rogersville",
+                "summer wells",
+                "tbi"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Alert: Change in strategy in search for missing Summer Wells",
+                "description": "Tuesday will mark two weeks since Summer Wells disappeared from her home in Hawkins County."
+            },
+            "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+            "duration": "PT2M36S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "61952",
+            "likeCount": "1123",
+            "favoriteCount": "0",
+            "commentCount": "651"
+        }
+    }
+]

@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "74E7wwd4qYbJ_zXsT_OTxnJRKpc",
+        "id": "rT7dl7I7JZ8",
+        "snippet": {
+            "publishedAt": "2021-01-19T17:35:15Z",
+            "channelId": "UCzocYTD8J3ezkaoND4iQPGA",
+            "title": "Amber Alert issued for young kids forcibly removed from Greece foster home, police seeking father",
+            "description": "An Amber Alert has been issued for a 3-year-old girl and 5-year-old boy who police say were abducted Monday night in Greece.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/rT7dl7I7JZ8/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/rT7dl7I7JZ8/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/rT7dl7I7JZ8/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/rT7dl7I7JZ8/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "News 8 WROC",
+            "tags": [
+                "video",
+                "rochester",
+                "rochester Ny",
+                "wroc",
+                "news 8"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Alert issued for young kids forcibly removed from Greece foster home, police seeking father",
+                "description": "An Amber Alert has been issued for a 3-year-old girl and 5-year-old boy who police say were abducted Monday night in Greece."
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT4M52S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "450",
+            "likeCount": "11",
+            "favoriteCount": "0",
+            "commentCount": "3"
+        }
+    }
+]

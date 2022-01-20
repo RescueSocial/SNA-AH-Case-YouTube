@@ -1,0 +1,75 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "t48KDnxXZXCI5aE3SQJJKEEOPTI",
+        "id": "hTBaSipRxjs",
+        "snippet": {
+            "publishedAt": "2020-06-18T10:28:17Z",
+            "channelId": "UCaHyQdQ8JnMgy-GNzBvCIVA",
+            "title": "Why Amber Heard forgiven Johnny Depp?",
+            "description": "Amber Heard's lawyer Roberta Kaplan withdraws from case against Johnny Depp",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/hTBaSipRxjs/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/hTBaSipRxjs/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/hTBaSipRxjs/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/hTBaSipRxjs/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/hTBaSipRxjs/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "TheCountryInk",
+            "tags": [
+                "Amber Heard",
+                "Johny Depp",
+                "Hollywood"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Why Amber Heard forgiven Johnny Depp?",
+                "description": "Amber Heard's lawyer Roberta Kaplan withdraws from case against Johnny Depp"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT1M14S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "108",
+            "likeCount": "2",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

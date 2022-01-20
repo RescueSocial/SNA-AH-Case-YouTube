@@ -1,0 +1,81 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "c6lF_Eg8vS7XKPZFlF4grPLt6Hc",
+        "id": "wi3Q7CSgdZQ",
+        "snippet": {
+            "publishedAt": "2020-05-17T04:00:12Z",
+            "channelId": "UChs7lcuw4qOCxl3SJRPuidQ",
+            "title": "Victory came close to Johnny Depp when Amber Heard's lawyer introduced the new condition",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/wi3Q7CSgdZQ/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/wi3Q7CSgdZQ/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/wi3Q7CSgdZQ/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/wi3Q7CSgdZQ/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/wi3Q7CSgdZQ/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "DT Media",
+            "tags": [
+                "DT Media",
+                "news",
+                "Victory",
+                "close",
+                "Johnny Depp",
+                "Amber Heard",
+                "lawyer",
+                "introduced",
+                "new condition"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Victory came close to Johnny Depp when Amber Heard's lawyer introduced the new condition",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT3M2S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": false,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "1761",
+            "likeCount": "14",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

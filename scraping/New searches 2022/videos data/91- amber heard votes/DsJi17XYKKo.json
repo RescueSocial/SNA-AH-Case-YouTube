@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "HvQvSyY5tX4nP6mZ2Lj5wh9v4mk",
+        "id": "DsJi17XYKKo",
+        "snippet": {
+            "publishedAt": "2019-09-22T22:53:30Z",
+            "channelId": "UC_3SA4S08z6vEfD3Yb05vNQ",
+            "title": "Amber\u2019s Instagram Hacks",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/DsJi17XYKKo/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/DsJi17XYKKo/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/DsJi17XYKKo/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/DsJi17XYKKo/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/DsJi17XYKKo/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Amber Voight",
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber\u2019s Instagram Hacks",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT25M57S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "551",
+            "likeCount": "14",
+            "favoriteCount": "0",
+            "commentCount": "2"
+        }
+    }
+]

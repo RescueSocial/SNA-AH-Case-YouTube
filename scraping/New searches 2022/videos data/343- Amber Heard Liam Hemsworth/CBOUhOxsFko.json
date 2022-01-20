@@ -1,0 +1,65 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "hlYSvQ_xphbNgRhEPR1ihE_9E94",
+        "id": "CBOUhOxsFko",
+        "snippet": {
+            "publishedAt": "2017-09-09T04:56:53Z",
+            "channelId": "UCQWtYhOJxAcBieKg6giOW9g",
+            "title": "Amber Heard 2 - Liam Hemsworth (Paranoia-Syrup)",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/CBOUhOxsFko/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/CBOUhOxsFko/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/CBOUhOxsFko/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/CBOUhOxsFko/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Captain Evans Rachel Wood",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Heard 2 - Liam Hemsworth (Paranoia-Syrup)",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT6M54S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "163",
+            "likeCount": "2",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

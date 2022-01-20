@@ -1,0 +1,69 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "U2x1lCIXA4CXRS7EcJbiNB6I8wM",
+        "id": "swqeQKHDRYg",
+        "snippet": {
+            "publishedAt": "2016-10-10T21:57:35Z",
+            "channelId": "UCXGlLZaUVZqSYbB5s0-nPnw",
+            "title": "THE AMBER ALERT  SCARED US (IT'S A DUMB VIDEO)",
+            "description": "Follow my social media !\n\nINSTAGRAM\n@allison.p_\n\nSNAPCHAT\n@allisonpollard6",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/swqeQKHDRYg/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/swqeQKHDRYg/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/swqeQKHDRYg/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/swqeQKHDRYg/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/swqeQKHDRYg/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "chapalli ay",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "THE AMBER ALERT  SCARED US (IT'S A DUMB VIDEO)",
+                "description": "Follow my social media !\n\nINSTAGRAM\n@allison.p_\n\nSNAPCHAT\n@allisonpollard6"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT6M51S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "74278",
+            "likeCount": "964",
+            "favoriteCount": "0"
+        }
+    }
+]

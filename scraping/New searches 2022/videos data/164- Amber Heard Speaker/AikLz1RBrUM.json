@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "tCUdg4-V1uUl1OaLn9uygjD9nVY",
+        "id": "AikLz1RBrUM",
+        "snippet": {
+            "publishedAt": "2019-07-11T17:45:15Z",
+            "channelId": "UC4WfNvnAsxNpzDlXybpODow",
+            "title": "Amber Pember - Connecting With Purpose In Our Automated World",
+            "description": "Today our culture has been obsessed with technology and we\u2019ve lost our ability to really connect. Learn how to connect using automated marketing technology and still have face-to-face interactions.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/AikLz1RBrUM/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/AikLz1RBrUM/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/AikLz1RBrUM/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/AikLz1RBrUM/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/AikLz1RBrUM/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Ignite Denver",
+            "tags": [
+                "Ignite Denver 32"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Pember - Connecting With Purpose In Our Automated World",
+                "description": "Today our culture has been obsessed with technology and we\u2019ve lost our ability to really connect. Learn how to connect using automated marketing technology and still have face-to-face interactions."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT6M5S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "34",
+            "likeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

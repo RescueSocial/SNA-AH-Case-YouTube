@@ -1,0 +1,81 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "BUyZW6UygkY57uk7VlsOVzV294U",
+        "id": "MqGdysEEuo4",
+        "snippet": {
+            "publishedAt": "2015-01-23T17:22:05Z",
+            "channelId": "UCzsF1ghKHeif7AmTNlRYAzQ",
+            "title": "Did Johnny Depp and Amber Heard Secretly Get Married",
+            "description": "According to People, Johnny Depp was spotted wearing a new gold band at the premiere of his new film Mortdecai earlier this week, sparking speculation that he and fiancee Amber Heard secretly tied the knot.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/MqGdysEEuo4/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/MqGdysEEuo4/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/MqGdysEEuo4/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/MqGdysEEuo4/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/MqGdysEEuo4/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Harper's BAZAAR",
+            "tags": [
+                "4007327962001",
+                "johnny depp",
+                "Celebrity",
+                "amber heard",
+                "HBZ",
+                "syndicatable",
+                "bazaar",
+                "syn_youtube",
+                "harper's bazaar"
+            ],
+            "categoryId": "26",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Did Johnny Depp and Amber Heard Secretly Get Married",
+                "description": "According to People, Johnny Depp was spotted wearing a new gold band at the premiere of his new film Mortdecai earlier this week, sparking speculation that he and fiancee Amber Heard secretly tied the knot."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT28S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "1305",
+            "likeCount": "10",
+            "favoriteCount": "0",
+            "commentCount": "1"
+        }
+    }
+]

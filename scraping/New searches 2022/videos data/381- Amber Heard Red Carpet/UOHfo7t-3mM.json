@@ -1,0 +1,74 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "d6AgSd7-0g5dTPiMMpgGjgugc70",
+        "id": "UOHfo7t-3mM",
+        "snippet": {
+            "publishedAt": "2018-11-27T00:17:31Z",
+            "channelId": "UC86dbj-lbDks_hZ5gRKL49Q",
+            "title": "Stars walk 'Aquaman' red carpet",
+            "description": "Stars Jason Momoa and Amber Heard walk the red carpet in London for the world premiere of Aquaman, DC Comics\u2019 new superhero movie.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/UOHfo7t-3mM/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/UOHfo7t-3mM/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/UOHfo7t-3mM/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/UOHfo7t-3mM/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "AFP News Agency",
+            "tags": [
+                "WEB",
+                "BRITAIN",
+                "CULTURE",
+                "CINEMA",
+                "AQUAMAN",
+                "MOMOA"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Stars walk 'Aquaman' red carpet",
+                "description": "Stars Jason Momoa and Amber Heard walk the red carpet in London for the world premiere of Aquaman, DC Comics\u2019 new superhero movie."
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT1M2S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "1324",
+            "likeCount": "20",
+            "favoriteCount": "0",
+            "commentCount": "4"
+        }
+    }
+]

@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "4KoYZ7ohbp8JsILyz7tp3Id361I",
+        "id": "bXZbSfAPpII",
+        "snippet": {
+            "publishedAt": "2019-12-15T23:25:20Z",
+            "channelId": "UC_YFbvKedjnVjqrZqBR4L8Q",
+            "title": "Amber Alert issued for 2 children last seen in Whitehouse area",
+            "description": "An Amber Alert has been issued for two missing children.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/bXZbSfAPpII/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/bXZbSfAPpII/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/bXZbSfAPpII/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/bXZbSfAPpII/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/bXZbSfAPpII/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "News4JAX",
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Alert issued for 2 children last seen in Whitehouse area",
+                "description": "An Amber Alert has been issued for two missing children."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT9M4S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "458",
+            "likeCount": "19",
+            "favoriteCount": "0",
+            "commentCount": "2"
+        }
+    }
+]

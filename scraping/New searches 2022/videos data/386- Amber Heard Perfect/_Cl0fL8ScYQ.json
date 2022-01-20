@@ -1,0 +1,79 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "LjyRLMt5xp-GLCpPlmqRsZshmx4",
+        "id": "_Cl0fL8ScYQ",
+        "snippet": {
+            "publishedAt": "2012-01-23T05:03:59Z",
+            "channelId": "UCyk1gBIPJEEb6zXYi3eSJAw",
+            "title": "Perfect Two Cover By Amber",
+            "description": "So yeah another short one. I heard part of the song and loved it so when I learn all of the words I'll post a new video.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/_Cl0fL8ScYQ/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/_Cl0fL8ScYQ/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/_Cl0fL8ScYQ/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/_Cl0fL8ScYQ/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "FunsizedAmber",
+            "tags": [
+                "Perfect",
+                "Two",
+                "Apple",
+                "Pie",
+                "Straw",
+                "Berry",
+                "Smoke",
+                "High",
+                "Orange",
+                "Hearts",
+                "Love",
+                "Luv",
+                "Song"
+            ],
+            "categoryId": "10",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Perfect Two Cover By Amber",
+                "description": "So yeah another short one. I heard part of the song and loved it so when I learn all of the words I'll post a new video."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT42S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "29",
+            "likeCount": "0",
+            "favoriteCount": "0"
+        }
+    }
+]

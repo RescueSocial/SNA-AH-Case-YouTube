@@ -1,0 +1,80 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "neA_6WYoyf_x8Rr98IisR4YbNU0",
+        "id": "VsmnLl7FaKg",
+        "snippet": {
+            "publishedAt": "2020-02-08T20:15:00Z",
+            "channelId": "UChs7lcuw4qOCxl3SJRPuidQ",
+            "title": "Johnny Depp warned Amber Heard: Do not continue to challenge his endurance limits",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/VsmnLl7FaKg/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/VsmnLl7FaKg/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/VsmnLl7FaKg/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/VsmnLl7FaKg/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/VsmnLl7FaKg/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "DT Media",
+            "tags": [
+                "DT Media",
+                "news",
+                "Johnny Depp",
+                "warned",
+                "Amber Heard",
+                "continue",
+                "challenge",
+                "endurance limits"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Johnny Depp warned Amber Heard: Do not continue to challenge his endurance limits",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT3M15S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": false,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "1463",
+            "likeCount": "25",
+            "favoriteCount": "0",
+            "commentCount": "3"
+        }
+    }
+]

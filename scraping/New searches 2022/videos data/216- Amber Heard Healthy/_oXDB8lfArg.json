@@ -1,0 +1,72 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "DDiOUmQDELcxzI_ORwg1C5w78Cc",
+        "id": "_oXDB8lfArg",
+        "snippet": {
+            "publishedAt": "2020-04-23T18:43:38Z",
+            "channelId": "UCvpzYPV27Z5x-PovDZ_NAjQ",
+            "title": "Amber Harper of \"Burned In Teacher\" discussing \"Healthy Workflow\"",
+            "description": "Mental Health America of Northeast Indiana presents a segment with Amber Harper discussing \"Healthy Workflow\"",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/_oXDB8lfArg/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/_oXDB8lfArg/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/_oXDB8lfArg/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/_oXDB8lfArg/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/_oXDB8lfArg/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Mental Health America of Northeast Indiana",
+            "categoryId": "29",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "Amber Harper of \"Burned In Teacher\" discussing \"Healthy Workflow\"",
+                "description": "Mental Health America of Northeast Indiana presents a segment with Amber Harper discussing \"Healthy Workflow\""
+            },
+            "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+            "duration": "PT35M30S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "26",
+            "likeCount": "1",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

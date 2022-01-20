@@ -1,0 +1,65 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "yHWRVYHT-7gnDpQrGm09kxr-zx8",
+        "id": "X6D3-DKZS8g",
+        "snippet": {
+            "publishedAt": "2020-04-04T16:04:27Z",
+            "channelId": "UCM26z9gULmaa3vaZSYJtfRA",
+            "title": "Johnny Depp vs Amber Heard (pt. 7)",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/X6D3-DKZS8g/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/X6D3-DKZS8g/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/X6D3-DKZS8g/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/X6D3-DKZS8g/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "The Oscar Nominated A-Hole",
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Johnny Depp vs Amber Heard (pt. 7)",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT5M48S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "411",
+            "likeCount": "38",
+            "favoriteCount": "0",
+            "commentCount": "11"
+        }
+    }
+]

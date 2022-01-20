@@ -1,0 +1,68 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "ON5G7iFVsE5yp6THaMYUP5ORp_4",
+        "id": "g4Z29ugHpyk",
+        "snippet": {
+            "publishedAt": "2009-09-07T10:03:32Z",
+            "channelId": "UCrkVqxbc1fR-jc-rEsNfOcQ",
+            "title": "The informers opening scene",
+            "description": "The informers opening scene with Amber Heard, Austin Nichols, Mel Raido and Jon Foster",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/g4Z29ugHpyk/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/g4Z29ugHpyk/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/g4Z29ugHpyk/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "nicemovieclips",
+            "tags": [
+                "The informers",
+                "opening scene",
+                "Amber Heard",
+                "Austin Nichols",
+                "Mel Raido",
+                "Jon Foster"
+            ],
+            "categoryId": "1",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "The informers opening scene",
+                "description": "The informers opening scene with Amber Heard, Austin Nichols, Mel Raido and Jon Foster"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT2M7S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "60967",
+            "likeCount": "102",
+            "favoriteCount": "0",
+            "commentCount": "20"
+        }
+    }
+]

@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "dwpvunzvWWBYv_mMy5AQdayGDjs",
+        "id": "iVWDpdTEveE",
+        "snippet": {
+            "publishedAt": "2019-05-28T03:47:14Z",
+            "channelId": "UCac4ZZtttJIFhCRe5urILvw",
+            "title": "Social Work Role Play Scenario: Role Play Video Amber and Chad. General Practice",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/iVWDpdTEveE/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/iVWDpdTEveE/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/iVWDpdTEveE/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/iVWDpdTEveE/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/iVWDpdTEveE/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Chad Eaddy",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Social Work Role Play Scenario: Role Play Video Amber and Chad. General Practice",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT10M59S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "519",
+            "likeCount": "8",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

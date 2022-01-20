@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "dMRG50e9vgjZ6Pzc6ImacsD7KM0",
+        "id": "QofjOQTdtUo",
+        "snippet": {
+            "publishedAt": "2015-07-01T19:46:25Z",
+            "channelId": "UC8qqS9TP85kUQ0M8-OiLYPw",
+            "title": "De biceps van Channing Tatum (Magic Mike XXL), Joe en Amber Heard",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/QofjOQTdtUo/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/QofjOQTdtUo/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/QofjOQTdtUo/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/QofjOQTdtUo/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/QofjOQTdtUo/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "AD.nl",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "De biceps van Channing Tatum (Magic Mike XXL), Joe en Amber Heard",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT38S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "2419",
+            "likeCount": "4",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "ASejtTMVSKELt20eq5K8AGryUPw",
+        "id": "7dwUwnPAbtc",
+        "snippet": {
+            "publishedAt": "2021-10-30T23:12:11Z",
+            "channelId": "UCg6LHhkoDRL1Tv9m1F13Mzg",
+            "title": "Amber Mitchell Testimonial",
+            "description": "62 pounds released in 81 days! The Metabolism Reboot program works!",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/7dwUwnPAbtc/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/7dwUwnPAbtc/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/7dwUwnPAbtc/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/7dwUwnPAbtc/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/7dwUwnPAbtc/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Jared McDonald - The Metabolism Reboot",
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Mitchell Testimonial",
+                "description": "62 pounds released in 81 days! The Metabolism Reboot program works!"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT23M49S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "4",
+            "likeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

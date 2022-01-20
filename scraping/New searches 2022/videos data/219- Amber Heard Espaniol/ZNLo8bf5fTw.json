@@ -1,0 +1,65 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "D609nK-6ogQWDLV3mIbCSfTuzPE",
+        "id": "ZNLo8bf5fTw",
+        "snippet": {
+            "publishedAt": "2016-06-01T14:38:23Z",
+            "channelId": "UC5gdC2Z3nCiLTdIKXYubeYw",
+            "title": "Lo que sabemos del caso Johnny y Amber hasta el momento",
+            "description": "Johnny Depp y Amber Heard son actualmente el centro de atenci\u00f3n, luego de darse a conocer su repentina separaci\u00f3n. Es por eso que hacemos un recuento de lo que sabemos hasta el momento.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/ZNLo8bf5fTw/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/ZNLo8bf5fTw/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/ZNLo8bf5fTw/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Qui\u00e9n",
+            "tags": [
+                "johnny depp",
+                "amber heard",
+                "hollywood"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Lo que sabemos del caso Johnny y Amber hasta el momento",
+                "description": "Johnny Depp y Amber Heard son actualmente el centro de atenci\u00f3n, luego de darse a conocer su repentina separaci\u00f3n. Es por eso que hacemos un recuento de lo que sabemos hasta el momento."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT1M31S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "772",
+            "likeCount": "9",
+            "favoriteCount": "0",
+            "commentCount": "1"
+        }
+    }
+]

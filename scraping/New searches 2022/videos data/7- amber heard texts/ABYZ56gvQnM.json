@@ -1,0 +1,61 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "OTHa6oNnylclPaU4eyS7IpYnUC4",
+        "id": "ABYZ56gvQnM",
+        "snippet": {
+            "publishedAt": "2020-07-24T00:00:51Z",
+            "channelId": "UCZJECgMdK7NLwNAT1T76k6A",
+            "title": "Amber Heard Beat Up Johnny Depp Then Admitted it On Audio",
+            "description": "Crazy Female's",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/ABYZ56gvQnM/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/ABYZ56gvQnM/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/ABYZ56gvQnM/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "ByBaudelaire",
+            "categoryId": "20",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Heard Beat Up Johnny Depp Then Admitted it On Audio",
+                "description": "Crazy Female's"
+            },
+            "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+            "duration": "PT1M51S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "37",
+            "likeCount": "2",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

@@ -1,0 +1,71 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "VgEmrC3RluyxLF81OtlUROwEBwE",
+        "id": "OcR9CHLhIGY",
+        "snippet": {
+            "publishedAt": "2020-09-04T04:01:45Z",
+            "channelId": "UCcmm3qGxXKeNIL8ljpuQ2Ng",
+            "title": "Amber Academy Webinars- How to Have a Successful FTP Game with William Mooney",
+            "description": "Powered by Restream https://restream.io/\n\nHay un juego nuevo en el pueblo, veamos de que se trata",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/OcR9CHLhIGY/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/OcR9CHLhIGY/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/OcR9CHLhIGY/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/OcR9CHLhIGY/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/OcR9CHLhIGY/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "KaraOkulta KO",
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Academy Webinars- How to Have a Successful FTP Game with William Mooney",
+                "description": "Powered by Restream https://restream.io/\n\nHay un juego nuevo en el pueblo, veamos de que se trata"
+            },
+            "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+            "duration": "PT59M12S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "19",
+            "likeCount": "1",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

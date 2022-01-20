@@ -1,0 +1,66 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "clRrggYif5afTHk11j9gyvXUvRc",
+        "id": "5gqTYXMkNBE",
+        "snippet": {
+            "publishedAt": "2011-11-14T18:59:19Z",
+            "channelId": "UCOE2UXE3tVDkCarIfPWuGXA",
+            "title": "The Rum Diary on Film 2011",
+            "description": "A featurette on The Rum Diary, including interviews with Johnny Depp, Amber Heard and Bruce Robinson",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/5gqTYXMkNBE/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/5gqTYXMkNBE/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/5gqTYXMkNBE/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "AmberLChat9",
+            "tags": [
+                "The Rum Diary (film)",
+                "Amber Heard",
+                "Johnny Depp",
+                "Bruce Robinson"
+            ],
+            "categoryId": "1",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "The Rum Diary on Film 2011",
+                "description": "A featurette on The Rum Diary, including interviews with Johnny Depp, Amber Heard and Bruce Robinson"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT2M52S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "7048",
+            "likeCount": "34",
+            "favoriteCount": "0",
+            "commentCount": "3"
+        }
+    }
+]

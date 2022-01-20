@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "I829WwzHVHQXLwgCHAk1m970yGU",
+        "id": "Wr6bBzW9vhE",
+        "snippet": {
+            "publishedAt": "2017-06-08T00:32:05Z",
+            "channelId": "UCnKl5OQOzkGYa65AIOi2PgQ",
+            "title": "Amber 311 cover",
+            "description": "Me trying to stand up and play something a little different then the usual tuned down bullshit that I fuck with\nTuning drop d",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/Wr6bBzW9vhE/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/Wr6bBzW9vhE/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/Wr6bBzW9vhE/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/Wr6bBzW9vhE/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/Wr6bBzW9vhE/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Elmo B",
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber 311 cover",
+                "description": "Me trying to stand up and play something a little different then the usual tuned down bullshit that I fuck with\nTuning drop d"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT3M24S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "208",
+            "likeCount": "12",
+            "favoriteCount": "0",
+            "commentCount": "22"
+        }
+    }
+]

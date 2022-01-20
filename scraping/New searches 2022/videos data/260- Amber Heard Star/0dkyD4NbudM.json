@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "1lQerpScAS4HcDNsgs6Sz8w7asU",
+        "id": "0dkyD4NbudM",
+        "snippet": {
+            "publishedAt": "2014-01-22T21:57:02Z",
+            "channelId": "UCTk00uAUJ207tinKFB7pIUA",
+            "title": "Amber Riley and Derek Hough   Charleston   Dancing with the Stars   Season 17   Week 3",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/0dkyD4NbudM/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/0dkyD4NbudM/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/0dkyD4NbudM/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/0dkyD4NbudM/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/0dkyD4NbudM/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Dancing with the Stars",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Riley and Derek Hough   Charleston   Dancing with the Stars   Season 17   Week 3",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT1M31S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "83794",
+            "likeCount": "715",
+            "favoriteCount": "0",
+            "commentCount": "12"
+        }
+    }
+]

@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "UuG9cUkczqWn_YL1NSYNoMvzfuw",
+        "id": "ycK2gJCCXmk",
+        "snippet": {
+            "publishedAt": "2021-12-26T10:57:13Z",
+            "channelId": "UCXN0SJDWW4EGeoVCLAfLYkQ",
+            "title": "Amber Heard \u00abBullett\u00bb.",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/ycK2gJCCXmk/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/ycK2gJCCXmk/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/ycK2gJCCXmk/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/ycK2gJCCXmk/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/ycK2gJCCXmk/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Amber Heard Network",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Heard \u00abBullett\u00bb.",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT45S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": true
+        },
+        "statistics": {
+            "viewCount": "33",
+            "likeCount": "3",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

@@ -1,0 +1,71 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "t_YeqzS7s6QbFasA6Rf6Lz3s10Y",
+        "id": "5nwNJexlRfU",
+        "snippet": {
+            "publishedAt": "2019-04-18T08:44:35Z",
+            "channelId": "UCmz5OJtgli-1XfSpeVINqXg",
+            "title": "Amber Heard Details Alleged Abuse by Monster Johnny Depp as He Calls Her Claims a Hoax",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/5nwNJexlRfU/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/5nwNJexlRfU/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/5nwNJexlRfU/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/5nwNJexlRfU/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/5nwNJexlRfU/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Primo Italia",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Heard Details Alleged Abuse by Monster Johnny Depp as He Calls Her Claims a Hoax",
+                "description": ""
+            },
+            "defaultAudioLanguage": "es"
+        },
+        "contentDetails": {
+            "duration": "PT2M4S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "16",
+            "likeCount": "1",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

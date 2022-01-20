@@ -1,0 +1,85 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "FpUSQBNCcx0S44pJSyJHXWPQOs4",
+        "id": "k6NrbxoWCIU",
+        "snippet": {
+            "publishedAt": "2010-08-06T09:17:05Z",
+            "channelId": "UC1WZlZpUsan4xiPXA2MIwbg",
+            "title": "The Amber Herd-Track 1 Hi-Def",
+            "description": "...The Amber Herd...live at Waterfront Festival,Nottingham.UK....1st August 2010...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/k6NrbxoWCIU/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/k6NrbxoWCIU/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/k6NrbxoWCIU/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/k6NrbxoWCIU/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/k6NrbxoWCIU/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Roo Tube",
+            "tags": [
+                "''The",
+                "Amber",
+                "Herd''",
+                "''Amber",
+                "''Influxfestival''",
+                "INFLUXFESTIVAL''",
+                "''Folk",
+                "Rock''",
+                "''Folk''",
+                "''Rock''",
+                "''Indie''",
+                "''Alternative''",
+                "folk rock"
+            ],
+            "categoryId": "10",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "The Amber Herd-Track 1 Hi-Def",
+                "description": "...The Amber Herd...live at Waterfront Festival,Nottingham.UK....1st August 2010..."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT4M58S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "177",
+            "likeCount": "2",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

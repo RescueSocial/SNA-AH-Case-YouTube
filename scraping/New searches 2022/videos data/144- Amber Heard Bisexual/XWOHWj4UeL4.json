@@ -1,0 +1,74 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "p8Eu5BZIym4qo9BuX2foQLsxN6E",
+        "id": "XWOHWj4UeL4",
+        "snippet": {
+            "publishedAt": "2015-07-02T11:05:14Z",
+            "channelId": "UCxrZ2zijkU9L0LpKb54iKiQ",
+            "title": "Amber Heard Opens Up About Bisexuality",
+            "description": "Amber Heard Opens Up About Bisexuality\nAmber Heard Opens Up About Bisexuality",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/XWOHWj4UeL4/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/XWOHWj4UeL4/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/XWOHWj4UeL4/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/XWOHWj4UeL4/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/XWOHWj4UeL4/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "MM TV",
+            "tags": [
+                "Bisexuality (Film Subject)",
+                "Amber Heard (Celebrity)",
+                "Crime Fiction (TV Genre)"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Heard Opens Up About Bisexuality",
+                "description": "Amber Heard Opens Up About Bisexuality\nAmber Heard Opens Up About Bisexuality"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT1M31S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "139",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

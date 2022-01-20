@@ -1,0 +1,67 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "L8gbE5wfG2nUAzsAkPfVUGmKo8Y",
+        "id": "0-4mGKDofXo",
+        "snippet": {
+            "publishedAt": "2016-04-12T20:03:35Z",
+            "channelId": "UCupvZG-5ko_eiXAupbDfxWw",
+            "title": "James Franco and Amber Heard talk power of memories",
+            "description": "\"The Adderall Diaries,\" based on the best-selling book, explores the complexity of people's memories. CNN chats with the film's stars and director.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/0-4mGKDofXo/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/0-4mGKDofXo/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/0-4mGKDofXo/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "CNN",
+            "tags": [
+                "CNN",
+                "News",
+                "CNN TV",
+                "CNN Newsroom",
+                "default"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "James Franco and Amber Heard talk power of memories",
+                "description": "\"The Adderall Diaries,\" based on the best-selling book, explores the complexity of people's memories. CNN chats with the film's stars and director."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT2M16S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "8842",
+            "likeCount": "66",
+            "favoriteCount": "0",
+            "commentCount": "4"
+        }
+    }
+]

@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "EAbdN-M1uIG9Co5AtDKKdSWSRU4",
+        "id": "8jbM21moZcU",
+        "snippet": {
+            "publishedAt": "2019-07-10T22:23:33Z",
+            "channelId": "UCBu0KdNokE4MqdkacvH37_A",
+            "title": "Amber Alert: Search underway for missing Dallas toddler",
+            "description": "A search continues for a toddler after a relative was taken into custody and questioned in connection to the case Wednesday afternoon, police said.\r\n\r\nCedric Jackson Jr., 18-months-old, had recently been placed in the custody of his aunt, who called police Wednesday morning to report the toddler was missing, said Maj. Max Geron during a news conference.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/8jbM21moZcU/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/8jbM21moZcU/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/8jbM21moZcU/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/8jbM21moZcU/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "WFAA",
+            "tags": [
+                "crime",
+                "local",
+                "dallas-county",
+                "news"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "Amber Alert: Search underway for missing Dallas toddler",
+                "description": "A search continues for a toddler after a relative was taken into custody and questioned in connection to the case Wednesday afternoon, police said.\r\n\r\nCedric Jackson Jr., 18-months-old, had recently been placed in the custody of his aunt, who called police Wednesday morning to report the toddler was missing, said Maj. Max Geron during a news conference."
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT2M35S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "1499",
+            "likeCount": "20",
+            "favoriteCount": "0",
+            "commentCount": "8"
+        }
+    }
+]

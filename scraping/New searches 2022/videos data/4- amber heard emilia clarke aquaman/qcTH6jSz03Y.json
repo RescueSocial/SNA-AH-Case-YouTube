@@ -1,0 +1,60 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "KC2Wvk-4ZfXwEwty0llJSKVgR08",
+        "id": "qcTH6jSz03Y",
+        "snippet": {
+            "publishedAt": "2017-08-22T11:20:29Z",
+            "channelId": "UC1owMSl4kGEdgGY3wePTMng",
+            "title": "Aquaman Movie 2018 Teaser Trailer   Jason Momoa, Amber Heard Fan trailer",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/qcTH6jSz03Y/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/qcTH6jSz03Y/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/qcTH6jSz03Y/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Starforyou",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Aquaman Movie 2018 Teaser Trailer   Jason Momoa, Amber Heard Fan trailer",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT2M21S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "61",
+            "likeCount": "2",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

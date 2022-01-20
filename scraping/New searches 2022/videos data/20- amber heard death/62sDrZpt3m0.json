@@ -1,0 +1,80 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "gxcObqZM3739aH-Seb0lqaZWp_o",
+        "id": "62sDrZpt3m0",
+        "snippet": {
+            "publishedAt": "2020-07-07T18:00:30Z",
+            "channelId": "UCKdALw0BErtqmGI2AUtbbhg",
+            "title": "Missing Baraboo girl found dead; AMBER Alert canceled",
+            "description": "The 10-year-old Baraboo girl who was the subject of a statewide AMBER Alert has been found dead, police tell our sister station WMTV-TV in Madison.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/62sDrZpt3m0/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/62sDrZpt3m0/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/62sDrZpt3m0/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/62sDrZpt3m0/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/62sDrZpt3m0/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "TMJ4 News",
+            "tags": [
+                "Kodie Dutcher",
+                "AMBER alert",
+                "missing girl",
+                "baraboo missing girl",
+                "missing girl found dead",
+                "baraboo",
+                "baraboo AMBER alert"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Missing Baraboo girl found dead; AMBER Alert canceled",
+                "description": "The 10-year-old Baraboo girl who was the subject of a statewide AMBER Alert has been found dead, police tell our sister station WMTV-TV in Madison."
+            },
+            "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+            "duration": "PT22S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "6205",
+            "likeCount": "57",
+            "favoriteCount": "0",
+            "commentCount": "42"
+        }
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "OyvTQr1-QzgkYskOOx7Fh5NHxnU",
+        "id": "7V1rWBBxrTA",
+        "snippet": {
+            "publishedAt": "2020-10-30T04:00:01Z",
+            "channelId": "UCMeC1_0B_bnoyeqampk4QJA",
+            "title": "Amber's doll dancing got me vibin | Genshin Impact",
+            "description": "Genshin is what to do, genshin~\n\nYo kimi, dont forget to hit that like and subscribe hard, arigathanks !",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/7V1rWBBxrTA/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/7V1rWBBxrTA/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/7V1rWBBxrTA/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/7V1rWBBxrTA/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Pip Yourbae Ch.",
+            "tags": [
+                "video",
+                "sharing",
+                "camera phone",
+                "video phone",
+                "free",
+                "upload"
+            ],
+            "categoryId": "20",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber's doll dancing got me vibin | Genshin Impact",
+                "description": "Genshin is what to do, genshin~\n\nYo kimi, dont forget to hit that like and subscribe hard, arigathanks !"
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT33S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "unlisted",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "4004488",
+            "likeCount": "279789",
+            "favoriteCount": "0",
+            "commentCount": "3625"
+        }
+    }
+]

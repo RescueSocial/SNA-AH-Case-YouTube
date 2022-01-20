@@ -1,0 +1,103 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "YKWwTgJZo0vUdVI4ZgX1GqDV0l0",
+        "id": "ksSeFA76frw",
+        "snippet": {
+            "publishedAt": "2019-12-19T15:29:31Z",
+            "channelId": "UClSmWyVxFQvQhi2eOT-iBYw",
+            "title": "AMBER - A case study in folding Trp-Cage (advanced analysis and clustering)",
+            "description": "https://ambermd.org/tutorials/basic/tutorial3/index.htm\nquoted:\n   1) section1.htm - Building the Structure.\n    2) section2.htm - Creating the prmtop and inpcrd files.\n    3) section3.htm - Minimising the structure.\n    4) section4.htm - Heating the system up.\n    5) section5.htm - Production MD.\n    6) section6.htm - Analysing the Results\n\nthis codes doen not work, follow me\n\nhttp://archive.ambermd.org/201604/0291.html\n\nparm ../TC5b.prmtop\ntrajin ../equil_1-10.binpos\ntrajout trn.pdb multi",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/ksSeFA76frw/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/ksSeFA76frw/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/ksSeFA76frw/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/ksSeFA76frw/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/ksSeFA76frw/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Niransha Kumarachchi",
+            "tags": [
+                "AMBER Molecular Dynamic Program",
+                "amber",
+                "amber tutorials",
+                "molecular dynamic",
+                "computational chemisry",
+                "chemistry",
+                "computational",
+                "AMBER18",
+                "VMD \nmoleclar dynamics",
+                "MD simulations",
+                "MD with solvated poly(A)-poly(T)",
+                "periodic array",
+                "Minimization Stage",
+                "Holding the solute fixed",
+                "VMD",
+                "VMD and AMBER",
+                "Molecular Dynamics (heating)",
+                "Running MD in AMEBR",
+                "Potential",
+                "Kinetic and Total energy",
+                "Temperature",
+                "Pressure",
+                "Volume",
+                "Density",
+                "xmgrace",
+                "Analyzing the trajectory",
+                "Viewing the trajectory",
+                "xleap",
+                "sander"
+            ],
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "AMBER - A case study in folding Trp-Cage (advanced analysis and clustering)",
+                "description": "https://ambermd.org/tutorials/basic/tutorial3/index.htm\nquoted:\n   1) section1.htm - Building the Structure.\n    2) section2.htm - Creating the prmtop and inpcrd files.\n    3) section3.htm - Minimising the structure.\n    4) section4.htm - Heating the system up.\n    5) section5.htm - Production MD.\n    6) section6.htm - Analysing the Results\n\nthis codes doen not work, follow me\n\nhttp://archive.ambermd.org/201604/0291.html\n\nparm ../TC5b.prmtop\ntrajin ../equil_1-10.binpos\ntrajout trn.pdb multi"
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT2H40M38S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "180",
+            "likeCount": "3",
+            "favoriteCount": "0",
+            "commentCount": "1"
+        }
+    }
+]

@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "H2vQCRHhsZWHjMkOt7KPgdGX5Kg",
+        "id": "o92C1UMuGho",
+        "snippet": {
+            "publishedAt": "2020-10-06T17:39:55Z",
+            "channelId": "UC_qwAW7TsK2xiHnzlK5HPNg",
+            "title": "2020 Staying Healthy at School with Nurse Amber",
+            "description": "School video about coronavirus.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/o92C1UMuGho/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/o92C1UMuGho/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/o92C1UMuGho/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/o92C1UMuGho/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/o92C1UMuGho/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "jandjil",
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "2020 Staying Healthy at School with Nurse Amber",
+                "description": "School video about coronavirus."
+            },
+            "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+            "duration": "PT5M37S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": true
+        },
+        "statistics": {
+            "viewCount": "106",
+            "likeCount": "5",
+            "favoriteCount": "0"
+        }
+    }
+]

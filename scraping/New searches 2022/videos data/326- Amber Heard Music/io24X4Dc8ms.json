@@ -1,0 +1,67 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "rbfvPpvmKQ2eYJ5nKXss8E0Epoo",
+        "id": "io24X4Dc8ms",
+        "snippet": {
+            "publishedAt": "2017-02-26T13:16:33Z",
+            "channelId": "UCbp3fkS6cxI1aekmIPIDCGg",
+            "title": "Amber Heard singing Sorry by Justin Bieber",
+            "description": "http://amberheardbrasil.com/",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/io24X4Dc8ms/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/io24X4Dc8ms/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/io24X4Dc8ms/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Amber Heard",
+            "tags": [
+                "amber heard",
+                "justin bieber",
+                "sorry justin bieber",
+                "amber heard justin bieber",
+                "amber heard sorry justin bieber"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Heard singing Sorry by Justin Bieber",
+                "description": "http://amberheardbrasil.com/"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT12S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "2899",
+            "likeCount": "35",
+            "favoriteCount": "0",
+            "commentCount": "15"
+        }
+    }
+]

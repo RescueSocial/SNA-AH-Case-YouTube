@@ -1,0 +1,76 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "QXl1iYFMWhr95NZhyT9xjt4STKk",
+        "id": "DOzZeX7OavQ",
+        "snippet": {
+            "publishedAt": "2016-04-18T06:09:35Z",
+            "channelId": "UCGD6cDdbDzEwMrI4mB32L3w",
+            "title": "Johnny Depp and Amber Heard record Australian biosecurity video",
+            "description": "Johnny Depp and Amber Heard record Australian biosecurity video",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/DOzZeX7OavQ/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/DOzZeX7OavQ/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/DOzZeX7OavQ/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/DOzZeX7OavQ/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "World news",
+            "tags": [
+                "Johnny Depp",
+                "Amber",
+                "Heard record",
+                "Amber Heard",
+                "Australian",
+                "Australian biosecurity",
+                "Australian biosecurity video",
+                "Johnny",
+                "Johnny Depp and Amber"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Johnny Depp and Amber Heard record Australian biosecurity video",
+                "description": "Johnny Depp and Amber Heard record Australian biosecurity video"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT19S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "79",
+            "likeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

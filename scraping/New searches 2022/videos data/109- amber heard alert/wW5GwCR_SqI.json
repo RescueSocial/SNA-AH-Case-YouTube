@@ -1,0 +1,76 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "M0BUF_PsPYP3L7imakLOm196krs",
+        "id": "wW5GwCR_SqI",
+        "snippet": {
+            "publishedAt": "2021-10-16T23:15:20Z",
+            "channelId": "UCKdALw0BErtqmGI2AUtbbhg",
+            "title": "AMBER Alert issued for missing 3-year-old",
+            "description": "MPD is searching for an endangered missing 3-year-old.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/wW5GwCR_SqI/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/wW5GwCR_SqI/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/wW5GwCR_SqI/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/wW5GwCR_SqI/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/wW5GwCR_SqI/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "TMJ4 News",
+            "tags": [
+                "AMBER alert",
+                "Milwaukee",
+                "missing child"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "AMBER Alert issued for missing 3-year-old",
+                "description": "MPD is searching for an endangered missing 3-year-old."
+            },
+            "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+            "duration": "PT2M6S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "3076",
+            "likeCount": "76",
+            "favoriteCount": "0",
+            "commentCount": "26"
+        }
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "W2bmUn3o0N_-bPYD7-LHpQkgiLc",
+        "id": "GBccNipKCek",
+        "snippet": {
+            "publishedAt": "2018-10-26T19:58:57Z",
+            "channelId": "UCZhlN9Nwq0e1vS_jbd3J7QQ",
+            "title": "Amber Heard speaking Spanish / hablando espa\u00f1ol 2018",
+            "description": "Amber Heard had a meeting at the UN and she spoke some nice and very fluent Spanish.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/GBccNipKCek/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/GBccNipKCek/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/GBccNipKCek/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/GBccNipKCek/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Sebastian J.",
+            "categoryId": "20",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Heard speaking Spanish / hablando espa\u00f1ol 2018",
+                "description": "Amber Heard had a meeting at the UN and she spoke some nice and very fluent Spanish."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT15S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "6380",
+            "likeCount": "53",
+            "favoriteCount": "0",
+            "commentCount": "6"
+        }
+    }
+]

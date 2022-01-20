@@ -1,0 +1,81 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "4_CgvpJCoDXZ8UVvINL2DIDwQGQ",
+        "id": "0LcO6WHU2os",
+        "snippet": {
+            "publishedAt": "2021-01-13T23:30:37Z",
+            "channelId": "UCxMXl9L79X1Mq_4iwCOyPFg",
+            "title": "Arlington Police Hoping New DNA Technology Can Help Find Suspect In Amber Hagerman Case",
+            "description": "Investigators in Arlington are hopeful new DNA technology could lead to a break in the case that inspired the Amber Alert.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/0LcO6WHU2os/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/0LcO6WHU2os/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/0LcO6WHU2os/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/0LcO6WHU2os/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/0LcO6WHU2os/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "CBSDFW",
+            "tags": [
+                "CBS 11 News Evening",
+                "Amber Hagerman",
+                "Abduction",
+                "Murder",
+                "DNA",
+                "Amber Alert",
+                "Arlington"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "Arlington Police Hoping New DNA Technology Can Help Find Suspect In Amber Hagerman Case",
+                "description": "Investigators in Arlington are hopeful new DNA technology could lead to a break in the case that inspired the Amber Alert."
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT2M7S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "697",
+            "likeCount": "12",
+            "favoriteCount": "0",
+            "commentCount": "4"
+        }
+    }
+]

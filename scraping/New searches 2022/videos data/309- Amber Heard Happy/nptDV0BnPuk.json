@@ -1,0 +1,60 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "omSLd-FJ5bcrhSc2WLfNAe7U24Q",
+        "id": "nptDV0BnPuk",
+        "snippet": {
+            "publishedAt": "2021-08-10T04:36:39Z",
+            "channelId": "UCymNn6hl3g6sbsHGVGrnbEA",
+            "title": "Happy Birthday Outrider Amber \u2764",
+            "description": "#Amber #GenshinImpact\n\nMusic: Post Script (Instrumental) \nProduced By: The Hoshizora Project",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/nptDV0BnPuk/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/nptDV0BnPuk/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/nptDV0BnPuk/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "NightSky\u591c\u7a7a",
+            "categoryId": "20",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Happy Birthday Outrider Amber \u2764",
+                "description": "#Amber #GenshinImpact\n\nMusic: Post Script (Instrumental) \nProduced By: The Hoshizora Project"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT54S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "30",
+            "likeCount": "7",
+            "favoriteCount": "0",
+            "commentCount": "2"
+        }
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "wlBmCXHSd5EoVC9UF4pHqe6YQKQ",
+        "id": "Z1HDWp829qI",
+        "snippet": {
+            "publishedAt": "2014-03-04T05:25:11Z",
+            "channelId": "UCRmC8gssQkYIW4-c8ZuLMiw",
+            "title": "SoCal Gets Fit ~ Top 10 Elite Coach: Amber Scott",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/Z1HDWp829qI/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/Z1HDWp829qI/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/Z1HDWp829qI/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/Z1HDWp829qI/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Creating a Destiny",
+            "categoryId": "26",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "SoCal Gets Fit ~ Top 10 Elite Coach: Amber Scott",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT11M6S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "199",
+            "likeCount": "2",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

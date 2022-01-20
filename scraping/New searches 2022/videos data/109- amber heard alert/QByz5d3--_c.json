@@ -1,0 +1,71 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "4KD6UQsBnx5W2mkGcgsISZpIRjY",
+        "id": "QByz5d3--_c",
+        "snippet": {
+            "publishedAt": "2019-04-06T03:25:04Z",
+            "channelId": "UCXwRxm0zS0jBNTMOVI6xZJw",
+            "title": "Mom fights to change Amber Alert law in Texas",
+            "description": "A League City mother is honoring her daughter\u2019s life by fighting for legislation in Texas that would expand Amber Alert to include adults.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/QByz5d3--_c/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/QByz5d3--_c/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/QByz5d3--_c/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/QByz5d3--_c/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "KHOU 11",
+            "tags": [
+                "local",
+                "news"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "Mom fights to change Amber Alert law in Texas",
+                "description": "A League City mother is honoring her daughter\u2019s life by fighting for legislation in Texas that would expand Amber Alert to include adults."
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT2M54S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "738",
+            "likeCount": "15",
+            "favoriteCount": "0",
+            "commentCount": "3"
+        }
+    }
+]

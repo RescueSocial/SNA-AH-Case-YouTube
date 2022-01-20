@@ -1,0 +1,75 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "g7kgo8nl9r-H95khEeJm37-1Dkw",
+        "id": "d7rLqEw5WKE",
+        "snippet": {
+            "publishedAt": "2020-01-31T08:06:53Z",
+            "channelId": "UC5vssNd1Pcz5zDbFlntlM9Q",
+            "title": "Amber Rose - Fame (Official Video) ft. Wiz Khalifa",
+            "description": "Music Video \"Fame\" featuring. Wiz Khalifa (C) 2012 Amber Rose.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/d7rLqEw5WKE/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/d7rLqEw5WKE/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/d7rLqEw5WKE/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/d7rLqEw5WKE/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/d7rLqEw5WKE/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Amber Rose Brasil",
+            "tags": [
+                "Wiz Khalifa",
+                "Amber Rose",
+                "Fame"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Rose - Fame (Official Video) ft. Wiz Khalifa",
+                "description": "Music Video \"Fame\" featuring. Wiz Khalifa (C) 2012 Amber Rose."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT3M14S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "50676",
+            "likeCount": "584",
+            "favoriteCount": "0",
+            "commentCount": "36"
+        }
+    }
+]

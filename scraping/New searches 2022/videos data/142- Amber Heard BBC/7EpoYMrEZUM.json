@@ -1,0 +1,78 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "tzPEwU5twuyveihkLgsz-pWsq2s",
+        "id": "7EpoYMrEZUM",
+        "snippet": {
+            "publishedAt": "2009-04-06T16:16:08Z",
+            "channelId": "UCNzycSH9qhhfwRzRk0rPaQw",
+            "title": "The Amber Herd in session on The Beat at the BBC",
+            "description": "The Amber Herd in  session / conversation on The Beat .\r\n\r\nAs heard on BBC Radios  Nottingham, Leicester, Derby and Lincolnshire in March 2009.\r\n\r\nVisuals: M Holyk\r\nSound: D Jackson",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/7EpoYMrEZUM/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/7EpoYMrEZUM/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/7EpoYMrEZUM/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/7EpoYMrEZUM/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/7EpoYMrEZUM/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "beatvisuals",
+            "tags": [
+                "Amber Herd",
+                "The Beat",
+                "BBC Radio Nottingham",
+                "BBC Radio Leicester",
+                "BBC Radio Derby",
+                "BBC Radio Lincolnshire"
+            ],
+            "categoryId": "10",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "The Amber Herd in session on The Beat at the BBC",
+                "description": "The Amber Herd in  session / conversation on The Beat .\r\n\r\nAs heard on BBC Radios  Nottingham, Leicester, Derby and Lincolnshire in March 2009.\r\n\r\nVisuals: M Holyk\r\nSound: D Jackson"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT8M33S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": false,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "18312",
+            "likeCount": "11",
+            "favoriteCount": "0",
+            "commentCount": "2"
+        }
+    }
+]

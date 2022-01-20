@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "n4lfGuBepcm9JGbib0ihzVZDqsA",
+        "id": "_05stkRYK-o",
+        "snippet": {
+            "publishedAt": "2017-11-18T16:15:52Z",
+            "channelId": "UCbp3fkS6cxI1aekmIPIDCGg",
+            "title": "Amber Heard for GQ Australia - Behind the scenes",
+            "description": "https://amberheardbrasil.com/",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/_05stkRYK-o/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/_05stkRYK-o/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/_05stkRYK-o/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/_05stkRYK-o/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Amber Heard",
+            "tags": [
+                "amber heard",
+                "amber heard gq australia",
+                "amber heard photoshoot"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Heard for GQ Australia - Behind the scenes",
+                "description": "https://amberheardbrasil.com/"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT9S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "2965",
+            "likeCount": "28",
+            "favoriteCount": "0",
+            "commentCount": "7"
+        }
+    }
+]

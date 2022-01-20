@@ -1,0 +1,81 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "2ccpLA4O97V4geOveJWx2KEhgG8",
+        "id": "Tqs6rvnDvcs",
+        "snippet": {
+            "publishedAt": "2015-09-15T21:43:44Z",
+            "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+            "title": "Entertainment City video: Amber Heard creates controversy at TIFF",
+            "description": "Adam Wylde takes a look at what Amber Heard was caught on camera telling her mother during at TIFF.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/Tqs6rvnDvcs/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/Tqs6rvnDvcs/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/Tqs6rvnDvcs/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/Tqs6rvnDvcs/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/Tqs6rvnDvcs/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "CityNews",
+            "tags": [
+                "4487387026001",
+                "region=torontocitynews",
+                "region=toronto",
+                "SECTION=Entertainment",
+                "region=toronto680news",
+                "src=citynews",
+                "citynewsyoutube",
+                "show=citynews",
+                "region=national"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Entertainment City video: Amber Heard creates controversy at TIFF",
+                "description": "Adam Wylde takes a look at what Amber Heard was caught on camera telling her mother during at TIFF."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT1M25S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "158",
+            "likeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

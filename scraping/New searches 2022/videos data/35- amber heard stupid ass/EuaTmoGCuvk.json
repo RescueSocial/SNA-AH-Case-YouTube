@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "S9kpIBN8ndUge_gQtCFR1kwNEzU",
+        "id": "EuaTmoGCuvk",
+        "snippet": {
+            "publishedAt": "2021-03-06T15:24:51Z",
+            "channelId": "UCv1i-zkl33GeWaq4BOk6S4w",
+            "title": "Amber On The Rocks- Crown Royal and Nicotine Patches",
+            "description": "Come have a drink with me while I try out Nicotine Patches and Crown Royal Apple",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/EuaTmoGCuvk/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/EuaTmoGCuvk/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/EuaTmoGCuvk/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/EuaTmoGCuvk/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/EuaTmoGCuvk/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Amber Nelson",
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber On The Rocks- Crown Royal and Nicotine Patches",
+                "description": "Come have a drink with me while I try out Nicotine Patches and Crown Royal Apple"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT1H20M13S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": false,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "195",
+            "likeCount": "14",
+            "favoriteCount": "0",
+            "commentCount": "3"
+        }
+    }
+]

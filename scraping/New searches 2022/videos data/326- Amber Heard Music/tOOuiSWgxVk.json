@@ -1,0 +1,88 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "J98TiOPhRAp3T0pYjAXWqujfwFk",
+        "id": "tOOuiSWgxVk",
+        "snippet": {
+            "publishedAt": "2012-09-28T14:00:13Z",
+            "channelId": "UCPCiL5ikTCDlJVjXgEMg8lw",
+            "title": "Amber Lane - Don't You Know",
+            "description": "Artist: Amber Lane\nSong: Don't You Know\nAlbum: 9 Grams Of The Best Shit You've Already Heard",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/tOOuiSWgxVk/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/tOOuiSWgxVk/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/tOOuiSWgxVk/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/tOOuiSWgxVk/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "FocalPointPremiere",
+            "tags": [
+                "music",
+                "amber",
+                "lane",
+                "rock",
+                "queens",
+                "of",
+                "the",
+                "stone",
+                "age",
+                "Clark",
+                "Use",
+                "Kings",
+                "Live",
+                "Rock Music (Musical Genre)",
+                "Somebody",
+                "Live (band)",
+                "Superman",
+                "Band",
+                "Broadcast",
+                "Punk",
+                "Alternative"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Lane - Don't You Know",
+                "description": "Artist: Amber Lane\nSong: Don't You Know\nAlbum: 9 Grams Of The Best Shit You've Already Heard"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT4M41S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "399",
+            "likeCount": "1",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

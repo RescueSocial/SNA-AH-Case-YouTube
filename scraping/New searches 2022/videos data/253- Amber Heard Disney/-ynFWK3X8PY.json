@@ -1,0 +1,76 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "UvIe13upho2z1CNgi4b2BBXWWJc",
+        "id": "-ynFWK3X8PY",
+        "snippet": {
+            "publishedAt": "2013-11-27T01:08:34Z",
+            "channelId": "UCIVCr-hn4qvUbwZk_he4T6Q",
+            "title": "Derek Hough & Amber Riley dancing Freestyle on DWTS 11 25 13",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/-ynFWK3X8PY/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/-ynFWK3X8PY/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/-ynFWK3X8PY/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/-ynFWK3X8PY/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/-ynFWK3X8PY/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "fakeacctemail",
+            "tags": [
+                "Dance",
+                "Dancing",
+                "Derek Hough (Professional Dancer)",
+                "Amber Riley (TV Actor)"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Derek Hough & Amber Riley dancing Freestyle on DWTS 11 25 13",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT1M58S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "766146",
+            "likeCount": "5936",
+            "favoriteCount": "0",
+            "commentCount": "189"
+        }
+    }
+]

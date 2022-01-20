@@ -1,0 +1,78 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "DL1JE6Kdajot3CPscYCD2pJiwiw",
+        "id": "Bde2JxVj4FI",
+        "snippet": {
+            "publishedAt": "2021-10-08T01:56:19Z",
+            "channelId": "UCTuk7-hi3h7_jWl42f8iclQ",
+            "title": "Us - James Bay (Cover by Amber Heard)",
+            "description": "This is my cover of \u201cUs\u201d by James Bay. Hope you enjoy!",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/Bde2JxVj4FI/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/Bde2JxVj4FI/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/Bde2JxVj4FI/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Amber Heard",
+            "tags": [
+                "cover",
+                "song",
+                "sing",
+                "singer",
+                "singing",
+                "self taught",
+                "cover song",
+                "james bay",
+                "wow voices",
+                "voice",
+                "hot voices",
+                "trending",
+                "talent",
+                "talented",
+                "discover talent"
+            ],
+            "categoryId": "19",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Us - James Bay (Cover by Amber Heard)",
+                "description": "This is my cover of \u201cUs\u201d by James Bay. Hope you enjoy!"
+            },
+            "defaultAudioLanguage": "en-CA"
+        },
+        "contentDetails": {
+            "duration": "PT41S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "36",
+            "likeCount": "3",
+            "favoriteCount": "0",
+            "commentCount": "1"
+        }
+    }
+]

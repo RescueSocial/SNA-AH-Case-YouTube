@@ -1,0 +1,74 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "mGMpEFHhS0pCalPFIWjZXbMCikk",
+        "id": "7r8gZcRd2LA",
+        "snippet": {
+            "publishedAt": "2020-04-09T21:15:32Z",
+            "channelId": "UC1dVGItBqV4w-4xQHoX1UDg",
+            "title": "MIssing Durham 2-year-old safe, AMBER Alert canceled",
+            "description": "MIssing Durham 2-year-old safe, AMBER Alert canceled",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/7r8gZcRd2LA/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/7r8gZcRd2LA/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/7r8gZcRd2LA/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/7r8gZcRd2LA/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/7r8gZcRd2LA/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "CBS 17",
+            "tags": [
+                "video"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "MIssing Durham 2-year-old safe, AMBER Alert canceled",
+                "description": "MIssing Durham 2-year-old safe, AMBER Alert canceled"
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT2M3S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "943",
+            "likeCount": "8",
+            "favoriteCount": "0",
+            "commentCount": "1"
+        }
+    }
+]

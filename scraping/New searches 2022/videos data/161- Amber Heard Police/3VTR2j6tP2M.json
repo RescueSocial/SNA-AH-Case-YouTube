@@ -1,0 +1,74 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "HUG_8LF2iX4wruXpGY45Yu0SQds",
+        "id": "3VTR2j6tP2M",
+        "snippet": {
+            "publishedAt": "2019-10-03T03:17:10Z",
+            "channelId": "UCBu0KdNokE4MqdkacvH37_A",
+            "title": "After Amber Guyger sentencing, what's next for Dallas Police Department?",
+            "description": "Dallas Police Chief U. Ren\u00e9e Hall has said that the department will launch an internal investigation into the night Botham Jean died.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/3VTR2j6tP2M/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/3VTR2j6tP2M/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/3VTR2j6tP2M/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/3VTR2j6tP2M/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "WFAA",
+            "tags": [
+                "botham-jean",
+                "special-reports",
+                "dallas-county",
+                "local",
+                "news"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "After Amber Guyger sentencing, what's next for Dallas Police Department?",
+                "description": "Dallas Police Chief U. Ren\u00e9e Hall has said that the department will launch an internal investigation into the night Botham Jean died."
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT2M49S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "39427",
+            "likeCount": "582",
+            "favoriteCount": "0",
+            "commentCount": "249"
+        }
+    }
+]

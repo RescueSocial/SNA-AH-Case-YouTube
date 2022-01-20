@@ -1,0 +1,100 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "c133DutN-oMbZf6N4r4wd_ZUAdM",
+        "id": "DuoWuhT9KcQ",
+        "snippet": {
+            "publishedAt": "2021-07-27T21:48:06Z",
+            "channelId": "UCzd8R3vkpllD4CJn_5g5sKg",
+            "title": "Tanzu Tuesdays 62 - Monitoring Avail. w/Error Budget Burn Rate on Tanzu Observability w/Amber Salome",
+            "description": "https://tanzu.tv/tt/62\n\nStarting in April of 2020 my team was tasked with managing Tanzu Application Service on multiple foundations for a client. Early on it was a priority to establish a strong SRE practice around managing the platform. This talk discusses how we defined key metrics for monitoring availability, custom solutions for populating availability data into an observability platform (Tanzu Observability by Wavefront), dashboard creating, and alerting practices. We discuss in depth the benefits of using a burn rate when monitoring availability error budget consumption, and how this strategy allows for more sensitive alerting and limiting error budget consumption. This presentation will demonstrate how the cultivation of availability charts and error budget burn rate alerting creates an environment where the data starts working for your team. We emphasize the intentional use of availability error budgeting for backlog prioritization and embracing risk when managing a platform.  \n\n---\nAmber Salome is a Senior Solutions Architect for VMware Tanzu Labs Platform Services, starting in 2019 originally at Pivotal. She is passionate about working with customers on Tanzu platform enablement, and has a strong SRE focus in her work. She is based out of Chicago and spends her free time riding her bike by the lake shore and learning photography.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/DuoWuhT9KcQ/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/DuoWuhT9KcQ/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/DuoWuhT9KcQ/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "VMware Tanzu",
+            "tags": [
+                "agile development",
+                "pivotal labs",
+                "cloud native",
+                "big data",
+                "data science",
+                "VMware",
+                "Tanzu",
+                "Application Modernization",
+                "App Modernization",
+                "software development",
+                "DevOps",
+                "build",
+                "run",
+                "manage",
+                "apps",
+                "kubernetes",
+                "devops tools",
+                "devops framework",
+                "multi-cloud",
+                "developer",
+                "operations",
+                "infrastructure",
+                "cloud",
+                "container management",
+                "container security",
+                "developer productivity",
+                "open source",
+                "spring",
+                "spring boot",
+                "application service",
+                "coding",
+                "code",
+                "Tanzu Mission Control",
+                "vSphere",
+                "cluster",
+                "multi-cluster",
+                "microservices"
+            ],
+            "categoryId": "28",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Tanzu Tuesdays 62 - Monitoring Avail. w/Error Budget Burn Rate on Tanzu Observability w/Amber Salome",
+                "description": "https://tanzu.tv/tt/62\n\nStarting in April of 2020 my team was tasked with managing Tanzu Application Service on multiple foundations for a client. Early on it was a priority to establish a strong SRE practice around managing the platform. This talk discusses how we defined key metrics for monitoring availability, custom solutions for populating availability data into an observability platform (Tanzu Observability by Wavefront), dashboard creating, and alerting practices. We discuss in depth the benefits of using a burn rate when monitoring availability error budget consumption, and how this strategy allows for more sensitive alerting and limiting error budget consumption. This presentation will demonstrate how the cultivation of availability charts and error budget burn rate alerting creates an environment where the data starts working for your team. We emphasize the intentional use of availability error budgeting for backlog prioritization and embracing risk when managing a platform.  \n\n---\nAmber Salome is a Senior Solutions Architect for VMware Tanzu Labs Platform Services, starting in 2019 originally at Pivotal. She is passionate about working with customers on Tanzu platform enablement, and has a strong SRE focus in her work. She is based out of Chicago and spends her free time riding her bike by the lake shore and learning photography."
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT59M51S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "167",
+            "likeCount": "3",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

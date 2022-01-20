@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "CEbe0wnusdL5hg0U5Y9U5dpEHwY",
+        "id": "VZnuiQZxopo",
+        "snippet": {
+            "publishedAt": "2017-06-27T15:28:29Z",
+            "channelId": "UCpqiQ8q14kT1sdlZ0gD0bGg",
+            "title": "'I Do...Until I Don't' Exclusive Trailer",
+            "description": "OFFICIAL trailer of \"I Do... Until I Don't\" with #AmberHeard, #LakeBell, #EdHelms in theaters September 1, 2017! #IDOUNTILIDONT #IDUID",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/VZnuiQZxopo/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/VZnuiQZxopo/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/VZnuiQZxopo/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/VZnuiQZxopo/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/VZnuiQZxopo/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Amber Heard Italia",
+            "categoryId": "1",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "'I Do...Until I Don't' Exclusive Trailer",
+                "description": "OFFICIAL trailer of \"I Do... Until I Don't\" with #AmberHeard, #LakeBell, #EdHelms in theaters September 1, 2017! #IDOUNTILIDONT #IDUID"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT2M12S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "186",
+            "likeCount": "2",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

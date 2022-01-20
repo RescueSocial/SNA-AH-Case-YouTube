@@ -1,0 +1,66 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "_ALEiWDUjaBGUhMohLZLhEmvd-I",
+        "id": "ChJ7mvn3Ly4",
+        "snippet": {
+            "publishedAt": "2018-10-12T09:45:00Z",
+            "channelId": "UCJuWldBzwEQH5Q37dayy7Sw",
+            "title": "'Aquaman' Official Extended Trailer (2018) | Jason Momoa, Amber Heard",
+            "description": "Aquaman finds himself caught between a surface world that ravages the sea and the underwater Atlanteans who are ready to revolt.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/ChJ7mvn3Ly4/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/ChJ7mvn3Ly4/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/ChJ7mvn3Ly4/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Happy Entertainment",
+            "tags": [
+                "HOLLYWOOD MOVIES",
+                "Aquaman official trailer",
+                "Peter Safran",
+                "DC Entertainment Inc"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "'Aquaman' Official Extended Trailer (2018) | Jason Momoa, Amber Heard",
+                "description": "Aquaman finds himself caught between a surface world that ravages the sea and the underwater Atlanteans who are ready to revolt."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT5M25S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "12",
+            "likeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "kKZ_SQE1agQEUjKj26sOQwx4-RQ",
+        "id": "2MTfW4oBRLA",
+        "snippet": {
+            "publishedAt": "2015-03-19T18:57:48Z",
+            "channelId": "UCD1x4oPxtCJKJCwh0bkyr0A",
+            "title": "F(x) Amber's Hidden Camera [with Eric Nam] - English Subs",
+            "description": "Subtitles might not be accurate as I am self taught.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/2MTfW4oBRLA/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/2MTfW4oBRLA/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/2MTfW4oBRLA/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/2MTfW4oBRLA/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/2MTfW4oBRLA/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Nuteeya",
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "F(x) Amber's Hidden Camera [with Eric Nam] - English Subs",
+                "description": "Subtitles might not be accurate as I am self taught."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT1M53S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "700709",
+            "likeCount": "14116",
+            "favoriteCount": "0",
+            "commentCount": "422"
+        }
+    }
+]

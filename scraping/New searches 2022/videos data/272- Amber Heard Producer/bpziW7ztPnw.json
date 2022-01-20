@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "LaaMHlz_b7jJN_uH-bUd1wUkdPE",
+        "id": "bpziW7ztPnw",
+        "snippet": {
+            "publishedAt": "2014-05-11T21:22:02Z",
+            "channelId": "UCi3A92HsGQ0kQurwLDU1reQ",
+            "title": "\u0414\u0436\u043e\u043d\u043d\u0438 \u0414\u0435\u043f\u043f(Johnny Depp) \u0438 \u042d\u043c\u0431\u0435\u0440 \u0425\u0435\u0440\u0434(Amber Heard)",
+            "description": "\u0421\u043f\u0430\u0441\u0438\u0431\u043e \u0437\u0430 \u043b\u0430\u0439\u043a&\u0440\u0435\u043f\u043e\u0441\u0442&\u043f\u043e\u0434\u043f\u0438\u0441\u043a\u0443! \n\u041f\u043e\u0434\u043f\u0438\u0448\u0438\u0441\u044c \u043d\u0430 \u043c\u043e\u0439 \u043a\u0430\u043d\u0430\u043b,\u0435\u0441\u043b\u0438 \u0442\u0432\u043e\u0435 \u0441\u0435\u0440\u0434\u0446\u0435 \u0432\u0441\u043a\u043e\u043b\u044b\u0445\u043d\u0443\u043b\u043e\u0441\u044c,\u0430 \u0442\u0432\u043e\u0438 \u0447\u0443\u0432\u0441\u0442\u0432\u0430 \u0437\u0430\u0438\u0433\u0440\u0430\u043b\u0438 \u043d\u043e\u0432\u044b\u043c\u0438 \u043a\u0440\u0430\u0441\u043a\u0430\u043c\u0438!",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/bpziW7ztPnw/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/bpziW7ztPnw/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/bpziW7ztPnw/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Julianna \u042e\u043b\u0438\u0430\u043d\u043d\u0430",
+            "tags": [
+                "Amber Heard (TV Actor)",
+                "Johnny Depp (Record Producer)",
+                "Amber Heard (Celebrity)",
+                "Johnny Depp (Celebrity)"
+            ],
+            "categoryId": "1",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "\u0414\u0436\u043e\u043d\u043d\u0438 \u0414\u0435\u043f\u043f(Johnny Depp) \u0438 \u042d\u043c\u0431\u0435\u0440 \u0425\u0435\u0440\u0434(Amber Heard)",
+                "description": "\u0421\u043f\u0430\u0441\u0438\u0431\u043e \u0437\u0430 \u043b\u0430\u0439\u043a&\u0440\u0435\u043f\u043e\u0441\u0442&\u043f\u043e\u0434\u043f\u0438\u0441\u043a\u0443! \n\u041f\u043e\u0434\u043f\u0438\u0448\u0438\u0441\u044c \u043d\u0430 \u043c\u043e\u0439 \u043a\u0430\u043d\u0430\u043b,\u0435\u0441\u043b\u0438 \u0442\u0432\u043e\u0435 \u0441\u0435\u0440\u0434\u0446\u0435 \u0432\u0441\u043a\u043e\u043b\u044b\u0445\u043d\u0443\u043b\u043e\u0441\u044c,\u0430 \u0442\u0432\u043e\u0438 \u0447\u0443\u0432\u0441\u0442\u0432\u0430 \u0437\u0430\u0438\u0433\u0440\u0430\u043b\u0438 \u043d\u043e\u0432\u044b\u043c\u0438 \u043a\u0440\u0430\u0441\u043a\u0430\u043c\u0438!"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT4M12S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "regionRestriction": {
+                "blocked": [
+                    "BR",
+                    "DE"
+                ]
+            },
+            "contentRating": {
+                "ytRating": "ytAgeRestricted"
+            },
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": false,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "5726747",
+            "favoriteCount": "0",
+            "commentCount": "58"
+        }
+    }
+]

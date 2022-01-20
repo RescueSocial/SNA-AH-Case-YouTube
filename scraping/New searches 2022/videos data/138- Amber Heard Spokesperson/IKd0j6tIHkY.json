@@ -1,0 +1,75 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "yYXj4sD8eQVYcZ0kh9S70yYo00o",
+        "id": "IKd0j6tIHkY",
+        "snippet": {
+            "publishedAt": "2019-07-24T18:58:50Z",
+            "channelId": "UCpqiQ8q14kT1sdlZ0gD0bGg",
+            "title": "Amber Heard, Elle Fanning & Aja Naomi King for L'Or\u00e9al Paris True Match (2019)",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/IKd0j6tIHkY/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/IKd0j6tIHkY/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/IKd0j6tIHkY/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/IKd0j6tIHkY/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/IKd0j6tIHkY/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Amber Heard Italia",
+            "tags": [
+                "amber heard",
+                "l'oreal paris",
+                "true match"
+            ],
+            "categoryId": "1",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Heard, Elle Fanning & Aja Naomi King for L'Or\u00e9al Paris True Match (2019)",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT31S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "2642",
+            "likeCount": "14",
+            "favoriteCount": "0",
+            "commentCount": "3"
+        }
+    }
+]

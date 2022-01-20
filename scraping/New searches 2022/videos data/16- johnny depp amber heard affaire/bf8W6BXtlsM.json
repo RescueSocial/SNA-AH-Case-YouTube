@@ -1,0 +1,75 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "GcP_1xXVbNcGAX_x2ua9cf85Jlk",
+        "id": "bf8W6BXtlsM",
+        "snippet": {
+            "publishedAt": "2014-01-28T12:14:11Z",
+            "channelId": "UC51BF1GF4A8rYupf_OzsYsQ",
+            "title": "Johnny Depp ar NAMM consert supporting by Amber Heard ( HD )",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/bf8W6BXtlsM/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/bf8W6BXtlsM/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/bf8W6BXtlsM/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/bf8W6BXtlsM/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/bf8W6BXtlsM/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "JohnnyDeppRussia",
+            "tags": [
+                "Johnny Depp",
+                "Amber Heard",
+                "HAMM"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Johnny Depp ar NAMM consert supporting by Amber Heard ( HD )",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT2M26S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "8977",
+            "likeCount": "104",
+            "favoriteCount": "0",
+            "commentCount": "10"
+        }
+    }
+]

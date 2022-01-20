@@ -1,0 +1,65 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "YgzfD_9BcNwt29vFuxr9EiwRB6g",
+        "id": "PTvdg7AZ5EM",
+        "snippet": {
+            "publishedAt": "2016-01-24T10:45:21Z",
+            "channelId": "UC0pjXCqioWEqTFXCSmsp77Q",
+            "title": "Boot Tread Amber Ale",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/PTvdg7AZ5EM/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/PTvdg7AZ5EM/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/PTvdg7AZ5EM/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/PTvdg7AZ5EM/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "1920 Beer Baron",
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Boot Tread Amber Ale",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT4M20S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": false,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "599",
+            "likeCount": "7",
+            "favoriteCount": "0",
+            "commentCount": "3"
+        }
+    }
+]

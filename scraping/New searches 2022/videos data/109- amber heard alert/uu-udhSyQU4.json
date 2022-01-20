@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "iRP64hnjWDGY7sD-6Dt_apKhUTU",
+        "id": "uu-udhSyQU4",
+        "snippet": {
+            "publishedAt": "2020-02-10T23:16:11Z",
+            "channelId": "UCBu0KdNokE4MqdkacvH37_A",
+            "title": "2 missing children found alive after Amber Alert issued in Dallas, police say",
+            "description": "The suspect died at the hospital Monday after suffering a self-inflicted gunshot wound.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/uu-udhSyQU4/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/uu-udhSyQU4/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/uu-udhSyQU4/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/uu-udhSyQU4/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "WFAA",
+            "tags": [
+                "local",
+                "dallas-county",
+                "crime",
+                "news"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "2 missing children found alive after Amber Alert issued in Dallas, police say",
+                "description": "The suspect died at the hospital Monday after suffering a self-inflicted gunshot wound."
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT2M51S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "3840",
+            "likeCount": "57",
+            "favoriteCount": "0",
+            "commentCount": "3"
+        }
+    }
+]

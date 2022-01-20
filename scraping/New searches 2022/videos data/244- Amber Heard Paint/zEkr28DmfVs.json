@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "YogcYYYCbpI9zc7TGyWvyeYCiZ4",
+        "id": "zEkr28DmfVs",
+        "snippet": {
+            "publishedAt": "2018-05-21T06:41:11Z",
+            "channelId": "UC7ryQpXazV_YX5UbsrJrB9Q",
+            "title": "Amber in Valentino",
+            "description": "Amber Heard at Cannes 2018, wearing a floral gown from Maison Valentino's FW2018 Collection.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/zEkr28DmfVs/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/zEkr28DmfVs/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/zEkr28DmfVs/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/zEkr28DmfVs/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/zEkr28DmfVs/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Sandra Hsu",
+            "categoryId": "26",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber in Valentino",
+                "description": "Amber Heard at Cannes 2018, wearing a floral gown from Maison Valentino's FW2018 Collection."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT2M39S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "29",
+            "likeCount": "5",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

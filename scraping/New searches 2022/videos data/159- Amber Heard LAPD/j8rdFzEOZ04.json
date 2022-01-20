@@ -1,0 +1,65 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "CjQlegYFx_eK3myC71pWFl3dDwM",
+        "id": "j8rdFzEOZ04",
+        "snippet": {
+            "publishedAt": "2021-09-24T16:34:30Z",
+            "channelId": "UCDXN6NpCiA0fFXAFRZoNm_A",
+            "title": "Amber Heard subpoenas LAPD for records in 2016 domestic disturbance incident with Johnny Depp",
+            "description": "Amber Heard subpoenas LAPD for records in 2016 domestic disturbance incident with Johnny Depp",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/j8rdFzEOZ04/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/j8rdFzEOZ04/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/j8rdFzEOZ04/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/j8rdFzEOZ04/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Entertainment News",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Heard subpoenas LAPD for records in 2016 domestic disturbance incident with Johnny Depp",
+                "description": "Amber Heard subpoenas LAPD for records in 2016 domestic disturbance incident with Johnny Depp"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT2M44S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "8",
+            "likeCount": "1",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

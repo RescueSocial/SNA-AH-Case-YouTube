@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "0oB5EnXwDfozFf9ow6SU85i1mLY",
+        "id": "z0kRfBviZlM",
+        "snippet": {
+            "publishedAt": "2015-09-24T00:49:03Z",
+            "channelId": "UC7KG4eUj5cJNsVtdLrY7xGg",
+            "title": "Habits of Health Call- Secrets of Long-term success!",
+            "description": "9/23/15 lead by Amber Smithson and Sarah Flake",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/z0kRfBviZlM/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/z0kRfBviZlM/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/z0kRfBviZlM/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/z0kRfBviZlM/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/z0kRfBviZlM/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Amber Smithson",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Habits of Health Call- Secrets of Long-term success!",
+                "description": "9/23/15 lead by Amber Smithson and Sarah Flake"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT31M26S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "554",
+            "likeCount": "4",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

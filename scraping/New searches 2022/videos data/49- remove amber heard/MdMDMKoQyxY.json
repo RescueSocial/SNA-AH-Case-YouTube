@@ -1,0 +1,81 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "E6M_FK7PrELmlWyMLWKoQbqM4SI",
+        "id": "MdMDMKoQyxY",
+        "snippet": {
+            "publishedAt": "2020-02-12T16:15:00Z",
+            "channelId": "UChs7lcuw4qOCxl3SJRPuidQ",
+            "title": "Amber Heard attempts to delete hate comments on Instagram: Apologizing to Johnny Depp in tears",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/MdMDMKoQyxY/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/MdMDMKoQyxY/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/MdMDMKoQyxY/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/MdMDMKoQyxY/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/MdMDMKoQyxY/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "DT Media",
+            "tags": [
+                "DT Media",
+                "news",
+                "Amber Heard",
+                "delete",
+                "comments",
+                "Instagram",
+                "Apologizing",
+                "Johnny Depp",
+                "tears"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Heard attempts to delete hate comments on Instagram: Apologizing to Johnny Depp in tears",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT3M19S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": false,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "4909",
+            "likeCount": "82",
+            "favoriteCount": "0",
+            "commentCount": "17"
+        }
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "-qWcCfzWfKCSHG6NHxkIHiGv0tg",
+        "id": "xL4HkOc5yW8",
+        "snippet": {
+            "publishedAt": "2016-08-17T23:05:58Z",
+            "channelId": "UCkbIMcyT_oQzhTLbJlT9vtg",
+            "title": "Beautiful Amber Smoking Model",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/xL4HkOc5yW8/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/xL4HkOc5yW8/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/xL4HkOc5yW8/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Letsss 5",
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Beautiful Amber Smoking Model",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT2M50S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {
+                "ytRating": "ytAgeRestricted"
+            },
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "67256",
+            "likeCount": "208",
+            "favoriteCount": "0",
+            "commentCount": "7"
+        }
+    }
+]

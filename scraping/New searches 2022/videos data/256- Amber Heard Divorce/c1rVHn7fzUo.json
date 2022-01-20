@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "H3fwx2g3lZzmdTGgJXuqnfupkJo",
+        "id": "c1rVHn7fzUo",
+        "snippet": {
+            "publishedAt": "2016-05-26T13:25:09Z",
+            "channelId": "UCJIfKcm-NouMWpLvFjmdmRw",
+            "title": "Johnny Depp and Amber Heard head to divorce",
+            "description": "Johnny Depp and Amber Heard head to divorce",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/c1rVHn7fzUo/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/c1rVHn7fzUo/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/c1rVHn7fzUo/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/c1rVHn7fzUo/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/c1rVHn7fzUo/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "COVER",
+            "tags": [
+                "Johnny Depp and Amber Heard head to divorce"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Johnny Depp and Amber Heard head to divorce",
+                "description": "Johnny Depp and Amber Heard head to divorce"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT1M2S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "70",
+            "likeCount": "1",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

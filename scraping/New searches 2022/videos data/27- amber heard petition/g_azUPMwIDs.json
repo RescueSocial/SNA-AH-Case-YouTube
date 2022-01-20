@@ -1,0 +1,78 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "UQ8DBFwSxFhngoLsFfDcuIsiMgg",
+        "id": "g_azUPMwIDs",
+        "snippet": {
+            "publishedAt": "2016-05-26T23:29:43Z",
+            "channelId": "UCdtXPiqI2cLorKaPrfpKc4g",
+            "title": "Johnny Depp's Divorce: Is He Better Off Without Amber Heard?",
+            "description": "Since news broke of their divorce, Heard has taken most of the flak for the breakup. ET looks into what went wrong.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/g_azUPMwIDs/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/g_azUPMwIDs/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/g_azUPMwIDs/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/g_azUPMwIDs/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Entertainment Tonight",
+            "tags": [
+                "entertainment tonight",
+                "ET Online",
+                "ETtrending",
+                "etonline",
+                "et",
+                "divorce",
+                "celebrity",
+                "ET NOW",
+                "amber heard",
+                "johnny depp",
+                "news"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Johnny Depp's Divorce: Is He Better Off Without Amber Heard?",
+                "description": "Since news broke of their divorce, Heard has taken most of the flak for the breakup. ET looks into what went wrong."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT1M49S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "61288",
+            "likeCount": "297",
+            "favoriteCount": "0",
+            "commentCount": "154"
+        }
+    }
+]

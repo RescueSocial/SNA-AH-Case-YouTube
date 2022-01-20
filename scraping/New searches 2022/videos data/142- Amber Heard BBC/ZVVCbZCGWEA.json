@@ -1,0 +1,81 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "ya99fZq7mifybSgjqCoCFDK1JQs",
+        "id": "ZVVCbZCGWEA",
+        "snippet": {
+            "publishedAt": "2010-06-19T05:23:26Z",
+            "channelId": "UC4HxFtEWeyBDlUiBzT0raFg",
+            "title": "Glee's Matt, Amber and Chris interview on Jonathan Ross Part 1/2",
+            "description": "Glee's Matthew Morrison, Amber Riley and Chris Colfer are interviewed on BBC talk show, Friday Night with Jonathan Ross. Part 1 of 2.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/ZVVCbZCGWEA/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/ZVVCbZCGWEA/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/ZVVCbZCGWEA/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/ZVVCbZCGWEA/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/ZVVCbZCGWEA/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "LavenderGooms4",
+            "tags": [
+                "glee",
+                "matthew morrison",
+                "amber riley",
+                "chris colfer",
+                "jonathan ross",
+                "will schuester",
+                "will",
+                "mercedes",
+                "kurt"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Glee's Matt, Amber and Chris interview on Jonathan Ross Part 1/2",
+                "description": "Glee's Matthew Morrison, Amber Riley and Chris Colfer are interviewed on BBC talk show, Friday Night with Jonathan Ross. Part 1 of 2."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT6M34S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "109647",
+            "likeCount": "1082",
+            "favoriteCount": "0",
+            "commentCount": "70"
+        }
+    }
+]

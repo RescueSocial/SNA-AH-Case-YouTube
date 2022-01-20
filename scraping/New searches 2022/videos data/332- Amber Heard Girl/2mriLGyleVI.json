@@ -1,0 +1,65 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "gzRM8JJPKGoy2f493eS0szXF-Jc",
+        "id": "2mriLGyleVI",
+        "snippet": {
+            "publishedAt": "2019-02-10T14:48:32Z",
+            "channelId": "UCJfgeJZXaVyZoE8yQM2a90g",
+            "title": "amber liu (a friend of idols)",
+            "description": "https://www.bilibili.com/video/av27639922\n\u539f\u5730\u5740",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/2mriLGyleVI/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/2mriLGyleVI/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/2mriLGyleVI/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "one the",
+            "tags": [
+                "Amber Liu",
+                "Amber",
+                "k-pop"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "amber liu (a friend of idols)",
+                "description": "https://www.bilibili.com/video/av27639922\n\u539f\u5730\u5740"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT4M22S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "31672",
+            "likeCount": "837",
+            "favoriteCount": "0",
+            "commentCount": "19"
+        }
+    }
+]

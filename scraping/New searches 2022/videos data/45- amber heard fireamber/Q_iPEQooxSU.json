@@ -1,0 +1,60 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "6VBy8v6GYb96RDAf04ERi2qbVhM",
+        "id": "Q_iPEQooxSU",
+        "snippet": {
+            "publishedAt": "2020-12-02T21:46:54Z",
+            "channelId": "UC4u54wRnOw7Oc6NXCrmwH0g",
+            "title": "la verdadera  victima de av0so entre Johnny depp y amber Heard",
+            "description": "informacion sobre el caso de avuso entre johnny depp y amber heard",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/Q_iPEQooxSU/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/Q_iPEQooxSU/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/Q_iPEQooxSU/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "el canal chevere de Gabriel Cufr\u00e9 20-22",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "la verdadera  victima de av0so entre Johnny depp y amber Heard",
+                "description": "informacion sobre el caso de avuso entre johnny depp y amber heard"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT4M34S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "25",
+            "likeCount": "1",
+            "favoriteCount": "0",
+            "commentCount": "1"
+        }
+    }
+]

@@ -1,0 +1,64 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "kAb6CGZnnpnFa5E2J6DXC29RRMQ",
+        "id": "4lBYLc12fL4",
+        "snippet": {
+            "publishedAt": "2020-06-07T23:23:56Z",
+            "channelId": "UCy8YFzbkvYTQOQxjgE3UTBQ",
+            "title": "Response to Commenter Anna Whitesell-(Amber Heard Playlist)",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/4lBYLc12fL4/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/4lBYLc12fL4/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/4lBYLc12fL4/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/4lBYLc12fL4/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "The Amber Heard Playlist!!",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Response to Commenter Anna Whitesell-(Amber Heard Playlist)",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT2M4S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "44",
+            "likeCount": "0",
+            "favoriteCount": "0"
+        }
+    }
+]

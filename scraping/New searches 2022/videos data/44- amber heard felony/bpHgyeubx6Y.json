@@ -1,0 +1,69 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "DXaE1c_mIPIYLkUVwa_NidWwbRg",
+        "id": "bpHgyeubx6Y",
+        "snippet": {
+            "publishedAt": "2017-02-27T06:51:20Z",
+            "channelId": "UC41xJSNY2xCPC4-gOsRcDcg",
+            "title": "Video: Taos Amber alert",
+            "description": "A teenage girl is back with her family after she was kidnapped at gunpoing\nSubscribe to KOAT on YouTube now for more: http://bit.ly/1jocB9r\n\nGet more Albuquerque news: http://koat.com\nLike us: http://facebook.com/KOAT7\nFollow us: http://twitter.com/KOATLiveUpdates\nGoogle+: http://plus.google.com/+koat",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/bpHgyeubx6Y/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/bpHgyeubx6Y/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/bpHgyeubx6Y/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/bpHgyeubx6Y/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/bpHgyeubx6Y/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "KOAT",
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Video: Taos Amber alert",
+                "description": "A teenage girl is back with her family after she was kidnapped at gunpoing\nSubscribe to KOAT on YouTube now for more: http://bit.ly/1jocB9r\n\nGet more Albuquerque news: http://koat.com\nLike us: http://facebook.com/KOAT7\nFollow us: http://twitter.com/KOATLiveUpdates\nGoogle+: http://plus.google.com/+koat"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT1M32S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "155",
+            "likeCount": "1",
+            "favoriteCount": "0"
+        }
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "nNXu149KXiEa81tXHg6WwGUrI_g",
+        "id": "CFjLHBOd7cM",
+        "snippet": {
+            "publishedAt": "2019-03-13T18:21:10Z",
+            "channelId": "UCZSQZtYblsq4jMDcw05mnJg",
+            "title": "Amber Heard was the abuser in her relationship with Johnny Depp",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/CFjLHBOd7cM/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/CFjLHBOd7cM/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/CFjLHBOd7cM/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Manbeast1000",
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Heard was the abuser in her relationship with Johnny Depp",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT3M34S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "147",
+            "likeCount": "6",
+            "favoriteCount": "0",
+            "commentCount": "1"
+        }
+    }
+]

@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "IdIvnJq9elCEB24RcmJsaNa6G0g",
+        "id": "-GasNOVH3MM",
+        "snippet": {
+            "publishedAt": "2022-01-05T03:06:03Z",
+            "channelId": "UCeHO7dgNl4ua5pnqATnWViQ",
+            "title": "Amber Liu - Borders, On My Own | Gone Rogue Tour",
+            "description": "I will never forget this day, it was life changing. By the time it ended my arms were sore and my voice was hoarse but it was worth it\ud83d\ude0c",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/-GasNOVH3MM/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/-GasNOVH3MM/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/-GasNOVH3MM/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/-GasNOVH3MM/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/-GasNOVH3MM/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Esmeralda A",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Liu - Borders, On My Own | Gone Rogue Tour",
+                "description": "I will never forget this day, it was life changing. By the time it ended my arms were sore and my voice was hoarse but it was worth it\ud83d\ude0c"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT6M27S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "1",
+            "likeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

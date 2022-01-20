@@ -1,0 +1,75 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "7eHX4SyDoCzKYtD0jpOGgduHOdc",
+        "id": "j1O_fZrsTEA",
+        "snippet": {
+            "publishedAt": "2021-07-02T21:54:25Z",
+            "channelId": "UCEKJzGwBMDpmK51v5JIezUw",
+            "title": "Aunt of Amber Alert child missing",
+            "description": "Investigation continues in Wisconsin",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/j1O_fZrsTEA/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/j1O_fZrsTEA/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/j1O_fZrsTEA/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/j1O_fZrsTEA/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/j1O_fZrsTEA/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "WKRN News 2",
+            "tags": [
+                "video",
+                "news"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Aunt of Amber Alert child missing",
+                "description": "Investigation continues in Wisconsin"
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT2M13S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "241",
+            "likeCount": "2",
+            "favoriteCount": "0",
+            "commentCount": "2"
+        }
+    }
+]

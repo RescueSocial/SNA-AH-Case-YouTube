@@ -1,0 +1,78 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "7cAtup3tPrLkavfv2o4mvx7QJr8",
+        "id": "B8zzTIT2Q_0",
+        "snippet": {
+            "publishedAt": "2020-02-23T05:33:34Z",
+            "channelId": "UCBTIp2pvN1OtfT5iKwuwGIw",
+            "title": "Petition for a celebrity boxing match between Amber Heard and Tonya Harding",
+            "description": "I started the petition. I can't provide the link but just search the title and you will find it. Change!",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/B8zzTIT2Q_0/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/B8zzTIT2Q_0/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/B8zzTIT2Q_0/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/B8zzTIT2Q_0/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Human Warnings",
+            "tags": [
+                "Amber Heard",
+                "petition",
+                "johnny depp",
+                "L'oreal",
+                "Aquaman 2",
+                "aquaman",
+                "metoo",
+                "believe her",
+                "boxing",
+                "tonya harding"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Petition for a celebrity boxing match between Amber Heard and Tonya Harding",
+                "description": "I started the petition. I can't provide the link but just search the title and you will find it. Change!"
+            },
+            "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+            "duration": "PT1M53S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": false,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "451",
+            "likeCount": "17",
+            "favoriteCount": "0",
+            "commentCount": "6"
+        }
+    }
+]

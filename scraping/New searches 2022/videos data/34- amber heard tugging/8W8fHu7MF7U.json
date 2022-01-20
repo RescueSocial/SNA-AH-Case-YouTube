@@ -1,0 +1,71 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "eqAOmiWGr46OgzchNtQFpfT95qA",
+        "id": "8W8fHu7MF7U",
+        "snippet": {
+            "publishedAt": "2021-08-10T16:13:46Z",
+            "channelId": "UC1jvViSvzkK4R6BCSVIut6Q",
+            "title": "Pulling for Yoimiya on Amber\u2019s birthday since all my other friends got her today",
+            "description": "I want yoimiya. Accidentally got ayaka 2 days ago on 70 pity. I want to dead.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/8W8fHu7MF7U/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/8W8fHu7MF7U/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/8W8fHu7MF7U/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/8W8fHu7MF7U/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/8W8fHu7MF7U/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Mikro",
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Pulling for Yoimiya on Amber\u2019s birthday since all my other friends got her today",
+                "description": "I want yoimiya. Accidentally got ayaka 2 days ago on 70 pity. I want to dead."
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT1M12S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "9",
+            "likeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

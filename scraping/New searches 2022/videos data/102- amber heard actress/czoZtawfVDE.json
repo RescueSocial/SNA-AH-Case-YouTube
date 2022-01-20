@@ -1,0 +1,60 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "hZlxpkhT5xtbCUJKGLWG94h0KP0",
+        "id": "czoZtawfVDE",
+        "snippet": {
+            "publishedAt": "2021-10-15T14:14:29Z",
+            "channelId": "UCJlA1GjyA4hql4nfRazx4QA",
+            "title": "Beautiful statues Hollywood actress Amber Heard \ud83d\udda4",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/czoZtawfVDE/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/czoZtawfVDE/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/czoZtawfVDE/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "PIR\u00c5TE YT",
+            "categoryId": "20",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Beautiful statues Hollywood actress Amber Heard \ud83d\udda4",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT11S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "109",
+            "likeCount": "14",
+            "favoriteCount": "0",
+            "commentCount": "2"
+        }
+    }
+]

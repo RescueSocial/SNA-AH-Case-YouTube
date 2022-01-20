@@ -1,0 +1,60 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "QmFkfChwNLbSB3Bn_QsRmzI38gA",
+        "id": "cCF1EoE3BxQ",
+        "snippet": {
+            "publishedAt": "2014-01-13T20:21:10Z",
+            "channelId": "UCyuVu_pp0qIbE4bHKEIT9pA",
+            "title": "The Golden Globes 2014 Red carpet",
+            "description": "Taylor Swift, Reese Witherspoon, Amy Adams, Amber Heard, Adele Exarchopouloson Golden Globes red carpet 12.01.2014",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/cCF1EoE3BxQ/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/cCF1EoE3BxQ/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/cCF1EoE3BxQ/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Natalia Loukianova",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "The Golden Globes 2014 Red carpet",
+                "description": "Taylor Swift, Reese Witherspoon, Amy Adams, Amber Heard, Adele Exarchopouloson Golden Globes red carpet 12.01.2014"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT4M16S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "486",
+            "likeCount": "3",
+            "favoriteCount": "0",
+            "commentCount": "1"
+        }
+    }
+]

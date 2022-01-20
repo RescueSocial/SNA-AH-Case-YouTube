@@ -1,0 +1,68 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "7f2QfEP_dPW55mX8mHAlEb9QkwI",
+        "id": "HZdLeXniJno",
+        "snippet": {
+            "publishedAt": "2012-02-24T14:45:51Z",
+            "channelId": "UCcDEfXnFYvYuC2CKRcTHKZA",
+            "title": "Drive Angry Amber Fandub",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/HZdLeXniJno/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/HZdLeXniJno/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/HZdLeXniJno/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/HZdLeXniJno/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Kass Dubs",
+            "tags": [
+                "MOV05346"
+            ],
+            "categoryId": "10",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Drive Angry Amber Fandub",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT1M11S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "472",
+            "likeCount": "3",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

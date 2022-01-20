@@ -1,0 +1,65 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "vdD9uW2jZxsXlWzDpCJPub3nSNs",
+        "id": "3SZGt4SWQsI",
+        "snippet": {
+            "publishedAt": "2014-05-13T17:08:39Z",
+            "channelId": "UCNT4ALy6mZOZKfjLZUGtiXQ",
+            "title": "Amber Heard",
+            "description": "La linda actriz en exclusiva para Esquire.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/3SZGt4SWQsI/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/3SZGt4SWQsI/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/3SZGt4SWQsI/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Esquire Latam",
+            "tags": [
+                "Amber Heard (TV Actor)",
+                "Esquire (Magazine)",
+                "Television (Invention)"
+            ],
+            "categoryId": "19",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Heard",
+                "description": "La linda actriz en exclusiva para Esquire."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT1M38S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "18459",
+            "likeCount": "157",
+            "favoriteCount": "0",
+            "commentCount": "5"
+        }
+    }
+]

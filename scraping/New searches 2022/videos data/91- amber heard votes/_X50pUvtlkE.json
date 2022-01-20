@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "Qdkb10E2m8v_2_AC1kJTgyrYHNQ",
+        "id": "_X50pUvtlkE",
+        "snippet": {
+            "publishedAt": "2020-10-06T00:37:01Z",
+            "channelId": "UC5o0u6uywKaKWrHMsg70G7w",
+            "title": "Amber Schneider's TurboVote 101 to ASUI",
+            "description": "Program Coordinator at the Center for Volunteerism and Social Action, Amber Schneider, gave a presentation to the ASUI Administration on Sep. 30th to teach them about TurboVote.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/_X50pUvtlkE/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/_X50pUvtlkE/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/_X50pUvtlkE/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/_X50pUvtlkE/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/_X50pUvtlkE/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "ASUI Idaho",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Schneider's TurboVote 101 to ASUI",
+                "description": "Program Coordinator at the Center for Volunteerism and Social Action, Amber Schneider, gave a presentation to the ASUI Administration on Sep. 30th to teach them about TurboVote."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT43M11S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "25",
+            "likeCount": "1",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

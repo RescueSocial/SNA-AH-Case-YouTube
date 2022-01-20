@@ -1,0 +1,68 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "0bnb_cW6QSga-eUMTZD7yVGdayI",
+        "id": "nW00xOXFiF0",
+        "snippet": {
+            "publishedAt": "2022-01-03T18:30:47Z",
+            "channelId": "UCHEG6fQZtKBf-pzCuzG01Hg",
+            "title": "Rock Candy is sewer sludge (The Amber Heard Playlist!!)",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/nW00xOXFiF0/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/nW00xOXFiF0/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/nW00xOXFiF0/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/nW00xOXFiF0/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/nW00xOXFiF0/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Asshats Love Johnny Depp!! Johnny Depp Es Racista!!",
+            "categoryId": "1",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Rock Candy is sewer sludge (The Amber Heard Playlist!!)",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT48S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "26",
+            "favoriteCount": "0"
+        }
+    }
+]

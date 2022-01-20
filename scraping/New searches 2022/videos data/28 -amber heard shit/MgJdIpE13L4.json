@@ -1,0 +1,60 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "Nc6SJItkPYNU0HlVnHVQGdV2CDw",
+        "id": "MgJdIpE13L4",
+        "snippet": {
+            "publishedAt": "2020-07-11T19:46:48Z",
+            "channelId": "UCjPNTtfIJCBh1N3xq-2j8Ew",
+            "title": "Frances Rivera and Phillip Mena laugh at Johnny Depp's Poop Bed",
+            "description": "Johnny Depp is mad about feces in his bed put there by Amber Heard.  Early Today vows to keep you updated with the latest shit.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/MgJdIpE13L4/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/MgJdIpE13L4/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/MgJdIpE13L4/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "News Bloopers",
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Frances Rivera and Phillip Mena laugh at Johnny Depp's Poop Bed",
+                "description": "Johnny Depp is mad about feces in his bed put there by Amber Heard.  Early Today vows to keep you updated with the latest shit."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT2M3S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "325",
+            "likeCount": "3",
+            "favoriteCount": "0",
+            "commentCount": "2"
+        }
+    }
+]

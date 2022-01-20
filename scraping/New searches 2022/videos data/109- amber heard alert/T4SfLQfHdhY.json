@@ -1,0 +1,76 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "tnoxFkAbIt6-30beguLCiCYidvE",
+        "id": "T4SfLQfHdhY",
+        "snippet": {
+            "publishedAt": "2018-06-05T17:38:38Z",
+            "channelId": "UCaFgN6V43Xo1pRjQ4PjlSqw",
+            "title": "AMBER Alert: 7-month-old girl found safe, father arrested",
+            "description": "Emma Grace Kennedy is safe after being abducted. Her father has been arrested.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/T4SfLQfHdhY/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/T4SfLQfHdhY/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/T4SfLQfHdhY/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/T4SfLQfHdhY/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/T4SfLQfHdhY/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "WSLS 10",
+            "tags": [
+                "news",
+                "breaking news",
+                "amber alert",
+                "missing baby"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "AMBER Alert: 7-month-old girl found safe, father arrested",
+                "description": "Emma Grace Kennedy is safe after being abducted. Her father has been arrested."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT5M17S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "1673",
+            "likeCount": "8",
+            "favoriteCount": "0",
+            "commentCount": "4"
+        }
+    }
+]

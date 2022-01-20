@@ -1,0 +1,63 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "KMBtgGx2Oe6wH5eFIACYiMIqUaE",
+        "id": "HJY3UP0emSo",
+        "snippet": {
+            "publishedAt": "2009-05-06T22:07:12Z",
+            "channelId": "UCDI8aqizdvURezomOQvvzzg",
+            "title": "A Sneak Preview Of \"The Housewives Of Amber Lane\"",
+            "description": "Sneak Preview",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/HJY3UP0emSo/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/HJY3UP0emSo/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/HJY3UP0emSo/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "NoHeavyPetting",
+            "tags": [
+                "Entertainment"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "A Sneak Preview Of \"The Housewives Of Amber Lane\"",
+                "description": "Sneak Preview"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT1M56S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "1699",
+            "likeCount": "3",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "HXIfRt_-e2BVk2hMNpF1MXVj84Y",
+        "id": "l9cFQVbtb9g",
+        "snippet": {
+            "publishedAt": "2015-07-25T00:05:44Z",
+            "channelId": "UC7CZ_juGOXHZ57lZAq2o-RA",
+            "title": "Amber Glass",
+            "description": "http://i.instagram.com/snowbunnygang/",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/l9cFQVbtb9g/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/l9cFQVbtb9g/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/l9cFQVbtb9g/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/l9cFQVbtb9g/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Vigilance",
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Glass",
+                "description": "http://i.instagram.com/snowbunnygang/"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT11S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "3222",
+            "likeCount": "16",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

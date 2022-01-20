@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "H5HRVuRZRjyOrbCnSi0VMWNxaAk",
+        "id": "PHOtxy3oRzM",
+        "snippet": {
+            "publishedAt": "2010-11-22T17:30:06Z",
+            "channelId": "UCQEJPx-q4o2cWcmDb4AGoNw",
+            "title": "Amber Zero Commercial",
+            "description": " ",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/PHOtxy3oRzM/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/PHOtxy3oRzM/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/PHOtxy3oRzM/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/PHOtxy3oRzM/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Paige Bachety",
+            "tags": [
+                "Amber",
+                "Zero",
+                "Commercial"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Zero Commercial",
+                "description": " "
+            }
+        },
+        "contentDetails": {
+            "duration": "PT33S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "11",
+            "likeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

@@ -1,0 +1,83 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "hVsEDn-J7LK-AwKZnmLk8qaCqmA",
+        "id": "0VooNKMpQ9s",
+        "snippet": {
+            "publishedAt": "2020-05-21T10:49:13Z",
+            "channelId": "UC_Cu1LLI7HSWvqqbr8UnpTg",
+            "title": "SHE FOUGHT ALONE (1995)",
+            "description": "Starring Tiffani-Amber Thiessen, Brian Austin Green and Isabella Hofmann.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/0VooNKMpQ9s/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/0VooNKMpQ9s/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/0VooNKMpQ9s/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/0VooNKMpQ9s/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "DIGITAL CINEMA",
+            "tags": [
+                "she fought alone",
+                "she fought alone 1995",
+                "she fought alone full movie",
+                "she fought alone 1995 full movie",
+                "Isabella Hofmann she fought alone",
+                "Tiffani Amber Thiessen she fought alone",
+                "Tiffani-Amber Thiessen she fought alone",
+                "Brian Austin Green she fought alone",
+                "she fought alone Brian Austin Green",
+                "she fought alone Tiffani-Amber Thiessen",
+                "she fought alone Tiffani Amber Thiessen",
+                "she fought alone Isabella Hofmann",
+                "teen drama"
+            ],
+            "categoryId": "1",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "SHE FOUGHT ALONE (1995)",
+                "description": "Starring Tiffani-Amber Thiessen, Brian Austin Green and Isabella Hofmann."
+            },
+            "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+            "duration": "PT1H26M59S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {
+                "ytRating": "ytAgeRestricted"
+            },
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": false,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "149285",
+            "likeCount": "1788",
+            "favoriteCount": "0",
+            "commentCount": "261"
+        }
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "6B6doDq5eqd31AHSIrZXuPGayOg",
+        "id": "wzg8pIfa5zo",
+        "snippet": {
+            "publishedAt": "2021-10-25T12:41:33Z",
+            "channelId": "UCCYjn3zuCEhGcxGBztQG-zA",
+            "title": "Sorry Amber Johnny Deserve Better",
+            "description": "#americancelebrity #sajidhasanniloy #johnnydepp #amberheard",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/wzg8pIfa5zo/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/wzg8pIfa5zo/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/wzg8pIfa5zo/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "American Celebrity",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Sorry Amber Johnny Deserve Better",
+                "description": "#americancelebrity #sajidhasanniloy #johnnydepp #amberheard"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT26S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "673",
+            "likeCount": "45",
+            "favoriteCount": "0",
+            "commentCount": "1"
+        }
+    }
+]

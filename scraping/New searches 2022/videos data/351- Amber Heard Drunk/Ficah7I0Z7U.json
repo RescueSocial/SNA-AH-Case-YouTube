@@ -1,0 +1,75 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "qCF5Q2S8blUah7F7oaworPz8KVQ",
+        "id": "Ficah7I0Z7U",
+        "snippet": {
+            "publishedAt": "2020-10-30T18:02:16Z",
+            "channelId": "UCX0SOo04D1jqy0070bd92dw",
+            "title": "Amber's DRUNK! - Genshin Impact",
+            "description": "Looks like Amber too couldn't resist to the wine...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/Ficah7I0Z7U/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/Ficah7I0Z7U/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/Ficah7I0Z7U/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/Ficah7I0Z7U/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/Ficah7I0Z7U/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Loic_MDF",
+            "tags": [
+                "amber",
+                "drunk",
+                "genshin"
+            ],
+            "categoryId": "20",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber's DRUNK! - Genshin Impact",
+                "description": "Looks like Amber too couldn't resist to the wine..."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT40S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "28138",
+            "likeCount": "1148",
+            "favoriteCount": "0",
+            "commentCount": "88"
+        }
+    }
+]

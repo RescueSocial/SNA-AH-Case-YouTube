@@ -1,0 +1,71 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "or26lQ5Qtbmc8T8zg1G1mfwUq4k",
+        "id": "u79mnDqAZCU",
+        "snippet": {
+            "publishedAt": "2020-05-13T23:27:47Z",
+            "channelId": "UC-9GZ7QHKOmLS0APnfz2g1Q",
+            "title": "Wiki Tips and Tricks (Amber Larsen Live)",
+            "description": "Join FamilySearch employees Amber Larsen and Wendy Smedley as they discuss tips and tricks for the FamilySearch Wiki. Amber introduces different aspects of the Wiki and answers audience questions from the livestream comments.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/u79mnDqAZCU/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/u79mnDqAZCU/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/u79mnDqAZCU/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/u79mnDqAZCU/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/u79mnDqAZCU/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "FamilySearch",
+            "categoryId": "28",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Wiki Tips and Tricks (Amber Larsen Live)",
+                "description": "Join FamilySearch employees Amber Larsen and Wendy Smedley as they discuss tips and tricks for the FamilySearch Wiki. Amber introduces different aspects of the Wiki and answers audience questions from the livestream comments."
+            },
+            "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+            "duration": "PT54M50S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "13514",
+            "likeCount": "342",
+            "favoriteCount": "0",
+            "commentCount": "83"
+        }
+    }
+]

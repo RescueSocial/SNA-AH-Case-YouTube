@@ -1,0 +1,67 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "bMRTWWV7d9xhbYVTHEZlgJ1zbu8",
+        "id": "bzKJHUzcPp4",
+        "snippet": {
+            "publishedAt": "2020-03-03T20:29:35Z",
+            "channelId": "UCxcRZdeIMmXiXJc-zVnjvXg",
+            "title": "My Brain Made Me Do It!",
+            "description": "Join Independent Certified OPTAVIA Coaches Jared and Amber Smithson as they discuss how to use Stop, Challenge, and Choose to create space between stimulus and a response. During this session, they also explain the functionality of our three brains: lizard brain, Labrador brain, and human brain. Guest speakers include Shonna Perry and Treasure Niederhauser.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/bzKJHUzcPp4/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/bzKJHUzcPp4/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/bzKJHUzcPp4/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/bzKJHUzcPp4/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "OPTAVIA",
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "My Brain Made Me Do It!",
+                "description": "Join Independent Certified OPTAVIA Coaches Jared and Amber Smithson as they discuss how to use Stop, Challenge, and Choose to create space between stimulus and a response. During this session, they also explain the functionality of our three brains: lizard brain, Labrador brain, and human brain. Guest speakers include Shonna Perry and Treasure Niederhauser."
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT32M21S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "6098",
+            "likeCount": "60",
+            "favoriteCount": "0",
+            "commentCount": "6"
+        }
+    }
+]

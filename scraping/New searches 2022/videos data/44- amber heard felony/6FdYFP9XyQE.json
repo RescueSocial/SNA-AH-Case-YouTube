@@ -1,0 +1,77 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "pj-SkgR9EHmepGUtVYuaHzI7YEA",
+        "id": "6FdYFP9XyQE",
+        "snippet": {
+            "publishedAt": "2019-10-01T17:06:46Z",
+            "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
+            "title": "Former Dallas cop Amber Guyger found guilty of murdering neighbor",
+            "description": "A jury has found former Dallas police officer Amber Guyger guilty of murder in the shooting death of her neighbor, Botham Jean. Guyger claimed she mistakenly entered his apartment, thinking it was her own, and thought he was a burglar. CBS News correspondent Omar Villafranca reports on the verdict, and attorney Ken Belkin joins CBSN with analysis.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/6FdYFP9XyQE/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/6FdYFP9XyQE/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/6FdYFP9XyQE/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "CBS News",
+            "tags": [
+                "cbsn",
+                "CBS News",
+                "dallas",
+                "texas",
+                "Amber Guyger",
+                "Botham Jean",
+                "murder",
+                "trial"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Former Dallas cop Amber Guyger found guilty of murdering neighbor",
+                "description": "A jury has found former Dallas police officer Amber Guyger guilty of murder in the shooting death of her neighbor, Botham Jean. Guyger claimed she mistakenly entered his apartment, thinking it was her own, and thought he was a burglar. CBS News correspondent Omar Villafranca reports on the verdict, and attorney Ken Belkin joins CBSN with analysis."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT18M15S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "regionRestriction": {
+                "blocked": [
+                    "AU",
+                    "CA",
+                    "JP"
+                ]
+            },
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "823547",
+            "likeCount": "7790",
+            "favoriteCount": "0",
+            "commentCount": "4783"
+        }
+    }
+]

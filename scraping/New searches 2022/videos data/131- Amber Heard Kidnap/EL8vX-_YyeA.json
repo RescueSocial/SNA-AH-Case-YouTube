@@ -1,0 +1,71 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "2GyC3K6q8tZ1RoVOlQdr-nFKpa0",
+        "id": "EL8vX-_YyeA",
+        "snippet": {
+            "publishedAt": "2019-09-02T16:13:50Z",
+            "channelId": "UCKQECjul8nw1KW_JzfBTP1A",
+            "title": "Amber Alert issued for 15-year-old girl abducted from Pearland",
+            "description": "An Amber Alert was issued for a 15-year-old girl who police say was abducted in Pearland.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/EL8vX-_YyeA/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/EL8vX-_YyeA/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/EL8vX-_YyeA/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/EL8vX-_YyeA/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/EL8vX-_YyeA/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "KPRC 2 Click2Houston",
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Alert issued for 15-year-old girl abducted from Pearland",
+                "description": "An Amber Alert was issued for a 15-year-old girl who police say was abducted in Pearland."
+            },
+            "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+            "duration": "PT1M57S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "924",
+            "likeCount": "27",
+            "favoriteCount": "0",
+            "commentCount": "2"
+        }
+    }
+]

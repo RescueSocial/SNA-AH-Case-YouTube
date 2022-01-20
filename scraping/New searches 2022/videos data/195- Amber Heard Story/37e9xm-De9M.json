@@ -1,0 +1,84 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "ROYghecsolTjkAObQCH3KiXBgRA",
+        "id": "37e9xm-De9M",
+        "snippet": {
+            "publishedAt": "2016-01-18T21:01:34Z",
+            "channelId": "UC69uYUqvx-vw4luuX7aHNLQ",
+            "title": "'I Want Her to Have Justice': The story that inspired the AMBER Alert system",
+            "description": "Amber Hagerman's disappearance helped to launch the program that went on to save hundreds of abducted children. Her mother talks about the fight. More: https://bit.ly/3dFCh2t",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/37e9xm-De9M/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/37e9xm-De9M/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/37e9xm-De9M/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/37e9xm-De9M/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/37e9xm-De9M/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "True Crime Daily",
+            "tags": [
+                "ENTAC",
+                "AMBER Alert",
+                "system",
+                "child",
+                "abduction",
+                "alert",
+                "program",
+                "20 years",
+                "anniversary",
+                "kidnapping",
+                "Matt Doran",
+                "Amber Hagerman"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "'I Want Her to Have Justice': The story that inspired the AMBER Alert system",
+                "description": "Amber Hagerman's disappearance helped to launch the program that went on to save hundreds of abducted children. Her mother talks about the fight. More: https://bit.ly/3dFCh2t"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT9M42S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "599479",
+            "likeCount": "8387",
+            "favoriteCount": "0",
+            "commentCount": "1038"
+        }
+    }
+]

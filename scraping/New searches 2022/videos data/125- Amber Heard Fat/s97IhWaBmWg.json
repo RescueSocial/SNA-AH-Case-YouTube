@@ -1,0 +1,60 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "78TrTU4f68c7uN8CCpqi1EVPXE8",
+        "id": "s97IhWaBmWg",
+        "snippet": {
+            "publishedAt": "2020-04-16T11:53:37Z",
+            "channelId": "UCieydDO_ClX0s_MXvlrPhfw",
+            "title": "Beer Analysis 101: New Belgium Fat Tire Amber Ale",
+            "description": "Tonight on BA101 the panel checks out the classic American amber ale, recently introduced to the Canadian market. Cheers!",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/s97IhWaBmWg/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/s97IhWaBmWg/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/s97IhWaBmWg/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Maxwell Starr",
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Beer Analysis 101: New Belgium Fat Tire Amber Ale",
+                "description": "Tonight on BA101 the panel checks out the classic American amber ale, recently introduced to the Canadian market. Cheers!"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT32M40S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "39",
+            "likeCount": "4",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

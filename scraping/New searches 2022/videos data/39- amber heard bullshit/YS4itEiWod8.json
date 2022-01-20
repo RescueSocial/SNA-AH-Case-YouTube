@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "OZHAVu_YuswyMAPJofslDdUqSog",
+        "id": "YS4itEiWod8",
+        "snippet": {
+            "publishedAt": "2019-04-24T15:04:36Z",
+            "channelId": "UCVzvo_Id00zQaWfnnJjIv3Q",
+            "title": "Beyond Social Media with Amber Snow",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/YS4itEiWod8/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/YS4itEiWod8/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/YS4itEiWod8/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/YS4itEiWod8/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "TBB Champions Page Video Library",
+            "tags": [
+                "Beachbody",
+                "Champions"
+            ],
+            "categoryId": "26",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Beyond Social Media with Amber Snow",
+                "description": ""
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT1H14M20S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "true",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "164",
+            "likeCount": "9",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

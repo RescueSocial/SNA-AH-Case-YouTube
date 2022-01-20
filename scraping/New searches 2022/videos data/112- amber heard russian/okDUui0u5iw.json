@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "bGFrelkceVpdEXgMcU9igGkt4Z4",
+        "id": "okDUui0u5iw",
+        "snippet": {
+            "publishedAt": "2017-11-19T14:59:07Z",
+            "channelId": "UC9hOrlXF2z5fFdah9NNUReA",
+            "title": "The History of Baltic Amber",
+            "description": "The 40 Million year history of mankind's oldest gem and the story of St Petersburg's famous amber room",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/okDUui0u5iw/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/okDUui0u5iw/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/okDUui0u5iw/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/okDUui0u5iw/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/okDUui0u5iw/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "The Art of Russia",
+            "tags": [
+                "Amber"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "The History of Baltic Amber",
+                "description": "The 40 Million year history of mankind's oldest gem and the story of St Petersburg's famous amber room"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT25M10S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "23892",
+            "likeCount": "410",
+            "favoriteCount": "0",
+            "commentCount": "37"
+        }
+    }
+]

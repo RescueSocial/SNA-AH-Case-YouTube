@@ -1,0 +1,60 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "yifHm1FreGlECc34a9kIj7Im7MA",
+        "id": "df7LXFVsDcA",
+        "snippet": {
+            "publishedAt": "2021-07-29T15:48:10Z",
+            "channelId": "UCe2RiKheFegUAwVfOReRh-A",
+            "title": "Amber heard smoking with pro status",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/df7LXFVsDcA/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/df7LXFVsDcA/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/df7LXFVsDcA/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "PRO status",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber heard smoking with pro status",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT21S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "345",
+            "likeCount": "8",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

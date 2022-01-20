@@ -1,0 +1,75 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "ZrW1V4oGrzuq7buAsHQImiOVc2U",
+        "id": "XLKkow5kljY",
+        "snippet": {
+            "publishedAt": "2018-06-06T17:46:04Z",
+            "channelId": "UCovEZBXY79chmFkf_OZzdyQ",
+            "title": "London Fields Trailer (2018) Amber Heard Movie\n\nDew clips trailers",
+            "description": "#Dewclipstrailers please subscribe",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/XLKkow5kljY/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/XLKkow5kljY/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/XLKkow5kljY/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/XLKkow5kljY/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/XLKkow5kljY/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Dew Clips Trailers",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "London Fields Trailer (2018) Amber Heard Movie\n\nDew clips trailers",
+                "description": "#Dewclipstrailers please subscribe"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT3M24S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "regionRestriction": {
+                "blocked": [
+                    "WF"
+                ]
+            },
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "40",
+            "likeCount": "1",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

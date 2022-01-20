@@ -1,0 +1,74 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "bd-TCr6bUeVXCPxwrvK1cgsG6OM",
+        "id": "45ylfsTMREI",
+        "snippet": {
+            "publishedAt": "2013-11-23T02:58:38Z",
+            "channelId": "UCqm6szr6Ol7vROIde1sxpSA",
+            "title": "RBR - Fat Tire Amber Ale",
+            "description": "This is Fat Tire. It is an Amber Ale from the New Belgium Brewing Company out of Fort Collins, Co.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/45ylfsTMREI/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/45ylfsTMREI/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/45ylfsTMREI/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/45ylfsTMREI/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Regularbeerreview s",
+            "tags": [
+                "Regular",
+                "Beer",
+                "Reviews",
+                "caramel",
+                "malt",
+                "domestic",
+                "craft"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "RBR - Fat Tire Amber Ale",
+                "description": "This is Fat Tire. It is an Amber Ale from the New Belgium Brewing Company out of Fort Collins, Co."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT9M19S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "21",
+            "likeCount": "1",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

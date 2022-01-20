@@ -1,0 +1,60 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "rkiXFh9TwQhUAR9S3Il1WvPW3OU",
+        "id": "VCY3IR55aUc",
+        "snippet": {
+            "publishedAt": "2021-08-17T19:20:30Z",
+            "channelId": "UCXOrIUisFF17c2Qy2ChNjcQ",
+            "title": "Beauty Queen \ud83d\udc51 Amber Heard  \ud83d\udc95",
+            "description": "NCS copyright sounds",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/VCY3IR55aUc/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/VCY3IR55aUc/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/VCY3IR55aUc/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Awesome Clips (Movie or Crush \ud83d\ude0d)",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Beauty Queen \ud83d\udc51 Amber Heard  \ud83d\udc95",
+                "description": "NCS copyright sounds"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT31S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "25",
+            "likeCount": "2",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

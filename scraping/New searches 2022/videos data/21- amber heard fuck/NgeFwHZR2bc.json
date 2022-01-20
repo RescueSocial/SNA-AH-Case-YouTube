@@ -1,0 +1,60 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "OlTD_iKH2poPgbMS-IpZ9kxn52I",
+        "id": "NgeFwHZR2bc",
+        "snippet": {
+            "publishedAt": "2018-06-04T18:22:22Z",
+            "channelId": "UCbItJc7oH6qDikstxVMaKJg",
+            "title": "Amber Heard Mankenlik \u00c7ekimi",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/NgeFwHZR2bc/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/NgeFwHZR2bc/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/NgeFwHZR2bc/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Manken FOTO",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Heard Mankenlik \u00c7ekimi",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT1M31S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "1623",
+            "likeCount": "13",
+            "favoriteCount": "0",
+            "commentCount": "3"
+        }
+    }
+]

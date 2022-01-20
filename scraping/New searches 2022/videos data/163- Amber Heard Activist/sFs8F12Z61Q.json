@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "vQVrY9Dp-10l-D4mXf_y9mN6WXQ",
+        "id": "sFs8F12Z61Q",
+        "snippet": {
+            "publishedAt": "2019-09-20T23:59:11Z",
+            "channelId": "UCBu0KdNokE4MqdkacvH37_A",
+            "title": "A look back at the night Amber Guyger shot Botham Jean",
+            "description": "The Amber Guyger murder trial begins Sept. 23. The former Dallas police Officer shot and killed Botham Jean on Sept. 6, 2018.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/sFs8F12Z61Q/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/sFs8F12Z61Q/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/sFs8F12Z61Q/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/sFs8F12Z61Q/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "WFAA",
+            "tags": [
+                "botham-jean",
+                "local",
+                "news",
+                "special-reports"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "A look back at the night Amber Guyger shot Botham Jean",
+                "description": "The Amber Guyger murder trial begins Sept. 23. The former Dallas police Officer shot and killed Botham Jean on Sept. 6, 2018."
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT2M12S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "4551",
+            "likeCount": "35",
+            "favoriteCount": "0",
+            "commentCount": "29"
+        }
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "AeCQ6foCoCz42iGyrQY3-mAJTIg",
+        "id": "4rQkDJwMLS8",
+        "snippet": {
+            "publishedAt": "2016-11-22T22:38:34Z",
+            "channelId": "UCrbDgNfVM3MhGO__oyt1muw",
+            "title": "AMBER HEARD rant",
+            "description": "Amber Heard refussing to get naked on camera after having done it  so many times before.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/4rQkDJwMLS8/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/4rQkDJwMLS8/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/4rQkDJwMLS8/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/4rQkDJwMLS8/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/4rQkDJwMLS8/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "ninja6531",
+            "tags": [
+                "Amber Heard",
+                "Johnny Depp"
+            ],
+            "categoryId": "17",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "AMBER HEARD rant",
+                "description": "Amber Heard refussing to get naked on camera after having done it  so many times before."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT8M39S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "338",
+            "likeCount": "1",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "DcOJbOl8TqHlbxdPEFptnWYt3BI",
+        "id": "8VZ82iiUQRE",
+        "snippet": {
+            "publishedAt": "2020-02-02T17:03:09Z",
+            "channelId": "UCiZsyfSV-0v_arTKYyw9_zA",
+            "title": "Amber Heard 'admits to hitting ex-husband Johnny Depp' in explosive audio",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/8VZ82iiUQRE/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/8VZ82iiUQRE/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/8VZ82iiUQRE/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Celebrity Tonight",
+            "tags": [
+                "amber",
+                "heard",
+                "admits",
+                "to",
+                "hitting",
+                "ex",
+                "husband",
+                "johnny",
+                "depp",
+                "explosive",
+                "audio"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Heard 'admits to hitting ex-husband Johnny Depp' in explosive audio",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT6M9S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "1489",
+            "likeCount": "10",
+            "favoriteCount": "0",
+            "commentCount": "4"
+        }
+    }
+]

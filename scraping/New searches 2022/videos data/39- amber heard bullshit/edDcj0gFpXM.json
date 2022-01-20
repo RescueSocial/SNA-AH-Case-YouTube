@@ -1,0 +1,71 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "yhA3QS3NIra6AICjI_VmPdE6pWI",
+        "id": "edDcj0gFpXM",
+        "snippet": {
+            "publishedAt": "2021-07-05T15:15:49Z",
+            "channelId": "UCglsYfb73ylUrBObu0wK6uA",
+            "title": "Forever Amber 1947 Linda Darnell, Cornel Wilde & Richard Greene",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/edDcj0gFpXM/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/edDcj0gFpXM/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/edDcj0gFpXM/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/edDcj0gFpXM/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/edDcj0gFpXM/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "DK CLASSICS",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Forever Amber 1947 Linda Darnell, Cornel Wilde & Richard Greene",
+                "description": ""
+            },
+            "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+            "duration": "PT2H18M33S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "3690",
+            "likeCount": "40",
+            "favoriteCount": "0",
+            "commentCount": "3"
+        }
+    }
+]

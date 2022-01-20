@@ -1,0 +1,79 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "6Ctmcr3QZ4uqPSkUCyvKfNlR1Ns",
+        "id": "B-55j5yJlxA",
+        "snippet": {
+            "publishedAt": "2014-05-29T10:14:01Z",
+            "channelId": "UCFtutWOw-ojSmtsyQFmoTSA",
+            "title": "Amber Heard, pura sensualidad para W Magazine",
+            "description": "La nueva novia de Johnny Depp muestra parte de los encantos que cautivaron al veterano actor.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/B-55j5yJlxA/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/B-55j5yJlxA/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/B-55j5yJlxA/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/B-55j5yJlxA/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/B-55j5yJlxA/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Zoomin Local Heroes Espa\u00f1ol",
+            "tags": [
+                "zoomin.tv",
+                "amber",
+                "heard",
+                "magazine",
+                "para",
+                "pura",
+                "sensualidad"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Heard, pura sensualidad para W Magazine",
+                "description": "La nueva novia de Johnny Depp muestra parte de los encantos que cautivaron al veterano actor."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT47S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "480",
+            "likeCount": "1",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

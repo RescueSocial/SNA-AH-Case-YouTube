@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "NgRlpuiqTRE9DnOB6yMaD81QuPs",
+        "id": "q610kZPbwPs",
+        "snippet": {
+            "publishedAt": "2019-09-26T23:08:35Z",
+            "channelId": "UCBu0KdNokE4MqdkacvH37_A",
+            "title": "Amber Guyger: Day 4 of trial",
+            "description": "Prosecutors rested their case Thursday after four days of testimony. Defense attorneys will start calling witnesses Friday.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/q610kZPbwPs/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/q610kZPbwPs/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/q610kZPbwPs/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/q610kZPbwPs/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "WFAA",
+            "tags": [
+                "crime",
+                "local",
+                "dallas-county",
+                "news"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "Amber Guyger: Day 4 of trial",
+                "description": "Prosecutors rested their case Thursday after four days of testimony. Defense attorneys will start calling witnesses Friday."
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT2M7S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "9098",
+            "likeCount": "81",
+            "favoriteCount": "0",
+            "commentCount": "27"
+        }
+    }
+]

@@ -1,0 +1,75 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "6FrNAzGHXJSvz-07i60pnCKMCwg",
+        "id": "QuqykEGg59U",
+        "snippet": {
+            "publishedAt": "2014-02-14T20:12:49Z",
+            "channelId": "UCVr-TwiGNnveWyOouIyz2fQ",
+            "title": "Mariah Carey's Valentine's Day Promise for Hubby Nick Cannon",
+            "description": "It's Valentine's Day, and \"Extra\" caught up with a bouquet of celebs, including Mariah Carey, Amber Heard, Regina Hall and Alex Pettyfer, to get the lowdown on their romantic plans.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/QuqykEGg59U/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/QuqykEGg59U/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/QuqykEGg59U/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/QuqykEGg59U/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "extratv",
+            "tags": [
+                "mariah carey",
+                "nick cannon",
+                "kevin costner",
+                "amber heard",
+                "johnny depp",
+                "blake lively",
+                "alex pettyfer",
+                "regina hall"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Mariah Carey's Valentine's Day Promise for Hubby Nick Cannon",
+                "description": "It's Valentine's Day, and \"Extra\" caught up with a bouquet of celebs, including Mariah Carey, Amber Heard, Regina Hall and Alex Pettyfer, to get the lowdown on their romantic plans."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT2M16S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "13425",
+            "likeCount": "128",
+            "favoriteCount": "0",
+            "commentCount": "11"
+        }
+    }
+]

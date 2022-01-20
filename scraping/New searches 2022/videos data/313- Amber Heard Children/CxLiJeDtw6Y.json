@@ -1,0 +1,80 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "TKvcRUiU4BgPCgtPlqN7Ozf_69M",
+        "id": "CxLiJeDtw6Y",
+        "snippet": {
+            "publishedAt": "2020-02-10T10:15:00Z",
+            "channelId": "UChs7lcuw4qOCxl3SJRPuidQ",
+            "title": "Hollywood shocking news: Johnny Depp accuses Amber Heard of mistreating his children",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/CxLiJeDtw6Y/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/CxLiJeDtw6Y/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/CxLiJeDtw6Y/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/CxLiJeDtw6Y/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/CxLiJeDtw6Y/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "DT Media",
+            "tags": [
+                "DT Media",
+                "news",
+                "Johnny Depp",
+                "shocking news",
+                "accuses",
+                "Amber Heard",
+                "mistreating",
+                "children"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Hollywood shocking news: Johnny Depp accuses Amber Heard of mistreating his children",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT2M56S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": false,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "1812",
+            "likeCount": "17",
+            "favoriteCount": "0",
+            "commentCount": "3"
+        }
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "9EidZfY-GNYhL5rFld6t-zbCXqc",
+        "id": "5sAPtKDBWQg",
+        "snippet": {
+            "publishedAt": "2018-12-20T18:00:26Z",
+            "channelId": "UCM7j9Fo2_42rB2Y-Z8YSdAA",
+            "title": "Amber Heard's Met Gala headband was made of plastic zip",
+            "description": "Amber Heard's Met Gala headband was made of plastic zip",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/5sAPtKDBWQg/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/5sAPtKDBWQg/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/5sAPtKDBWQg/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/5sAPtKDBWQg/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Amber Heard",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Heard's Met Gala headband was made of plastic zip",
+                "description": "Amber Heard's Met Gala headband was made of plastic zip"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT16S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "53",
+            "likeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

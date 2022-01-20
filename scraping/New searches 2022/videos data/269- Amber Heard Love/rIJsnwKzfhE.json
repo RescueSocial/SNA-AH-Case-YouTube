@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "I3eu7dCVPjqjkz0Mz3WA1DuIISU",
+        "id": "rIJsnwKzfhE",
+        "snippet": {
+            "publishedAt": "2017-04-16T14:12:51Z",
+            "channelId": "UCTuk7-hi3h7_jWl42f8iclQ",
+            "title": "When You Love Someone - James TW (Cover by Amber Heard)",
+            "description": "Here's my acoustic cover of When You Love Someone by James TW\n\nInstagram: amberhearrd\nTwitter: BadReputatiom\nSnapchat: amb3rheard",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/rIJsnwKzfhE/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/rIJsnwKzfhE/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/rIJsnwKzfhE/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/rIJsnwKzfhE/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/rIJsnwKzfhE/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Amber Heard",
+            "tags": [
+                "guitar"
+            ],
+            "categoryId": "10",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "When You Love Someone - James TW (Cover by Amber Heard)",
+                "description": "Here's my acoustic cover of When You Love Someone by James TW\n\nInstagram: amberhearrd\nTwitter: BadReputatiom\nSnapchat: amb3rheard"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT2M41S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "54",
+            "likeCount": "2",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

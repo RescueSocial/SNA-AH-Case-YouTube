@@ -1,0 +1,75 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "qjTFvWPA_9M8TTtQTIoCbSODoNQ",
+        "id": "iCpFAleASCQ",
+        "snippet": {
+            "publishedAt": "2014-02-19T22:17:34Z",
+            "channelId": "UCupvZG-5ko_eiXAupbDfxWw",
+            "title": "Kevin Costner in charge!",
+            "description": "Kevin Costner in charge, Amber Heard acts out and Sarah Hyland's acting inspiration!",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/iCpFAleASCQ/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/iCpFAleASCQ/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/iCpFAleASCQ/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "CNN",
+            "tags": [
+                "CNN",
+                "News",
+                "CNN TV",
+                "CNN Newsroom",
+                "Showbiz",
+                "the buzz today!",
+                "kevin costner",
+                "amber heard",
+                "three days to kill",
+                "sarah hyland",
+                "modern family",
+                "vampire academy",
+                "entertainment"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Kevin Costner in charge!",
+                "description": "Kevin Costner in charge, Amber Heard acts out and Sarah Hyland's acting inspiration!"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT1M55S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "351",
+            "likeCount": "6",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

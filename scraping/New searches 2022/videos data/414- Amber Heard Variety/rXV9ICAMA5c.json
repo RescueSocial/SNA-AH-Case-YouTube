@@ -1,0 +1,76 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "5HvrfDNDW8n3XvDgJxeImBRJbC8",
+        "id": "rXV9ICAMA5c",
+        "snippet": {
+            "publishedAt": "2013-04-26T19:38:37Z",
+            "channelId": "UC-8I8NML3vVR3j3WM_IJVGA",
+            "title": "Spotlight ETSU: Dr. Amber Kinser: Chair of the Department of Communication",
+            "description": " ",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/rXV9ICAMA5c/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/rXV9ICAMA5c/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/rXV9ICAMA5c/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/rXV9ICAMA5c/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/rXV9ICAMA5c/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "ETSURTVF",
+            "tags": [
+                "ETSU",
+                "RTVF",
+                "Dr. Amber Kinser",
+                "Feminism"
+            ],
+            "categoryId": "1",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Spotlight ETSU: Dr. Amber Kinser: Chair of the Department of Communication",
+                "description": " "
+            }
+        },
+        "contentDetails": {
+            "duration": "PT30M9S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "295",
+            "likeCount": "2",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

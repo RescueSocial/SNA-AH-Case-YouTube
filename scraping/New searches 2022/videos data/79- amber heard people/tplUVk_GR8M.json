@@ -1,0 +1,78 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "tXrcQCEpTI84uVXodXKoR10rkIc",
+        "id": "tplUVk_GR8M",
+        "snippet": {
+            "publishedAt": "2015-10-01T01:30:38Z",
+            "channelId": "UCHJuQZuzapBh-CuhRYxIZrg",
+            "title": "People hearing for the first time, thanks to Johnny Depp",
+            "description": "Johnny Depp and his wife Amber Heard partnered with the Starkey Hearing Foundation in Rio De Janeiro to provide people with hearing aids.\n\nStory by Aly Weisman, editing by Stephen Parkhurst.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/tplUVk_GR8M/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/tplUVk_GR8M/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/tplUVk_GR8M/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/tplUVk_GR8M/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/tplUVk_GR8M/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Insider",
+            "tags": [
+                "Johnny Depp",
+                "Hearing",
+                "Hearing a",
+                "Amber Hea",
+                "Rio De Janeiro (Administrative Division)"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "People hearing for the first time, thanks to Johnny Depp",
+                "description": "Johnny Depp and his wife Amber Heard partnered with the Starkey Hearing Foundation in Rio De Janeiro to provide people with hearing aids.\n\nStory by Aly Weisman, editing by Stephen Parkhurst."
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT1M19S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "13961",
+            "likeCount": "327",
+            "favoriteCount": "0",
+            "commentCount": "29"
+        }
+    }
+]

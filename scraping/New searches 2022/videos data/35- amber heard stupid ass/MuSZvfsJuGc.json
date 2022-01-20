@@ -1,0 +1,83 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "gm7hRdhlZ2ga7x8j2rYO68yX3Jk",
+        "id": "MuSZvfsJuGc",
+        "snippet": {
+            "publishedAt": "2016-11-08T22:41:53Z",
+            "channelId": "UCME2vmJvViszfrkl91Ze3VA",
+            "title": "Teamzy Training for Amber Edwards 11-7-16",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/MuSZvfsJuGc/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/MuSZvfsJuGc/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/MuSZvfsJuGc/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/MuSZvfsJuGc/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/MuSZvfsJuGc/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Teamzy",
+            "tags": [
+                "teamzy",
+                "crm",
+                "software",
+                "team",
+                "beach body",
+                "Amber Edwards",
+                "relationship marketing",
+                "network marketing",
+                "coaches",
+                "power hour",
+                "follow ups"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Teamzy Training for Amber Edwards 11-7-16",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT1H15M28S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "52",
+            "likeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

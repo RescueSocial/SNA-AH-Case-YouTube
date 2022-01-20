@@ -1,0 +1,75 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "WIbjlBs55Qz2h-wHB0Qx1KubP-s",
+        "id": "sj5EYdwahPU",
+        "snippet": {
+            "publishedAt": "2013-12-10T10:45:00Z",
+            "channelId": "UCC2elSPpLvPEYASyhs_keig",
+            "title": "Miss San Antonio - Machete Kills",
+            "description": "Ab 19. Dezember im Kino: \"Machete Kills\" mt Danny Trejo und Amber Heard",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/sj5EYdwahPU/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/sj5EYdwahPU/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/sj5EYdwahPU/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/sj5EYdwahPU/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/sj5EYdwahPU/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "TV Movie",
+            "tags": [
+                "Machete Kills (Film)",
+                "Amber Heard (TV Actor)",
+                "Danny Trejo"
+            ],
+            "categoryId": "1",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Miss San Antonio - Machete Kills",
+                "description": "Ab 19. Dezember im Kino: \"Machete Kills\" mt Danny Trejo und Amber Heard"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT2M8S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "2054383",
+            "likeCount": "7767",
+            "favoriteCount": "0",
+            "commentCount": "136"
+        }
+    }
+]

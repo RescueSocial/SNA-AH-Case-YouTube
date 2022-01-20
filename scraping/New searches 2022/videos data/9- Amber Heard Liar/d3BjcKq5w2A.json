@@ -1,0 +1,74 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "vs92Deo9dQJBFn1DPEKajUJ7IAM",
+        "id": "d3BjcKq5w2A",
+        "snippet": {
+            "publishedAt": "2020-07-13T19:51:07Z",
+            "channelId": "UC-kBvjp01-VbKiDmOfF67nw",
+            "title": "GLEE - Full Performance of 'Rumour Has It/Someone Like You\" from \"Mash Off\"",
+            "description": "#Glee #NayaRivera #AmberRiley #HeatherMorris\n#SantanaLopez #MercedesJones #BrittanyPierce",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/d3BjcKq5w2A/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/d3BjcKq5w2A/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/d3BjcKq5w2A/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/d3BjcKq5w2A/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/d3BjcKq5w2A/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Glee Forever!",
+            "tags": [
+                "Glee"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "GLEE - Full Performance of 'Rumour Has It/Someone Like You\" from \"Mash Off\"",
+                "description": "#Glee #NayaRivera #AmberRiley #HeatherMorris\n#SantanaLopez #MercedesJones #BrittanyPierce"
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT4M34S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "4011273",
+            "likeCount": "63243",
+            "favoriteCount": "0",
+            "commentCount": "2553"
+        }
+    }
+]

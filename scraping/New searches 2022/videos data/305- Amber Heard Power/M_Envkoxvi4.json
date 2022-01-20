@@ -1,0 +1,65 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "04L6k0O0SGFUDY9CV5tIZVqWvY4",
+        "id": "M_Envkoxvi4",
+        "snippet": {
+            "publishedAt": "2020-02-17T18:16:58Z",
+            "channelId": "UCvPRFQpegqwlq_VwoKzKblg",
+            "title": "The Power of Lyrical Sign Language with Amber Brown",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/M_Envkoxvi4/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/M_Envkoxvi4/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/M_Envkoxvi4/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/M_Envkoxvi4/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Gellman Images",
+            "categoryId": "1",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "The Power of Lyrical Sign Language with Amber Brown",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT2M52S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "335",
+            "likeCount": "19",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

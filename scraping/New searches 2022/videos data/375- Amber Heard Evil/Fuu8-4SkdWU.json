@@ -1,0 +1,68 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "xjkmmz21d1a2R0m3OBjZxyrtf8A",
+        "id": "Fuu8-4SkdWU",
+        "snippet": {
+            "publishedAt": "2018-12-14T01:02:08Z",
+            "channelId": "UC4W6DD4a9qCBsIlDvi5XBtQ",
+            "title": "Aquaman   Official final Trailer 2018  Jason Momoa, Amber Heard, Willem Dafoe",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/Fuu8-4SkdWU/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/Fuu8-4SkdWU/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/Fuu8-4SkdWU/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Tubros trailers",
+            "tags": [
+                "Aquaman",
+                "official trailer",
+                "2018",
+                "new"
+            ],
+            "categoryId": "1",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "Aquaman   Official final Trailer 2018  Jason Momoa, Amber Heard, Willem Dafoe",
+                "description": ""
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT5M18S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "16",
+            "likeCount": "3",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

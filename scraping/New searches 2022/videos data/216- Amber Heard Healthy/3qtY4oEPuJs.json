@@ -1,0 +1,65 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "R0kR7jnr4Tf7OLKJcEWncWVr_rs",
+        "id": "3qtY4oEPuJs",
+        "snippet": {
+            "publishedAt": "2020-04-09T23:22:48Z",
+            "channelId": "UC-x9uuKABtHuuc4Y02bGWvQ",
+            "title": "Pop Up Health Discussion with Amber! - April 7, 2020",
+            "description": "Listen in as Amber gives a brief presentation on Grief and what you can do to remain healthy through this challenging time!",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/3qtY4oEPuJs/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/3qtY4oEPuJs/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/3qtY4oEPuJs/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/3qtY4oEPuJs/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Peterson & Perme Associates, LLC",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Pop Up Health Discussion with Amber! - April 7, 2020",
+                "description": "Listen in as Amber gives a brief presentation on Grief and what you can do to remain healthy through this challenging time!"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT24M56S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "25",
+            "likeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

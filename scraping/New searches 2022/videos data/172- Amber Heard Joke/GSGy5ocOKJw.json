@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "kDYJKSsu2BnEzP42YP-2ouDWKvo",
+        "id": "GSGy5ocOKJw",
+        "snippet": {
+            "publishedAt": "2013-04-23T21:32:36Z",
+            "channelId": "UCdp1TOfUNKchxzxlkc_Qi3Q",
+            "title": "omegle prank with amber",
+            "description": " ",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/GSGy5ocOKJw/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/GSGy5ocOKJw/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/GSGy5ocOKJw/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/GSGy5ocOKJw/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/GSGy5ocOKJw/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Martin Gray",
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "omegle prank with amber",
+                "description": " "
+            }
+        },
+        "contentDetails": {
+            "duration": "PT9M56S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "79",
+            "likeCount": "1",
+            "favoriteCount": "0",
+            "commentCount": "1"
+        }
+    }
+]

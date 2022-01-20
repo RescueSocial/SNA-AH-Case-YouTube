@@ -1,0 +1,61 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "cCM0bT33IH2rR7fIM14STYbAs1Q",
+        "id": "L0tvXVE4bjs",
+        "snippet": {
+            "publishedAt": "2021-12-12T00:20:31Z",
+            "channelId": "UCSeHprDEz_3in9j7loXQJdg",
+            "title": "Fine Amberlynn, you can have A LITTLE attention.",
+            "description": "Support the stream: https://streamlabs.com/youngdumbhoneybun",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/L0tvXVE4bjs/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/L0tvXVE4bjs/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/L0tvXVE4bjs/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Young Dumb Honey Bun",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Fine Amberlynn, you can have A LITTLE attention.",
+                "description": "Support the stream: https://streamlabs.com/youngdumbhoneybun"
+            },
+            "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+            "duration": "PT2H11M27S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "35455",
+            "likeCount": "1119",
+            "favoriteCount": "0",
+            "commentCount": "169"
+        }
+    }
+]

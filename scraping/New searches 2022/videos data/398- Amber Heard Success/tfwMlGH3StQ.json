@@ -1,0 +1,71 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "dM3sihM1P-cXX3XqaH289MlZLIo",
+        "id": "tfwMlGH3StQ",
+        "snippet": {
+            "publishedAt": "2012-03-19T13:33:22Z",
+            "channelId": "UCkeI4OwVPNA3ZZiAQ7OUq6A",
+            "title": "Amber Scott Diamond Coach Success Story",
+            "description": "Amber Scott went from being down and out almost dead, to successful and empowered.  Are you up to do the same?",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/tfwMlGH3StQ/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/tfwMlGH3StQ/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/tfwMlGH3StQ/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Eric Burgan Fitness",
+            "tags": [
+                "Diamond",
+                "Team Beachbody",
+                "Beachbody",
+                "Success",
+                "Fitness",
+                "Training",
+                "Beachbody Training",
+                "Business Training",
+                "Personal Story"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Scott Diamond Coach Success Story",
+                "description": "Amber Scott went from being down and out almost dead, to successful and empowered.  Are you up to do the same?"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT5M44S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "642",
+            "likeCount": "6",
+            "favoriteCount": "0",
+            "commentCount": "1"
+        }
+    }
+]

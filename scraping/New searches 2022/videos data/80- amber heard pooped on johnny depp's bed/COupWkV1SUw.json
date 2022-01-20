@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "7LOGkNKHDiY3dQFPogKSeNay6m0",
+        "id": "COupWkV1SUw",
+        "snippet": {
+            "publishedAt": "2020-11-18T06:15:01Z",
+            "channelId": "UCFATVSlQycWfmKIcqbI52Xw",
+            "title": "Ep 128 Mandalorian, Amber Turd, And Friday The 13th",
+            "description": "We talk the recent outrage with baby yoda, the outrage with Amber Heard, and a little about Friday the 13th along with some special announcements.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/COupWkV1SUw/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/COupWkV1SUw/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/COupWkV1SUw/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/COupWkV1SUw/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/COupWkV1SUw/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Completely Inappropriate Podcast",
+            "categoryId": "23",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Ep 128 Mandalorian, Amber Turd, And Friday The 13th",
+                "description": "We talk the recent outrage with baby yoda, the outrage with Amber Heard, and a little about Friday the 13th along with some special announcements."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT46M27S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "2",
+            "likeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

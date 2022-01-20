@@ -1,0 +1,80 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "fUYig31y30oV4ynOZiIXzqUJskI",
+        "id": "dU4pvQ_a_nw",
+        "snippet": {
+            "publishedAt": "2020-04-08T14:30:02Z",
+            "channelId": "UChs7lcuw4qOCxl3SJRPuidQ",
+            "title": "Johnny Depp's bodyguard talks about his madness after 'losing' his finger from Amber Heard",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/dU4pvQ_a_nw/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/dU4pvQ_a_nw/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/dU4pvQ_a_nw/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/dU4pvQ_a_nw/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/dU4pvQ_a_nw/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "DT Media",
+            "tags": [
+                "DT Media",
+                "news",
+                "Johnny Depp",
+                "bodyguard",
+                "madness",
+                "losing",
+                "finger",
+                "Amber Heard"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Johnny Depp's bodyguard talks about his madness after 'losing' his finger from Amber Heard",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT3M49S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": false,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "4079",
+            "likeCount": "43",
+            "favoriteCount": "0",
+            "commentCount": "6"
+        }
+    }
+]

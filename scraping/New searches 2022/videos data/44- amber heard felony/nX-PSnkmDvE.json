@@ -1,0 +1,81 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "_2b4APy4A8ZQZz0mBOBHWhFYTqY",
+        "id": "nX-PSnkmDvE",
+        "snippet": {
+            "publishedAt": "2019-09-23T19:09:36Z",
+            "channelId": "UCxMXl9L79X1Mq_4iwCOyPFg",
+            "title": "Prosecutors Make Case Against Amber Guyger During Opening Statements Of Murder Trial",
+            "description": "During their opening statements, prosecutors argued their case against Amber Guyger, who is accused of murdering her apartment neighbor Botham Jean.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/nX-PSnkmDvE/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/nX-PSnkmDvE/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/nX-PSnkmDvE/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/nX-PSnkmDvE/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/nX-PSnkmDvE/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "CBSDFW",
+            "tags": [
+                "CBS 11 News Mid-day",
+                "Amber Guyger Trial",
+                "Amber Guyger",
+                "Botham Jean",
+                "DFW News",
+                "Dallas",
+                "Murder Trial"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "Prosecutors Make Case Against Amber Guyger During Opening Statements Of Murder Trial",
+                "description": "During their opening statements, prosecutors argued their case against Amber Guyger, who is accused of murdering her apartment neighbor Botham Jean."
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT30M14S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "759439",
+            "likeCount": "9009",
+            "favoriteCount": "0",
+            "commentCount": "4772"
+        }
+    }
+]

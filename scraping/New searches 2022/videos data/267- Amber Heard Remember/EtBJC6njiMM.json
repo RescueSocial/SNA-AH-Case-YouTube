@@ -1,0 +1,80 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "lYDJGhhMQXzKZsEPg6mzf8W1o0U",
+        "id": "EtBJC6njiMM",
+        "snippet": {
+            "publishedAt": "2020-07-15T15:00:04Z",
+            "channelId": "UCfmwiL5YxPF0WPwOWCYGDtw",
+            "title": "Johnny Depp insulted by Amber Heard during Bahamas trip says his employee",
+            "description": "This is a news channel dedicated to providing news and my perspective of that topic. Please remember to like, comment and subscribe. I would love to hear what you think?",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/EtBJC6njiMM/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/EtBJC6njiMM/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/EtBJC6njiMM/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/EtBJC6njiMM/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/EtBJC6njiMM/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Galeblade127",
+            "tags": [
+                "news",
+                "gale blade news",
+                "Johnny Depp",
+                "Amber Heard",
+                "News Group Newspapers",
+                "estate manager",
+                "Ms Roberts"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Johnny Depp insulted by Amber Heard during Bahamas trip says his employee",
+                "description": "This is a news channel dedicated to providing news and my perspective of that topic. Please remember to like, comment and subscribe. I would love to hear what you think?"
+            },
+            "defaultAudioLanguage": "en-GB"
+        },
+        "contentDetails": {
+            "duration": "PT5M24S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "7",
+            "likeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

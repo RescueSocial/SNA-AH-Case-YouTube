@@ -1,0 +1,80 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "C-NIsZpZOIWNN7nfsxIhnYjmlN0",
+        "id": "4n3UWDAc7Wo",
+        "snippet": {
+            "publishedAt": "2018-04-11T03:21:53Z",
+            "channelId": "UCXJryYh6xcW5iEeJGzK191A",
+            "title": "Miami Beach Men Attacked After Gay Pride Event Thankful For Community's Support",
+            "description": "CBS Miami's Amber Diaz reports on the four suspects wanted for assaulting two gay men on Miami Beach turning themselves in.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/4n3UWDAc7Wo/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/4n3UWDAc7Wo/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/4n3UWDAc7Wo/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/4n3UWDAc7Wo/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/4n3UWDAc7Wo/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "CBS Miami",
+            "tags": [
+                "CBS 4 News Evening",
+                "Miami Beach",
+                "LGBT",
+                "Assault",
+                "Beating",
+                "Gay Pride Festival",
+                "Ocean Drive"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Miami Beach Men Attacked After Gay Pride Event Thankful For Community's Support",
+                "description": "CBS Miami's Amber Diaz reports on the four suspects wanted for assaulting two gay men on Miami Beach turning themselves in."
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT2M54S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "8740",
+            "likeCount": "63",
+            "favoriteCount": "0",
+            "commentCount": "30"
+        }
+    }
+]

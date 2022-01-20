@@ -1,0 +1,76 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "apfnN_Rjq7s6Qw_Z57MM5gpirOc",
+        "id": "qul2B8iPC-o",
+        "snippet": {
+            "publishedAt": "2017-11-11T18:59:19Z",
+            "channelId": "UCCBVCTuk6uJrN3iFV_3vurg",
+            "title": "Java Language Futures - All Aboard Project Amber by Brian Goetz",
+            "description": "The accelerated release cadence for the Java platform offers us many more opportunities for delivering new features -- and we plan to do just that. Join Java Language Architect Brian Goetz on a whirlwind tour of the language features under development in Project Amber.\n\n# Brian Goetz\nBrian Goetz is the Java Language Architect at Oracle, and was the specification lead for JSR-335 (Lambda Expressions for the Java Programming Language.) He is the author of the best-selling Java Concurrency in Practice, as well as over 75 articles on Java development, and has been fascinated by programming since Jimmy Carter was President.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/qul2B8iPC-o/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/qul2B8iPC-o/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/qul2B8iPC-o/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/qul2B8iPC-o/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/qul2B8iPC-o/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Devoxx",
+            "tags": [
+                "DV17",
+                "Devoxx"
+            ],
+            "categoryId": "28",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "Java Language Futures - All Aboard Project Amber by Brian Goetz",
+                "description": "The accelerated release cadence for the Java platform offers us many more opportunities for delivering new features -- and we plan to do just that. Join Java Language Architect Brian Goetz on a whirlwind tour of the language features under development in Project Amber.\n\n# Brian Goetz\nBrian Goetz is the Java Language Architect at Oracle, and was the specification lead for JSR-335 (Lambda Expressions for the Java Programming Language.) He is the author of the best-selling Java Concurrency in Practice, as well as over 75 articles on Java development, and has been fascinated by programming since Jimmy Carter was President."
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT59M35S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "10313",
+            "likeCount": "169",
+            "favoriteCount": "0",
+            "commentCount": "18"
+        }
+    }
+]

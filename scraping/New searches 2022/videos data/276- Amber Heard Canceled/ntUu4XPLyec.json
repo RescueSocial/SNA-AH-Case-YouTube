@@ -1,0 +1,76 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "NRKYlrkovxqTAURUXu1a1fuQ-mc",
+        "id": "ntUu4XPLyec",
+        "snippet": {
+            "publishedAt": "2020-02-17T23:15:05Z",
+            "channelId": "UCKQo5ORhXZTs48SPk8tcAeQ",
+            "title": "AMBER ALERT: Regional alert canceled for 10-year-old Houston boy",
+            "description": "AMBER ALERT: Regional alert canceled for 10-year-old Houston boy",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/ntUu4XPLyec/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/ntUu4XPLyec/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/ntUu4XPLyec/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/ntUu4XPLyec/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/ntUu4XPLyec/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "KETK NBC",
+            "tags": [
+                "video",
+                "KETK News"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "AMBER ALERT: Regional alert canceled for 10-year-old Houston boy",
+                "description": "AMBER ALERT: Regional alert canceled for 10-year-old Houston boy"
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT19S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": false,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "43",
+            "likeCount": "1",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

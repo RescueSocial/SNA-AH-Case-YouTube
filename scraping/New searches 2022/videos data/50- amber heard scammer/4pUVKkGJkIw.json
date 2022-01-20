@@ -1,0 +1,65 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "LmkUk4-K2YCffG61ilRXVTkVnuI",
+        "id": "4pUVKkGJkIw",
+        "snippet": {
+            "publishedAt": "2020-09-16T10:01:35Z",
+            "channelId": "UCOaUiXAK6mgdTslDb5vBLoQ",
+            "title": "Amber HEARD secretly recorded Johnny Depp",
+            "description": "Amber heard secretly recorded Johnny Depp",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/4pUVKkGJkIw/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/4pUVKkGJkIw/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/4pUVKkGJkIw/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/4pUVKkGJkIw/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Bogs Espelekpek",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber HEARD secretly recorded Johnny Depp",
+                "description": "Amber heard secretly recorded Johnny Depp"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT2M19S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "114",
+            "likeCount": "2",
+            "favoriteCount": "0",
+            "commentCount": "2"
+        }
+    }
+]

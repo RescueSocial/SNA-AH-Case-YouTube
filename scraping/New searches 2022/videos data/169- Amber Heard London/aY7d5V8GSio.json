@@ -1,0 +1,76 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "MdtSRZoKo0374QRsNn6PPMLBlOA",
+        "id": "aY7d5V8GSio",
+        "snippet": {
+            "publishedAt": "2018-11-26T19:38:34Z",
+            "channelId": "UC1_e6dGlZLAGRjW2Zfq5QkA",
+            "title": "Aquaman - World Premiere in London",
+            "description": "Watch the action LIVE from the #Aquaman World Premiere in London, with Jason Momoa, Amber Heard, Patrick Wilson, Dolph Lundgren, and director James Wan.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/aY7d5V8GSio/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/aY7d5V8GSio/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/aY7d5V8GSio/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Warner Bros Belgium",
+            "tags": [
+                "entertainment",
+                "film",
+                "premiere",
+                "film premiere",
+                "world premiere",
+                "Jason Momoa",
+                "Amber Heard",
+                "Patrick Wilson",
+                "Dolph Lundgren",
+                "James Wan",
+                "nicole kidman",
+                "dc",
+                "aquaman",
+                "arthur curry"
+            ],
+            "categoryId": "1",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Aquaman - World Premiere in London",
+                "description": "Watch the action LIVE from the #Aquaman World Premiere in London, with Jason Momoa, Amber Heard, Patrick Wilson, Dolph Lundgren, and director James Wan."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT1H4M46S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "2205",
+            "likeCount": "20",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

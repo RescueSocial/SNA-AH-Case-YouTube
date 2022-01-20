@@ -1,0 +1,67 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "W7g5os5ydE_-ob41M6OZL_Bx0Q0",
+        "id": "DZcc2N6_b_g",
+        "snippet": {
+            "publishedAt": "2021-06-29T04:34:24Z",
+            "channelId": "UCg6O9xOJQeacWneBYZWgXIw",
+            "title": "Johnny Depp X Amber Heard \u2764\ufe0f | #KissAndLove \ud83d\ude18",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/DZcc2N6_b_g/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/DZcc2N6_b_g/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/DZcc2N6_b_g/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Buzz Hub",
+            "tags": [
+                "#johnnydepp",
+                "#amberheard",
+                "#lovestory",
+                "#lovelymoments",
+                "#kissmebaby"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Johnny Depp X Amber Heard \u2764\ufe0f | #KissAndLove \ud83d\ude18",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT18S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "903",
+            "likeCount": "30",
+            "favoriteCount": "0",
+            "commentCount": "1"
+        }
+    }
+]

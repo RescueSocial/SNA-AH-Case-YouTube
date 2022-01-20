@@ -1,0 +1,61 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "uuL5MD8_QfynxvfL5ki6HxjnBMs",
+        "id": "pztrSCWh4bg",
+        "snippet": {
+            "publishedAt": "2021-03-24T13:42:36Z",
+            "channelId": "UC6MV4B_tR8nTs44zY_PZVng",
+            "title": "Servicing Customers and Outside Orders with Amber Kopecky",
+            "description": "Fun ideas to implement to make sure you always have sales, even when \u201clife happens\u201d",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/pztrSCWh4bg/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/pztrSCWh4bg/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/pztrSCWh4bg/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Pure Romance Partner Training",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Servicing Customers and Outside Orders with Amber Kopecky",
+                "description": "Fun ideas to implement to make sure you always have sales, even when \u201clife happens\u201d"
+            },
+            "defaultAudioLanguage": "es-419"
+        },
+        "contentDetails": {
+            "duration": "PT1H40S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "1463",
+            "likeCount": "45",
+            "favoriteCount": "0",
+            "commentCount": "3"
+        }
+    }
+]

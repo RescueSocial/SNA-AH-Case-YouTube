@@ -1,0 +1,75 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "-lrWA41v3qHXMWMD8pX1Mf-SRH4",
+        "id": "sxF2c_nhiGM",
+        "snippet": {
+            "publishedAt": "2016-11-18T00:04:13Z",
+            "channelId": "UCL7tLWweJkGIXM24SPS84oA",
+            "title": "Cell phone emergency broadcast / AMBER alert sound",
+            "description": "This is what it sounds like when a phone receives an emergency broadcast, presidential or AMBER alert.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/sxF2c_nhiGM/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/sxF2c_nhiGM/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/sxF2c_nhiGM/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/sxF2c_nhiGM/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/sxF2c_nhiGM/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Andrew Martonik",
+            "tags": [
+                "emergency alert",
+                "emergency broadcast",
+                "amber alert"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Cell phone emergency broadcast / AMBER alert sound",
+                "description": "This is what it sounds like when a phone receives an emergency broadcast, presidential or AMBER alert."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT14S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "971793",
+            "likeCount": "4295",
+            "favoriteCount": "0",
+            "commentCount": "1803"
+        }
+    }
+]

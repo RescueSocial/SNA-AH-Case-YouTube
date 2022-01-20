@@ -1,0 +1,64 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "iO82nyPWDNpsvf0UBhc12aIBhJw",
+        "id": "5SZJ8aJVoxY",
+        "snippet": {
+            "publishedAt": "2021-06-21T12:57:52Z",
+            "channelId": "UCO6kzQ-7wcG0x8W5LpBA9RQ",
+            "title": "Amber Alert: Search for Summer Wells enters 6th day",
+            "description": "Tuesday will mark one week since 5-year-old Summer Wells disappeared from her East Tennessee home.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/5SZJ8aJVoxY/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/5SZJ8aJVoxY/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/5SZJ8aJVoxY/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "NewsChannel 5",
+            "tags": [
+                "Amber Alert: Search for Summer Wells enters 6th day"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Alert: Search for Summer Wells enters 6th day",
+                "description": "Tuesday will mark one week since 5-year-old Summer Wells disappeared from her East Tennessee home."
+            },
+            "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+            "duration": "PT1M22S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "6409",
+            "likeCount": "137",
+            "favoriteCount": "0",
+            "commentCount": "76"
+        }
+    }
+]

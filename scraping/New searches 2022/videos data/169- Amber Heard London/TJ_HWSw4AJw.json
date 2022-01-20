@@ -1,0 +1,72 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "zRMZwiNcHFN8ZXtgKUZ_LtTgQpk",
+        "id": "TJ_HWSw4AJw",
+        "snippet": {
+            "publishedAt": "2013-06-22T09:15:08Z",
+            "channelId": "UCiIQAn78GovU74O0SKN-bpQ",
+            "title": "AMBER LONDON - WILLIN 2 DIE (MUSIC VIDEO)",
+            "description": "Mid 2012\n\nMusic video for Willin 2 Die",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/TJ_HWSw4AJw/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/TJ_HWSw4AJw/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/TJ_HWSw4AJw/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "ASTRAL PROMO (Owned By Lex Elder)",
+            "tags": [
+                "Amber",
+                "london",
+                "raider",
+                "klan",
+                "die",
+                "black",
+                "money",
+                "world",
+                "teamsesh",
+                "houston"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "AMBER LONDON - WILLIN 2 DIE (MUSIC VIDEO)",
+                "description": "Mid 2012\n\nMusic video for Willin 2 Die"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT3M26S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "31045",
+            "likeCount": "604",
+            "favoriteCount": "0",
+            "commentCount": "37"
+        }
+    }
+]

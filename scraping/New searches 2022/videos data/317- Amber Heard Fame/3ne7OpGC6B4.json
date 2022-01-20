@@ -1,0 +1,64 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "kqFXrJHmIaqDp-M9fTk42e54yDQ",
+        "id": "3ne7OpGC6B4",
+        "snippet": {
+            "publishedAt": "2015-05-17T18:37:51Z",
+            "channelId": "UCyb2bmVRXckGuRu9MpPnElQ",
+            "title": "Jezebel Magazine Featuring Amber Heard",
+            "description": "Jezebel magazine featuring Amber Heard. Plus Maria Menounos and Chris Klein.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/3ne7OpGC6B4/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/3ne7OpGC6B4/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/3ne7OpGC6B4/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "PreviewNow",
+            "tags": [
+                "Amber Heard",
+                "Amber Heard Jezebel"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Jezebel Magazine Featuring Amber Heard",
+                "description": "Jezebel magazine featuring Amber Heard. Plus Maria Menounos and Chris Klein."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT54S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "270",
+            "likeCount": "3",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "aW2kfBo1v_qxG1jWMOPzxlJNCWo",
+        "id": "TCg3cydWC64",
+        "snippet": {
+            "publishedAt": "2019-09-20T23:29:28Z",
+            "channelId": "UCBu0KdNokE4MqdkacvH37_A",
+            "title": "Who is Amber Guyger?",
+            "description": "Who is Amber Guyger? Facts and information about Amber Guyger.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/TCg3cydWC64/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/TCg3cydWC64/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/TCg3cydWC64/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/TCg3cydWC64/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "WFAA",
+            "tags": [
+                "botham-jean",
+                "special-reports",
+                "news"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "Who is Amber Guyger?",
+                "description": "Who is Amber Guyger? Facts and information about Amber Guyger."
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT1M52S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "3278",
+            "likeCount": "18",
+            "favoriteCount": "0",
+            "commentCount": "25"
+        }
+    }
+]

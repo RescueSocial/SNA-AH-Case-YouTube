@@ -1,0 +1,69 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "rwUYspqBz21UaiDA5Iw4-N5j-Fk",
+        "id": "FTUcAczdrCU",
+        "snippet": {
+            "publishedAt": "2014-05-04T22:23:05Z",
+            "channelId": "UC4WibSOS3PQEt6vEJSXmQyg",
+            "title": "'THE INFORMERS' - feature film - directed by Gregor Jordan",
+            "description": "Starring: Billy Bob Thornton, Kim Basinger\nWinona Ryder, Mickey Rourke, Amber Heard\nProduced by Marco Weber - Co-Executive producer: Miggel\nLine Producer (UY/ARG): Miggel & Sun\nReleased by Senator\nLocations: Los Angeles, Uruguay, Buenos Aires",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/FTUcAczdrCU/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/FTUcAczdrCU/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/FTUcAczdrCU/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Miggel Schwickerath",
+            "tags": [
+                "The Informers (Film)",
+                "Feature Film (Invention)",
+                "Miggel&Sun",
+                "Uruguay (Country)",
+                "production services",
+                "Film Producer (Profession)",
+                "Bret Easton Ellis (Author)"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "'THE INFORMERS' - feature film - directed by Gregor Jordan",
+                "description": "Starring: Billy Bob Thornton, Kim Basinger\nWinona Ryder, Mickey Rourke, Amber Heard\nProduced by Marco Weber - Co-Executive producer: Miggel\nLine Producer (UY/ARG): Miggel & Sun\nReleased by Senator\nLocations: Los Angeles, Uruguay, Buenos Aires"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT1M54S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "1012",
+            "likeCount": "5",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

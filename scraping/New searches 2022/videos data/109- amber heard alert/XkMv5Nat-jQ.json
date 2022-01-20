@@ -1,0 +1,79 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "Wnmn_Ly6v_mG-FDlYwVCNdeMSWY",
+        "id": "XkMv5Nat-jQ",
+        "snippet": {
+            "publishedAt": "2021-02-04T13:50:54Z",
+            "channelId": "UCJnpF9oROFPvd7wWbPUDdGA",
+            "title": "Amber Alert canceled after 3-year-old Farmington girl located",
+            "description": "Amber Alert canceled after 3-year-old Farmington girl located",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/XkMv5Nat-jQ/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/XkMv5Nat-jQ/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/XkMv5Nat-jQ/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/XkMv5Nat-jQ/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/XkMv5Nat-jQ/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "KRQE",
+            "tags": [
+                "http://krqe.com",
+                "news",
+                "video",
+                "new mexico",
+                "krqe",
+                "albuquerque"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Alert canceled after 3-year-old Farmington girl located",
+                "description": "Amber Alert canceled after 3-year-old Farmington girl located"
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT26S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "531",
+            "likeCount": "4",
+            "favoriteCount": "0",
+            "commentCount": "5"
+        }
+    }
+]

@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "EGbgCU8abp9S2CgVdyTEjTvKRUU",
+        "id": "1KvdeE5MHL4",
+        "snippet": {
+            "publishedAt": "2020-10-02T08:19:43Z",
+            "channelId": "UC2IYyHgCMcvMv4ACDCdKmiA",
+            "title": "How to Have a Very Successful FTP Game - Bill Mooney for Amber Academy",
+            "description": "Watch this video to discover the secrets of Live-Ops from one the best mentors Bill Money - CEO Proteus Games.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/1KvdeE5MHL4/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/1KvdeE5MHL4/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/1KvdeE5MHL4/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/1KvdeE5MHL4/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/1KvdeE5MHL4/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Amber Studio",
+            "categoryId": "20",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "How to Have a Very Successful FTP Game - Bill Mooney for Amber Academy",
+                "description": "Watch this video to discover the secrets of Live-Ops from one the best mentors Bill Money - CEO Proteus Games."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT53M11S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "314",
+            "likeCount": "3",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

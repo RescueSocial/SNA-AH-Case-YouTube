@@ -1,0 +1,74 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "aF630bT0_x4Ehkc87WW_xA86aLo",
+        "id": "XjlxXP2T0uk",
+        "snippet": {
+            "publishedAt": "2021-07-14T22:48:49Z",
+            "channelId": "UCTuk7-hi3h7_jWl42f8iclQ",
+            "title": "Ivy - Frank Ocean (Cover by Amber Heard)",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/XjlxXP2T0uk/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/XjlxXP2T0uk/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/XjlxXP2T0uk/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Amber Heard",
+            "tags": [
+                "ivy",
+                "frank ocean",
+                "sing",
+                "singing",
+                "musician",
+                "guitar",
+                "acoustic",
+                "artist",
+                "tiktok",
+                "cover",
+                "cover song"
+            ],
+            "categoryId": "10",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Ivy - Frank Ocean (Cover by Amber Heard)",
+                "description": ""
+            },
+            "defaultAudioLanguage": "en-CA"
+        },
+        "contentDetails": {
+            "duration": "PT24S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "15",
+            "likeCount": "1",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

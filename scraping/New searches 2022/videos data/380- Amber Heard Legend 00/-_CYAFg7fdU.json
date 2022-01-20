@@ -1,0 +1,76 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "UrNbtUM5z2-jRx1fy6mkVfe9CFM",
+        "id": "-_CYAFg7fdU",
+        "snippet": {
+            "publishedAt": "2011-01-26T11:34:51Z",
+            "channelId": "UC1ru3b019rb7WBj7lTMpVSQ",
+            "title": "Amber & The Dude - Legend @ La Bellevilloise",
+            "description": "Paris, 21/01/2011 - http://www.its-my-live.com",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/-_CYAFg7fdU/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/-_CYAFg7fdU/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/-_CYAFg7fdU/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/-_CYAFg7fdU/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/-_CYAFg7fdU/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "M\u00e9gane Helders",
+            "tags": [
+                "amber and the dude",
+                "legend",
+                "bellevilloise",
+                "paris live show"
+            ],
+            "categoryId": "10",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber & The Dude - Legend @ La Bellevilloise",
+                "description": "Paris, 21/01/2011 - http://www.its-my-live.com"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT2M55S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "483",
+            "likeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

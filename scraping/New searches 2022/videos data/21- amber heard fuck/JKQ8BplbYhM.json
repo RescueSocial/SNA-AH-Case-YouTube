@@ -1,0 +1,65 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "7qj9D8FNVczahA_9u2CXXX7c25w",
+        "id": "JKQ8BplbYhM",
+        "snippet": {
+            "publishedAt": "2018-01-13T17:46:09Z",
+            "channelId": "UCZRupv9GFoP8gr2ujaS8pCA",
+            "title": "Tom Kaulitz x Amber Heard - I need a Gangsta",
+            "description": "faces : Tom Kaulitz; Amber Heard \nsongs : Kehlani - Gangsta (Arkane Skye Remix )",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/JKQ8BplbYhM/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/JKQ8BplbYhM/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/JKQ8BplbYhM/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/JKQ8BplbYhM/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Crazy Badthings",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Tom Kaulitz x Amber Heard - I need a Gangsta",
+                "description": "faces : Tom Kaulitz; Amber Heard \nsongs : Kehlani - Gangsta (Arkane Skye Remix )"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT2M13S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "418",
+            "likeCount": "6",
+            "favoriteCount": "0",
+            "commentCount": "1"
+        }
+    }
+]

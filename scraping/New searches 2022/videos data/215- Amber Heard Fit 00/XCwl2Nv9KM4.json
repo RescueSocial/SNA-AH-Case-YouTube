@@ -1,0 +1,78 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "ixM5QUIpzqxIth4zwxaRLdjup_M",
+        "id": "XCwl2Nv9KM4",
+        "snippet": {
+            "publishedAt": "2015-09-18T01:38:44Z",
+            "channelId": "UCdtXPiqI2cLorKaPrfpKc4g",
+            "title": "Amber Heard Supports Johnny Depp at His Show",
+            "description": "Amber Heard was spotted adorably rocking out at her husband's concert.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/XCwl2Nv9KM4/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/XCwl2Nv9KM4/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/XCwl2Nv9KM4/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/XCwl2Nv9KM4/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Entertainment Tonight",
+            "tags": [
+                "Roxy Theater",
+                "et trending",
+                "johnny depp",
+                "etonline",
+                "trending",
+                "amber heard",
+                "et online",
+                "ET Online",
+                "ETtrending",
+                "concert",
+                "news"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Heard Supports Johnny Depp at His Show",
+                "description": "Amber Heard was spotted adorably rocking out at her husband's concert."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT53S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "2111",
+            "likeCount": "18",
+            "favoriteCount": "0",
+            "commentCount": "1"
+        }
+    }
+]

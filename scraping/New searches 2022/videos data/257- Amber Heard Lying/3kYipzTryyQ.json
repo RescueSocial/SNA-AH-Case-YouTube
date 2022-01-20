@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "6PIS675VeLZvQ5GZwndwjxiJbIw",
+        "id": "3kYipzTryyQ",
+        "snippet": {
+            "publishedAt": "2019-09-28T14:14:40Z",
+            "channelId": "UCVW-dxeQ6PgFGF43vkBF2iw",
+            "title": "Amber Guyger lying once again",
+            "description": "In her own words: The seconds leading up to the moment Amber Guyger shot Botham Jean believing he was in her apartment.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/3kYipzTryyQ/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/3kYipzTryyQ/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/3kYipzTryyQ/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/3kYipzTryyQ/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/3kYipzTryyQ/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Tangie Boss",
+            "categoryId": "1",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Guyger lying once again",
+                "description": "In her own words: The seconds leading up to the moment Amber Guyger shot Botham Jean believing he was in her apartment."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT2M34S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "31",
+            "likeCount": "2",
+            "favoriteCount": "0",
+            "commentCount": "6"
+        }
+    }
+]

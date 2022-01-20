@@ -1,0 +1,77 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "1bZ8sCFbC_jKnzWno3HfA4kWnSM",
+        "id": "uH3h7VHZPVY",
+        "snippet": {
+            "publishedAt": "2021-01-19T22:14:41Z",
+            "channelId": "UCzocYTD8J3ezkaoND4iQPGA",
+            "title": "Amber Alert issued for young kids forcibly removed from Greece foster home, police seeking father",
+            "description": "An Amber Alert has been issued for a 3-year-old girl and 5-year-old boy who police say were abducted Monday night in Greece.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/uH3h7VHZPVY/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/uH3h7VHZPVY/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/uH3h7VHZPVY/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/uH3h7VHZPVY/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/uH3h7VHZPVY/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "News 8 WROC",
+            "tags": [
+                "video",
+                "news",
+                "local news",
+                "rochesterny"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Alert issued for young kids forcibly removed from Greece foster home, police seeking father",
+                "description": "An Amber Alert has been issued for a 3-year-old girl and 5-year-old boy who police say were abducted Monday night in Greece."
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT5M17S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "261",
+            "likeCount": "2",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

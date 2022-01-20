@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "I2FFXs35yvKicpgFlG4vRlk_FuA",
+        "id": "V1ryJJTYyV4",
+        "snippet": {
+            "publishedAt": "2021-02-13T04:30:10Z",
+            "channelId": "UCaFgN6V43Xo1pRjQ4PjlSqw",
+            "title": "Amber Alert issued for missing Bassett girl",
+            "description": "Authorities are looking for a 12-year-old girl who was abducted in Bassett.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/V1ryJJTYyV4/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/V1ryJJTYyV4/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/V1ryJJTYyV4/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/V1ryJJTYyV4/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/V1ryJJTYyV4/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "WSLS 10",
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Alert issued for missing Bassett girl",
+                "description": "Authorities are looking for a 12-year-old girl who was abducted in Bassett."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT2M46S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "330",
+            "likeCount": "10",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "xjVT1oGeCsrJCdL82T4vKEorSTw",
+        "id": "rbcXU2peRG4",
+        "snippet": {
+            "publishedAt": "2019-09-23T22:24:42Z",
+            "channelId": "UCBu0KdNokE4MqdkacvH37_A",
+            "title": "Amber Guyger trial: Opening statement takeaways",
+            "description": "WFAA's Tanya Eiserer breaks down the opening statements in Day 1 of the Amber Guyger trial.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/rbcXU2peRG4/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/rbcXU2peRG4/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/rbcXU2peRG4/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/rbcXU2peRG4/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "WFAA",
+            "tags": [
+                "local",
+                "crime",
+                "botham-jean",
+                "special-reports",
+                "news"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "Amber Guyger trial: Opening statement takeaways",
+                "description": "WFAA's Tanya Eiserer breaks down the opening statements in Day 1 of the Amber Guyger trial."
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT4M13S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "12678",
+            "likeCount": "77",
+            "favoriteCount": "0",
+            "commentCount": "49"
+        }
+    }
+]

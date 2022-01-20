@@ -1,0 +1,60 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "U_hHewSQH3sSmL1O5GbnD3jsDzg",
+        "id": "YJumCrTVHoo",
+        "snippet": {
+            "publishedAt": "2022-01-03T06:45:00Z",
+            "channelId": "UCW-WcUnKSjOikVV0b4dxAng",
+            "title": "AMBER HEARD REPLACING PRIYANKA CHOPRA...",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/YJumCrTVHoo/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/YJumCrTVHoo/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/YJumCrTVHoo/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Best funny clips",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "AMBER HEARD REPLACING PRIYANKA CHOPRA...",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT9S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "11",
+            "likeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "VHnfYmpo4_zc5HWeMLwmp3Lai2A",
+        "id": "03ok18Z-yds",
+        "snippet": {
+            "publishedAt": "2013-05-15T07:52:48Z",
+            "channelId": "UCCPLPobQ6Qf_QZefo6iZ-ww",
+            "title": "INEDIT - Fake Oddity - \"Amber eyes",
+            "description": "Enregistr\u00e9 dans les studios de France 3 Rh\u00f4ne-Alpes \u00e0 Lyon dans le cadre du blog Le backstage.\nauteur/compositeur: Fake Oddity",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/03ok18Z-yds/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/03ok18Z-yds/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/03ok18Z-yds/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/03ok18Z-yds/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/03ok18Z-yds/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Lebackstage3",
+            "tags": [
+                "musique",
+                "chanson",
+                "live",
+                "concert",
+                "sc\u00e8ne",
+                "groupe",
+                "bowie",
+                "radio head",
+                "folk",
+                "french beaut\u00e9"
+            ],
+            "categoryId": "10",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "INEDIT - Fake Oddity - \"Amber eyes",
+                "description": "Enregistr\u00e9 dans les studios de France 3 Rh\u00f4ne-Alpes \u00e0 Lyon dans le cadre du blog Le backstage.\nauteur/compositeur: Fake Oddity"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT3M1S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "710",
+            "likeCount": "4",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

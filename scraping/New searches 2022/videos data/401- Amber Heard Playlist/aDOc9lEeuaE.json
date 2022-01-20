@@ -1,0 +1,69 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "F9qLx59Br5n4vvFhdoh1_TPXk0I",
+        "id": "aDOc9lEeuaE",
+        "snippet": {
+            "publishedAt": "2020-06-07T22:09:48Z",
+            "channelId": "UCy8YFzbkvYTQOQxjgE3UTBQ",
+            "title": "Hollywood Vampires Protest-(Amber Heard Playlist)",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/aDOc9lEeuaE/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/aDOc9lEeuaE/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/aDOc9lEeuaE/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/aDOc9lEeuaE/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/aDOc9lEeuaE/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "The Amber Heard Playlist!!",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Hollywood Vampires Protest-(Amber Heard Playlist)",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT25M16S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "122",
+            "likeCount": "1",
+            "favoriteCount": "0"
+        }
+    }
+]

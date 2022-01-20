@@ -1,0 +1,65 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "wMdQQE68vyzWUvslnb_o8qpCGF4",
+        "id": "2fwyOlKCfIE",
+        "snippet": {
+            "publishedAt": "2021-12-14T18:53:32Z",
+            "channelId": "UCLSJ5xu8esK3c81nBM5rqow",
+            "title": "Social Media, Anger and Us: Clip Amber Heard",
+            "description": "Better audio",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/2fwyOlKCfIE/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/2fwyOlKCfIE/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/2fwyOlKCfIE/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/2fwyOlKCfIE/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Glossyinferno",
+            "categoryId": "29",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Social Media, Anger and Us: Clip Amber Heard",
+                "description": "Better audio"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT3M21S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "23",
+            "likeCount": "4",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

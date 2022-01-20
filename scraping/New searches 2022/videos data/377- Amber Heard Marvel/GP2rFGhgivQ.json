@@ -1,0 +1,65 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "mmJuXd03mKKU_fYbrHdxvpWBIHI",
+        "id": "GP2rFGhgivQ",
+        "snippet": {
+            "publishedAt": "2022-01-06T08:54:45Z",
+            "channelId": "UCloNEUqxZ0PTe8-MbbPFGEQ",
+            "title": "New Comic Wednesday (NCW) - 1/5/22",
+            "description": "Join Zenescope's Amber as she talks this week's newest releases: RISE OF THE DJINN #2 of 3 & ROBYN HOOD: JUSTICE Graphic Novel. Amber will also be updating you on everything happening this January!",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/GP2rFGhgivQ/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/GP2rFGhgivQ/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/GP2rFGhgivQ/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/GP2rFGhgivQ/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Zenescope Entertainment",
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "New Comic Wednesday (NCW) - 1/5/22",
+                "description": "Join Zenescope's Amber as she talks this week's newest releases: RISE OF THE DJINN #2 of 3 & ROBYN HOOD: JUSTICE Graphic Novel. Amber will also be updating you on everything happening this January!"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT49M15S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "128",
+            "likeCount": "11",
+            "favoriteCount": "0",
+            "commentCount": "2"
+        }
+    }
+]

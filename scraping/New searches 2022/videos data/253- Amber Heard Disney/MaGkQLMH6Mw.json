@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "sTPIhrgCnCKEyJxWgjL0wXi7u7U",
+        "id": "MaGkQLMH6Mw",
+        "snippet": {
+            "publishedAt": "2010-12-26T03:30:32Z",
+            "channelId": "UC-_cNlRGFw_ghr9vUj-sU4Q",
+            "title": "Amber Riley - Princess Medley - Disney Christmas Parade 2010",
+            "description": "Amber Riley, from Glee, singing a medley of Disney princess classics in the 2010 Disney Christmas Parade.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/MaGkQLMH6Mw/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/MaGkQLMH6Mw/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/MaGkQLMH6Mw/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "jojomojo012",
+            "tags": [
+                "Glee",
+                "Amber",
+                "Riley",
+                "Disney",
+                "Christmas",
+                "Parade",
+                "Princess",
+                "Medley"
+            ],
+            "categoryId": "10",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Riley - Princess Medley - Disney Christmas Parade 2010",
+                "description": "Amber Riley, from Glee, singing a medley of Disney princess classics in the 2010 Disney Christmas Parade."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT3M39S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "135531",
+            "likeCount": "1091",
+            "favoriteCount": "0",
+            "commentCount": "106"
+        }
+    }
+]

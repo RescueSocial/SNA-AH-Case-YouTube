@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "b8EPPBUohuUfzkUX3EFxjWiNDD0",
+        "id": "LkS15KxvDPc",
+        "snippet": {
+            "publishedAt": "2015-06-23T18:16:16Z",
+            "channelId": "UCEupiGyQl71vzfxFCDElyuQ",
+            "title": "Amber Heard spotted in Tribeca",
+            "description": "Amber Heard spotted with fans in Tribeca.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/LkS15KxvDPc/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/LkS15KxvDPc/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/LkS15KxvDPc/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/LkS15KxvDPc/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Star Magazine",
+            "tags": [
+                "Amber Heard (Celebrity)",
+                "Star Magazine",
+                "The Rum Diary",
+                "Drive Angry",
+                "3 Days to Kill",
+                "Never Back Down"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Heard spotted in Tribeca",
+                "description": "Amber Heard spotted with fans in Tribeca."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT19S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "299",
+            "likeCount": "4",
+            "favoriteCount": "0",
+            "commentCount": "2"
+        }
+    }
+]

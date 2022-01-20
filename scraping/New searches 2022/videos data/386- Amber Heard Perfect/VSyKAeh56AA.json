@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "7LjkH7SiUjDE3WVHMVh3UHjI1Q0",
+        "id": "VSyKAeh56AA",
+        "snippet": {
+            "publishedAt": "2014-06-27T20:04:37Z",
+            "channelId": "UCzXm4tcrLntu94ayJze027Q",
+            "title": "Amber heard",
+            "description": "Amber",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/VSyKAeh56AA/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/VSyKAeh56AA/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/VSyKAeh56AA/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/VSyKAeh56AA/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "X-clusiv",
+            "tags": [
+                "Amber heard",
+                "Celebrity",
+                "Fashion"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber heard",
+                "description": "Amber"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT58S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "100",
+            "likeCount": "3",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

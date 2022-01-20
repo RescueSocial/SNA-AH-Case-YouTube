@@ -1,0 +1,71 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "a6U9B2lL3Dpgb7z8V3Ino3L78vQ",
+        "id": "IDcohCoNo5s",
+        "snippet": {
+            "publishedAt": "2019-10-11T17:01:35Z",
+            "channelId": "UCbmos648eD765YhBe0tg7lQ",
+            "title": "October 2019 CTF Graduation: Jett\u2019s Puppy Parent Amber Martinez",
+            "description": "October 2019 CTF Graduation celebrated service dog Jett and the beginning of his life of service with retired fire captain Mike Ward.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/IDcohCoNo5s/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/IDcohCoNo5s/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/IDcohCoNo5s/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/IDcohCoNo5s/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/IDcohCoNo5s/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "New Life K9s",
+            "categoryId": "29",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "October 2019 CTF Graduation: Jett\u2019s Puppy Parent Amber Martinez",
+                "description": "October 2019 CTF Graduation celebrated service dog Jett and the beginning of his life of service with retired fire captain Mike Ward."
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT11M50S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "195",
+            "likeCount": "9",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

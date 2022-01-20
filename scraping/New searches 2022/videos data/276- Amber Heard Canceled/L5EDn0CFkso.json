@@ -1,0 +1,67 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "bpB3c_1iDLMaqr5_7MFeHv8iULM",
+        "id": "L5EDn0CFkso",
+        "snippet": {
+            "publishedAt": "2015-07-16T23:47:47Z",
+            "channelId": "UCupvZG-5ko_eiXAupbDfxWw",
+            "title": "TLC cancels \"19 Kids and Counting\"",
+            "description": "TLC cancels \"19 Kids and Counting\"; Nikki Sixx Plots Post-M\u00f6tley Cr\u00fce Life; Amber Heard faces charges over Depp dogs",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/L5EDn0CFkso/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/L5EDn0CFkso/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/L5EDn0CFkso/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "CNN",
+            "tags": [
+                "CNN",
+                "News",
+                "CNN TV",
+                "CNN Newsroom",
+                "default"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "TLC cancels \"19 Kids and Counting\"",
+                "description": "TLC cancels \"19 Kids and Counting\"; Nikki Sixx Plots Post-M\u00f6tley Cr\u00fce Life; Amber Heard faces charges over Depp dogs"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT1M40S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "9559",
+            "likeCount": "60",
+            "favoriteCount": "0",
+            "commentCount": "17"
+        }
+    }
+]

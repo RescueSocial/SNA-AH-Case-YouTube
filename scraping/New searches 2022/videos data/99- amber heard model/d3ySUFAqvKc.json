@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "hNdUuuEIF5v0S2SHI5eVbTQx5xY",
+        "id": "d3ySUFAqvKc",
+        "snippet": {
+            "publishedAt": "2019-01-06T12:49:08Z",
+            "channelId": "UCqxl1m5Rh4bWXL7Ss_xTtyA",
+            "title": "Amber Heard mixtape",
+            "description": "None of these videos and images are mine",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/d3ySUFAqvKc/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/d3ySUFAqvKc/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/d3ySUFAqvKc/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/d3ySUFAqvKc/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/d3ySUFAqvKc/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "The Hungry TRex",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Heard mixtape",
+                "description": "None of these videos and images are mine"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT2M4S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "73",
+            "likeCount": "1",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

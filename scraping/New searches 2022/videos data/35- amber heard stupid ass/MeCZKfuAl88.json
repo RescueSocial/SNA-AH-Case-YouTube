@@ -1,0 +1,61 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "kXhwl_SGqTiGQL_U-wrI9Pp-mq0",
+        "id": "MeCZKfuAl88",
+        "snippet": {
+            "publishedAt": "2020-07-10T05:42:24Z",
+            "channelId": "UCcmm3qGxXKeNIL8ljpuQ2Ng",
+            "title": "Amber Academy Webinar: Modern Production Fundamentals con Mike Doom",
+            "description": "Powered by Restream https://restream.io/",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/MeCZKfuAl88/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/MeCZKfuAl88/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/MeCZKfuAl88/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "KaraOkulta KO",
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Academy Webinar: Modern Production Fundamentals con Mike Doom",
+                "description": "Powered by Restream https://restream.io/"
+            },
+            "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+            "duration": "PT1H3M3S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "27",
+            "likeCount": "2",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

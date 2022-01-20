@@ -1,0 +1,83 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "hCzztl8vnSOJE-JFqMLc7G3-eqM",
+        "id": "-_fiafXrp4k",
+        "snippet": {
+            "publishedAt": "2016-08-16T22:21:28Z",
+            "channelId": "UCdyDPjVFu6YlvfiAS8w-wlA",
+            "title": "Actor Johnny Depp And Actress Amber Heard Reach $7 Million Dollar Settlement",
+            "description": "Johnny Depp and Amber Heard have reached a settlement. Click here to read more: .",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/-_fiafXrp4k/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/-_fiafXrp4k/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/-_fiafXrp4k/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/-_fiafXrp4k/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/-_fiafXrp4k/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Khila Kasweta",
+            "tags": [
+                "New York Daily News",
+                "Johnny Depp",
+                "Amber Heard",
+                "The Rum Diary",
+                "English-Language Films",
+                "American Film Actors",
+                "American Television Actors",
+                "American",
+                "People",
+                "African",
+                "Descent"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Actor Johnny Depp And Actress Amber Heard Reach $7 Million Dollar Settlement",
+                "description": "Johnny Depp and Amber Heard have reached a settlement. Click here to read more: ."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT1M36S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "0",
+            "likeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

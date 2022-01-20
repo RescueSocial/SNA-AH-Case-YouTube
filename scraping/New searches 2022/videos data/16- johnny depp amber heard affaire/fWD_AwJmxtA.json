@@ -1,0 +1,71 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "0GmQtdJcPSfkgaJGlkJ8bgLmajY",
+        "id": "fWD_AwJmxtA",
+        "snippet": {
+            "publishedAt": "2020-10-20T23:41:13Z",
+            "channelId": "UCG2QYlhnYYxksvv6ve11ijw",
+            "title": "Johnny Depp Tries To Get Amber Heard\u2019s Case Dismissed !!",
+            "description": "Johnny Depp Strikes Back At Amber Heard By Asking The Court To Dismiss Her Case !",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/fWD_AwJmxtA/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/fWD_AwJmxtA/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/fWD_AwJmxtA/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/fWD_AwJmxtA/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/fWD_AwJmxtA/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Rob's Rules",
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Johnny Depp Tries To Get Amber Heard\u2019s Case Dismissed !!",
+                "description": "Johnny Depp Strikes Back At Amber Heard By Asking The Court To Dismiss Her Case !"
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT6M31S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "2387",
+            "likeCount": "190",
+            "favoriteCount": "0",
+            "commentCount": "69"
+        }
+    }
+]

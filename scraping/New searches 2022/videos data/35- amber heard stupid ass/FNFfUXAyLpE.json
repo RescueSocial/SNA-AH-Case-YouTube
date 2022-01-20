@@ -1,0 +1,60 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "qHaHAWC3ZbQZPHjBzAiTyvotBXE",
+        "id": "FNFfUXAyLpE",
+        "snippet": {
+            "publishedAt": "2020-01-15T04:09:28Z",
+            "channelId": "UCT1yfVYV2rHHCz0_LuNpC6w",
+            "title": "Tips from the top with Amber Parker [01/14/20]",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/FNFfUXAyLpE/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/FNFfUXAyLpE/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/FNFfUXAyLpE/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Kim Monzi",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Tips from the top with Amber Parker [01/14/20]",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT57M33S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": true
+        },
+        "statistics": {
+            "viewCount": "164",
+            "likeCount": "3",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

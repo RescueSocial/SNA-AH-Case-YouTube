@@ -1,0 +1,76 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "xNG-FiXR2mziiXqK6Lq8ZvXO1T4",
+        "id": "7-B_sh_6Qis",
+        "snippet": {
+            "publishedAt": "2016-06-14T21:15:04Z",
+            "channelId": "UCfnxiL1x4aWFPf86UoWWmlQ",
+            "title": "Amber Heard vs. Johnny Depp and Bernie vs. Disney @AmandaLauren @realDrGina",
+            "description": "Dr. Gina & Amanda Lauren from http://ItsAmandaLauren.com",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/7-B_sh_6Qis/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/7-B_sh_6Qis/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/7-B_sh_6Qis/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/7-B_sh_6Qis/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/7-B_sh_6Qis/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Gina Loudon",
+            "tags": [
+                "Bernie Sanders",
+                "Bob Iger",
+                "Amber Heard",
+                "Johnny Depp"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Heard vs. Johnny Depp and Bernie vs. Disney @AmandaLauren @realDrGina",
+                "description": "Dr. Gina & Amanda Lauren from http://ItsAmandaLauren.com"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT7M5S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "265",
+            "likeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

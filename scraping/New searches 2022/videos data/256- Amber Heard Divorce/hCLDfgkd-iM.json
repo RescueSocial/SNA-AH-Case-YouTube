@@ -1,0 +1,77 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "mCxlcFX4CNp6HMHETOMibN8aREY",
+        "id": "hCLDfgkd-iM",
+        "snippet": {
+            "publishedAt": "2016-05-27T00:59:45Z",
+            "channelId": "UCo-Xyshkc8kfGss2-eYLryQ",
+            "title": "Los Angeles Divorce Attorney Debra Opri on Inside Edition Discussing Johnny Depp & Amber Heard",
+            "description": "Los Angeles Divorce Attorney Debra Opri discusses Johnny Depp and Amber Heard's divorce on Inside Edition.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/hCLDfgkd-iM/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/hCLDfgkd-iM/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/hCLDfgkd-iM/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/hCLDfgkd-iM/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/hCLDfgkd-iM/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "DebraOpri",
+            "tags": [
+                "Johnny Depp",
+                "Amber Heard",
+                "Inside Edition",
+                "Debra Opri",
+                "Los Angeles Divorce Attorney Debra Opri"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Los Angeles Divorce Attorney Debra Opri on Inside Edition Discussing Johnny Depp & Amber Heard",
+                "description": "Los Angeles Divorce Attorney Debra Opri discusses Johnny Depp and Amber Heard's divorce on Inside Edition."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT1M28S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "166",
+            "likeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

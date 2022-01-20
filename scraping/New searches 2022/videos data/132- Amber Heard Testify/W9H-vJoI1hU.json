@@ -1,0 +1,77 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "DDrqq6Py8gmATZt9icWUD34LKCw",
+        "id": "W9H-vJoI1hU",
+        "snippet": {
+            "publishedAt": "2019-10-02T23:19:27Z",
+            "channelId": "UCKQo5ORhXZTs48SPk8tcAeQ",
+            "title": "East Texas woman testifies about friendship with Botham Jean at Amber Guyger sentencing trial",
+            "description": "East Texas woman testifies about friendship with Botham Jean at Amber Guyger sentencing trial",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/W9H-vJoI1hU/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/W9H-vJoI1hU/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/W9H-vJoI1hU/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/W9H-vJoI1hU/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/W9H-vJoI1hU/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "KETK NBC",
+            "tags": [
+                "video",
+                "top video",
+                "amber guyger"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "East Texas woman testifies about friendship with Botham Jean at Amber Guyger sentencing trial",
+                "description": "East Texas woman testifies about friendship with Botham Jean at Amber Guyger sentencing trial"
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT55S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": false,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "46",
+            "likeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

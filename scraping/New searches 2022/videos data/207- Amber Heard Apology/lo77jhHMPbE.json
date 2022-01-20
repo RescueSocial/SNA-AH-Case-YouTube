@@ -1,0 +1,65 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "LQ6L5DUYXUDSAwC_p3aVrDP4en4",
+        "id": "lo77jhHMPbE",
+        "snippet": {
+            "publishedAt": "2020-09-03T15:14:03Z",
+            "channelId": "UCcBh0oNiIkTowzCWNb0-c3A",
+            "title": "JOHNNY DEPP AND AMBER HEARD'S STAGED APOLOGY",
+            "description": "ALSO, I think his accent is Serbian or Romanian.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/lo77jhHMPbE/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/lo77jhHMPbE/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/lo77jhHMPbE/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/lo77jhHMPbE/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Hidden History of Earth",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "JOHNNY DEPP AND AMBER HEARD'S STAGED APOLOGY",
+                "description": "ALSO, I think his accent is Serbian or Romanian."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT15M2S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "109",
+            "likeCount": "11",
+            "favoriteCount": "0",
+            "commentCount": "2"
+        }
+    }
+]

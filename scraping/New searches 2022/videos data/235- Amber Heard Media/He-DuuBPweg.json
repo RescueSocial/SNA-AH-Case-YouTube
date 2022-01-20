@@ -1,0 +1,67 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "fhuaxoQoYGjYlZHGf09Su_OW4WY",
+        "id": "He-DuuBPweg",
+        "snippet": {
+            "publishedAt": "2020-12-29T19:29:42Z",
+            "channelId": "UCeIHQFVdYtTSCITQ4lVBp1g",
+            "title": "Johnny Depp vs. Amber Heard in Media Wars",
+            "description": "Mainstream Media destroying themselves",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/He-DuuBPweg/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/He-DuuBPweg/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/He-DuuBPweg/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Oakley's Tactics",
+            "tags": [
+                "Johnny Depp",
+                "Amber Heard",
+                "Mainstream Media",
+                "Social Media"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Johnny Depp vs. Amber Heard in Media Wars",
+                "description": "Mainstream Media destroying themselves"
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT2M29S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "45",
+            "likeCount": "2",
+            "favoriteCount": "0",
+            "commentCount": "1"
+        }
+    }
+]

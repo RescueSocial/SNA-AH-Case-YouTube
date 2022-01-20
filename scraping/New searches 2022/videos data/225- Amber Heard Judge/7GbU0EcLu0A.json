@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "VsH49kes9nTFFk8Q-IToOb8IelE",
+        "id": "7GbU0EcLu0A",
+        "snippet": {
+            "publishedAt": "2019-10-03T17:18:14Z",
+            "channelId": "UCBu0KdNokE4MqdkacvH37_A",
+            "title": "Judge hugs Amber Guyger, hands her bible after sentencing",
+            "description": "Judge hugs Amber Guyger, hands her bible after sentencing",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/7GbU0EcLu0A/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/7GbU0EcLu0A/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/7GbU0EcLu0A/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/7GbU0EcLu0A/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "WFAA",
+            "tags": [
+                "botham-jean",
+                "local",
+                "news",
+                "special-reports"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "Judge hugs Amber Guyger, hands her bible after sentencing",
+                "description": "Judge hugs Amber Guyger, hands her bible after sentencing"
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT2M37S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "17602",
+            "likeCount": "153",
+            "favoriteCount": "0",
+            "commentCount": "96"
+        }
+    }
+]

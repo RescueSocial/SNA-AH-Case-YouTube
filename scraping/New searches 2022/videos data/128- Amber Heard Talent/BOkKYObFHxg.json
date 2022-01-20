@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "QQF27weE1MG0vdPOjqbk3sRqGOI",
+        "id": "BOkKYObFHxg",
+        "snippet": {
+            "publishedAt": "2012-11-07T09:23:54Z",
+            "channelId": "UCO5vtkTKXRT3F5VpSDGHc4A",
+            "title": "Randy Wayne and Amber Heard - Sympathy",
+            "description": " ",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/BOkKYObFHxg/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/BOkKYObFHxg/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/BOkKYObFHxg/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/BOkKYObFHxg/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "AriaApril",
+            "tags": [
+                "Randy",
+                "Wayne",
+                "and",
+                "Amber",
+                "Heard",
+                "Sympathy"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Randy Wayne and Amber Heard - Sympathy",
+                "description": " "
+            }
+        },
+        "contentDetails": {
+            "duration": "PT2M55S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "196",
+            "likeCount": "5",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

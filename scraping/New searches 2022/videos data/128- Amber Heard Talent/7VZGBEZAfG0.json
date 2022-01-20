@@ -1,0 +1,65 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "93GIlfj5se6aHUNDsO2mITdzFyU",
+        "id": "7VZGBEZAfG0",
+        "snippet": {
+            "publishedAt": "2009-01-25T20:27:01Z",
+            "channelId": "UCO6A-7NDxZXJfeggKx2ro7Q",
+            "title": "Amber's 2009 Talent Show",
+            "description": "Amber performs \"Dream a Little Dream of Me\" during the 2009 Valmeyer Talent Show",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/7VZGBEZAfG0/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/7VZGBEZAfG0/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/7VZGBEZAfG0/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "paulandesther",
+            "tags": [
+                "Valmeyer",
+                "Amber",
+                "Dream"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber's 2009 Talent Show",
+                "description": "Amber performs \"Dream a Little Dream of Me\" during the 2009 Valmeyer Talent Show"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT1M42S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "173",
+            "likeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

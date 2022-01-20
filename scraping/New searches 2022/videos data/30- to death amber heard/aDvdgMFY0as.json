@@ -1,0 +1,80 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "dlxt0-xp_eGjjLqHKZqZthuiu-o",
+        "id": "aDvdgMFY0as",
+        "snippet": {
+            "publishedAt": "2020-08-03T09:09:23Z",
+            "channelId": "UCUD4-ngT1Gj-dkluNFO5Nzg",
+            "title": "The Abusive Wine Lover - Amber Heard, Johnny Depp Sliced Finger Horror",
+            "description": "The life of a narcissistic female",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/aDvdgMFY0as/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/aDvdgMFY0as/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/aDvdgMFY0as/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/aDvdgMFY0as/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/aDvdgMFY0as/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Pro Arts",
+            "tags": [
+                "Amber heard",
+                "wine",
+                "court case",
+                "Johnny depp",
+                "parties",
+                "affairs",
+                "red wine",
+                "sliced finger"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "The Abusive Wine Lover - Amber Heard, Johnny Depp Sliced Finger Horror",
+                "description": "The life of a narcissistic female"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT1M3S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "121",
+            "likeCount": "11",
+            "favoriteCount": "0",
+            "commentCount": "5"
+        }
+    }
+]

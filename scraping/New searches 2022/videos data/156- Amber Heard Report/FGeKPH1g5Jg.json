@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "RRvzQmwQLNLe7Nb-maLTU5Xtkhc",
+        "id": "FGeKPH1g5Jg",
+        "snippet": {
+            "publishedAt": "2020-09-03T22:58:47Z",
+            "channelId": "UCXOjmW3MObEYjAzCf7-cF8w",
+            "title": "My thoughts on the Amber Heard and Johnny Depp case",
+            "description": "It's just all around a bad situation.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/FGeKPH1g5Jg/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/FGeKPH1g5Jg/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/FGeKPH1g5Jg/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/FGeKPH1g5Jg/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Elana Vital",
+            "tags": [
+                "my thoughts on the Amber Heard and Johnny Depp case",
+                "my thoughts on the Johnny Depp and amber heard case",
+                "johnny depp and amber Heard my thoughts"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "My thoughts on the Amber Heard and Johnny Depp case",
+                "description": "It's just all around a bad situation."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT8M41S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "229",
+            "likeCount": "25",
+            "favoriteCount": "0",
+            "commentCount": "1"
+        }
+    }
+]

@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "Zp8N0K0B3LWmXNwq_lXC7HDFtU0",
+        "id": "2hUA-PvdI84",
+        "snippet": {
+            "publishedAt": "2020-03-02T01:07:14Z",
+            "channelId": "UClNxjDwahi0S11ULj1toscQ",
+            "title": "Texas Amber Alert On WBAP-AM (EAS #623)",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/2hUA-PvdI84/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/2hUA-PvdI84/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/2hUA-PvdI84/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/2hUA-PvdI84/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/2hUA-PvdI84/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Havana2017/IllinoisEAS",
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Texas Amber Alert On WBAP-AM (EAS #623)",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT1M17S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "523",
+            "likeCount": "9",
+            "favoriteCount": "0",
+            "commentCount": "3"
+        }
+    }
+]

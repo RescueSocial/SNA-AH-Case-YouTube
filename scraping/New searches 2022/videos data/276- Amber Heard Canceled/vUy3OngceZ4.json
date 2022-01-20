@@ -1,0 +1,82 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "Di7oCxqb07cMYVc7hCY5qwcPQas",
+        "id": "vUy3OngceZ4",
+        "snippet": {
+            "publishedAt": "2018-06-25T22:18:17Z",
+            "channelId": "UC-2MJlKSq9_pYk5-bdvMhnw",
+            "title": "Top stories: Amber Alert canceled, Estes Park lodge damage, 416 Fire flares",
+            "description": "Here are your top stories for Monday, June 25.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/vUy3OngceZ4/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/vUy3OngceZ4/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/vUy3OngceZ4/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/vUy3OngceZ4/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/vUy3OngceZ4/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Denver7 \u2013 The Denver Channel",
+            "tags": [
+                "amber alert",
+                "saguache county",
+                "captured in utah",
+                "david freeman",
+                "416 fire",
+                "grows in size",
+                "mary's lake lodge fire",
+                "5 million in damage",
+                "hot weather this week"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Top stories: Amber Alert canceled, Estes Park lodge damage, 416 Fire flares",
+                "description": "Here are your top stories for Monday, June 25."
+            },
+            "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+            "duration": "PT1M36S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "136",
+            "likeCount": "1",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

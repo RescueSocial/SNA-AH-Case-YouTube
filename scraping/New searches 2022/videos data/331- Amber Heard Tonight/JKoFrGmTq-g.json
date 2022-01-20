@@ -1,0 +1,74 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "6ECtVeNIxXsplScoKKPp2YmFVGs",
+        "id": "JKoFrGmTq-g",
+        "snippet": {
+            "publishedAt": "2016-07-05T14:13:59Z",
+            "channelId": "UCHNicZehnNpLL5SrCE76pnw",
+            "title": "Johnny Depp se borra los tatuajes que llevaba dedicados a Amber Heard",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/JKoFrGmTq-g/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/JKoFrGmTq-g/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/JKoFrGmTq-g/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/JKoFrGmTq-g/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "AN7 Noticias",
+            "tags": [
+                "Noticias",
+                "Espectaculos",
+                "Historias",
+                "Deportes",
+                "Arte",
+                "Tecnologia"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Johnny Depp se borra los tatuajes que llevaba dedicados a Amber Heard",
+                "description": ""
+            },
+            "defaultAudioLanguage": "es"
+        },
+        "contentDetails": {
+            "duration": "PT4M43S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "630",
+            "likeCount": "3",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

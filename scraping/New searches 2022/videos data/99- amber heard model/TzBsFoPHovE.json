@@ -1,0 +1,60 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "KbNyxwOheOydp7sP3go6ku5JqIU",
+        "id": "TzBsFoPHovE",
+        "snippet": {
+            "publishedAt": "2021-06-23T18:30:11Z",
+            "channelId": "UCQcYtsqfQytq5wtqu7A7lrw",
+            "title": "Amber Heard | 4K - 30fps |",
+            "description": "Show your power on like button \u2764\ufe0f",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/TzBsFoPHovE/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/TzBsFoPHovE/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/TzBsFoPHovE/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Wo\u0280\u029f\u1d05 O\u0493 S\u0442\u1d00\u0442us",
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Heard | 4K - 30fps |",
+                "description": "Show your power on like button \u2764\ufe0f"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT17S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "18",
+            "likeCount": "1",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

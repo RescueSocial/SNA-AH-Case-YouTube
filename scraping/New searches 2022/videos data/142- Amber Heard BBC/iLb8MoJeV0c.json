@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "lbeKHcV2mwRqbh3JCl9OXzxM_g4",
+        "id": "iLb8MoJeV0c",
+        "snippet": {
+            "publishedAt": "2013-08-23T22:04:57Z",
+            "channelId": "UCZtDUmC3W7j25XHZWFT_XgQ",
+            "title": "Amber Run - Noah at Reading Festival 2013",
+            "description": "Amber Run - Spark on the BBC Introducing Stage on Friday at Reading 2013. For more exclusive videos and photos from Reading + Leeds 2013, check out http://www.bbc.co.uk/readingandleeds",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/iLb8MoJeV0c/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/iLb8MoJeV0c/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/iLb8MoJeV0c/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/iLb8MoJeV0c/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "BBC Music",
+            "tags": [
+                "Amber",
+                "BBC Introducing",
+                "BBC Introducing Reading & Leeds",
+                "BBC",
+                "festivals",
+                "amber run"
+            ],
+            "categoryId": "10",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Run - Noah at Reading Festival 2013",
+                "description": "Amber Run - Spark on the BBC Introducing Stage on Friday at Reading 2013. For more exclusive videos and photos from Reading + Leeds 2013, check out http://www.bbc.co.uk/readingandleeds"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT5M48S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "13705",
+            "likeCount": "140",
+            "favoriteCount": "0",
+            "commentCount": "7"
+        }
+    }
+]

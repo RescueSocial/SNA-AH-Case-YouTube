@@ -1,0 +1,65 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "UOYaeItQL07A81Z1bzO_mAJmsQE",
+        "id": "FA7mYP08YBs",
+        "snippet": {
+            "publishedAt": "2016-04-25T18:21:54Z",
+            "channelId": "UCb22e4TU4WYVU0kit4hNHJw",
+            "title": "New Belgium Fat Tire Amber Ale review",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/FA7mYP08YBs/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/FA7mYP08YBs/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/FA7mYP08YBs/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/FA7mYP08YBs/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Fenrir",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "New Belgium Fat Tire Amber Ale review",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT5M47S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": false,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "95",
+            "likeCount": "5",
+            "favoriteCount": "0",
+            "commentCount": "3"
+        }
+    }
+]

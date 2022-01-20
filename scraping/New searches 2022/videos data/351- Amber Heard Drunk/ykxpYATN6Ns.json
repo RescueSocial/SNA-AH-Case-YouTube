@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "0TMDSy05DSdPF5Dk5GXa-FgVae4",
+        "id": "ykxpYATN6Ns",
+        "snippet": {
+            "publishedAt": "2020-10-16T05:24:43Z",
+            "channelId": "UC_Dm23cAikROZZUoUtRZhAA",
+            "title": "[Genshin Impact] Jealous Amber Cute Moment",
+            "description": "Part of Jean's story quest. Also a second test upload to assess its quality :)",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/ykxpYATN6Ns/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/ykxpYATN6Ns/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/ykxpYATN6Ns/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/ykxpYATN6Ns/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/ykxpYATN6Ns/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Lyrai Celestine",
+            "categoryId": "20",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "[Genshin Impact] Jealous Amber Cute Moment",
+                "description": "Part of Jean's story quest. Also a second test upload to assess its quality :)"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT52S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "205955",
+            "likeCount": "6709",
+            "favoriteCount": "0",
+            "commentCount": "528"
+        }
+    }
+]

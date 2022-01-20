@@ -1,0 +1,64 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "8twfjqrad4IZMa2rrJRgbfo0b6U",
+        "id": "cWjaNYxOSdA",
+        "snippet": {
+            "publishedAt": "2015-06-17T18:19:02Z",
+            "channelId": "UCM7QG3lfL70DpfRLYEt4RZA",
+            "title": "FAVE BEANIE BOOS | AMBER",
+            "description": "I have lots of beanies and thought I'd show you my fave ones :)))",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/cWjaNYxOSdA/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/cWjaNYxOSdA/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/cWjaNYxOSdA/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/cWjaNYxOSdA/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Bember Bember",
+            "categoryId": "23",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "FAVE BEANIE BOOS | AMBER",
+                "description": "I have lots of beanies and thought I'd show you my fave ones :)))"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT2M30S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "84",
+            "likeCount": "2",
+            "favoriteCount": "0"
+        }
+    }
+]

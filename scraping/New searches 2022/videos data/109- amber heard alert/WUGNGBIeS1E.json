@@ -1,0 +1,71 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "OYtDNzwbHMVn10gRlA3HcYaL7dA",
+        "id": "WUGNGBIeS1E",
+        "snippet": {
+            "publishedAt": "2020-12-02T17:37:33Z",
+            "channelId": "UCBB00Ngi4iv7KTUfeLnCP4g",
+            "title": "EAS Child Abduction Emergency (AMBER ALERT)/Required Monthly Test Minnesota Statewide Alert KNOW-FM",
+            "description": "Woke me up at almost 6 AM.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/WUGNGBIeS1E/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/WUGNGBIeS1E/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/WUGNGBIeS1E/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/WUGNGBIeS1E/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/WUGNGBIeS1E/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Piggy Porkchop",
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "EAS Child Abduction Emergency (AMBER ALERT)/Required Monthly Test Minnesota Statewide Alert KNOW-FM",
+                "description": "Woke me up at almost 6 AM."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT1M38S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "566",
+            "likeCount": "21",
+            "favoriteCount": "0",
+            "commentCount": "20"
+        }
+    }
+]

@@ -1,0 +1,78 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "5sQaCcYNo36wBURglfsojLmytK0",
+        "id": "SyDdQ99YGsA",
+        "snippet": {
+            "publishedAt": "2021-06-09T18:32:36Z",
+            "channelId": "UCkH1uDkyuO9sVjSqdqBygOg",
+            "title": "Amber Alert: 8-Year-Old Girl Abducted By Mother In Leimert Park Found Safe",
+            "description": "An 8-year-old girl who was abducted by her mother at gunpoint in the Leimert Park area of Los Angeles early Wednesday morning, prompting an Amber Alert, has been found safe. Tina Patel reports.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/SyDdQ99YGsA/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/SyDdQ99YGsA/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/SyDdQ99YGsA/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/SyDdQ99YGsA/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/SyDdQ99YGsA/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "CBS Los Angeles",
+            "tags": [
+                "CBS 2 News Morning",
+                "Leimert Park",
+                "Amber Alert",
+                "abduction"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "Amber Alert: 8-Year-Old Girl Abducted By Mother In Leimert Park Found Safe",
+                "description": "An 8-year-old girl who was abducted by her mother at gunpoint in the Leimert Park area of Los Angeles early Wednesday morning, prompting an Amber Alert, has been found safe. Tina Patel reports."
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT1M53S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "13506",
+            "likeCount": "206",
+            "favoriteCount": "0",
+            "commentCount": "64"
+        }
+    }
+]

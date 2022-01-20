@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "VsnlIg-TAD-2hVV0JjBzWQshlYk",
+        "id": "kAakS4JsHkg",
+        "snippet": {
+            "publishedAt": "2021-09-23T23:13:14Z",
+            "channelId": "UCI6i_E3s6wi-pNcWCi1HqFQ",
+            "title": "The Amber Neal Show - F'n Friday - Special Guest Stevie Ray",
+            "description": "The Amber Neal Show - F'n Friday - Special Guest Stevie Ray",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/kAakS4JsHkg/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/kAakS4JsHkg/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/kAakS4JsHkg/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/kAakS4JsHkg/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/kAakS4JsHkg/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Amber Neal",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "The Amber Neal Show - F'n Friday - Special Guest Stevie Ray",
+                "description": "The Amber Neal Show - F'n Friday - Special Guest Stevie Ray"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT58M59S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "2",
+            "likeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

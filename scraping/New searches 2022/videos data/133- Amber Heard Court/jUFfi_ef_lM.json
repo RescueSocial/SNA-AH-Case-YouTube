@@ -1,0 +1,71 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "vjTaXQ-sisnC9veZV0oKPKzkzH0",
+        "id": "jUFfi_ef_lM",
+        "snippet": {
+            "publishedAt": "2020-07-27T09:57:46Z",
+            "channelId": "UC3l-bobp_xuBlL_lRRS5RmA",
+            "title": "Amber Heard ARRIVES at Court DAY 15",
+            "description": "#AmberHeard #johnnydepp",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/jUFfi_ef_lM/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/jUFfi_ef_lM/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/jUFfi_ef_lM/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/jUFfi_ef_lM/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "UnBoxPHD",
+            "tags": [
+                "Johnny Depp v amber Heard",
+                "amber Heard booed",
+                "amber Heard ARRIVES at court",
+                "johnny Depp ARRIVES at court"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Heard ARRIVES at Court DAY 15",
+                "description": "#AmberHeard #johnnydepp"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT2M14S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "17156",
+            "likeCount": "271",
+            "favoriteCount": "0",
+            "commentCount": "176"
+        }
+    }
+]

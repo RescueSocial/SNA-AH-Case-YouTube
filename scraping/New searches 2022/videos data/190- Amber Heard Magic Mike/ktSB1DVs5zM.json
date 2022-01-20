@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "N6QD5IoP-H_UbHiDiQh48BaFaa4",
+        "id": "ktSB1DVs5zM",
+        "snippet": {
+            "publishedAt": "2015-07-01T20:05:16Z",
+            "channelId": "UC7y1im6mTeSUs2NqRtKSwUA",
+            "title": "MAGIC MIKE XXL PREMIERE LEICESTER SQUARE",
+            "description": "Jada Pinkett Smith at 02:48\nGregory Jacobs at 03:53\nAmber Heard at 06:58\nJoe Manganiello at 09:00\nCHANNING TATUM AT 11:30",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/ktSB1DVs5zM/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/ktSB1DVs5zM/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/ktSB1DVs5zM/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/ktSB1DVs5zM/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/ktSB1DVs5zM/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Natalie Junker",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "MAGIC MIKE XXL PREMIERE LEICESTER SQUARE",
+                "description": "Jada Pinkett Smith at 02:48\nGregory Jacobs at 03:53\nAmber Heard at 06:58\nJoe Manganiello at 09:00\nCHANNING TATUM AT 11:30"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT15M1S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "366",
+            "likeCount": "4",
+            "favoriteCount": "0",
+            "commentCount": "1"
+        }
+    }
+]

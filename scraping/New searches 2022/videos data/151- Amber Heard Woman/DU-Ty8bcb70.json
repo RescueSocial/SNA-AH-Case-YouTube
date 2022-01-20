@@ -1,0 +1,65 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "mXOVz2U8gQNG0ROpTb0xlxeDYjc",
+        "id": "DU-Ty8bcb70",
+        "snippet": {
+            "publishedAt": "2018-01-05T10:19:03Z",
+            "channelId": "UCvrd7eb8iEpzsVSJuQ7hkWg",
+            "title": "Amber Heard, La mujer m\u00e1s bella del mundo.",
+            "description": "Algunas fotos de esta preciosa mujer.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/DU-Ty8bcb70/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/DU-Ty8bcb70/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/DU-Ty8bcb70/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/DU-Ty8bcb70/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Videos de internet",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Heard, La mujer m\u00e1s bella del mundo.",
+                "description": "Algunas fotos de esta preciosa mujer."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT1M44S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "448",
+            "likeCount": "13",
+            "favoriteCount": "0",
+            "commentCount": "1"
+        }
+    }
+]

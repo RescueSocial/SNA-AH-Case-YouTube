@@ -1,0 +1,81 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "QHJ4YGeQkxJpjwqrH3h-Lxkca1U",
+        "id": "L8MykJDAovk",
+        "snippet": {
+            "publishedAt": "2021-06-10T01:02:52Z",
+            "channelId": "UCUC0a9VcIQ5t-ZrCI8DCheA",
+            "title": "Data Access Rights Exploits under New Privacy Laws - Amber Welch",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/L8MykJDAovk/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/L8MykJDAovk/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/L8MykJDAovk/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/L8MykJDAovk/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/L8MykJDAovk/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "CircleCityCon",
+            "tags": [
+                "hacker",
+                "circle city con",
+                "indianapolis",
+                "indiana",
+                "circle city",
+                "hack",
+                "infosec",
+                "hacker talks",
+                "information security"
+            ],
+            "categoryId": "28",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Data Access Rights Exploits under New Privacy Laws - Amber Welch",
+                "description": ""
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT50M",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "creativeCommon",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "8",
+            "likeCount": "0",
+            "favoriteCount": "0"
+        }
+    }
+]

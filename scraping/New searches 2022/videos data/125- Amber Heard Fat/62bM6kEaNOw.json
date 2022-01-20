@@ -1,0 +1,74 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "NJlHe7eoVFDz4Y5BceNH_SKqmG0",
+        "id": "62bM6kEaNOw",
+        "snippet": {
+            "publishedAt": "2012-05-11T18:47:55Z",
+            "channelId": "UCgxhPL4KcYGaheqCNovpLwQ",
+            "title": "Al & Johns Beer Review 13 Fat Tire Amber Ale",
+            "description": "Al & Johns Beer Review 13 Fat Tire Amber Ale",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/62bM6kEaNOw/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/62bM6kEaNOw/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/62bM6kEaNOw/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "HotelInnHeirs",
+            "tags": [
+                "Al",
+                "Johns",
+                "Beer",
+                "Review",
+                "13",
+                "Fat",
+                "Tire",
+                "Amber",
+                "Ale",
+                "cerveza",
+                "craftbeer",
+                "craft"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Al & Johns Beer Review 13 Fat Tire Amber Ale",
+                "description": "Al & Johns Beer Review 13 Fat Tire Amber Ale"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT7M30S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": false,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "318",
+            "likeCount": "5",
+            "favoriteCount": "0",
+            "commentCount": "1"
+        }
+    }
+]

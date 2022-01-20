@@ -1,0 +1,65 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "H7Ye6eRfFIwY3XCmQdfP5hKIgBY",
+        "id": "d1CNT2Z1ZGY",
+        "snippet": {
+            "publishedAt": "2020-07-15T05:20:17Z",
+            "channelId": "UCfL8WGYSyGf5n7MAu7qMw1Q",
+            "title": "Amber Luke gets the MOST INTENSETATTOO!",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/d1CNT2Z1ZGY/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/d1CNT2Z1ZGY/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/d1CNT2Z1ZGY/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/d1CNT2Z1ZGY/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "PUTra MG",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Luke gets the MOST INTENSETATTOO!",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT5M58S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "3972",
+            "likeCount": "36",
+            "favoriteCount": "0",
+            "commentCount": "3"
+        }
+    }
+]

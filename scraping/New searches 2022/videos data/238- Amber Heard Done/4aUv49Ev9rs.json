@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "Wvu34ar9a6sN-lDOywi3ugWaH4o",
+        "id": "4aUv49Ev9rs",
+        "snippet": {
+            "publishedAt": "2018-07-22T18:27:45Z",
+            "channelId": "UCh9DFhFsxmQpqQxAYekJOQw",
+            "title": "I WANNA DO IT ALL done by Amber Kruger",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/4aUv49Ev9rs/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/4aUv49Ev9rs/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/4aUv49Ev9rs/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/4aUv49Ev9rs/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/4aUv49Ev9rs/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Amber Kruger",
+            "categoryId": "10",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "I WANNA DO IT ALL done by Amber Kruger",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT3M3S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "549",
+            "likeCount": "14",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

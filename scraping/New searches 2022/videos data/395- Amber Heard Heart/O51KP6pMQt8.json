@@ -1,0 +1,60 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "PjDiC3acB4WpOLIReTu60OTlAAs",
+        "id": "O51KP6pMQt8",
+        "snippet": {
+            "publishedAt": "2019-12-05T09:27:04Z",
+            "channelId": "UC1rw1BzXU55iW4XF-ObBtqA",
+            "title": "Bebe Cool Live Press Conference About The Amber Heart Fdt.",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/O51KP6pMQt8/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/O51KP6pMQt8/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/O51KP6pMQt8/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Kookie Promotions",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Bebe Cool Live Press Conference About The Amber Heart Fdt.",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT1H34M35S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "699",
+            "likeCount": "14",
+            "favoriteCount": "0",
+            "commentCount": "2"
+        }
+    }
+]

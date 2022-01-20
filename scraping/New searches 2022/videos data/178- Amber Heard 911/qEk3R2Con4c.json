@@ -1,0 +1,63 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "sdo0shf4nuWjB_--NBGlW1LPyK4",
+        "id": "qEk3R2Con4c",
+        "snippet": {
+            "publishedAt": "2013-04-09T18:32:16Z",
+            "channelId": "UCGCfl9zPVNB8TIdqB3VpiHQ",
+            "title": "SNN: 911 call of Denis Amber Lee",
+            "description": "H-T Webgroup from Sarasota:\nThis 911 call was made after Denise Lee was raped, shortly before she was murdered.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/qEk3R2Con4c/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/qEk3R2Con4c/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/qEk3R2Con4c/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Sarasota Herald-Tribune",
+            "tags": [
+                "local_news"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "SNN: 911 call of Denis Amber Lee",
+                "description": "H-T Webgroup from Sarasota:\nThis 911 call was made after Denise Lee was raped, shortly before she was murdered."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT1M37S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "123",
+            "likeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

@@ -1,0 +1,78 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "IObXxDuBG0hZYkPBxqxdb4IqZN8",
+        "id": "NYYboKjR9B8",
+        "snippet": {
+            "publishedAt": "2017-04-04T16:36:37Z",
+            "channelId": "UCamEBDhRjGJ4rJK17w3f_zw",
+            "title": "London Fields | Extrait Amber Heard | VO",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/NYYboKjR9B8/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/NYYboKjR9B8/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/NYYboKjR9B8/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/NYYboKjR9B8/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/NYYboKjR9B8/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "[\u25ba] LBA - La Bande-Annonce",
+            "tags": [
+                "Ambert Heard"
+            ],
+            "categoryId": "1",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "London Fields | Extrait Amber Heard | VO",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT1M25S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "regionRestriction": {
+                "blocked": [
+                    "WF"
+                ]
+            },
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "2105",
+            "likeCount": "1",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

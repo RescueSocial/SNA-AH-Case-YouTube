@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "LbHpxne1fk-_A5hp_TTWMdk5FZ4",
+        "id": "mktKIyXlXus",
+        "snippet": {
+            "publishedAt": "2020-07-24T23:47:10Z",
+            "channelId": "UC10_dZylaFlzQu6WXnazYnQ",
+            "title": "Amber Heard accused of 'attacking sister' after video emerges in court",
+            "description": "Amber Heard accused of 'attacking sister' after video emerges in court",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/mktKIyXlXus/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/mktKIyXlXus/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/mktKIyXlXus/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/mktKIyXlXus/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/mktKIyXlXus/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "trieudo1",
+            "tags": [
+                "Amber Heard"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Heard accused of 'attacking sister' after video emerges in court",
+                "description": "Amber Heard accused of 'attacking sister' after video emerges in court"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT3M42S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "4",
+            "likeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

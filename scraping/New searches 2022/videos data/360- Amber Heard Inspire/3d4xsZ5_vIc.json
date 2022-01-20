@@ -1,0 +1,60 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "Bl4QBbBF2hFBH0ei-6dhzjsvY3g",
+        "id": "3d4xsZ5_vIc",
+        "snippet": {
+            "publishedAt": "2021-03-28T13:04:41Z",
+            "channelId": "UCBByrQuleqFUXj3z98nB_8w",
+            "title": "Johnny Depp and Amber Heard | Fullscreen status | #johnchristopherdepp  #Amberheard",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/3d4xsZ5_vIc/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/3d4xsZ5_vIc/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/3d4xsZ5_vIc/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "PRADEEP05",
+            "categoryId": "20",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Johnny Depp and Amber Heard | Fullscreen status | #johnchristopherdepp  #Amberheard",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT14S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "6178",
+            "likeCount": "605",
+            "favoriteCount": "0",
+            "commentCount": "29"
+        }
+    }
+]

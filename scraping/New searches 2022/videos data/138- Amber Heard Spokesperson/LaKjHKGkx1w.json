@@ -1,0 +1,75 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "uyuo8rEXMNNkYvZG6TRMLh5fmGI",
+        "id": "LaKjHKGkx1w",
+        "snippet": {
+            "publishedAt": "2018-05-10T18:06:25Z",
+            "channelId": "UCCXoCcu9Rp7NPbTzIvogpZg",
+            "title": "Israel strikes Iran targets in Syria",
+            "description": "Amber Smith, former deputy assistant to Secretary Mattis, on the fallout from President Trump's decision to pull out of the Iran nuclear deal.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/LaKjHKGkx1w/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/LaKjHKGkx1w/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/LaKjHKGkx1w/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Fox Business",
+            "tags": [
+                "Neil Cavuto",
+                "Cavuto",
+                "Apple News",
+                "Middle East",
+                "White House",
+                "Markets",
+                "On Air",
+                "Personality",
+                "Politics",
+                "Special",
+                "Fox Business"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "Israel strikes Iran targets in Syria",
+                "description": "Amber Smith, former deputy assistant to Secretary Mattis, on the fallout from President Trump's decision to pull out of the Iran nuclear deal."
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT4M23S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "46199",
+            "likeCount": "245",
+            "favoriteCount": "0",
+            "commentCount": "170"
+        }
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "5fupX0TJXQP9NSbdyIyNJb8YK0Q",
+        "id": "PkWotCFXQc0",
+        "snippet": {
+            "publishedAt": "2016-12-27T23:01:00Z",
+            "channelId": "UCWyflBaimPzfCa5WkPaTUgg",
+            "title": "Major Lazer - I Don't Need Nobody (Audio) ft. Amber Heard & Eva Mendes (New Track 2017)",
+            "description": "Music Video by Major Lazer performing I Don't Need Nobody featuring Amber Heard and Eva Mendes. (C) Interscope Records 2017. Buy ''I Don't Need Nobody (feat. Amber Heard & Eva Mendes)'' On ITunes...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/PkWotCFXQc0/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/PkWotCFXQc0/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/PkWotCFXQc0/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Matheus Gomez",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Major Lazer - I Don't Need Nobody (Audio) ft. Amber Heard & Eva Mendes (New Track 2017)",
+                "description": "Music Video by Major Lazer performing I Don't Need Nobody featuring Amber Heard and Eva Mendes. (C) Interscope Records 2017. Buy ''I Don't Need Nobody (feat. Amber Heard & Eva Mendes)'' On ITunes..."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT3M35S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "84241",
+            "likeCount": "714",
+            "favoriteCount": "0",
+            "commentCount": "20"
+        }
+    }
+]

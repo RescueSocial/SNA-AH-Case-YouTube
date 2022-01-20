@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "YJBRZBrhieX2cjcuHAskZsUqjtc",
+        "id": "Crk9CqPuv-o",
+        "snippet": {
+            "publishedAt": "2021-12-26T10:21:12Z",
+            "channelId": "UCRmt3Q8K1nsVD1CAT1dj2CA",
+            "title": "You Got it all Wrong SIS...LOL",
+            "description": "You're a special kind of stupid AMBER",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/Crk9CqPuv-o/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/Crk9CqPuv-o/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/Crk9CqPuv-o/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/Crk9CqPuv-o/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/Crk9CqPuv-o/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "90 Days On Blast",
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "You Got it all Wrong SIS...LOL",
+                "description": "You're a special kind of stupid AMBER"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT3H14M53S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "1709",
+            "likeCount": "98",
+            "favoriteCount": "0",
+            "commentCount": "26"
+        }
+    }
+]

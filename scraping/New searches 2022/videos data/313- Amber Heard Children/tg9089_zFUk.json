@@ -1,0 +1,65 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "Nfvnsmz3fyEH5_8BciMrApG6niU",
+        "id": "tg9089_zFUk",
+        "snippet": {
+            "publishedAt": "2018-12-05T20:44:33Z",
+            "channelId": "UCGsTHPqdwgKqTnrUTJUNr9w",
+            "title": "AQUAMAN - Trailer VF - 2018 (Jason Momoa, Amber Heard)",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/tg9089_zFUk/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/tg9089_zFUk/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/tg9089_zFUk/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/tg9089_zFUk/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "LinuxmaMovies",
+            "categoryId": "1",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "AQUAMAN - Trailer VF - 2018 (Jason Momoa, Amber Heard)",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT2M17S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "697",
+            "likeCount": "9",
+            "favoriteCount": "0",
+            "commentCount": "1"
+        }
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "QdwaD0TT-VaR680tjau8sQFFG2s",
+        "id": "fhhz3_sSJaQ",
+        "snippet": {
+            "publishedAt": "2020-07-07T19:07:18Z",
+            "channelId": "UC-bk3CDvTwt2TqPHykduhcQ",
+            "title": "Johnny Depp se reencuentra con Amber Heard en la corte y rechaza acusaciones",
+            "description": "Johnny Depp y Amber Heard se reencontraron este martes en una corte de Londres, ya que el actor niega rotundamente las acusaciones de su exesposa",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/fhhz3_sSJaQ/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/fhhz3_sSJaQ/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/fhhz3_sSJaQ/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/fhhz3_sSJaQ/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "UnoTV",
+            "tags": [
+                "Uno TV",
+                "Uno TV Noticias",
+                "News",
+                "Noticias"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Johnny Depp se reencuentra con Amber Heard en la corte y rechaza acusaciones",
+                "description": "Johnny Depp y Amber Heard se reencontraron este martes en una corte de Londres, ya que el actor niega rotundamente las acusaciones de su exesposa"
+            },
+            "defaultAudioLanguage": "es-419"
+        },
+        "contentDetails": {
+            "duration": "PT1M11S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "32430",
+            "likeCount": "67",
+            "favoriteCount": "0",
+            "commentCount": "19"
+        }
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "5c4cr5EonrlkTbbPUffRORzrm60",
+        "id": "1_SrAmZb4s0",
+        "snippet": {
+            "publishedAt": "2017-05-17T15:05:05Z",
+            "channelId": "UCdU_Mz6nyMkwmuMuziE5p_A",
+            "title": "Magic Mike XXL Channing Tatum's \"Fuck you all the time\"",
+            "description": "Channing Tatum\nAmber heard\nMagic mike XXL\nNew Hollywood video\nEnglish song\nMust watch\nLast routine\nTarzan\nCandyman\nTitu",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/1_SrAmZb4s0/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/1_SrAmZb4s0/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/1_SrAmZb4s0/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/1_SrAmZb4s0/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Cecelia Shaw",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Magic Mike XXL Channing Tatum's \"Fuck you all the time\"",
+                "description": "Channing Tatum\nAmber heard\nMagic mike XXL\nNew Hollywood video\nEnglish song\nMust watch\nLast routine\nTarzan\nCandyman\nTitu"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT3M40S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "6574",
+            "likeCount": "33",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

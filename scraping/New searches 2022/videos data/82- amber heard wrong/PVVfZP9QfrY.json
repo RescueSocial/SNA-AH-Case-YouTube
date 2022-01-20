@@ -1,0 +1,76 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "fjsCOSpzZKt1FFho6umIBA01JKk",
+        "id": "PVVfZP9QfrY",
+        "snippet": {
+            "publishedAt": "2011-03-30T16:28:08Z",
+            "channelId": "UCMEl5AWOTjHhWj-rIRj-2Ww",
+            "title": "John Carpenter's The Ward - Clip: What's wrong with that girl? (italian)",
+            "description": "Italian clip from John Carpenter's The Ward\r\n\r\nStarring: Amber Heard, Mamie Gummer, Danielle Panabaker, Laura-Leigh and Lyndsy Fonseca",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/PVVfZP9QfrY/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/PVVfZP9QfrY/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/PVVfZP9QfrY/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "DPanabakerOrg",
+            "tags": [
+                "John Carpenter",
+                "The Ward",
+                "Amber Heard",
+                "Mamie Gummer",
+                "Danielle Panabaker",
+                "Laura-Leigh",
+                "Lyndsy Fonseca"
+            ],
+            "categoryId": "1",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "John Carpenter's The Ward - Clip: What's wrong with that girl? (italian)",
+                "description": "Italian clip from John Carpenter's The Ward\r\n\r\nStarring: Amber Heard, Mamie Gummer, Danielle Panabaker, Laura-Leigh and Lyndsy Fonseca"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT56S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "regionRestriction": {
+                "blocked": [
+                    "AT",
+                    "CH",
+                    "DE"
+                ]
+            },
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "5557",
+            "likeCount": "17",
+            "favoriteCount": "0",
+            "commentCount": "2"
+        }
+    }
+]

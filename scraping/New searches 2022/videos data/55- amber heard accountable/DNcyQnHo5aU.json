@@ -1,0 +1,71 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "XIm5414qK4qTOfzqPp5icja4RRg",
+        "id": "DNcyQnHo5aU",
+        "snippet": {
+            "publishedAt": "2019-10-02T23:07:53Z",
+            "channelId": "UCKgAB8lqTbqbwXC-e6_9lhQ",
+            "title": "Watch: Aftermath of Amber Guyger sentencing",
+            "description": "Former Dallas police officer Amber Guyger was sentenced to 10 years for the murder of Botham Jean. Here\u2019s live coverage from WFAA of the reaction to the verdict.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/DNcyQnHo5aU/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/DNcyQnHo5aU/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/DNcyQnHo5aU/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "KGW News",
+            "tags": [
+                "Amber Guyger trial",
+                "Amber Guyger trial sentencing",
+                "KGW",
+                "Dallas Police",
+                "Botham Jean",
+                "Verdict",
+                "10 years",
+                "murder"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Watch: Aftermath of Amber Guyger sentencing",
+                "description": "Former Dallas police officer Amber Guyger was sentenced to 10 years for the murder of Botham Jean. Here\u2019s live coverage from WFAA of the reaction to the verdict."
+            },
+            "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+            "duration": "PT1H11M22S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "43290",
+            "likeCount": "242",
+            "favoriteCount": "0",
+            "commentCount": "205"
+        }
+    }
+]

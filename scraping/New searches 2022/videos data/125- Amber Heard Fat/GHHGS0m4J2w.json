@@ -1,0 +1,69 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "q7RnIu-XN7qUJXtYI-g2_XhTnso",
+        "id": "GHHGS0m4J2w",
+        "snippet": {
+            "publishedAt": "2021-04-02T16:05:41Z",
+            "channelId": "UClTNpf9ewXJpfQMUJzW5rsQ",
+            "title": "Johnny Depp and Amber Heard | couple status 2020",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/GHHGS0m4J2w/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/GHHGS0m4J2w/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/GHHGS0m4J2w/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/GHHGS0m4J2w/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/GHHGS0m4J2w/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Music Beats",
+            "categoryId": "10",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Johnny Depp and Amber Heard | couple status 2020",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT16S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "192",
+            "favoriteCount": "0",
+            "commentCount": "1"
+        }
+    }
+]

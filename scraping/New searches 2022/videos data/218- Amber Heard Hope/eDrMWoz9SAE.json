@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "R_lW3hzLLVazR5nqjyLuZDRocn8",
+        "id": "eDrMWoz9SAE",
+        "snippet": {
+            "publishedAt": "2018-02-12T14:21:55Z",
+            "channelId": "UCdYBf0Xt48Gx4mtJAuDMMbw",
+            "title": "WOMAN - Amber Lily w/Tubby Love & Hope Medford",
+            "description": "Kailua-Kona",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/eDrMWoz9SAE/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/eDrMWoz9SAE/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/eDrMWoz9SAE/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/eDrMWoz9SAE/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/eDrMWoz9SAE/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Mahina 808",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "WOMAN - Amber Lily w/Tubby Love & Hope Medford",
+                "description": "Kailua-Kona"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT5M51S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "2275",
+            "likeCount": "55",
+            "favoriteCount": "0",
+            "commentCount": "1"
+        }
+    }
+]

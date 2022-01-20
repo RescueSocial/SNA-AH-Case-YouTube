@@ -1,0 +1,71 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "e7ORhkn55aWDfwvk73RETv8xJQo",
+        "id": "QbgX37Lk0ho",
+        "snippet": {
+            "publishedAt": "2016-04-19T10:58:32Z",
+            "channelId": "UCeGMAmDo4vxGaC6r_r2wYrw",
+            "title": "A message from Johnny Depp & Amber Heard for USYD Update",
+            "description": "Pistol & Boo probably won\u2019t join us in Australia ever again but you can now apply to join USYD Update by 5pm, 29 April: http://bit.ly/1NyTfMe",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/QbgX37Lk0ho/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/QbgX37Lk0ho/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/QbgX37Lk0ho/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/QbgX37Lk0ho/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/QbgX37Lk0ho/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "USYD Update",
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "A message from Johnny Depp & Amber Heard for USYD Update",
+                "description": "Pistol & Boo probably won\u2019t join us in Australia ever again but you can now apply to join USYD Update by 5pm, 29 April: http://bit.ly/1NyTfMe"
+            },
+            "defaultAudioLanguage": "en-GB"
+        },
+        "contentDetails": {
+            "duration": "PT54S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "234",
+            "likeCount": "1",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "mj2R2PoQ3hKcwRtzRRkL8XiQ5jQ",
+        "id": "v-bGDhhOpBk",
+        "snippet": {
+            "publishedAt": "2021-05-05T21:27:34Z",
+            "channelId": "UC6MV4B_tR8nTs44zY_PZVng",
+            "title": "Create A Business Plan with Amber Kopecky!",
+            "description": "Learn how to set your business up for success with a business plan.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/v-bGDhhOpBk/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/v-bGDhhOpBk/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/v-bGDhhOpBk/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/v-bGDhhOpBk/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Pure Romance Partner Training",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Create A Business Plan with Amber Kopecky!",
+                "description": "Learn how to set your business up for success with a business plan."
+            },
+            "defaultAudioLanguage": "es-419"
+        },
+        "contentDetails": {
+            "duration": "PT55M53S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "264",
+            "likeCount": "14",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "H-64V6-uNdXRPaLpHPlfRwLKY7c",
+        "id": "jZnWZ33-Uxw",
+        "snippet": {
+            "publishedAt": "2020-01-06T01:04:12Z",
+            "channelId": "UCBHCBEFRwqH0uTB7QSA00xA",
+            "title": "Johnny Depp & Amber Heard Harassment Case",
+            "description": "Instagram:\nhttps://www.instagram.com/dominium.health/\n\nSpotify:\nhttps://open.spotify.com/episode/5P3ueuDdmFgEbujTz3oO4o?si=GMnNkdSKSUSQH2BX92hotQ\n\nTaken from episode 15 w/ Matt Cocco & AJ Baeini",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/jZnWZ33-Uxw/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/jZnWZ33-Uxw/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/jZnWZ33-Uxw/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Dominium Health",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Johnny Depp & Amber Heard Harassment Case",
+                "description": "Instagram:\nhttps://www.instagram.com/dominium.health/\n\nSpotify:\nhttps://open.spotify.com/episode/5P3ueuDdmFgEbujTz3oO4o?si=GMnNkdSKSUSQH2BX92hotQ\n\nTaken from episode 15 w/ Matt Cocco & AJ Baeini"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT2M48S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "348",
+            "likeCount": "7",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

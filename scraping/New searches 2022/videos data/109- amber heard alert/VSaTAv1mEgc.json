@@ -1,0 +1,78 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "jbXSur2B7udB77ItqJcciMdU0e0",
+        "id": "VSaTAv1mEgc",
+        "snippet": {
+            "publishedAt": "2016-05-03T11:34:21Z",
+            "channelId": "UC41xJSNY2xCPC4-gOsRcDcg",
+            "title": "Amber Alert",
+            "description": "New this morning... You probably heard your phones go off around 2-30 this morning. Subscribe to KOAT on YouTube now for more:  http://bit.ly/1jocB9r \n\n Get more Albuquerque news: http://koat.com \n Like us:http://facebook.com/KOAT7 \n Follow us: http://twitter.com/KOATLiveUpdates \n Google+: http://plus.google.com/+koat",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/VSaTAv1mEgc/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/VSaTAv1mEgc/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/VSaTAv1mEgc/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/VSaTAv1mEgc/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/VSaTAv1mEgc/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "KOAT",
+            "tags": [
+                "koat",
+                "albuquerque",
+                "amber",
+                "alert",
+                "KOAT",
+                "Albuquerque",
+                "New Mexico"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Alert",
+                "description": "New this morning... You probably heard your phones go off around 2-30 this morning. Subscribe to KOAT on YouTube now for more:  http://bit.ly/1jocB9r \n\n Get more Albuquerque news: http://koat.com \n Like us:http://facebook.com/KOAT7 \n Follow us: http://twitter.com/KOATLiveUpdates \n Google+: http://plus.google.com/+koat"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT59S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "691",
+            "likeCount": "9",
+            "favoriteCount": "0"
+        }
+    }
+]

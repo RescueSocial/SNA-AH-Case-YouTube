@@ -1,0 +1,78 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "WQFXfRTaU115fGl6SEoSQBc2rpk",
+        "id": "t5wGo708Wwg",
+        "snippet": {
+            "publishedAt": "2021-07-01T21:07:44Z",
+            "channelId": "UCxMXl9L79X1Mq_4iwCOyPFg",
+            "title": "Amber Alert Issued For 7-Month-Old Boy Out Of Ennis",
+            "description": "Police said they believe Miguel Ramirez is with his mother Faith Reid, 20, and an unidentified man in a white Ford extended cab truck.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/t5wGo708Wwg/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/t5wGo708Wwg/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/t5wGo708Wwg/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/t5wGo708Wwg/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/t5wGo708Wwg/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "CBSDFW",
+            "tags": [
+                "CBS 11 News Evening",
+                "Amber Alert",
+                "Ennis Police",
+                "Miguel Ramirez"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "Amber Alert Issued For 7-Month-Old Boy Out Of Ennis",
+                "description": "Police said they believe Miguel Ramirez is with his mother Faith Reid, 20, and an unidentified man in a white Ford extended cab truck."
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT58S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "967",
+            "likeCount": "22",
+            "favoriteCount": "0",
+            "commentCount": "6"
+        }
+    }
+]

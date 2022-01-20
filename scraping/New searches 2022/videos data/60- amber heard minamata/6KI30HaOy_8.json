@@ -1,0 +1,79 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "Uv64BrDke1zU0v4sov6WxFgjH7s",
+        "id": "6KI30HaOy_8",
+        "snippet": {
+            "publishedAt": "2020-02-23T22:15:00Z",
+            "channelId": "UChs7lcuw4qOCxl3SJRPuidQ",
+            "title": "Johnny Depp's mother: 'I'm Unhappy about Amber Heard & Johnny's bad relationship'",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/6KI30HaOy_8/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/6KI30HaOy_8/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/6KI30HaOy_8/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/6KI30HaOy_8/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/6KI30HaOy_8/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "DT Media",
+            "tags": [
+                "DT Media",
+                "news",
+                "Johnny Depp",
+                "mother",
+                "Unhappy",
+                "Amber Heard",
+                "bad relationship"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Johnny Depp's mother: 'I'm Unhappy about Amber Heard & Johnny's bad relationship'",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT2M49S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": false,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "2059",
+            "likeCount": "29",
+            "favoriteCount": "0",
+            "commentCount": "7"
+        }
+    }
+]

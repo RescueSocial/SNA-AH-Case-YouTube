@@ -1,0 +1,68 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "7qB0rARSjgwkImqxKmyCoA76SK0",
+        "id": "_ceafuxAWQc",
+        "snippet": {
+            "publishedAt": "2017-08-23T20:59:30Z",
+            "channelId": "UChIlR_Uhv1366IAxT1ORbTA",
+            "title": "Santa Barbara residents witnessed Amber Alert suspect ditch car",
+            "description": "Santa Barbara residents witnessed Amber Alert suspect ditch car",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/_ceafuxAWQc/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/_ceafuxAWQc/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/_ceafuxAWQc/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/_ceafuxAWQc/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "KSBY News",
+            "tags": [
+                "News"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Santa Barbara residents witnessed Amber Alert suspect ditch car",
+                "description": "Santa Barbara residents witnessed Amber Alert suspect ditch car"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT3M17S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "true",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "740",
+            "likeCount": "1",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

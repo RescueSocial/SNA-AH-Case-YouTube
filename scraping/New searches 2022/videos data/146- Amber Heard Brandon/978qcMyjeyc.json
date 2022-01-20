@@ -1,0 +1,76 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "5E1QVjmNl6CpjFjQjxpR4BEEjsc",
+        "id": "978qcMyjeyc",
+        "snippet": {
+            "publishedAt": "2018-02-04T15:29:28Z",
+            "channelId": "UCkPlpSk1l9Ya-_1aBirgq5w",
+            "title": "Aquaman Movie 2018 Official Trailer  Jason Momoa, Amber Heard,  Fan Made",
+            "description": "If you like content, subscribe to our channel: https://www.youtube.com/channel/UCkPlpSk1l9Ya-_1aBirgq5w",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/978qcMyjeyc/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/978qcMyjeyc/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/978qcMyjeyc/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/978qcMyjeyc/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/978qcMyjeyc/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "The life is nice",
+            "tags": [
+                "aquaman",
+                "marvel",
+                "batman",
+                "superman"
+            ],
+            "categoryId": "1",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Aquaman Movie 2018 Official Trailer  Jason Momoa, Amber Heard,  Fan Made",
+                "description": "If you like content, subscribe to our channel: https://www.youtube.com/channel/UCkPlpSk1l9Ya-_1aBirgq5w"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT1M58S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "84",
+            "likeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

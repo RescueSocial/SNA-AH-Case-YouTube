@@ -1,0 +1,77 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "NRhVg89tfYD_NLiDf8D6ExuXB34",
+        "id": "HfqbNoNMY5g",
+        "snippet": {
+            "publishedAt": "2012-12-12T12:48:17Z",
+            "channelId": "UClqJ1beyl7xtGvV-FghboKg",
+            "title": "Amber Dog Calendar 2013",
+            "description": "\u041a\u0430\u043b\u0435\u043d\u0434\u0430\u0440\u044c \"Amber Dog\" 2013",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/HfqbNoNMY5g/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/HfqbNoNMY5g/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/HfqbNoNMY5g/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/HfqbNoNMY5g/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/HfqbNoNMY5g/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Viktor Devjatov",
+            "tags": [
+                "Amber",
+                "Dog",
+                "Calendar",
+                "2013",
+                "\u041a\u0430\u043b\u0435\u043d\u0434\u0430\u0440\u044c"
+            ],
+            "categoryId": "10",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Dog Calendar 2013",
+                "description": "\u041a\u0430\u043b\u0435\u043d\u0434\u0430\u0440\u044c \"Amber Dog\" 2013"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT20M29S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "3770",
+            "likeCount": "6",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

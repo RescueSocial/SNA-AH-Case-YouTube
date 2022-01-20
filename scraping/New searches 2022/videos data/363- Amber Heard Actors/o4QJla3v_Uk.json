@@ -1,0 +1,74 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "IIufggkQzHpryYkaK7tBIbtA73s",
+        "id": "o4QJla3v_Uk",
+        "snippet": {
+            "publishedAt": "2014-02-21T22:03:31Z",
+            "channelId": "UCupvZG-5ko_eiXAupbDfxWw",
+            "title": "Steve McQueen's favorite actor!",
+            "description": "Steve McQueen's favorite actor? Amber Heard's vetting process and Queen Katy Perry?",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/o4QJla3v_Uk/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/o4QJla3v_Uk/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/o4QJla3v_Uk/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "CNN",
+            "tags": [
+                "CNN",
+                "News",
+                "CNN TV",
+                "CNN Newsroom",
+                "Showbiz",
+                "THE BUZZ TODAY!",
+                "STEVE MCQUEEN",
+                "AMBER HEARD",
+                "12 YEARS A SLAVE",
+                "DARK HORSE",
+                "3 DAYS TO KILL",
+                "ENTERTAINMENT"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Steve McQueen's favorite actor!",
+                "description": "Steve McQueen's favorite actor? Amber Heard's vetting process and Queen Katy Perry?"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT1M45S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "1286",
+            "likeCount": "8",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "shamydX9r0Ph5mK0yy_IifjhlqI",
+        "id": "5OM8ctGqY0o",
+        "snippet": {
+            "publishedAt": "2021-08-09T14:21:42Z",
+            "channelId": "UCdF28yM25XqT1-VRJhV-zNA",
+            "title": "Amber Bday Tribute.",
+            "description": "this is my amber. I dont whale soooooo.\n\nsong used: SUPER RISER!  by nanidato.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/5OM8ctGqY0o/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/5OM8ctGqY0o/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/5OM8ctGqY0o/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Nex",
+            "tags": [
+                "GenshinImpact",
+                "Genshin Impact",
+                "Amber",
+                "Birthday",
+                "#AmberBday"
+            ],
+            "categoryId": "20",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Bday Tribute.",
+                "description": "this is my amber. I dont whale soooooo.\n\nsong used: SUPER RISER!  by nanidato."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT1M9S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "37",
+            "likeCount": "2",
+            "favoriteCount": "0",
+            "commentCount": "1"
+        }
+    }
+]

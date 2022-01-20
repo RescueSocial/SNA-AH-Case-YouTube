@@ -1,0 +1,81 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "lHRF2WYihgp08uRpa4k3TsMilOw",
+        "id": "PVtLCxDFl50",
+        "snippet": {
+            "publishedAt": "2019-09-27T21:24:43Z",
+            "channelId": "UCxMXl9L79X1Mq_4iwCOyPFg",
+            "title": "Amber Guyger Testifies At Her Murder Trial She Feels Like Terrible Person For Killing Botham Jean",
+            "description": "Through tears and words of regret, former Dallas police officer Amber Guyger took the stand on the fifth day of her murder trial on Friday.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/PVtLCxDFl50/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/PVtLCxDFl50/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/PVtLCxDFl50/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/PVtLCxDFl50/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/PVtLCxDFl50/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "CBSDFW",
+            "tags": [
+                "CBS 11 News Evening",
+                "Amber Guyger trial",
+                "Amber Guyger",
+                "murder trial",
+                "Botham Jean",
+                "former Dallas Police officer",
+                "deadly shooting"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "Amber Guyger Testifies At Her Murder Trial She Feels Like Terrible Person For Killing Botham Jean",
+                "description": "Through tears and words of regret, former Dallas police officer Amber Guyger took the stand on the fifth day of her murder trial on Friday."
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT4M38S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "1241",
+            "likeCount": "12",
+            "favoriteCount": "0",
+            "commentCount": "32"
+        }
+    }
+]

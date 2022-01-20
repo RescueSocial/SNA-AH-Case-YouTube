@@ -1,0 +1,60 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "6VicNVTp6rKLQ4IXawPGcWic78E",
+        "id": "myWKPPXgIFU",
+        "snippet": {
+            "publishedAt": "2020-02-09T21:02:27Z",
+            "channelId": "UCxw7tI5cNhDG3x8P7o9BqxQ",
+            "title": "Response to the Amber Heard & Jonny Depp audio leaks",
+            "description": "im more of a gaming and anime channel, however some things i've seen & heard recently with the audio files made public made me feel like i had to say something.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/myWKPPXgIFU/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/myWKPPXgIFU/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/myWKPPXgIFU/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "LordAnkhUchiha",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Response to the Amber Heard & Jonny Depp audio leaks",
+                "description": "im more of a gaming and anime channel, however some things i've seen & heard recently with the audio files made public made me feel like i had to say something."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT8M8S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "60",
+            "likeCount": "1",
+            "favoriteCount": "0",
+            "commentCount": "2"
+        }
+    }
+]

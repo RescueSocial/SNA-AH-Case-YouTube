@@ -1,0 +1,75 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "-_tBF0sf696q4IuhLcPJjFZFxlg",
+        "id": "Yzd5HHFkzKo",
+        "snippet": {
+            "publishedAt": "2016-05-29T00:25:01Z",
+            "channelId": "UCdtXPiqI2cLorKaPrfpKc4g",
+            "title": "Johnny Depp & the Hollywood Vampires Attend Hearing Aid Charity Event Ahead of Show in Portugal",
+            "description": "The 52-year-old actor is helping the hearing impaired despite his legal drama with Amber Heard.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/Yzd5HHFkzKo/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/Yzd5HHFkzKo/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/Yzd5HHFkzKo/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/Yzd5HHFkzKo/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Entertainment Tonight",
+            "tags": [
+                "news",
+                "ET Online",
+                "entertainment tonight",
+                "celebrity",
+                "ETtrending",
+                "ET NOW",
+                "etonline",
+                "et"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Johnny Depp & the Hollywood Vampires Attend Hearing Aid Charity Event Ahead of Show in Portugal",
+                "description": "The 52-year-old actor is helping the hearing impaired despite his legal drama with Amber Heard."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT1M6S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "34364",
+            "likeCount": "359",
+            "favoriteCount": "0",
+            "commentCount": "33"
+        }
+    }
+]

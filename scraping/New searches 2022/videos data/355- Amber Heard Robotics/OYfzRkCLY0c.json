@@ -1,0 +1,71 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "Wn5lSQW2-AaOS-6a2OlY-_6kTac",
+        "id": "OYfzRkCLY0c",
+        "snippet": {
+            "publishedAt": "2018-09-21T17:12:13Z",
+            "channelId": "UCdNtqpHlU1pCaVy2wlzxHKQ",
+            "title": "LIVE \u2013 Fireside chat with nine Canadian astronauts",
+            "description": "2018-09-21 - Amber Mac leads a discussion on space exploration with nine Canadian astronauts.\n\nCredit: Canadian Space Agency",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/OYfzRkCLY0c/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/OYfzRkCLY0c/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/OYfzRkCLY0c/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/OYfzRkCLY0c/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/OYfzRkCLY0c/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Canadian Space Agency",
+            "categoryId": "28",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "LIVE \u2013 Fireside chat with nine Canadian astronauts",
+                "description": "2018-09-21 - Amber Mac leads a discussion on space exploration with nine Canadian astronauts.\n\nCredit: Canadian Space Agency"
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT1H2M48S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "3603",
+            "likeCount": "116",
+            "favoriteCount": "0",
+            "commentCount": "11"
+        }
+    }
+]

@@ -1,0 +1,63 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "PqkA0nh72n3MpV14yGhPwCjziaY",
+        "id": "cq8vmAkZE3c",
+        "snippet": {
+            "publishedAt": "2015-03-12T23:05:04Z",
+            "channelId": "UCu52A-vCgrmGCt5Tmjg40vw",
+            "title": "Amber Heard Haircut",
+            "description": "Amber Heard Haircut, Amber Heard Haircut",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/cq8vmAkZE3c/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/cq8vmAkZE3c/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/cq8vmAkZE3c/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "TheHairFF",
+            "tags": [
+                "Amber Heard Haircut"
+            ],
+            "categoryId": "1",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Heard Haircut",
+                "description": "Amber Heard Haircut, Amber Heard Haircut"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT3M36S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "116",
+            "likeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

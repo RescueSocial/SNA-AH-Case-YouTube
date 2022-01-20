@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "PriZpmomIqPrYX18zfGOhvpYDGk",
+        "id": "nm4ANebMbUk",
+        "snippet": {
+            "publishedAt": "2013-08-02T04:46:29Z",
+            "channelId": "UCvA-KzbM0cQZx-FhkDUxb6w",
+            "title": "Machete Kills Domestic Trailer #2 (official) [Lady Gaga]-[Amber Heard]",
+            "description": "Gaga - 1:22 - 1:35\nPaws up",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/nm4ANebMbUk/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/nm4ANebMbUk/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/nm4ANebMbUk/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/nm4ANebMbUk/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Thu Duy\u00ean",
+            "tags": [
+                "Lady Gaga (Musical Artist)",
+                "Machete Kills (Film)",
+                "Trailer (Website Category)"
+            ],
+            "categoryId": "1",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Machete Kills Domestic Trailer #2 (official) [Lady Gaga]-[Amber Heard]",
+                "description": "Gaga - 1:22 - 1:35\nPaws up"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT2M12S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "1127",
+            "likeCount": "9",
+            "favoriteCount": "0",
+            "commentCount": "1"
+        }
+    }
+]

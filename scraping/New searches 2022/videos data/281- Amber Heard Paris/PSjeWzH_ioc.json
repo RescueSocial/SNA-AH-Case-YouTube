@@ -1,0 +1,87 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "__PHPdwA013NAwFN6G3eD-pB2RI",
+        "id": "PSjeWzH_ioc",
+        "snippet": {
+            "publishedAt": "2011-11-09T15:10:43Z",
+            "channelId": "UCl01THIfTUqU2lMVgNG7mBQ",
+            "title": "Rhum Express: Avant-premi\u00e8re Paris",
+            "description": "La vid\u00e9o exclusive de l'avant premi\u00e8re Rhum Express sur les Champs-\u00c9lys\u00e9es!\nEn pr\u00e9sence de Johnny Depp, Amber Heard et Bruce Robinson.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/PSjeWzH_ioc/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/PSjeWzH_ioc/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/PSjeWzH_ioc/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/PSjeWzH_ioc/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/PSjeWzH_ioc/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Metropolitan Films",
+            "tags": [
+                "Rhum",
+                "Express",
+                "Johnny",
+                "Depp",
+                "Aaron",
+                "eckart",
+                "Hunter",
+                "Thompson",
+                "Amber",
+                "avant",
+                "premi\u00e8re",
+                "Champs",
+                "Elys\u00e9es",
+                "paris",
+                "france"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Rhum Express: Avant-premi\u00e8re Paris",
+                "description": "La vid\u00e9o exclusive de l'avant premi\u00e8re Rhum Express sur les Champs-\u00c9lys\u00e9es!\nEn pr\u00e9sence de Johnny Depp, Amber Heard et Bruce Robinson."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT8M34S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": false,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "4253",
+            "likeCount": "29",
+            "favoriteCount": "0",
+            "commentCount": "5"
+        }
+    }
+]

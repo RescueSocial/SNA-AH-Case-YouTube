@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "tKhFvfzMTNOK71Ic2jQ2wfSSVj0",
+        "id": "l3X84gPIJr0",
+        "snippet": {
+            "publishedAt": "2019-11-06T17:23:42Z",
+            "channelId": "UC_YFbvKedjnVjqrZqBR4L8Q",
+            "title": "Amber Alert issued for 5-year-old girl missing from Brentwood area",
+            "description": "VIDEO: Over 100 Jacksonville police officers and detectives are actively searching for a 5-year-old girl reported missing from the Brentwood area.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/l3X84gPIJr0/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/l3X84gPIJr0/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/l3X84gPIJr0/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/l3X84gPIJr0/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/l3X84gPIJr0/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "News4JAX",
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Alert issued for 5-year-old girl missing from Brentwood area",
+                "description": "VIDEO: Over 100 Jacksonville police officers and detectives are actively searching for a 5-year-old girl reported missing from the Brentwood area."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT13M7S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "1249",
+            "likeCount": "33",
+            "favoriteCount": "0",
+            "commentCount": "6"
+        }
+    }
+]

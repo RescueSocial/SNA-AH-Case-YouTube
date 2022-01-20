@@ -1,0 +1,74 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "Ryp9BWGE1ykuK9wrGaX-DPXSFAU",
+        "id": "TXU_Dx-UPHg",
+        "snippet": {
+            "publishedAt": "2021-12-07T09:50:33Z",
+            "channelId": "UC1dVGItBqV4w-4xQHoX1UDg",
+            "title": "Amber Alert issued for abducted NC baby",
+            "description": "Ava Pierce, 1, was abducted by Roxanne Michelle Cromer Parson, according to the North Carolina Department of Public Safety.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/TXU_Dx-UPHg/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/TXU_Dx-UPHg/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/TXU_Dx-UPHg/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/TXU_Dx-UPHg/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/TXU_Dx-UPHg/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "CBS 17",
+            "tags": [
+                "video"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Alert issued for abducted NC baby",
+                "description": "Ava Pierce, 1, was abducted by Roxanne Michelle Cromer Parson, according to the North Carolina Department of Public Safety."
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT26S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "450",
+            "likeCount": "9",
+            "favoriteCount": "0",
+            "commentCount": "2"
+        }
+    }
+]

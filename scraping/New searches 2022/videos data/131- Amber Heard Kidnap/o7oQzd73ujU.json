@@ -1,0 +1,71 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "46UO-QD71L2Z_-0dcm8f6X-wfSg",
+        "id": "o7oQzd73ujU",
+        "snippet": {
+            "publishedAt": "2020-03-02T01:22:34Z",
+            "channelId": "UCBB00Ngi4iv7KTUfeLnCP4g",
+            "title": "AMBER ALERT (Child Abduction Emergency) Farmers Branch, Texas NOAA Weather Radio 3/1/20",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/o7oQzd73ujU/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/o7oQzd73ujU/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/o7oQzd73ujU/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/o7oQzd73ujU/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/o7oQzd73ujU/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Piggy Porkchop",
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "AMBER ALERT (Child Abduction Emergency) Farmers Branch, Texas NOAA Weather Radio 3/1/20",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT1M36S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "560",
+            "likeCount": "8",
+            "favoriteCount": "0",
+            "commentCount": "4"
+        }
+    }
+]

@@ -1,0 +1,81 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "e2vtvDgc1h02y5bLk0vSmG92NFM",
+        "id": "sMg9TtKEnhY",
+        "snippet": {
+            "publishedAt": "2020-03-05T04:15:01Z",
+            "channelId": "UChs7lcuw4qOCxl3SJRPuidQ",
+            "title": "Johnny Depp thanks Amber Heard's audio confession, giving him opportunity to be Jack Sparrow again",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/sMg9TtKEnhY/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/sMg9TtKEnhY/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/sMg9TtKEnhY/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/sMg9TtKEnhY/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/sMg9TtKEnhY/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "DT Media",
+            "tags": [
+                "DT Media",
+                "news",
+                "Johnny Depp",
+                "thanks",
+                "Amber Heard",
+                "audio confession",
+                "opportunity",
+                "Jack Sparrow",
+                "again"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Johnny Depp thanks Amber Heard's audio confession, giving him opportunity to be Jack Sparrow again",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT2M54S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": false,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "1756",
+            "likeCount": "28",
+            "favoriteCount": "0",
+            "commentCount": "13"
+        }
+    }
+]

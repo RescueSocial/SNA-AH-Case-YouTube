@@ -1,0 +1,81 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "ry_zW1J9qQBvwtmCx8G6LsTEJmI",
+        "id": "Do3miS_quz8",
+        "snippet": {
+            "publishedAt": "2015-07-07T16:32:32Z",
+            "channelId": "UCt2TW6Bsk0EGA1ynFJrGIVw",
+            "title": "Ellen Von Unwerth | Vanity Fair | Amber Heard",
+            "description": "Photographed at Chateau Marmont\n2013",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/Do3miS_quz8/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/Do3miS_quz8/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/Do3miS_quz8/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/Do3miS_quz8/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/Do3miS_quz8/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "2b management",
+            "tags": [
+                "Ellen Von Unwerth (Visual Artist)",
+                "Photographer (Profession)",
+                "Amber Heard (Celebrity)",
+                "Fashion (Industry)",
+                "Fashion Design (Industry)",
+                "Jewellery (Industry)",
+                "Makeup Artist (Profession)",
+                "Make-up Art Cosmetics (Business Operation)",
+                "Vanity Fair (Magazine)"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Ellen Von Unwerth | Vanity Fair | Amber Heard",
+                "description": "Photographed at Chateau Marmont\n2013"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT1M30S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "1119",
+            "likeCount": "16",
+            "favoriteCount": "0",
+            "commentCount": "6"
+        }
+    }
+]

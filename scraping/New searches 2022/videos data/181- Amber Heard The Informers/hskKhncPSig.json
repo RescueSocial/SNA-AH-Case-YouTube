@@ -1,0 +1,78 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "CDTYrHbvdsE0QzAHbyW_EJBpn8A",
+        "id": "hskKhncPSig",
+        "snippet": {
+            "publishedAt": "2010-11-02T01:19:13Z",
+            "channelId": "UCZ_24VX2Rnr_no_RaDDq_Xg",
+            "title": "Amber Heard in 'The Informers' (2008) Part 7/8: Zzz",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/hskKhncPSig/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/hskKhncPSig/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/hskKhncPSig/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "IglooDweller",
+            "tags": [
+                "amber heard",
+                "christie",
+                "the informers",
+                "jon foster",
+                "graham",
+                "austin nichols",
+                "martin",
+                "movie"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Heard in 'The Informers' (2008) Part 7/8: Zzz",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT38S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "regionRestriction": {
+                "blocked": [
+                    "AT",
+                    "DE"
+                ]
+            },
+            "contentRating": {
+                "ytRating": "ytAgeRestricted"
+            },
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "496365",
+            "likeCount": "336",
+            "favoriteCount": "0",
+            "commentCount": "12"
+        }
+    }
+]

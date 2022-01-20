@@ -1,0 +1,82 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "Hgya5avplr7yrwVVL0gOSE3k92M",
+        "id": "Tk2asaNeXkg",
+        "snippet": {
+            "publishedAt": "2017-07-19T10:29:28Z",
+            "channelId": "UCKe4Fry0MyvT_SRrmn0_MiQ",
+            "title": "Amber Alert canceled; 3 children located unharmed, mother still sought by authorities",
+            "description": "Amber Alert canceled; 3 children located unharmed, mother still sought by authorities",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/Tk2asaNeXkg/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/Tk2asaNeXkg/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/Tk2asaNeXkg/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/Tk2asaNeXkg/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/Tk2asaNeXkg/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "WISH-TV",
+            "tags": [
+                "Indianapolis",
+                "local news",
+                "news",
+                "WISH-TV",
+                "Indiana",
+                "Indy",
+                "News",
+                "Indianapolis News",
+                "WISH 8",
+                "Indy news"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Alert canceled; 3 children located unharmed, mother still sought by authorities",
+                "description": "Amber Alert canceled; 3 children located unharmed, mother still sought by authorities"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT1M19S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "13",
+            "likeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

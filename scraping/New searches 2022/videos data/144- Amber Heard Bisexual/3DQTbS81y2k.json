@@ -1,0 +1,63 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "YiykuwClDgcy-_z7YsykWRnv8LM",
+        "id": "3DQTbS81y2k",
+        "snippet": {
+            "publishedAt": "2017-03-25T10:01:43Z",
+            "channelId": "UCDwGO7WuHjCQZyhv_S1tTPA",
+            "title": "johnny depp and Amber Heard officially divorced",
+            "description": "johnny depp and Amber Heard officially divorced",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/3DQTbS81y2k/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/3DQTbS81y2k/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/3DQTbS81y2k/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Tv gossib sembarang chenel",
+            "tags": [
+                "Artist music gossib selebrity"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "johnny depp and Amber Heard officially divorced",
+                "description": "johnny depp and Amber Heard officially divorced"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT1M36S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "58",
+            "likeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

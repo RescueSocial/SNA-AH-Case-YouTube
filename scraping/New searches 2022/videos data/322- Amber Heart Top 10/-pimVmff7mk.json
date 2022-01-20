@@ -1,0 +1,65 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "XK6jxdw8_K77gyou7h0TKFp5qUA",
+        "id": "-pimVmff7mk",
+        "snippet": {
+            "publishedAt": "2020-04-22T07:44:09Z",
+            "channelId": "UCS-rTo0x2tdirnjIotYaTfg",
+            "title": "A fresh start & unlimited Amber hack | solo series on Brutal | ARK mobile",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/-pimVmff7mk/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/-pimVmff7mk/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/-pimVmff7mk/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/-pimVmff7mk/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Bl\u00f2\u00f3dy Hell",
+            "categoryId": "20",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "A fresh start & unlimited Amber hack | solo series on Brutal | ARK mobile",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT6M28S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "25423",
+            "likeCount": "345",
+            "favoriteCount": "0",
+            "commentCount": "88"
+        }
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "JL7nNBla6GEfL7K3nggGPvTbLB0",
+        "id": "4hkJh8T-ZW0",
+        "snippet": {
+            "publishedAt": "2021-09-28T10:55:48Z",
+            "channelId": "UCDQJ6iQSxxnR-sTFk9HjRaA",
+            "title": "Johnny Depp \u2764 Amber Heard \ud83d\ude0d",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/4hkJh8T-ZW0/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/4hkJh8T-ZW0/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/4hkJh8T-ZW0/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Beautiful Kings\ud83e\udd34 & Queens\ud83d\udc78",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Johnny Depp \u2764 Amber Heard \ud83d\ude0d",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT18S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "441",
+            "likeCount": "16",
+            "favoriteCount": "0",
+            "commentCount": "2"
+        }
+    }
+]

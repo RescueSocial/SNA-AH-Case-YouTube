@@ -1,0 +1,67 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "FPSBg2zA73FhbDfCQXnJk-44DoQ",
+        "id": "jXcYhm4Fqmo",
+        "snippet": {
+            "publishedAt": "2019-06-14T15:33:30Z",
+            "channelId": "UCGPbwzz6by1v5331b-Py7cw",
+            "title": "S\u00c9DUCTION FATALE Bande Annonce VF 2019 Johnny Depp, Amber Heard",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/jXcYhm4Fqmo/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/jXcYhm4Fqmo/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/jXcYhm4Fqmo/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Bande d'annonce",
+            "tags": [
+                "bande d'annonce",
+                "film",
+                "nouveau",
+                "2019"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "S\u00c9DUCTION FATALE Bande Annonce VF 2019 Johnny Depp, Amber Heard",
+                "description": ""
+            },
+            "defaultAudioLanguage": "fr"
+        },
+        "contentDetails": {
+            "duration": "PT2M20S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "181",
+            "likeCount": "4",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

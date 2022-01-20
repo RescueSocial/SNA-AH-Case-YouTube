@@ -1,0 +1,60 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "fWNPqNVUwIkzUYkVCmhmnRa2k2c",
+        "id": "GNS4nclgPIA",
+        "snippet": {
+            "publishedAt": "2022-01-07T23:29:04Z",
+            "channelId": "UCriPg3TPzA56DLRSQNee48w",
+            "title": "Amber Heard",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/GNS4nclgPIA/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/GNS4nclgPIA/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/GNS4nclgPIA/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Onetwothree Drink",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Heard",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT23S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "1138",
+            "likeCount": "15",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

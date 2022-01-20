@@ -1,0 +1,80 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "ZIXItl5AiXChbwa_JFVB1E1R-Aw",
+        "id": "FGV3nFt0D8A",
+        "snippet": {
+            "publishedAt": "2021-02-25T14:11:07Z",
+            "channelId": "UCBu0KdNokE4MqdkacvH37_A",
+            "title": "Rooted: Judge Amber Givens shares her hair story",
+            "description": "Givens presides over the 282nd Judicial District Court in Dallas County. But when she first ran for the role, some were more concerned about her hair than her policy",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/FGV3nFt0D8A/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/FGV3nFt0D8A/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/FGV3nFt0D8A/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/FGV3nFt0D8A/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/FGV3nFt0D8A/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "WFAA",
+            "tags": [
+                "rooted",
+                "features",
+                "life",
+                "news",
+                "local",
+                "community"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "Rooted: Judge Amber Givens shares her hair story",
+                "description": "Givens presides over the 282nd Judicial District Court in Dallas County. But when she first ran for the role, some were more concerned about her hair than her policy"
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT2M48S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "792",
+            "likeCount": "37",
+            "favoriteCount": "0",
+            "commentCount": "11"
+        }
+    }
+]

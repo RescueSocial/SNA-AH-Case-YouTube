@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "kVzivm5C32Xm7uGzWoloOfyt6SI",
+        "id": "Ll9KseT3agE",
+        "snippet": {
+            "publishedAt": "2012-08-12T22:28:48Z",
+            "channelId": "UCnpnIH41pif6URMuPEe3KMw",
+            "title": "Amber Riley Mahalia Jackson Tribute",
+            "description": "Mahalia Jackson\nJennifer Hudson\nAmber Riley from Glee\n\n\"Tribute to the Mother of Gospel\" at the 2012 Celebration of Gospel",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/Ll9KseT3agE/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/Ll9KseT3agE/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/Ll9KseT3agE/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Anthony Owens",
+            "tags": [
+                "Mahalia",
+                "Jackson",
+                "Jennifer",
+                "Hudson",
+                "Amber",
+                "Riley",
+                "Gospel",
+                "Celebration"
+            ],
+            "categoryId": "10",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Riley Mahalia Jackson Tribute",
+                "description": "Mahalia Jackson\nJennifer Hudson\nAmber Riley from Glee\n\n\"Tribute to the Mother of Gospel\" at the 2012 Celebration of Gospel"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT3M13S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "15719",
+            "likeCount": "226",
+            "favoriteCount": "0",
+            "commentCount": "9"
+        }
+    }
+]

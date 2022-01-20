@@ -1,0 +1,62 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "L6dmAhcyyRjFfAnzj8twJjk0g9k",
+        "id": "spoLJ5sX5h8",
+        "snippet": {
+            "publishedAt": "2020-02-03T02:43:56Z",
+            "channelId": "UCZ3RXXdIXz5xBa4MU9nCI3A",
+            "title": "El audio de Amber Heard y Johnny Depp del maltrato",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/spoLJ5sX5h8/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/spoLJ5sX5h8/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/spoLJ5sX5h8/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "robert of war",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "El audio de Amber Heard y Johnny Depp del maltrato",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT10M9S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {
+                "ytRating": "ytAgeRestricted"
+            },
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "290",
+            "likeCount": "3",
+            "favoriteCount": "0",
+            "commentCount": "3"
+        }
+    }
+]

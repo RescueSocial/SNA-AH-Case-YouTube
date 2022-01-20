@@ -1,0 +1,71 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "ADtzjbWyl3Ax8Vs0QtIIWVfQtPM",
+        "id": "z-eUQmq-gTU",
+        "snippet": {
+            "publishedAt": "2019-02-25T05:13:38Z",
+            "channelId": "UCu7G08TrwPx_0WH4M7OxjIQ",
+            "title": "Amber Alert for two missing kids canceled, father speaks out on Sunday",
+            "description": "The father, who had the kids, told Phoenix police he had the legal right to take them. He spoke with 12 News Sunday.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/z-eUQmq-gTU/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/z-eUQmq-gTU/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/z-eUQmq-gTU/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/z-eUQmq-gTU/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "12 News",
+            "tags": [
+                "valley",
+                "ott"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "Amber Alert for two missing kids canceled, father speaks out on Sunday",
+                "description": "The father, who had the kids, told Phoenix police he had the legal right to take them. He spoke with 12 News Sunday."
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT1M51S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "162",
+            "likeCount": "5",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

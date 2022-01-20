@@ -1,0 +1,63 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "W9xri2sQUKtLw3ohSWftWHIv02I",
+        "id": "mvKIX5xc5EU",
+        "snippet": {
+            "publishedAt": "2012-03-21T14:30:23Z",
+            "channelId": "UCsk3-7TmM8UyVhYBe6I0kgw",
+            "title": "Amber Commercial",
+            "description": " ",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/mvKIX5xc5EU/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/mvKIX5xc5EU/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/mvKIX5xc5EU/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Waseem Qureshi",
+            "tags": [
+                "commercial"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Commercial",
+                "description": " "
+            }
+        },
+        "contentDetails": {
+            "duration": "PT31S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "44",
+            "likeCount": "1",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

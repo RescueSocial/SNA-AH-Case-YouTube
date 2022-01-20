@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "IM9emDdj1DK4YwyIxNNaQ74B9t8",
+        "id": "2yqDSNNZDRU",
+        "snippet": {
+            "publishedAt": "2021-02-23T21:09:26Z",
+            "channelId": "UCbSRvqu2QWU86lLVU8aYMyA",
+            "title": "Emilia Clarke in? Amber Heard Out? Let's Hope",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/2yqDSNNZDRU/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/2yqDSNNZDRU/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/2yqDSNNZDRU/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/2yqDSNNZDRU/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/2yqDSNNZDRU/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Brodan Bro of the Skies. ..",
+            "categoryId": "20",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Emilia Clarke in? Amber Heard Out? Let's Hope",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT5M41S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "41",
+            "likeCount": "6",
+            "favoriteCount": "0",
+            "commentCount": "2"
+        }
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "ZD58LBV0YwDMW8W5MIWsc8QDNCQ",
+        "id": "0OZ_ZtIszcY",
+        "snippet": {
+            "publishedAt": "2020-05-02T19:57:46Z",
+            "channelId": "UCArtJzkXzx8kmOxGIRRwCVQ",
+            "title": "An amber alert or a child abduction emergency alert is a message distributed by a child abduction al",
+            "description": "An amber alert or a child abduction emergency alert is a message distributed by a child abduction alert system to ask the public for help in finding abducted children. It originated in the United States in 1996.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/0OZ_ZtIszcY/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/0OZ_ZtIszcY/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/0OZ_ZtIszcY/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "NikolasWasHere",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "An amber alert or a child abduction emergency alert is a message distributed by a child abduction al",
+                "description": "An amber alert or a child abduction emergency alert is a message distributed by a child abduction alert system to ask the public for help in finding abducted children. It originated in the United States in 1996."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT8M51S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "86",
+            "likeCount": "5",
+            "favoriteCount": "0",
+            "commentCount": "7"
+        }
+    }
+]

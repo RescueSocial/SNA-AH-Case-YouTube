@@ -1,0 +1,72 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "tIbCBXrzbjD1MHl7CL_49YdZQlk",
+        "id": "TWq1BC7fdMk",
+        "snippet": {
+            "publishedAt": "2014-02-19T20:04:06Z",
+            "channelId": "UCAqNlB8k8MchmNb2h68U1Cw",
+            "title": "Amber hard at work before recording",
+            "description": "via YouTube Capture",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/TWq1BC7fdMk/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/TWq1BC7fdMk/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/TWq1BC7fdMk/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/TWq1BC7fdMk/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/TWq1BC7fdMk/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "amber Whitfield",
+            "tags": [
+                "YouTube Capture"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber hard at work before recording",
+                "description": "via YouTube Capture"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT20S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "100",
+            "likeCount": "0",
+            "favoriteCount": "0"
+        }
+    }
+]

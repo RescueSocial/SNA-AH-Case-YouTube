@@ -1,0 +1,71 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "OKfHpS5BLDyXrlZnlPYO-V5FJuw",
+        "id": "6-Xyg1PlxHI",
+        "snippet": {
+            "publishedAt": "2021-02-01T01:43:37Z",
+            "channelId": "UCZLE3V_BcdhoiPNJqB3vWag",
+            "title": "Amber gets 10 strikes at school/ Grounded",
+            "description": "based on this guy danyy's video:https://www.youtube.com/watch?v=HSY_Qk8uQfo",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/6-Xyg1PlxHI/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/6-Xyg1PlxHI/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/6-Xyg1PlxHI/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/6-Xyg1PlxHI/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/6-Xyg1PlxHI/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Noisy Michael",
+            "categoryId": "1",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber gets 10 strikes at school/ Grounded",
+                "description": "based on this guy danyy's video:https://www.youtube.com/watch?v=HSY_Qk8uQfo"
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT5M36S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "175",
+            "likeCount": "5",
+            "favoriteCount": "0",
+            "commentCount": "1"
+        }
+    }
+]

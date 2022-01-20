@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "3KFqlKmGpzUjV7ecmysK6_UmCaE",
+        "id": "Bcm-o_xhqAo",
+        "snippet": {
+            "publishedAt": "2012-08-03T08:20:22Z",
+            "channelId": "UC9wGspLRsG7Av23tLuujD9w",
+            "title": "Amber Heard by markus12345ism",
+            "description": "Pr\u00e4sentation\nCreated with MAGIX Slideshow Maker 2",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/Bcm-o_xhqAo/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/Bcm-o_xhqAo/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/Bcm-o_xhqAo/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/Bcm-o_xhqAo/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Brunner markus",
+            "tags": [
+                "Amber",
+                "Heard",
+                "MAGIX Slideshow Maker 2"
+            ],
+            "categoryId": "1",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Heard by markus12345ism",
+                "description": "Pr\u00e4sentation\nCreated with MAGIX Slideshow Maker 2"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT3M47S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "232",
+            "likeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "1"
+        }
+    }
+]

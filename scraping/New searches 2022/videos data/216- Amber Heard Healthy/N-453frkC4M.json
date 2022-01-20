@@ -1,0 +1,71 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "ocUbMMzS39-9351eVM7mL0xzxd4",
+        "id": "N-453frkC4M",
+        "snippet": {
+            "publishedAt": "2018-12-16T16:18:25Z",
+            "channelId": "UCaMUxqpk4PXbSLlCmuU4kUA",
+            "title": "Lymphatic Drainage // Amber Bodily Health",
+            "description": "Amber Bodily shares how to get our stagnant lymph system moving for optimal health. Be sure to grab a pen and paper for all pearls of wisdom!",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/N-453frkC4M/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/N-453frkC4M/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/N-453frkC4M/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/N-453frkC4M/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/N-453frkC4M/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Hanson's Kitchen",
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Lymphatic Drainage // Amber Bodily Health",
+                "description": "Amber Bodily shares how to get our stagnant lymph system moving for optimal health. Be sure to grab a pen and paper for all pearls of wisdom!"
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT26M38S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "2027",
+            "likeCount": "44",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

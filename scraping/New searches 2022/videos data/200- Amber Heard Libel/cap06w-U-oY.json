@@ -1,0 +1,77 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "kt6NuFOjGFgUkiCdmAW-Tt9JcfQ",
+        "id": "cap06w-U-oY",
+        "snippet": {
+            "publishedAt": "2020-07-07T11:52:56Z",
+            "channelId": "UCGV1ffHz9pRw1s5tf-7wARQ",
+            "title": "Johnny Depp and Amber Heard in court for libel case",
+            "description": "Hollywood star Johnny Depp began legal action against a British tabloid over allegations he had physically abused his ex-wife, the actress Amber Heard, accusing her of lying.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/cap06w-U-oY/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/cap06w-U-oY/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/cap06w-U-oY/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/cap06w-U-oY/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/cap06w-U-oY/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Shauntvng",
+            "tags": [
+                "Johnny Depp",
+                "Amber Heard",
+                "Johnny Depp and Amber Heard in court for libel case",
+                "libel case"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Johnny Depp and Amber Heard in court for libel case",
+                "description": "Hollywood star Johnny Depp began legal action against a British tabloid over allegations he had physically abused his ex-wife, the actress Amber Heard, accusing her of lying."
+            },
+            "defaultAudioLanguage": "en-GB"
+        },
+        "contentDetails": {
+            "duration": "PT1M13S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "21",
+            "likeCount": "1",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

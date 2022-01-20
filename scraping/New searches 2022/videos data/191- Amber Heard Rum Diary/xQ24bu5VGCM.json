@@ -1,0 +1,94 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "3Sv66qRFkkxBHKEsT2qnXO16gD8",
+        "id": "xQ24bu5VGCM",
+        "snippet": {
+            "publishedAt": "2019-09-19T23:44:23Z",
+            "channelId": "UCBHPh57a-0FTI1Iv7VXVwfQ",
+            "title": "Honey Bones | Rum Diary Version with lyrics",
+            "description": "Honey Bones song for dope lemon , but with Rum Diary Version , starting by Johnny Depp and amber heard , with lyrics",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/xQ24bu5VGCM/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/xQ24bu5VGCM/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/xQ24bu5VGCM/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/xQ24bu5VGCM/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/xQ24bu5VGCM/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "MAZIS",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Honey Bones | Rum Diary Version with lyrics",
+                "description": "Honey Bones song for dope lemon , but with Rum Diary Version , starting by Johnny Depp and amber heard , with lyrics"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT5M23S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "regionRestriction": {
+                "blocked": [
+                    "AR",
+                    "BO",
+                    "BR",
+                    "CL",
+                    "CO",
+                    "CR",
+                    "CU",
+                    "DO",
+                    "EC",
+                    "GT",
+                    "HN",
+                    "HT",
+                    "MX",
+                    "NI",
+                    "PA",
+                    "PE",
+                    "PY",
+                    "SV",
+                    "UY",
+                    "VE"
+                ]
+            },
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "107",
+            "likeCount": "1",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

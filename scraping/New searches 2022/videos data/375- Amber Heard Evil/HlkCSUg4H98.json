@@ -1,0 +1,76 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "YtBwtbZaxVK46JuyQ49NsvbrlJk",
+        "id": "HlkCSUg4H98",
+        "snippet": {
+            "publishedAt": "2014-02-07T17:01:20Z",
+            "channelId": "UC8Ssagc1pmmfhnaSp2VFg-Q",
+            "title": "3 Days to Kill Official Trailer #1 2014   Kevin Costner, Amber Heard Movie HD   YouTube 720p",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/HlkCSUg4H98/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/HlkCSUg4H98/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/HlkCSUg4H98/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/HlkCSUg4H98/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/HlkCSUg4H98/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Proper Movie trailers",
+            "categoryId": "1",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "3 Days to Kill Official Trailer #1 2014   Kevin Costner, Amber Heard Movie HD   YouTube 720p",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT2M32S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "regionRestriction": {
+                "blocked": [
+                    "FM",
+                    "MH"
+                ]
+            },
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "16",
+            "likeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

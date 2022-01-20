@@ -1,0 +1,65 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "e9maYKn2UBWnAur0Ik712kUY1sE",
+        "id": "3fluLjYlvfk",
+        "snippet": {
+            "publishedAt": "2021-05-07T11:00:01Z",
+            "channelId": "UCalkmBusvq3RhRCItgWmAIQ",
+            "title": "L\u00fcgt die Ex von Johnny DeppJetzt ermittelt die Polizei gegen Amber Heard wegen Meineids DE",
+            "description": "#AmberHeard,#JohnnyDepp",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/3fluLjYlvfk/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/3fluLjYlvfk/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/3fluLjYlvfk/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Nachrichten 24h",
+            "tags": [
+                "Amber Heard",
+                "Johnny Depp"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "L\u00fcgt die Ex von Johnny DeppJetzt ermittelt die Polizei gegen Amber Heard wegen Meineids DE",
+                "description": "#AmberHeard,#JohnnyDepp"
+            },
+            "defaultAudioLanguage": "de"
+        },
+        "contentDetails": {
+            "duration": "PT2M13S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "17",
+            "likeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

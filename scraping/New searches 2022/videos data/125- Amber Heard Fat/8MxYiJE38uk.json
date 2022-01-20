@@ -1,0 +1,76 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "hBTykABObqKfLb0fFwS2TiX0nxA",
+        "id": "8MxYiJE38uk",
+        "snippet": {
+            "publishedAt": "2020-11-02T13:49:45Z",
+            "channelId": "UC37ekXsjp7tcETnd3-2hB5w",
+            "title": "Johnny Depp Loses Libel Case Over Amber Heard Allegations",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/8MxYiJE38uk/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/8MxYiJE38uk/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/8MxYiJE38uk/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/8MxYiJE38uk/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/8MxYiJE38uk/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "NOSY PARKER",
+            "tags": [
+                "JOHNNY DEPP",
+                "AMBER HERD",
+                "CASE OF JOHNNEY DEPP",
+                "JOHNNY DEPP LOSE CASE"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Johnny Depp Loses Libel Case Over Amber Heard Allegations",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT1M2S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "8",
+            "likeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

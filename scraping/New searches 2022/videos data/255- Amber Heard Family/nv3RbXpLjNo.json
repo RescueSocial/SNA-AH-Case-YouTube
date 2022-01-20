@@ -1,0 +1,60 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "DTAacZ1U6KWRFfDGcCp7yx0s2FA",
+        "id": "nv3RbXpLjNo",
+        "snippet": {
+            "publishedAt": "2022-01-03T23:44:46Z",
+            "channelId": "UCrzM3oI4Zq8MdegeMhYgGug",
+            "title": "This is why people LOVE Amberlynn Reid",
+            "description": "Love that for her.\n\n\nCredit to Amberlynn Reid",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/nv3RbXpLjNo/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/nv3RbXpLjNo/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/nv3RbXpLjNo/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "The Fupa Tales",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "This is why people LOVE Amberlynn Reid",
+                "description": "Love that for her.\n\n\nCredit to Amberlynn Reid"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT8M11S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "20460",
+            "likeCount": "536",
+            "favoriteCount": "0",
+            "commentCount": "151"
+        }
+    }
+]

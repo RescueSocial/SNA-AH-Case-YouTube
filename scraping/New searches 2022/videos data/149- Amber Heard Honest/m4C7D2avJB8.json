@@ -1,0 +1,89 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "bKz-aji8qp5ROWLmjPtZb0_SmVM",
+        "id": "m4C7D2avJB8",
+        "snippet": {
+            "publishedAt": "2020-02-03T04:37:40Z",
+            "channelId": "UCJgUbKITySnhCYkaN-IGnYw",
+            "title": "What If - Mel Gibson Versus Amber Heard",
+            "description": "Who wins?",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/m4C7D2avJB8/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/m4C7D2avJB8/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/m4C7D2avJB8/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/m4C7D2avJB8/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/m4C7D2avJB8/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Gene Geter TV",
+            "tags": [
+                "Mel Gibson",
+                "Amber Heard",
+                "phone call",
+                "anger",
+                "argument",
+                "verbal",
+                "yelling",
+                "upset",
+                "what if",
+                "hypothetical",
+                "who wins",
+                "relationship woes",
+                "male versus female",
+                "boyfriend versus girlfriend",
+                "celebrities",
+                "spat"
+            ],
+            "categoryId": "23",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "What If - Mel Gibson Versus Amber Heard",
+                "description": "Who wins?"
+            },
+            "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+            "duration": "PT38S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": false,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "442",
+            "likeCount": "15",
+            "favoriteCount": "0",
+            "commentCount": "2"
+        }
+    }
+]

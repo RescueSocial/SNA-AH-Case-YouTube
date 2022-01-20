@@ -1,0 +1,83 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "FM47Mw9UGNjNBddVZU5i0cOLXFI",
+        "id": "PXYTvBuc0DM",
+        "snippet": {
+            "publishedAt": "2013-03-28T04:46:46Z",
+            "channelId": "UC7o9eox1PY74G8WXiGBKZWg",
+            "title": "Amber Holcomb Performs I Believe in You and Me - AMERICAN IDOL SEASON 12",
+            "description": " ",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/PXYTvBuc0DM/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/PXYTvBuc0DM/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/PXYTvBuc0DM/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/PXYTvBuc0DM/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Bryan Evans",
+            "tags": [
+                "American Idol (TV Program)",
+                "Live",
+                "Doing",
+                "Believe",
+                "Academy",
+                "Performance",
+                "Live (Cassandra Wilson Album)",
+                "Album (Musical Album Type)",
+                "Jamie",
+                "whitney hauston",
+                "randy jackson",
+                "kate urban",
+                "idol",
+                "lady",
+                "Live (City And Colour Album)",
+                "Lady Gaga (Singer)"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Holcomb Performs I Believe in You and Me - AMERICAN IDOL SEASON 12",
+                "description": " "
+            }
+        },
+        "contentDetails": {
+            "duration": "PT2M18S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "232438",
+            "likeCount": "1916",
+            "favoriteCount": "0",
+            "commentCount": "164"
+        }
+    }
+]

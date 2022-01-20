@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "nN_DvMJRktMr2R7l8Tl1MSY3rXY",
+        "id": "r5azdF7mx8Q",
+        "snippet": {
+            "publishedAt": "2018-01-01T06:09:20Z",
+            "channelId": "UCdsj0Utb_RxaAaKP_zmZ9dA",
+            "title": "Amber Alert: Girls, 7 and 14, may have been taken by man last heard from in Round Rock",
+            "description": "Amber Alert: Girls, 7 and 14, may have been taken by man last heard from in Round Rock",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/r5azdF7mx8Q/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/r5azdF7mx8Q/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/r5azdF7mx8Q/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/r5azdF7mx8Q/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "US Trends Today",
+            "tags": [
+                "Amber Alert: Girls",
+                "7 and 14",
+                "may have been taken by man last heard from in Round Rock"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Alert: Girls, 7 and 14, may have been taken by man last heard from in Round Rock",
+                "description": "Amber Alert: Girls, 7 and 14, may have been taken by man last heard from in Round Rock"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT1M28S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "7",
+            "likeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

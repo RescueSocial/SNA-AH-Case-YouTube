@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "gh9ZP2b84M2RhTDSbJ4L_VHOG_s",
+        "id": "g75Nmi6A1Ms",
+        "snippet": {
+            "publishedAt": "2016-03-07T18:45:22Z",
+            "channelId": "UC0UelCAi-oezsZIS41mPsLg",
+            "title": "Portus Cale Citrus, Cedar, and Amber",
+            "description": "My shave and a little bit of fit talk from this weekend.\nFind this item and much more at \nhttp://www.phoenixshaving.com?rfsn=493702.93b00",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/g75Nmi6A1Ms/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/g75Nmi6A1Ms/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/g75Nmi6A1Ms/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/g75Nmi6A1Ms/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/g75Nmi6A1Ms/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "SoSharpDavid",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Portus Cale Citrus, Cedar, and Amber",
+                "description": "My shave and a little bit of fit talk from this weekend.\nFind this item and much more at \nhttp://www.phoenixshaving.com?rfsn=493702.93b00"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT19M46S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "753",
+            "likeCount": "22",
+            "favoriteCount": "0",
+            "commentCount": "19"
+        }
+    }
+]

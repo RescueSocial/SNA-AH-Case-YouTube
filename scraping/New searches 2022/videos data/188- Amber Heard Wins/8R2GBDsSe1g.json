@@ -1,0 +1,78 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "WTOqF4t5Declc3DLZPwa1fGkd5w",
+        "id": "8R2GBDsSe1g",
+        "snippet": {
+            "publishedAt": "2020-07-19T17:30:00Z",
+            "channelId": "UCdfcLkw_Bf0RwdW3O5LoByg",
+            "title": "Johnny Depp gains a big win from Amber Heard's former personal assistant - Ninja Knight Podcast",
+            "description": "This video discusses Johnny Depp's win against Amber Heard as detailed by her former personal assistant.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/8R2GBDsSe1g/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/8R2GBDsSe1g/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/8R2GBDsSe1g/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/8R2GBDsSe1g/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "NINJA KNIGHT",
+            "tags": [
+                "johnnydepp",
+                "amberheard",
+                "piratesofthecaribbean",
+                "jacksparrow",
+                "aquaman",
+                "mera",
+                "warnerbrothers",
+                "disney",
+                "dc",
+                "dccomics",
+                "boundingintocomics"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Johnny Depp gains a big win from Amber Heard's former personal assistant - Ninja Knight Podcast",
+                "description": "This video discusses Johnny Depp's win against Amber Heard as detailed by her former personal assistant."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT13M2S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "50",
+            "likeCount": "1",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

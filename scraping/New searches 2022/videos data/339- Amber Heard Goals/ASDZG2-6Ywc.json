@@ -1,0 +1,71 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "Ir_ECeA8ipDhvvZwkKdbWm0c3X4",
+        "id": "ASDZG2-6Ywc",
+        "snippet": {
+            "publishedAt": "2020-05-07T02:17:50Z",
+            "channelId": "UCD2CEMRAk8bhEq7U17zLwSw",
+            "title": "Interview with Amber - lumbosacral subjective intake",
+            "description": "Amber describing her low back pain and journey",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/ASDZG2-6Ywc/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/ASDZG2-6Ywc/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/ASDZG2-6Ywc/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/ASDZG2-6Ywc/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Dr. Tamara Hefferon",
+            "tags": [
+                "physical therapy",
+                "orthopedic",
+                "sports medicine"
+            ],
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Interview with Amber - lumbosacral subjective intake",
+                "description": "Amber describing her low back pain and journey"
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT13M58S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "96",
+            "likeCount": "2",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

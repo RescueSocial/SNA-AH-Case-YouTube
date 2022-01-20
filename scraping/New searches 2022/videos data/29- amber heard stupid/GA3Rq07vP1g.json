@@ -1,0 +1,68 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "5u_jowrho9aHcFz2Dt1--np0-Zw",
+        "id": "GA3Rq07vP1g",
+        "snippet": {
+            "publishedAt": "2013-07-18T11:44:50Z",
+            "channelId": "UC1j90-HaPFN7p-M_vdhnuig",
+            "title": "Amber Heard - Payphone",
+            "description": "This is another video of Amber Heard.\nClips are from the film \"Syrup\".\nMusic: Tanner Patrick - Payphone (maroon 5 cover).\nComment rate and share :)",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/GA3Rq07vP1g/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/GA3Rq07vP1g/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/GA3Rq07vP1g/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/GA3Rq07vP1g/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "onbekend",
+            "tags": [
+                "Amber Heard (TV Actor)"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Heard - Payphone",
+                "description": "This is another video of Amber Heard.\nClips are from the film \"Syrup\".\nMusic: Tanner Patrick - Payphone (maroon 5 cover).\nComment rate and share :)"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT3M27S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "58251",
+            "likeCount": "426",
+            "favoriteCount": "0",
+            "commentCount": "25"
+        }
+    }
+]

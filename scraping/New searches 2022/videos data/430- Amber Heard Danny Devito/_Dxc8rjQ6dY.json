@@ -1,0 +1,59 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "2nsjHuXRHhfHJXIbzyTHZ94akW4",
+        "id": "_Dxc8rjQ6dY",
+        "snippet": {
+            "publishedAt": "2018-01-13T21:32:42Z",
+            "channelId": "UCuVhngBjjno091gFrcKLkAA",
+            "title": "Amber 18th! 12345",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/_Dxc8rjQ6dY/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/_Dxc8rjQ6dY/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/_Dxc8rjQ6dY/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Danny DeVito",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber 18th! 12345",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT2M14S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "58",
+            "likeCount": "5",
+            "favoriteCount": "0"
+        }
+    }
+]

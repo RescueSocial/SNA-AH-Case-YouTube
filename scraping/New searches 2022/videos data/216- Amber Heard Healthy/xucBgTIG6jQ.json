@@ -1,0 +1,65 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "6Li6anfH1FZTUN1Wxuiv4l9qrkk",
+        "id": "xucBgTIG6jQ",
+        "snippet": {
+            "publishedAt": "2021-02-18T15:31:25Z",
+            "channelId": "UCqmWQ_cn8n-aqb17E4AvzmA",
+            "title": "Health Talk 658: Healthy Aging and Urinary Tract Infections with Dr. Amber Brody",
+            "description": "Dr. Amber Brody talks about healthy aging and the symptoms, diagnosis and treatment of urinary tract infections.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/xucBgTIG6jQ/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/xucBgTIG6jQ/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/xucBgTIG6jQ/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/xucBgTIG6jQ/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Nuvance Health",
+            "categoryId": "29",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Health Talk 658: Healthy Aging and Urinary Tract Infections with Dr. Amber Brody",
+                "description": "Dr. Amber Brody talks about healthy aging and the symptoms, diagnosis and treatment of urinary tract infections."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT30M1S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "15",
+            "likeCount": "1",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

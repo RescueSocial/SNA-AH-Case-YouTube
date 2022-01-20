@@ -1,0 +1,66 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "69nH_cXst3Asf_mFOQBCRU-gV6E",
+        "id": "Pu3jmOtLUmc",
+        "snippet": {
+            "publishedAt": "2009-09-13T00:36:42Z",
+            "channelId": "UCDq9mBeFWNG6b0Dn9HxNV1A",
+            "title": "Empowerment Crusade Part 1",
+            "description": "Prophetess Amber jean Barber",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/Pu3jmOtLUmc/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/Pu3jmOtLUmc/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/Pu3jmOtLUmc/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Bishop Johnny Williams",
+            "tags": [
+                "Empowerment",
+                "Crusade",
+                "Part",
+                "1"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Empowerment Crusade Part 1",
+                "description": "Prophetess Amber jean Barber"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT7M9S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "325",
+            "likeCount": "2",
+            "favoriteCount": "0",
+            "commentCount": "1"
+        }
+    }
+]

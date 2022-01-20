@@ -1,0 +1,79 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "87o5OwMkJQJIHjQ6utt8xr7ureo",
+        "id": "RJq7ahfe7DI",
+        "snippet": {
+            "publishedAt": "2015-04-27T08:37:16Z",
+            "channelId": "UC9p0hg5jV7wajQoxKbLV6SA",
+            "title": "Amber London - Beep Me 911 OFFICIAL VIDEO",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/RJq7ahfe7DI/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/RJq7ahfe7DI/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/RJq7ahfe7DI/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/RJq7ahfe7DI/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/RJq7ahfe7DI/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Evrrything Trill",
+            "tags": [
+                "amber london beep me 911",
+                "amber london",
+                "amber london 2015",
+                "amber london new",
+                "raider klan 2015",
+                "raider klan new",
+                "raider klan"
+            ],
+            "categoryId": "20",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber London - Beep Me 911 OFFICIAL VIDEO",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT3M18S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "298",
+            "likeCount": "3",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

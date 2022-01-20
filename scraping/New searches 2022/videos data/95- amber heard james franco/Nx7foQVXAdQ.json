@@ -1,0 +1,75 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "oTEZOGOfZJdLd74Xa-sr0VNOKD4",
+        "id": "Nx7foQVXAdQ",
+        "snippet": {
+            "publishedAt": "2014-06-02T08:37:39Z",
+            "channelId": "UC51BF1GF4A8rYupf_OzsYsQ",
+            "title": "James Franco and Amber Heard filming The Adderall Diaries movie in NYC",
+            "description": "James Franco and Amber Heard filming Adderall Diaries movie in NYC",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/Nx7foQVXAdQ/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/Nx7foQVXAdQ/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/Nx7foQVXAdQ/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/Nx7foQVXAdQ/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/Nx7foQVXAdQ/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "JohnnyDeppRussia",
+            "tags": [
+                "James Franco",
+                "Amber Heard",
+                "Adderall Diaries"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "James Franco and Amber Heard filming The Adderall Diaries movie in NYC",
+                "description": "James Franco and Amber Heard filming Adderall Diaries movie in NYC"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT1M28S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "10032",
+            "likeCount": "16",
+            "favoriteCount": "0",
+            "commentCount": "2"
+        }
+    }
+]

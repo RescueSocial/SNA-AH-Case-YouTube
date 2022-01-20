@@ -1,0 +1,67 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "DJrsbNSQluBC_jITXR8AszN4rF8",
+        "id": "HYbKl9xGMCk",
+        "snippet": {
+            "publishedAt": "2016-12-19T04:36:13Z",
+            "channelId": "UC8LR0z_iveKBnUcUD_RNaTw",
+            "title": "Syrup (2013) with Shiloh Fernandez, Kellan Lutz, Amber Heard Movie",
+            "description": "A slacker hatches a million-dollar idea. But, in order to see it through, he has to learn to trust his attractive corporate counterpart. Based on Max Barry';s novel.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/HYbKl9xGMCk/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/HYbKl9xGMCk/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/HYbKl9xGMCk/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Clure Home",
+            "tags": [
+                "Syrup",
+                "Shiloh Fernandez",
+                "Kellan Lutz",
+                "Amber Heard Movie"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Syrup (2013) with Shiloh Fernandez, Kellan Lutz, Amber Heard Movie",
+                "description": "A slacker hatches a million-dollar idea. But, in order to see it through, he has to learn to trust his attractive corporate counterpart. Based on Max Barry';s novel."
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT1H18M53S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "13442",
+            "likeCount": "26",
+            "favoriteCount": "0",
+            "commentCount": "1"
+        }
+    }
+]

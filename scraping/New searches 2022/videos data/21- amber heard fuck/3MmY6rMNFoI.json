@@ -1,0 +1,72 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "69m9TAivxpq33rEacX_5XcKivZs",
+        "id": "3MmY6rMNFoI",
+        "snippet": {
+            "publishedAt": "2019-05-18T00:06:44Z",
+            "channelId": "UCYBFacth-yQDyoQMtONFCFQ",
+            "title": "FUCK YOU AMBER",
+            "description": "I cannot edit shit :(",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/3MmY6rMNFoI/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/3MmY6rMNFoI/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/3MmY6rMNFoI/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/3MmY6rMNFoI/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/3MmY6rMNFoI/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Hunter No",
+            "categoryId": "1",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "FUCK YOU AMBER",
+                "description": "I cannot edit shit :("
+            }
+        },
+        "contentDetails": {
+            "duration": "PT32S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {
+                "ytRating": "ytAgeRestricted"
+            },
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "545",
+            "likeCount": "3",
+            "favoriteCount": "0",
+            "commentCount": "1"
+        }
+    }
+]

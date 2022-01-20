@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "lcrDT7tciqBOo5X59C_y8BDBnPQ",
+        "id": "IZBLkHZVojY",
+        "snippet": {
+            "publishedAt": "2019-09-27T23:18:30Z",
+            "channelId": "UCBu0KdNokE4MqdkacvH37_A",
+            "title": "Former Dallas police Officer  Amber Guyger testifies in her murder trial",
+            "description": "The former Dallas officer was the first witness called to the stand by the defense after the state rested their case the day before.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/IZBLkHZVojY/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/IZBLkHZVojY/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/IZBLkHZVojY/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/IZBLkHZVojY/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "WFAA",
+            "tags": [
+                "botham-jean",
+                "local",
+                "news",
+                "special-reports"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "Former Dallas police Officer  Amber Guyger testifies in her murder trial",
+                "description": "The former Dallas officer was the first witness called to the stand by the defense after the state rested their case the day before."
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT2M47S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "5416",
+            "likeCount": "49",
+            "favoriteCount": "0",
+            "commentCount": "52"
+        }
+    }
+]

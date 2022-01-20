@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "WiwAFGs_-Ml9gneewtNRVOAb5hU",
+        "id": "H1ZkOotwZdQ",
+        "snippet": {
+            "publishedAt": "2015-12-17T00:50:08Z",
+            "channelId": "UCLLENV4JjxuHCGnC-SyxN8g",
+            "title": "Amber Alert canceled for missing Green Bay boy",
+            "description": "An Amber Alert has been canceled for 9 year old Donovin Johnston.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/H1ZkOotwZdQ/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/H1ZkOotwZdQ/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/H1ZkOotwZdQ/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/H1ZkOotwZdQ/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "WKBT TV",
+            "tags": [
+                "news",
+                "green bay",
+                "amber alert",
+                "wkbt",
+                "news8",
+                "news8000"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Alert canceled for missing Green Bay boy",
+                "description": "An Amber Alert has been canceled for 9 year old Donovin Johnston."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT25S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "true",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "69",
+            "likeCount": "1",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "1E9l35rRolNj_mxmJuZ8iYmigDA",
+        "id": "0fggcTX5kGI",
+        "snippet": {
+            "publishedAt": "2015-06-30T19:47:49Z",
+            "channelId": "UCBfjlM8cJ-TyPR8h5-r2KcQ",
+            "title": "Amber Heard reveals sideboob while Jada Pinkett Smith shows off her incredible figure in a strapless",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/0fggcTX5kGI/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/0fggcTX5kGI/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/0fggcTX5kGI/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "john15",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Heard reveals sideboob while Jada Pinkett Smith shows off her incredible figure in a strapless",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT1M38S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "39",
+            "likeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

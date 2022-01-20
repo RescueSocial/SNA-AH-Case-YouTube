@@ -1,0 +1,77 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "vlm7ILd61xG7KGpWlFHBm1YitiM",
+        "id": "cYti2nkMqNE",
+        "snippet": {
+            "publishedAt": "2011-07-23T19:47:43Z",
+            "channelId": "UCSSVQEjzQqi84S8g0xbfzVw",
+            "title": "Amber - Drunk Star",
+            "description": "Amber is a post-rock band from Xi'an,China.\n[http://www.amberinmusic.com/]\n[http://www.facebook.com/postrock.instrumental]",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/cYti2nkMqNE/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/cYti2nkMqNE/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/cYti2nkMqNE/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/cYti2nkMqNE/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/cYti2nkMqNE/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "postrock.instrumental",
+            "tags": [
+                "post-rock",
+                "postrock",
+                "instrumental",
+                "ambient",
+                "Amber"
+            ],
+            "categoryId": "10",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber - Drunk Star",
+                "description": "Amber is a post-rock band from Xi'an,China.\n[http://www.amberinmusic.com/]\n[http://www.facebook.com/postrock.instrumental]"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT7M45S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "27319",
+            "likeCount": "311",
+            "favoriteCount": "0",
+            "commentCount": "23"
+        }
+    }
+]

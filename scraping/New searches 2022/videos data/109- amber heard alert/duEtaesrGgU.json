@@ -1,0 +1,65 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "olcUQKkz2rK6OADEvmr15SYJJtk",
+        "id": "duEtaesrGgU",
+        "snippet": {
+            "publishedAt": "2018-10-16T22:03:06Z",
+            "channelId": "UCSFLs1nwzqSC3Tq6cXhJkLg",
+            "title": "Amber Alert for Wisconsin teen",
+            "description": "An Amber Alert has been issued for a Wisconsin teen after she went missing following the death of her parents.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/duEtaesrGgU/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/duEtaesrGgU/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/duEtaesrGgU/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/duEtaesrGgU/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "WTHR",
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Alert for Wisconsin teen",
+                "description": "An Amber Alert has been issued for a Wisconsin teen after she went missing following the death of her parents."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT59S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "1032",
+            "likeCount": "6",
+            "favoriteCount": "0",
+            "commentCount": "2"
+        }
+    }
+]

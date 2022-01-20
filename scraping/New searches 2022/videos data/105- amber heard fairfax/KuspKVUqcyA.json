@@ -1,0 +1,69 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "zTSnsB_HVPuLYqQMON7iF3pKP3s",
+        "id": "KuspKVUqcyA",
+        "snippet": {
+            "publishedAt": "2018-07-21T20:49:06Z",
+            "channelId": "UCmX9glcQ4kekiJNVKUAuRbQ",
+            "title": "WEA #2, Another AMBER Alert!!",
+            "description": "\"Statewide Ohio Amber Alert - Ohio dealer plate 0157330, 2003 Toyota Corolla, blue in color\"",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/KuspKVUqcyA/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/KuspKVUqcyA/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/KuspKVUqcyA/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/KuspKVUqcyA/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/KuspKVUqcyA/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "EASsirenVids 01",
+            "categoryId": "1",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "WEA #2, Another AMBER Alert!!",
+                "description": "\"Statewide Ohio Amber Alert - Ohio dealer plate 0157330, 2003 Toyota Corolla, blue in color\""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT2M10S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "79",
+            "likeCount": "5",
+            "favoriteCount": "0"
+        }
+    }
+]

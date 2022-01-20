@@ -1,0 +1,79 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "C2_xkk4mnfjoXb33yA3WjIKw8xc",
+        "id": "lnbMUtjxuYQ",
+        "snippet": {
+            "publishedAt": "2020-02-24T12:42:06Z",
+            "channelId": "UCJnpF9oROFPvd7wWbPUDdGA",
+            "title": "Albuquerque police issue Amber Alert for missing 2-year-old",
+            "description": "Albuquerque police issue Amber Alert for missing 2-year-old",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/lnbMUtjxuYQ/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/lnbMUtjxuYQ/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/lnbMUtjxuYQ/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/lnbMUtjxuYQ/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/lnbMUtjxuYQ/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "KRQE",
+            "tags": [
+                "http://krqe.com",
+                "news",
+                "video",
+                "new mexico",
+                "krqe",
+                "albuquerque"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Albuquerque police issue Amber Alert for missing 2-year-old",
+                "description": "Albuquerque police issue Amber Alert for missing 2-year-old"
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT52S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "391",
+            "likeCount": "6",
+            "favoriteCount": "0",
+            "commentCount": "3"
+        }
+    }
+]

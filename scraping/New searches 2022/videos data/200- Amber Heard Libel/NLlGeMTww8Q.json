@@ -1,0 +1,79 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "XefTAUJb4ixV_D02FyeIfHL4uBg",
+        "id": "NLlGeMTww8Q",
+        "snippet": {
+            "publishedAt": "2020-11-02T12:22:20Z",
+            "channelId": "UCGYf0VFdlSTzcJghW9z1DAA",
+            "title": "Johnny Depp loses his High Court battle",
+            "description": "Johnny Depp loses libel case against The Sun over claims he beat former wife Amber Heard",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/NLlGeMTww8Q/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/NLlGeMTww8Q/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/NLlGeMTww8Q/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/NLlGeMTww8Q/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/NLlGeMTww8Q/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "The National News",
+            "tags": [
+                "amber",
+                "depp",
+                "drugs",
+                "drunk",
+                "heard",
+                "johnny",
+                "wife-beater"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Johnny Depp loses his High Court battle",
+                "description": "Johnny Depp loses libel case against The Sun over claims he beat former wife Amber Heard"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT38S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "214945",
+            "likeCount": "4204",
+            "favoriteCount": "0",
+            "commentCount": "124"
+        }
+    }
+]

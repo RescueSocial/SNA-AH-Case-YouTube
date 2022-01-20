@@ -1,0 +1,77 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "TKZOMaNamJdBptdDRgSG6yHepLY",
+        "id": "x5bVyAbyf8I",
+        "snippet": {
+            "publishedAt": "2018-01-21T23:58:55Z",
+            "channelId": "UCXJryYh6xcW5iEeJGzK191A",
+            "title": "Wynwood Sees Large Turnout As Female Empowerment Marches Enter Second Day",
+            "description": "CBS Miami's Amber Diaz reports on day two of demonstrations in support of female empowerment, with this one taking place in South Florida.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/x5bVyAbyf8I/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/x5bVyAbyf8I/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/x5bVyAbyf8I/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/x5bVyAbyf8I/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/x5bVyAbyf8I/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "CBS Miami",
+            "tags": [
+                "CBS 4 News Evening",
+                "Women's March",
+                "Wynwood",
+                "Politics",
+                "Demonstration"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Wynwood Sees Large Turnout As Female Empowerment Marches Enter Second Day",
+                "description": "CBS Miami's Amber Diaz reports on day two of demonstrations in support of female empowerment, with this one taking place in South Florida."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT2M23S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "142",
+            "likeCount": "5",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

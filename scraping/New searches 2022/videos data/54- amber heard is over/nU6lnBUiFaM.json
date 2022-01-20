@@ -1,0 +1,77 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "vlI2_TXywcQKtsyfmeDB_wsV8pw",
+        "id": "nU6lnBUiFaM",
+        "snippet": {
+            "publishedAt": "2016-04-26T21:30:15Z",
+            "channelId": "UCj6iVt0NLGyj406r2kD161g",
+            "title": "Amber Heard Through the Years",
+            "description": "A look at actress Amber Head's beauty transformation through the years.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/nU6lnBUiFaM/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/nU6lnBUiFaM/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/nU6lnBUiFaM/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/nU6lnBUiFaM/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/nU6lnBUiFaM/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "InStyle",
+            "tags": [
+                "Amber Heard",
+                "Johnny Depp",
+                "Beauty",
+                "Style",
+                "Fashion"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Heard Through the Years",
+                "description": "A look at actress Amber Head's beauty transformation through the years."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT55S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "468",
+            "likeCount": "2",
+            "favoriteCount": "0",
+            "commentCount": "2"
+        }
+    }
+]

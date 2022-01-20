@@ -1,0 +1,81 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "mzTiLSaT3wlGE7IyB_btgpP9xW0",
+        "id": "9oyJazo4nfE",
+        "snippet": {
+            "publishedAt": "2018-11-28T17:28:17Z",
+            "channelId": "UCtoMyXF4VFY3cB8fUcn7N4A",
+            "title": "AQUAMAN - Final Trailer (Jason Momoa, Amber Heard) | AMC Theatres (2018)",
+            "description": "Arthur Curry learns that he is the heir to the underwater kingdom of Atlantis, and must step forward to lead his people and be a hero to the world.\n\nOpening at AMC Theatres December 21.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/9oyJazo4nfE/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/9oyJazo4nfE/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/9oyJazo4nfE/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/9oyJazo4nfE/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/9oyJazo4nfE/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "AMC Theatres",
+            "tags": [
+                "AMC",
+                "Theatres",
+                "Aquaman",
+                "Jason Momoa",
+                "Amber Heard",
+                "DC Comics",
+                "Movies",
+                "Films",
+                "Action"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "AQUAMAN - Final Trailer (Jason Momoa, Amber Heard) | AMC Theatres (2018)",
+                "description": "Arthur Curry learns that he is the heir to the underwater kingdom of Atlantis, and must step forward to lead his people and be a hero to the world.\n\nOpening at AMC Theatres December 21."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT2M31S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "4089",
+            "likeCount": "69",
+            "favoriteCount": "0",
+            "commentCount": "3"
+        }
+    }
+]

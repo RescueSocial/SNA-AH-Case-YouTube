@@ -1,0 +1,78 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "_EKO8l333HRys5spSrSZ-4bxeQQ",
+        "id": "BlgDU3rIxzc",
+        "snippet": {
+            "publishedAt": "2019-05-19T23:30:25Z",
+            "channelId": "UCBu0KdNokE4MqdkacvH37_A",
+            "title": "Did you receive an Amber Alert for the Fort Worth kidnapping?",
+            "description": "Many in the area say they never received an alert.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/BlgDU3rIxzc/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/BlgDU3rIxzc/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/BlgDU3rIxzc/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/BlgDU3rIxzc/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/BlgDU3rIxzc/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "WFAA",
+            "tags": [
+                "local",
+                "tarrant-county",
+                "crime",
+                "news"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "Did you receive an Amber Alert for the Fort Worth kidnapping?",
+                "description": "Many in the area say they never received an alert."
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT1M7S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "2285",
+            "likeCount": "14",
+            "favoriteCount": "0",
+            "commentCount": "5"
+        }
+    }
+]

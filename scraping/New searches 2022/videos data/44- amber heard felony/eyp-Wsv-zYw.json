@@ -1,0 +1,87 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "bixnX57okNCm-oIH_uByBESJ9Sk",
+        "id": "eyp-Wsv-zYw",
+        "snippet": {
+            "publishedAt": "2017-09-04T12:46:38Z",
+            "channelId": "UCK0UUsCjtMRNtS3BPh1Yc4w",
+            "title": "Amber Alert suspect charged with sexual battery of a child",
+            "description": "An Amber Alert helped lead to the arrest of a 50-year-old man accused of abducting his step-granddaughter in the middle of the night.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/eyp-Wsv-zYw/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/eyp-Wsv-zYw/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/eyp-Wsv-zYw/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/eyp-Wsv-zYw/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/eyp-Wsv-zYw/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "ABC Action News",
+            "tags": [
+                "darrell mills",
+                "amber alert",
+                "florida amber alert",
+                "amber alert news",
+                "tampa bay news",
+                "orlando news",
+                "apopka",
+                "orange county sheriff's office",
+                "orange county",
+                "elderton",
+                "step-grandfather",
+                "felony charges",
+                "man charged",
+                "assaulted step-granddaughter"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Alert suspect charged with sexual battery of a child",
+                "description": "An Amber Alert helped lead to the arrest of a 50-year-old man accused of abducting his step-granddaughter in the middle of the night."
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT26S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "238",
+            "likeCount": "4",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

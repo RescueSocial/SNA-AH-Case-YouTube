@@ -1,0 +1,78 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "3jPnzIqTNiKCXUyepSwJgcQzE3g",
+        "id": "JKRFL5J-dUw",
+        "snippet": {
+            "publishedAt": "2020-08-02T18:11:40Z",
+            "channelId": "UChfvOScCypdSTIcQ45lx09w",
+            "title": "Amber Alert",
+            "description": "This is a story about a man and his hat.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/JKRFL5J-dUw/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/JKRFL5J-dUw/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/JKRFL5J-dUw/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/JKRFL5J-dUw/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "captnsketchbag",
+            "tags": [
+                "commedy",
+                "funny",
+                "hat",
+                "amber",
+                "alert",
+                "amber alert",
+                "tape",
+                "blue",
+                "black",
+                "car",
+                "house"
+            ],
+            "categoryId": "23",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Alert",
+                "description": "This is a story about a man and his hat."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT1M49S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "170",
+            "likeCount": "8",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

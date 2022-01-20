@@ -1,0 +1,66 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "8zf09EdX9tPqjo7yhASH3pWHNM0",
+        "id": "wrwHfqbkykE",
+        "snippet": {
+            "publishedAt": "2019-04-07T22:12:11Z",
+            "channelId": "UCv9snxOJIgO8gL_zxhTBN3g",
+            "title": "Manic Pixie Dream Vlog : \"Sex, Lies, and Evidence\"",
+            "description": "In this vlog, I discuss Cardi B's rape allegations, the Johnny Depp and Amber Heard abuse allegations, and Jussie Smollett.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/wrwHfqbkykE/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/wrwHfqbkykE/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/wrwHfqbkykE/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Caroline Georges",
+            "tags": [
+                "cardib",
+                "jussie smollett",
+                "amber heard",
+                "johnny depp"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Manic Pixie Dream Vlog : \"Sex, Lies, and Evidence\"",
+                "description": "In this vlog, I discuss Cardi B's rape allegations, the Johnny Depp and Amber Heard abuse allegations, and Jussie Smollett."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT36M18S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "292",
+            "likeCount": "4",
+            "favoriteCount": "0",
+            "commentCount": "2"
+        }
+    }
+]

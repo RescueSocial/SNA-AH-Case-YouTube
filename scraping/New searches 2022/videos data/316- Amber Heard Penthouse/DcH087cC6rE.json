@@ -1,0 +1,79 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "-U6YDDo4VrOu4rz7XWXArr7CJG0",
+        "id": "DcH087cC6rE",
+        "snippet": {
+            "publishedAt": "2020-02-19T04:29:04Z",
+            "channelId": "UCXJryYh6xcW5iEeJGzK191A",
+            "title": "2 Women Found In Car That Went Off Fisher Island Ferry",
+            "description": "CBS4's Amber Diaz reports investigators are still working to determine what caused the vehicle to plunge into the water.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/DcH087cC6rE/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/DcH087cC6rE/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/DcH087cC6rE/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/DcH087cC6rE/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/DcH087cC6rE/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "CBS Miami",
+            "tags": [
+                "CBS 4 News Evening",
+                "Miami-Dade Fire Rescue",
+                "Car In Water",
+                "Fisher Island",
+                "Sea Rescue",
+                "Divers"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "2 Women Found In Car That Went Off Fisher Island Ferry",
+                "description": "CBS4's Amber Diaz reports investigators are still working to determine what caused the vehicle to plunge into the water."
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT1M15S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "3946",
+            "likeCount": "21",
+            "favoriteCount": "0",
+            "commentCount": "19"
+        }
+    }
+]

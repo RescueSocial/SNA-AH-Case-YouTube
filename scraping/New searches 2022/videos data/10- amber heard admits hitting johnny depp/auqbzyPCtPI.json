@@ -1,0 +1,71 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "RcMd4xmUJBkqMIrXEs71QnVSB8M",
+        "id": "auqbzyPCtPI",
+        "snippet": {
+            "publishedAt": "2020-09-28T12:51:52Z",
+            "channelId": "UCMunN5FqEVotpOWxErWd5vg",
+            "title": "Amber Heard - Johnny Depp | Sad Girl Edit",
+            "description": "Heard and Depp edit",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/auqbzyPCtPI/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/auqbzyPCtPI/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/auqbzyPCtPI/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/auqbzyPCtPI/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/auqbzyPCtPI/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "I'ts Over",
+            "categoryId": "20",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Heard - Johnny Depp | Sad Girl Edit",
+                "description": "Heard and Depp edit"
+            },
+            "defaultAudioLanguage": "tr"
+        },
+        "contentDetails": {
+            "duration": "PT1M55S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "3894",
+            "likeCount": "47",
+            "favoriteCount": "0",
+            "commentCount": "15"
+        }
+    }
+]

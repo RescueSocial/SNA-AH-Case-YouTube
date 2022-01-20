@@ -1,0 +1,67 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "ZGwBC4kQxfWWl8sTNIufeVF2kaQ",
+        "id": "GiPFEs4b6uk",
+        "snippet": {
+            "publishedAt": "2013-01-18T20:22:37Z",
+            "channelId": "UC_eo3zUCP3UFwMvBjnGf5Kg",
+            "title": "Amber Heard quitte Johnny Depp pour une petite-amie fran\u00e7aise ?",
+            "description": "Amber Heard a-t-elle quitt\u00e9 Johnny Depp pour une petite-amie fran\u00e7aise ?",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/GiPFEs4b6uk/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/GiPFEs4b6uk/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/GiPFEs4b6uk/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Splash News TV French",
+            "tags": [
+                "amber heard",
+                "johnny depp",
+                "marie de villepin",
+                "french",
+                "bisexual"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Heard quitte Johnny Depp pour une petite-amie fran\u00e7aise ?",
+                "description": "Amber Heard a-t-elle quitt\u00e9 Johnny Depp pour une petite-amie fran\u00e7aise ?"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT51S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "1002",
+            "likeCount": "2",
+            "favoriteCount": "0",
+            "commentCount": "1"
+        }
+    }
+]

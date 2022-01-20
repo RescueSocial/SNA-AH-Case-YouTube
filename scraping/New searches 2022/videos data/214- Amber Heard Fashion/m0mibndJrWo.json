@@ -1,0 +1,77 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "Grk5ZFU73x8zLhBSz4lpH_lW7WY",
+        "id": "m0mibndJrWo",
+        "snippet": {
+            "publishedAt": "2014-05-21T09:20:33Z",
+            "channelId": "UC8nZEEBWm5HU8N1IZdBY0Ug",
+            "title": "La Minute Fashion de Cannes : Amber Heard et Sophie Marceau, plus \u00e9l\u00e9gantes l'une que l'autre",
+            "description": "La Minute Fashion de Cannes : Amber Heard et Sophie Marceau, plus \u00e9l\u00e9gantes l'une que l'autre",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/m0mibndJrWo/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/m0mibndJrWo/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/m0mibndJrWo/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/m0mibndJrWo/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/m0mibndJrWo/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Closer",
+            "tags": [
+                "Closermag",
+                "cannes 2014",
+                "festival de cannes",
+                "amber heard",
+                "sophie marceau"
+            ],
+            "categoryId": "26",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "La Minute Fashion de Cannes : Amber Heard et Sophie Marceau, plus \u00e9l\u00e9gantes l'une que l'autre",
+                "description": "La Minute Fashion de Cannes : Amber Heard et Sophie Marceau, plus \u00e9l\u00e9gantes l'une que l'autre"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT1M54S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "3249",
+            "likeCount": "4",
+            "favoriteCount": "0",
+            "commentCount": "2"
+        }
+    }
+]

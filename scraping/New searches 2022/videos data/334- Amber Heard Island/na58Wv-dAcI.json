@@ -1,0 +1,74 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "QF1mMMve92eoHnWy-oU3Ywdszjc",
+        "id": "na58Wv-dAcI",
+        "snippet": {
+            "publishedAt": "2015-12-29T22:44:22Z",
+            "channelId": "UCJdi7a4nUvqR-1Gd0NrLOXQ",
+            "title": "Oscar x Nicolette promo | Tom Hiddleston & Amber Heard",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/na58Wv-dAcI/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/na58Wv-dAcI/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/na58Wv-dAcI/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/na58Wv-dAcI/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/na58Wv-dAcI/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Arlette",
+            "tags": [
+                "Tom Hiddleston",
+                "Amber Heard"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Oscar x Nicolette promo | Tom Hiddleston & Amber Heard",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT18S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "433",
+            "likeCount": "24",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

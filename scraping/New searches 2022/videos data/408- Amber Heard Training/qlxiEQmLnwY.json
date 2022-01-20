@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "Qo0Uiqs45yKnuYjwZSpFoDUKJeg",
+        "id": "qlxiEQmLnwY",
+        "snippet": {
+            "publishedAt": "2021-07-13T12:23:22Z",
+            "channelId": "UC2E_p4QVSMfiPRo65ztHnGA",
+            "title": "Weekly Beer Judge Training: Dark British Beer, American Porter & Stout, Amber & Brown American Beer",
+            "description": "For our tenth week, we discuss Dark British Beer, American Porter & Stout, and Amber & Brown American Beer",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/qlxiEQmLnwY/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/qlxiEQmLnwY/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/qlxiEQmLnwY/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/qlxiEQmLnwY/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/qlxiEQmLnwY/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Under the Jenfluence",
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Weekly Beer Judge Training: Dark British Beer, American Porter & Stout, Amber & Brown American Beer",
+                "description": "For our tenth week, we discuss Dark British Beer, American Porter & Stout, and Amber & Brown American Beer"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT1H11M50S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "38",
+            "likeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

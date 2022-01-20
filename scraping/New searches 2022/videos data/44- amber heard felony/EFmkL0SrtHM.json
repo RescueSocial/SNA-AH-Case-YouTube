@@ -1,0 +1,69 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "akWan65erMUVBfQRKRpV3pyefyY",
+        "id": "EFmkL0SrtHM",
+        "snippet": {
+            "publishedAt": "2019-10-02T20:05:53Z",
+            "channelId": "UCKgAB8lqTbqbwXC-e6_9lhQ",
+            "title": "Watch: Sentencing in Amber Guyger trial",
+            "description": "Former Dallas police officer Amber Guyger faces five to 99 years in prison for killing her neighbor, Botham Jean.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/EFmkL0SrtHM/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/EFmkL0SrtHM/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/EFmkL0SrtHM/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "KGW News",
+            "tags": [
+                "KGW",
+                "Amber Guyger",
+                "Botham Jean",
+                "Dallas Police",
+                "Amber Guyger trial",
+                "Amber Guyger trial sentencing"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Watch: Sentencing in Amber Guyger trial",
+                "description": "Former Dallas police officer Amber Guyger faces five to 99 years in prison for killing her neighbor, Botham Jean."
+            },
+            "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+            "duration": "PT1H22S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "53241",
+            "likeCount": "293",
+            "favoriteCount": "0",
+            "commentCount": "200"
+        }
+    }
+]

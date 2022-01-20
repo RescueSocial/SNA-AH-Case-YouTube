@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "FTzSYX-LrHCqn9WJltnvcJ8yv2k",
+        "id": "YcVxCBHS25M",
+        "snippet": {
+            "publishedAt": "2021-06-08T12:04:57Z",
+            "channelId": "UC2E_p4QVSMfiPRo65ztHnGA",
+            "title": "Weekly Beer Judge Training: Amber Malty European Lager & Amber Bitter European Lager",
+            "description": "For our fifth week of beer judge training, we talk about Amber Malty European Lager and Amber Bitter European Lager.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/YcVxCBHS25M/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/YcVxCBHS25M/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/YcVxCBHS25M/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/YcVxCBHS25M/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/YcVxCBHS25M/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Under the Jenfluence",
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Weekly Beer Judge Training: Amber Malty European Lager & Amber Bitter European Lager",
+                "description": "For our fifth week of beer judge training, we talk about Amber Malty European Lager and Amber Bitter European Lager."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT55M38S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "72",
+            "likeCount": "1",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

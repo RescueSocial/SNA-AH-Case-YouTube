@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "tRqyoQyn5nQxLDwNQu6xczoCqlc",
+        "id": "ybYGhcruFxA",
+        "snippet": {
+            "publishedAt": "2021-03-08T17:18:51Z",
+            "channelId": "UCh501KslR0uGikKIQhzGmGg",
+            "title": "Amber Mahony: \"It's Complicated\"",
+            "description": "This is the \"TGIF Online\" of 2021-02-26.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/ybYGhcruFxA/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/ybYGhcruFxA/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/ybYGhcruFxA/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/ybYGhcruFxA/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/ybYGhcruFxA/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "TGIF",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Mahony: \"It's Complicated\"",
+                "description": "This is the \"TGIF Online\" of 2021-02-26."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT59M51S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "158",
+            "likeCount": "5",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

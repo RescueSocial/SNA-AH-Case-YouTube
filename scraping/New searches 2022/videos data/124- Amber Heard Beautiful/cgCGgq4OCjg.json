@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "6Bcl4DQojuyChw0ihT_UH1WdhDg",
+        "id": "cgCGgq4OCjg",
+        "snippet": {
+            "publishedAt": "2015-09-18T03:00:02Z",
+            "channelId": "UCEf_Bc-KVd7onSeifS3py9g",
+            "title": "AMBER \uc5e0\ubc84 'Beautiful' Special Video",
+            "description": "f(x) \uc5e0\ubc84\uac00 \ud32c \uc5ec\ub7ec\ubd84\uc744 \uc704\ud574 \uc900\ube44\ud55c \uae5c\uc9dd \uc120\ubb3c!\n\uc5b8\uc81c\ub098 \ubcc0\ud568\uc5c6\uc774 \uc751\uc6d0 \ud574 \uc8fc\uc2dc\ub294 \uc5ec\ub7ec\ubd84\uc744 \uc704\ud574 \uc5e0\ubc84\uac00 \ub9cc\ub4e0 \u2018Beautiful\u2019 \uc2a4\ud398\uc15c \ube44\ub514\uc624\ub97c \uacf5\uac1c\ud569\ub2c8\ub2e4.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/cgCGgq4OCjg/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/cgCGgq4OCjg/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/cgCGgq4OCjg/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/cgCGgq4OCjg/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/cgCGgq4OCjg/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "SMTOWN",
+            "categoryId": "10",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "AMBER \uc5e0\ubc84 'Beautiful' Special Video",
+                "description": "f(x) \uc5e0\ubc84\uac00 \ud32c \uc5ec\ub7ec\ubd84\uc744 \uc704\ud574 \uc900\ube44\ud55c \uae5c\uc9dd \uc120\ubb3c!\n\uc5b8\uc81c\ub098 \ubcc0\ud568\uc5c6\uc774 \uc751\uc6d0 \ud574 \uc8fc\uc2dc\ub294 \uc5ec\ub7ec\ubd84\uc744 \uc704\ud574 \uc5e0\ubc84\uac00 \ub9cc\ub4e0 \u2018Beautiful\u2019 \uc2a4\ud398\uc15c \ube44\ub514\uc624\ub97c \uacf5\uac1c\ud569\ub2c8\ub2e4."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT3M6S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "3222076",
+            "likeCount": "151555",
+            "favoriteCount": "0",
+            "commentCount": "6185"
+        }
+    }
+]

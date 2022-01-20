@@ -1,0 +1,75 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "YjLH6xs4pgwqiIQOr7TJpgx7m84",
+        "id": "MSDOnM2Kgzc",
+        "snippet": {
+            "publishedAt": "2020-08-26T03:27:39Z",
+            "channelId": "UCwHKLYLfz6M14SbBahFH5VA",
+            "title": "AMBER Alert canceled after newborn child found safe in Laclede County, MO",
+            "description": "An AMBER Alert has been canceled after a newborn was found safe in Lebanon, Missouri, which is about 160 miles southwest of St. Louis down I-44.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/MSDOnM2Kgzc/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/MSDOnM2Kgzc/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/MSDOnM2Kgzc/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/MSDOnM2Kgzc/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/MSDOnM2Kgzc/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "KMOV St. Louis",
+            "tags": [
+                "feedvideo",
+                "amber",
+                "alert"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "AMBER Alert canceled after newborn child found safe in Laclede County, MO",
+                "description": "An AMBER Alert has been canceled after a newborn was found safe in Lebanon, Missouri, which is about 160 miles southwest of St. Louis down I-44."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT22S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "978",
+            "likeCount": "5",
+            "favoriteCount": "0",
+            "commentCount": "1"
+        }
+    }
+]

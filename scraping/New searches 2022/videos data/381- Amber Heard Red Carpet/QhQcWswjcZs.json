@@ -1,0 +1,60 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "oVepuenl6qtR4k8tCHXASD3__O8",
+        "id": "QhQcWswjcZs",
+        "snippet": {
+            "publishedAt": "2021-10-12T11:55:05Z",
+            "channelId": "UCDz6I7-yuYRwqxy12_99oOA",
+            "title": "[Fancam] 20211012 F(x) Amber Liu OK! Magazine Awards Red Carpet",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/QhQcWswjcZs/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/QhQcWswjcZs/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/QhQcWswjcZs/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Remember Me\ud83d\udc9c",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "[Fancam] 20211012 F(x) Amber Liu OK! Magazine Awards Red Carpet",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT44S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "5716",
+            "likeCount": "554",
+            "favoriteCount": "0",
+            "commentCount": "6"
+        }
+    }
+]

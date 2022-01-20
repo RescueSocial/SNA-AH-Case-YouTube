@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "y2XQuY7sl8piJ8bJ0F3_sWFrGdU",
+        "id": "MNVDMw93jj0",
+        "snippet": {
+            "publishedAt": "2017-07-08T19:27:30Z",
+            "channelId": "UC57yLlWcUpEauKq55LaPN9w",
+            "title": "Aquaman Movie 2018 Teaser Trailer   Jason Momoa, Amber Heard Fan trailer",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/MNVDMw93jj0/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/MNVDMw93jj0/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/MNVDMw93jj0/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/MNVDMw93jj0/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/MNVDMw93jj0/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Ankur Jain",
+            "tags": [
+                "Official Movie Trailer"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Aquaman Movie 2018 Teaser Trailer   Jason Momoa, Amber Heard Fan trailer",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT2M21S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": false,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "10",
+            "likeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

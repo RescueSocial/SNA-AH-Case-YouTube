@@ -1,0 +1,72 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "75n11ctrL7cLVmkCHwbL2Wo35tM",
+        "id": "L8eqm8jkYl8",
+        "snippet": {
+            "publishedAt": "2013-06-02T01:41:43Z",
+            "channelId": "UCtv5uN0HloDJuFA0xsINryg",
+            "title": "JOHNNY DEPP AND AMBER HEARD - DIAMONDS",
+            "description": "Now that they're officialy dating I decided to bring this video back.\nI love this couple :)",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/L8eqm8jkYl8/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/L8eqm8jkYl8/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/L8eqm8jkYl8/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/L8eqm8jkYl8/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Andrea Palacios",
+            "tags": [
+                "johnny",
+                "depp",
+                "amber",
+                "heard",
+                "diamonds"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "JOHNNY DEPP AND AMBER HEARD - DIAMONDS",
+                "description": "Now that they're officialy dating I decided to bring this video back.\nI love this couple :)"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT2M57S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "53401",
+            "likeCount": "228",
+            "favoriteCount": "0",
+            "commentCount": "27"
+        }
+    }
+]

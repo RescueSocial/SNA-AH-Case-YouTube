@@ -1,0 +1,75 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "_I8ai6TqhITigL_KbxFXk-lKmls",
+        "id": "gLLHRQuc6rI",
+        "snippet": {
+            "publishedAt": "2019-05-22T04:17:10Z",
+            "channelId": "UCIVk1L1-JmpdiGuZcVjImtA",
+            "title": "Police: AMBER Alert suspect has history of domestic violence against victim",
+            "description": "Both the suspect and victim were found hiding early Tuesday morning in some bushes in Surprise.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/gLLHRQuc6rI/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/gLLHRQuc6rI/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/gLLHRQuc6rI/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/gLLHRQuc6rI/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/gLLHRQuc6rI/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "ABC15 Arizona",
+            "tags": [
+                "Amber Alert",
+                "Sandra Rios-Chavez",
+                "Miguel Rodriguez-Perez"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Police: AMBER Alert suspect has history of domestic violence against victim",
+                "description": "Both the suspect and victim were found hiding early Tuesday morning in some bushes in Surprise."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT2M8S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "293",
+            "likeCount": "9",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "kuqUkqmtrugh-20PDSOraP6-Pnw",
+        "id": "uIYA4P63xWA",
+        "snippet": {
+            "publishedAt": "2020-08-18T08:12:22Z",
+            "channelId": "UCse4FNzVya9bU3fccKk4Mqg",
+            "title": "MEET AMBER: THE PIECE OF SHIT CAT",
+            "description": "Amber, you lil' shit",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/uIYA4P63xWA/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/uIYA4P63xWA/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/uIYA4P63xWA/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/uIYA4P63xWA/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Adrconte1234 the original boi",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "MEET AMBER: THE PIECE OF SHIT CAT",
+                "description": "Amber, you lil' shit"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT1M3S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "21",
+            "likeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

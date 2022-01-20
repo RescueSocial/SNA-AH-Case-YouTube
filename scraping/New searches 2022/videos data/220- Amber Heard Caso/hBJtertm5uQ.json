@@ -1,0 +1,60 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "IbRg0detc2aq-2EJFLGPaq6v6-k",
+        "id": "hBJtertm5uQ",
+        "snippet": {
+            "publishedAt": "2020-02-02T21:55:01Z",
+            "channelId": "UCPRE17aHkdXXbx5XFDd5Q_w",
+            "title": "El Caso de Johnny y Amber",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/hBJtertm5uQ/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/hBJtertm5uQ/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/hBJtertm5uQ/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Uno m\u00e1s del Patriarcado",
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "El Caso de Johnny y Amber",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT48M47S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "15405",
+            "likeCount": "970",
+            "favoriteCount": "0",
+            "commentCount": "255"
+        }
+    }
+]

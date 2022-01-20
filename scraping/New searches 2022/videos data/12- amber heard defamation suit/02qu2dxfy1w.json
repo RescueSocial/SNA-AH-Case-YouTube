@@ -1,0 +1,72 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "6sKIiu9ZLMb-Qd8L4jY2hbelup0",
+        "id": "02qu2dxfy1w",
+        "snippet": {
+            "publishedAt": "2019-05-06T11:18:35Z",
+            "channelId": "UCVoc-6NxY_rXdkw1de6Cjdw",
+            "title": "Aquaman   BANDE ANNONCE #2 2018   Jason Momoa, Amber Heard, Willem",
+            "description": "Aquaman   BANDE ANNONCE #2 2018   Jason Momoa, Amber Heard, Willem",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/02qu2dxfy1w/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/02qu2dxfy1w/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/02qu2dxfy1w/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/02qu2dxfy1w/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "MOHAMED HICHEM BELKAALOUL",
+            "tags": [
+                "Aquaman",
+                "BANDE ANNONCE",
+                "#2",
+                "Jason Momoa",
+                "Amber Heard"
+            ],
+            "categoryId": "1",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Aquaman   BANDE ANNONCE #2 2018   Jason Momoa, Amber Heard, Willem",
+                "description": "Aquaman   BANDE ANNONCE #2 2018   Jason Momoa, Amber Heard, Willem"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT5M18S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "4",
+            "likeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

@@ -1,0 +1,71 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "N0Yzxw_er0BtYLUbPdYx1mS1P9c",
+        "id": "8dpz8TEn2Ag",
+        "snippet": {
+            "publishedAt": "2020-03-17T18:40:20Z",
+            "channelId": "UCFvd1SQfeFB0EX7kI73KE6A",
+            "title": "Yoga with Amber - Yoga for Anxiety",
+            "description": "Inner Glow Health & Wellness\nYoga with Amber\nFor Anxiety & Stress",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/8dpz8TEn2Ag/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/8dpz8TEn2Ag/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/8dpz8TEn2Ag/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/8dpz8TEn2Ag/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/8dpz8TEn2Ag/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Inner Glow Health & Wellness",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Yoga with Amber - Yoga for Anxiety",
+                "description": "Inner Glow Health & Wellness\nYoga with Amber\nFor Anxiety & Stress"
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT53M10S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "280",
+            "likeCount": "2",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

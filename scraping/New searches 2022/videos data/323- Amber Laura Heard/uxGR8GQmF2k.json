@@ -1,0 +1,60 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "CO3iQeKpX52hpSKV1XF_0bQcb2k",
+        "id": "uxGR8GQmF2k",
+        "snippet": {
+            "publishedAt": "2017-12-11T20:40:02Z",
+            "channelId": "UCAhbct5bx77QPCfkRJdGYEA",
+            "title": "\u1d00\u026a\u1d05\u1d07s \u029c\u1d00\u1d1b\u1d1c\u0274 [ Amber Heard ]",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/uxGR8GQmF2k/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/uxGR8GQmF2k/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/uxGR8GQmF2k/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Anastasia Darienko",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "\u1d00\u026a\u1d05\u1d07s \u029c\u1d00\u1d1b\u1d1c\u0274 [ Amber Heard ]",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT7S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "46",
+            "likeCount": "1",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

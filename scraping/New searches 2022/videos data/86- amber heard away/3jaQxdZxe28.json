@@ -1,0 +1,60 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "ADj9itONsPlSypc6X-uvD5AV1Wg",
+        "id": "3jaQxdZxe28",
+        "snippet": {
+            "publishedAt": "2016-05-30T09:27:31Z",
+            "channelId": "UCR4IS9F4XZZqOWbVPIcscTA",
+            "title": "Johnny Depp Ordered to Temporarily Stay Away from Estranged Wife Amber Heard",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/3jaQxdZxe28/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/3jaQxdZxe28/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/3jaQxdZxe28/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Global Daily News",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Johnny Depp Ordered to Temporarily Stay Away from Estranged Wife Amber Heard",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT7M58S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "4",
+            "likeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

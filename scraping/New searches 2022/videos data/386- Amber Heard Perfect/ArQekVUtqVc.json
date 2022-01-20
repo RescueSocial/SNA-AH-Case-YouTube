@@ -1,0 +1,74 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "GI2-04zEs41vjSyl-n9xFKEZ1Qs",
+        "id": "ArQekVUtqVc",
+        "snippet": {
+            "publishedAt": "2020-02-04T02:47:56Z",
+            "channelId": "UC8ay3qQQsuHWmn874jkE4PA",
+            "title": "#BelieveAllWomen? Amber Heard vs. Common Sense",
+            "description": "My initial thoughts on the Johnny Depp drama",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/ArQekVUtqVc/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/ArQekVUtqVc/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/ArQekVUtqVc/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/ArQekVUtqVc/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/ArQekVUtqVc/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "MAKE IT PERFECT",
+            "tags": [
+                "johnnydepp",
+                "femimism"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "#BelieveAllWomen? Amber Heard vs. Common Sense",
+                "description": "My initial thoughts on the Johnny Depp drama"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT3M48S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "39",
+            "likeCount": "2",
+            "favoriteCount": "0",
+            "commentCount": "2"
+        }
+    }
+]

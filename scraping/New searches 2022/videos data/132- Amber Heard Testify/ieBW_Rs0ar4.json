@@ -1,0 +1,75 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "d-adPXQScxwRLvMrJlF8KhaL5aM",
+        "id": "ieBW_Rs0ar4",
+        "snippet": {
+            "publishedAt": "2019-09-27T03:15:50Z",
+            "channelId": "UCBu0KdNokE4MqdkacvH37_A",
+            "title": "Amber Guyger could take the stand Friday at trial",
+            "description": "On day five of the Amber Guyger trial, the former Dallas officer could take the stand.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/ieBW_Rs0ar4/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/ieBW_Rs0ar4/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/ieBW_Rs0ar4/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/ieBW_Rs0ar4/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "WFAA",
+            "tags": [
+                "botham-jean",
+                "local",
+                "crime",
+                "dallas-county",
+                "news",
+                "special-reports"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "Amber Guyger could take the stand Friday at trial",
+                "description": "On day five of the Amber Guyger trial, the former Dallas officer could take the stand."
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT2M26S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "1957",
+            "likeCount": "34",
+            "favoriteCount": "0",
+            "commentCount": "9"
+        }
+    }
+]

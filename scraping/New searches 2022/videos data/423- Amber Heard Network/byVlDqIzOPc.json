@@ -1,0 +1,59 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "IoSKuo8DlCPZuebA46MW3QCw0uw",
+        "id": "byVlDqIzOPc",
+        "snippet": {
+            "publishedAt": "2018-11-13T10:31:23Z",
+            "channelId": "UC0yp3rzQDuSuWEvUnt35vRA",
+            "title": "[\ud55c\uae00\uc790\ub9c9] \uc5e0\ubc84 \ud5c8\ub4dc, \uac00\uc815\ud3ed\ub825\uc5d0 \ub300\ud574 \ub9d0\ud558\ub2e4(Amber Heard Speaks Up)",
+            "description": "\ucd9c\ucc98: https://youtu.be/BwqAP9mICR0",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/byVlDqIzOPc/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/byVlDqIzOPc/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/byVlDqIzOPc/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "J J",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "[\ud55c\uae00\uc790\ub9c9] \uc5e0\ubc84 \ud5c8\ub4dc, \uac00\uc815\ud3ed\ub825\uc5d0 \ub300\ud574 \ub9d0\ud558\ub2e4(Amber Heard Speaks Up)",
+                "description": "\ucd9c\ucc98: https://youtu.be/BwqAP9mICR0"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT2M10S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "12841",
+            "likeCount": "78",
+            "favoriteCount": "0"
+        }
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "oA-gNyI5jgE5HyOzt1UAQZt_jbc",
+        "id": "e-rVwtqWi-U",
+        "snippet": {
+            "publishedAt": "2011-06-08T14:30:01Z",
+            "channelId": "UCpJUXDFb8OGnJ6o2OkXx6XA",
+            "title": "Radio One's Women's Empowerment 2011- Real Scene TV",
+            "description": "Amber takes you to Radio One's annual Women's Empowerment Workshop, where you'll find anything from shopping, fitness tips, finances and everything in between. We also find out actor Lorenz Tate's take on love.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/e-rVwtqWi-U/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/e-rVwtqWi-U/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/e-rVwtqWi-U/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/e-rVwtqWi-U/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/e-rVwtqWi-U/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "RealSceneTV",
+            "tags": [
+                "Women's Empowerment",
+                "Lorenz Tate",
+                "Scene",
+                "Indianapolis",
+                "Radio One",
+                "TV",
+                "Real"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Radio One's Women's Empowerment 2011- Real Scene TV",
+                "description": "Amber takes you to Radio One's annual Women's Empowerment Workshop, where you'll find anything from shopping, fitness tips, finances and everything in between. We also find out actor Lorenz Tate's take on love."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT2M56S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "83",
+            "likeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

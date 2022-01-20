@@ -1,0 +1,65 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "RCMbFY8dpPhkPaVrGAUzm8z5-1o",
+        "id": "hLCxHuIxOy0",
+        "snippet": {
+            "publishedAt": "2020-08-17T18:06:11Z",
+            "channelId": "UChGyeGmK3P5aLpKVIdHxcwg",
+            "title": "Fibroids | Amber English-Coleman and Nkem Osian, MPH | Black Health Matters Virtual Summit",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/hLCxHuIxOy0/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/hLCxHuIxOy0/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/hLCxHuIxOy0/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/hLCxHuIxOy0/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Black Health Matters",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Fibroids | Amber English-Coleman and Nkem Osian, MPH | Black Health Matters Virtual Summit",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT25M11S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "34",
+            "likeCount": "1",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

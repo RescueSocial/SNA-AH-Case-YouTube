@@ -1,0 +1,81 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "Vfu47h_pIqn5G2ZHyrcc_YSOfOE",
+        "id": "93DT22nl_-Q",
+        "snippet": {
+            "publishedAt": "2021-12-02T00:09:16Z",
+            "channelId": "UC7q_nu8sGPruuj_f9Ge2V5Q",
+            "title": "Hilbert is Home | to Amber Stuck - Criminal Justice 4+1",
+            "description": "Amber is finishing up her Criminal Justice Administration master's degree, having gone through the 4+1 program. For information on the Criminal Justice program and 4+1 programs, visit: https://www.hilbert.edu/academics/undergraduate-programs/criminal-justice",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/93DT22nl_-Q/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/93DT22nl_-Q/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/93DT22nl_-Q/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/93DT22nl_-Q/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/93DT22nl_-Q/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Hilbert College",
+            "tags": [
+                "College",
+                "Private",
+                "Franciscan",
+                "Criminal Justice",
+                "Cybersecurity",
+                "Crime Scene Investigation",
+                "Liberal Arts",
+                "Buffalo"
+            ],
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Hilbert is Home | to Amber Stuck - Criminal Justice 4+1",
+                "description": "Amber is finishing up her Criminal Justice Administration master's degree, having gone through the 4+1 program. For information on the Criminal Justice program and 4+1 programs, visit: https://www.hilbert.edu/academics/undergraduate-programs/criminal-justice"
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT3M26S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "113",
+            "likeCount": "2",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "15Hzd87rwKl84C4npdMWv50YfzM",
+        "id": "JuREWyQKuvQ",
+        "snippet": {
+            "publishedAt": "2020-11-24T05:10:14Z",
+            "channelId": "UCI5ECkuyT1ItVw33xLhxLPQ",
+            "title": "Johnny Depp vs The Sun",
+            "description": "I know I'm a bit late to this news but I decided to investigate the Johnny Depp and Amber Heard situation and it's worse than I ever could have thought.\n\nIf you would like to read the judges decision and summary of the case it's here: https://www.bailii.org/ew/cases/EWHC/QB/2020/2911.html",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/JuREWyQKuvQ/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/JuREWyQKuvQ/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/JuREWyQKuvQ/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/JuREWyQKuvQ/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/JuREWyQKuvQ/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Jampamane",
+            "tags": [
+                "johnny",
+                "depp",
+                "amber",
+                "heard",
+                "abuse",
+                "thesun",
+                "sun",
+                "lawsuit",
+                "commentary"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Johnny Depp vs The Sun",
+                "description": "I know I'm a bit late to this news but I decided to investigate the Johnny Depp and Amber Heard situation and it's worse than I ever could have thought.\n\nIf you would like to read the judges decision and summary of the case it's here: https://www.bailii.org/ew/cases/EWHC/QB/2020/2911.html"
+            },
+            "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+            "duration": "PT16M34S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "1710",
+            "likeCount": "199",
+            "favoriteCount": "0",
+            "commentCount": "60"
+        }
+    }
+]

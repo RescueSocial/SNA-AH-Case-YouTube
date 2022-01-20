@@ -1,0 +1,81 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "n89A84iHCIiKG4eUmxfDzIP_p20",
+        "id": "NeFqiMO2wYI",
+        "snippet": {
+            "publishedAt": "2016-05-27T20:14:26Z",
+            "channelId": "UC2tg0g4H9h9bDfvuyBGxeRA",
+            "title": "Amber Heard gets restraining order against Johnny Depp",
+            "description": "Johnny Depp's soon to be ex-wife, Amber Heard, has filed a domestic violence restraining order against the movie star. CBSN's Reena Ninan has the details.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/NeFqiMO2wYI/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/NeFqiMO2wYI/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/NeFqiMO2wYI/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/NeFqiMO2wYI/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "CBSN",
+            "tags": [
+                "video",
+                "live streaming",
+                "live video",
+                "cbsn",
+                "Amber Heard",
+                "Johnny Depp",
+                "Restraining Order"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Heard gets restraining order against Johnny Depp",
+                "description": "Johnny Depp's soon to be ex-wife, Amber Heard, has filed a domestic violence restraining order against the movie star. CBSN's Reena Ninan has the details."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT31S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "regionRestriction": {
+                "blocked": [
+                    "AU",
+                    "CA",
+                    "JP"
+                ]
+            },
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "472",
+            "likeCount": "5",
+            "favoriteCount": "0",
+            "commentCount": "1"
+        }
+    }
+]

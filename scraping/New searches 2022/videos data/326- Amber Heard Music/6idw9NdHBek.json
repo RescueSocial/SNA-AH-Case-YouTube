@@ -1,0 +1,68 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "qHpjTtJJOj-6X0Wnqv7IG7sfl7E",
+        "id": "6idw9NdHBek",
+        "snippet": {
+            "publishedAt": "2007-09-25T08:18:44Z",
+            "channelId": "UCGXmdQWNLyddSZs1AGHBogw",
+            "title": "\u30b9\u30ab\u30dd\u30f3\u30bf\u30b9\u3000Amber Music\u3000feat.Kj&TAKUMA",
+            "description": "DragonAsh Kj 10-FEET TAKUMA",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/6idw9NdHBek/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/6idw9NdHBek/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/6idw9NdHBek/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "spbobnuu",
+            "tags": [
+                "\u30b9\u30ab\u30dd\u30f3\u30bf\u30b9",
+                "skapontas",
+                "DragonAsh",
+                "Kj",
+                "10-FEET",
+                "TAKUMA"
+            ],
+            "categoryId": "10",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "\u30b9\u30ab\u30dd\u30f3\u30bf\u30b9\u3000Amber Music\u3000feat.Kj&TAKUMA",
+                "description": "DragonAsh Kj 10-FEET TAKUMA"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT4M",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "71947",
+            "likeCount": "136",
+            "favoriteCount": "0",
+            "commentCount": "6"
+        }
+    }
+]

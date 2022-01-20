@@ -1,0 +1,90 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "A9vbJSkDNplwcZnl1mkATwRuoFM",
+        "id": "bfk4Qf0dCag",
+        "snippet": {
+            "publishedAt": "2016-04-20T20:47:45Z",
+            "channelId": "UCIBGTfBKee0lM8sJp4TOgUg",
+            "title": "Johnny Depp Amber Heard A Biothreat to Australia, It's #trendingwithJoanMarie",
+            "description": "Description",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/bfk4Qf0dCag/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/bfk4Qf0dCag/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/bfk4Qf0dCag/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/bfk4Qf0dCag/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Morning Brew",
+            "tags": [
+                "Dan",
+                "Mayfield",
+                "contributors",
+                "entrepreneurs",
+                "arts",
+                "event",
+                "Morning Brew",
+                "Albuquerque",
+                "morning",
+                "show",
+                "talk show",
+                "Abq",
+                "uPublic",
+                "uPublicTV",
+                "New Mexico",
+                "NM",
+                "uABQ",
+                "Comcast Channel 27",
+                "music",
+                "food",
+                "culture",
+                "movies",
+                "movers & shakers"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Johnny Depp Amber Heard A Biothreat to Australia, It's #trendingwithJoanMarie",
+                "description": "Description"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT7M44S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "95",
+            "likeCount": "1",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

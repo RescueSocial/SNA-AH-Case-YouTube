@@ -1,0 +1,69 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "dqxQhL-hNr3aLEsSd7Qr6S2DhCc",
+        "id": "MZwx7t3yJtY",
+        "snippet": {
+            "publishedAt": "2016-06-01T08:14:15Z",
+            "channelId": "UCfCk_ylzLy6nz2NpW25DY5w",
+            "title": "Amber Heards team anklagar polisen f\u00f6r att ha missat bevis",
+            "description": "Uppgiftsl\u00e4mnare inom hennes team menar att poliserna tabbat sig",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/MZwx7t3yJtY/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/MZwx7t3yJtY/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/MZwx7t3yJtY/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/MZwx7t3yJtY/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/MZwx7t3yJtY/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Expressen",
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Heards team anklagar polisen f\u00f6r att ha missat bevis",
+                "description": "Uppgiftsl\u00e4mnare inom hennes team menar att poliserna tabbat sig"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT40S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "170",
+            "likeCount": "0",
+            "favoriteCount": "0"
+        }
+    }
+]

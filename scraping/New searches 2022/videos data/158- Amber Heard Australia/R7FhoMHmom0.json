@@ -1,0 +1,66 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "4O4qDPrG_FlW_YCCLAchuoP-smU",
+        "id": "R7FhoMHmom0",
+        "snippet": {
+            "publishedAt": "2016-05-10T18:09:27Z",
+            "channelId": "UC6WVaI-NYQGHJVFaGMt8-ng",
+            "title": "Amber Heard Vs Blake Lively",
+            "description": "Amber Heard or Blake Lively. Who's the beauty of the moment?",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/R7FhoMHmom0/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/R7FhoMHmom0/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/R7FhoMHmom0/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Brian Bonatti",
+            "tags": [
+                "Amber Heard",
+                "Blake Lively",
+                "Hollywood",
+                "2016"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Heard Vs Blake Lively",
+                "description": "Amber Heard or Blake Lively. Who's the beauty of the moment?"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT4M5S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "871",
+            "likeCount": "7",
+            "favoriteCount": "0",
+            "commentCount": "2"
+        }
+    }
+]

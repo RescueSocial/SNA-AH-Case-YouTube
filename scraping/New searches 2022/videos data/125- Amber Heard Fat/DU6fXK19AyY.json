@@ -1,0 +1,60 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "KuQyUJ5C46X6XJGj7E4ehFW_-Bc",
+        "id": "DU6fXK19AyY",
+        "snippet": {
+            "publishedAt": "2019-06-19T23:34:53Z",
+            "channelId": "UCCSXVu3XhGPzWFnc6WrDN_Q",
+            "title": "New Belgium Brewing Fat Tire Amber Ale",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/DU6fXK19AyY/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/DU6fXK19AyY/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/DU6fXK19AyY/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Drunk Polkaroo",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "New Belgium Brewing Fat Tire Amber Ale",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT3M19S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "785",
+            "likeCount": "16",
+            "favoriteCount": "0",
+            "commentCount": "2"
+        }
+    }
+]

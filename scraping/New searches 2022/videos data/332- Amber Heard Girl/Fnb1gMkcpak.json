@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "9RhEpnIYDkE1me8xJiokjg3r1s8",
+        "id": "Fnb1gMkcpak",
+        "snippet": {
+            "publishedAt": "2021-10-23T07:01:13Z",
+            "channelId": "UCpcx_vm2um0-RQpNLfLeP9g",
+            "title": "ANG PANLILIGAW (Amber Gherl) #billyber",
+            "description": "ANG PANLILIGAW (Amber Gherl) #billyber",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/Fnb1gMkcpak/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/Fnb1gMkcpak/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/Fnb1gMkcpak/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/Fnb1gMkcpak/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/Fnb1gMkcpak/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "BILLY JACK SANCHEZ HARING YABANG TV",
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "ANG PANLILIGAW (Amber Gherl) #billyber",
+                "description": "ANG PANLILIGAW (Amber Gherl) #billyber"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT25M48S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "48040",
+            "likeCount": "2272",
+            "favoriteCount": "0",
+            "commentCount": "438"
+        }
+    }
+]

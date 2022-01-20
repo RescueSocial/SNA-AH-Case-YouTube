@@ -1,0 +1,60 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "zUPCeuUiIRJvj0V7U4QCEY7LA54",
+        "id": "dAuPJ3E980k",
+        "snippet": {
+            "publishedAt": "2021-07-27T14:17:41Z",
+            "channelId": "UCTQn9SbAiGlyn5r5hWN4V0Q",
+            "title": "Amber Heard \ud83e\udddc\u200d\u2640\ufe0f\ud83d\ude0d Fighting scene. #Aquaman.",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/dAuPJ3E980k/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/dAuPJ3E980k/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/dAuPJ3E980k/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Aadee",
+            "categoryId": "20",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Heard \ud83e\udddc\u200d\u2640\ufe0f\ud83d\ude0d Fighting scene. #Aquaman.",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT29S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "17",
+            "likeCount": "1",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

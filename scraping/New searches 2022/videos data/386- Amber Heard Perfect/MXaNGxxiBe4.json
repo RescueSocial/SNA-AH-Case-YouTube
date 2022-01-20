@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "0v_5WSE7cYOiyr9_-K-qrP-SMfw",
+        "id": "MXaNGxxiBe4",
+        "snippet": {
+            "publishedAt": "2019-01-28T17:00:05Z",
+            "channelId": "UCsMp8a5skhqS72uCRwNdZdA",
+            "title": "AMBER HEARD en Conexi\u00f3n Claro \u2728",
+            "description": "Amber Heard, quien da vida a Mera en Aquaman, nos cont\u00f3 todo sobre su participaci\u00f3n en esta exitosa cinta de DC Comics.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/MXaNGxxiBe4/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/MXaNGxxiBe4/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/MXaNGxxiBe4/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/MXaNGxxiBe4/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/MXaNGxxiBe4/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Canal Claro",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "AMBER HEARD en Conexi\u00f3n Claro \u2728",
+                "description": "Amber Heard, quien da vida a Mera en Aquaman, nos cont\u00f3 todo sobre su participaci\u00f3n en esta exitosa cinta de DC Comics."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT3M47S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "362",
+            "likeCount": "11",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

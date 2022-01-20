@@ -1,0 +1,77 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "GeGJl2jeCOJOuQaopqqNKOcw73c",
+        "id": "9Q6Fgz-Wnck",
+        "snippet": {
+            "publishedAt": "2013-08-25T22:56:35Z",
+            "channelId": "UCEFAnH_D6Z2L-AafWZIq_-A",
+            "title": "Beer Review #197   New Belgium Fat Tire Amber Ale",
+            "description": "Surprisingly OK.  I say that because I was very unimpressed with Ranger IPA from New Belgium.  This has a nice mouthfeel and malty backbone.  Would not turn it away if I was in the mood for an amber.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/9Q6Fgz-Wnck/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/9Q6Fgz-Wnck/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/9Q6Fgz-Wnck/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/9Q6Fgz-Wnck/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/9Q6Fgz-Wnck/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Craft Beer Adventures",
+            "tags": [
+                "fr5ed",
+                "beer review",
+                "amber ale",
+                "fat tire",
+                "new belgium"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Beer Review #197   New Belgium Fat Tire Amber Ale",
+                "description": "Surprisingly OK.  I say that because I was very unimpressed with Ranger IPA from New Belgium.  This has a nice mouthfeel and malty backbone.  Would not turn it away if I was in the mood for an amber."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT8M4S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "365",
+            "likeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "8"
+        }
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "-qAoILvBfOESg4a0Dm8G2914d70",
+        "id": "ZbHcTgrrpRg",
+        "snippet": {
+            "publishedAt": "2019-01-11T03:39:44Z",
+            "channelId": "UCexrg0KSiYoQjm4jGXO1dxg",
+            "title": "[TRAILER] AQUAMAN 2018 -Jason Momoa, Amber Heard",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/ZbHcTgrrpRg/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/ZbHcTgrrpRg/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/ZbHcTgrrpRg/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/ZbHcTgrrpRg/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/ZbHcTgrrpRg/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Movie Classic",
+            "tags": [
+                "Aquaman",
+                "Trailer aquaman",
+                "Jason momoa",
+                "Amber Heard",
+                "Author",
+                "Atlantis"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "vi",
+            "localized": {
+                "title": "[TRAILER] AQUAMAN 2018 -Jason Momoa, Amber Heard",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT5M18S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "18",
+            "likeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

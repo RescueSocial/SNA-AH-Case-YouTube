@@ -1,0 +1,74 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "RoEREPA2T0YRT10yi_JGHuQ0rj4",
+        "id": "9J4P_B1XbHs",
+        "snippet": {
+            "publishedAt": "2020-06-14T11:23:13Z",
+            "channelId": "UCKQECjul8nw1KW_JzfBTP1A",
+            "title": "Amber Alert issued for 16-year-old girl from North Texas",
+            "description": "An Amber Alert has been issued for a 16-year-old girl from North Texas.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/9J4P_B1XbHs/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/9J4P_B1XbHs/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/9J4P_B1XbHs/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/9J4P_B1XbHs/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/9J4P_B1XbHs/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "KPRC 2 Click2Houston",
+            "tags": [
+                "latest",
+                "videos"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Alert issued for 16-year-old girl from North Texas",
+                "description": "An Amber Alert has been issued for a 16-year-old girl from North Texas."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT20S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "3406",
+            "likeCount": "23",
+            "favoriteCount": "0",
+            "commentCount": "9"
+        }
+    }
+]

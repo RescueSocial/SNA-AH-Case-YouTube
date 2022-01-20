@@ -1,0 +1,67 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "XfFWaB-qMrVH0n7SOOefcCnOgQM",
+        "id": "R9HWd2O-GzE",
+        "snippet": {
+            "publishedAt": "2015-07-27T08:29:27Z",
+            "channelId": "UC9GAsLT-9Ca0LL4Hddx61Iw",
+            "title": "Magic Mike XXL - Movie Review",
+            "description": "My review for Magic Mike XXL, starring Channing Tatum, Joe Manganiello, Matt Bomer, Adam Rodriguez, Kevin Nash, Amber Heard Depp, and Jada Pinkett Smith. Directed by Gregory Jacobs.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/R9HWd2O-GzE/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/R9HWd2O-GzE/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/R9HWd2O-GzE/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Dylan Campbell",
+            "tags": [
+                "Magic Mike XXL",
+                "Movie Review",
+                "Review",
+                "Dylan Campbell",
+                "Magic Mike (Award-Winning Work)"
+            ],
+            "categoryId": "1",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Magic Mike XXL - Movie Review",
+                "description": "My review for Magic Mike XXL, starring Channing Tatum, Joe Manganiello, Matt Bomer, Adam Rodriguez, Kevin Nash, Amber Heard Depp, and Jada Pinkett Smith. Directed by Gregory Jacobs."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT4M18S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "84",
+            "likeCount": "3",
+            "favoriteCount": "0",
+            "commentCount": "3"
+        }
+    }
+]

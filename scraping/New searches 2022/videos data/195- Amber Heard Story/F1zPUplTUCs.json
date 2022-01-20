@@ -1,0 +1,69 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "fLfAcUEvoI0aI5jZI7z8b0ef4P4",
+        "id": "F1zPUplTUCs",
+        "snippet": {
+            "publishedAt": "2016-10-17T00:03:41Z",
+            "channelId": "UCbp3fkS6cxI1aekmIPIDCGg",
+            "title": "Amber Heard on Katy Perry's Instagram Story",
+            "description": "http://amberheardbrasil.com - @AmberHeardBRA",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/F1zPUplTUCs/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/F1zPUplTUCs/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/F1zPUplTUCs/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/F1zPUplTUCs/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Amber Heard",
+            "tags": [
+                "amber heard",
+                "katy perry"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Heard on Katy Perry's Instagram Story",
+                "description": "http://amberheardbrasil.com - @AmberHeardBRA"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT11S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "1149",
+            "likeCount": "6",
+            "favoriteCount": "0",
+            "commentCount": "5"
+        }
+    }
+]

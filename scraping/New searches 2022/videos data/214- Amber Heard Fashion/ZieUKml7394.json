@@ -1,0 +1,78 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "XCFU7bwXU4x_NyQnDWJFe275F0I",
+        "id": "ZieUKml7394",
+        "snippet": {
+            "publishedAt": "2011-09-28T01:05:38Z",
+            "channelId": "UC4IHOiFcFAW5RWXfUNH92tQ",
+            "title": "Guess 2012 Spring Collection Feat Amber Heard",
+            "description": "Kinney Group Creative helped Guess produce the Spring 2012 Sneak Preview feat Amber Heard.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/ZieUKml7394/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/ZieUKml7394/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/ZieUKml7394/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/ZieUKml7394/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/ZieUKml7394/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "KinneyGroupCreative",
+            "tags": [
+                "Kinney Group Creative",
+                "Amber Heard",
+                "Guess",
+                "NYC",
+                "Mondrian Soho",
+                "James Kinney"
+            ],
+            "categoryId": "1",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Guess 2012 Spring Collection Feat Amber Heard",
+                "description": "Kinney Group Creative helped Guess produce the Spring 2012 Sneak Preview feat Amber Heard."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT2M37S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "10448",
+            "likeCount": "14",
+            "favoriteCount": "0",
+            "commentCount": "1"
+        }
+    }
+]

@@ -1,0 +1,80 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "bw3irKisopXl3HLpbWR89kOE2S0",
+        "id": "P8JFng-aVZE",
+        "snippet": {
+            "publishedAt": "2020-01-04T00:40:05Z",
+            "channelId": "UCQs8vRp-3DR_XwhxJE19jxA",
+            "title": "Update: Two arrested in Sherwood double homicide and Amber Alert, one named as person of interest",
+            "description": "Sherwood police say two people have been arrested and a third has been named a person of interest in connection to a double homicide.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/P8JFng-aVZE/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/P8JFng-aVZE/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/P8JFng-aVZE/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/P8JFng-aVZE/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/P8JFng-aVZE/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "KARK 4 News",
+            "tags": [
+                "miscellaneous",
+                "Update",
+                "Two Arrested",
+                "Sherwood",
+                "Double Homicide",
+                "Amber Alert",
+                "One Person of Interest"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Update: Two arrested in Sherwood double homicide and Amber Alert, one named as person of interest",
+                "description": "Sherwood police say two people have been arrested and a third has been named a person of interest in connection to a double homicide."
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT4M27S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "286",
+            "likeCount": "7",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

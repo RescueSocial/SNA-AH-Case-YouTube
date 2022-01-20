@@ -1,0 +1,76 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "wHrzeOPVNWV0qiboZkUN8BgxL0w",
+        "id": "wrodnf6_xNU",
+        "snippet": {
+            "publishedAt": "2020-02-07T20:04:26Z",
+            "channelId": "UCBTIp2pvN1OtfT5iKwuwGIw",
+            "title": "Amber Heard to Lose Aquaman",
+            "description": "The Party is Just Starting!",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/wrodnf6_xNU/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/wrodnf6_xNU/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/wrodnf6_xNU/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/wrodnf6_xNU/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Human Warnings",
+            "tags": [
+                "amber heard",
+                "aquaman",
+                "johnny depp",
+                "scandal",
+                "audio",
+                "metoo",
+                "abuse",
+                "assault",
+                "pirates"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Heard to Lose Aquaman",
+                "description": "The Party is Just Starting!"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT8M44S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": false,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "1864",
+            "likeCount": "79",
+            "favoriteCount": "0",
+            "commentCount": "49"
+        }
+    }
+]

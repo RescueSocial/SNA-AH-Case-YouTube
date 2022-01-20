@@ -1,0 +1,81 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "U-C3OmtgJ-ByPkB00sFxHgBWtWY",
+        "id": "_RICqEmSbZE",
+        "snippet": {
+            "publishedAt": "2021-06-07T21:10:19Z",
+            "channelId": "UCNZyLULUQBp5e9Q1cKtvk6Q",
+            "title": "AMBER Alert: Search For Father Who Took Off With 9-Month-Old",
+            "description": "Mi Angel Gaines weighs about 19 pounds and was last seen wearing a red, white and blue onesie. Her father, Antonio Armstrong, has a tattoo of a microphone on his neck. CBS2's Alice Gainer reports.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/_RICqEmSbZE/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/_RICqEmSbZE/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/_RICqEmSbZE/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/_RICqEmSbZE/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/_RICqEmSbZE/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "CBS New York",
+            "tags": [
+                "CBS2 News At 5",
+                "AMBER Alert",
+                "New York",
+                "New York City",
+                "Alice Gainer",
+                "NYPD",
+                "Harlem"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "AMBER Alert: Search For Father Who Took Off With 9-Month-Old",
+                "description": "Mi Angel Gaines weighs about 19 pounds and was last seen wearing a red, white and blue onesie. Her father, Antonio Armstrong, has a tattoo of a microphone on his neck. CBS2's Alice Gainer reports."
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT1M10S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": false,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "5140",
+            "likeCount": "64",
+            "favoriteCount": "0",
+            "commentCount": "54"
+        }
+    }
+]

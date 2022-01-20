@@ -1,0 +1,61 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "z_U45X9Ol8_sz5Wxf6IoHgplnpQ",
+        "id": "4Dox5zlHlog",
+        "snippet": {
+            "publishedAt": "2015-03-11T15:50:56Z",
+            "channelId": "UC6pU7i7wuW9uls53Sd9mJ6Q",
+            "title": "Amber Hatcher-Weaver Autoimmune",
+            "description": "This girl is a rock star!!",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/4Dox5zlHlog/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/4Dox5zlHlog/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/4Dox5zlHlog/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Kyla Bingham",
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Hatcher-Weaver Autoimmune",
+                "description": "This girl is a rock star!!"
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT5M",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "1333",
+            "likeCount": "19",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

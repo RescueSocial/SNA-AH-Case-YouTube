@@ -1,0 +1,74 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "z2HygHRirzmLb4TCwtUHKasgaeo",
+        "id": "_U6gkTCHJy8",
+        "snippet": {
+            "publishedAt": "2019-10-02T23:02:45Z",
+            "channelId": "UCBu0KdNokE4MqdkacvH37_A",
+            "title": "Judge Tammy Kemp gives Amber Guyger a Bible to take to prison",
+            "description": "Judge Tammy Kemp gave Amber Guyger a bible Wednesday and told her, \"\u201cYou did something bad in one moment in time. What you do now matters.\"",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/_U6gkTCHJy8/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/_U6gkTCHJy8/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/_U6gkTCHJy8/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/_U6gkTCHJy8/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "WFAA",
+            "tags": [
+                "botham-jean",
+                "local",
+                "dallas-county",
+                "news",
+                "special-reports"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "Judge Tammy Kemp gives Amber Guyger a Bible to take to prison",
+                "description": "Judge Tammy Kemp gave Amber Guyger a bible Wednesday and told her, \"\u201cYou did something bad in one moment in time. What you do now matters.\""
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT2M53S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "125670",
+            "likeCount": "984",
+            "favoriteCount": "0",
+            "commentCount": "529"
+        }
+    }
+]

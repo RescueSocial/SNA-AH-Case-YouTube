@@ -1,0 +1,60 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "mpXtOH8hnwQKf86kGekXFSZ4sYw",
+        "id": "pBRRX7IK_aI",
+        "snippet": {
+            "publishedAt": "2021-09-08T18:31:40Z",
+            "channelId": "UCtDpQPhqDVu9xG2QcOGKr5A",
+            "title": "Johnny Depp won rights to sue Amber Heard",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/pBRRX7IK_aI/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/pBRRX7IK_aI/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/pBRRX7IK_aI/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Viva Celebrity",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Johnny Depp won rights to sue Amber Heard",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT1M",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "134",
+            "likeCount": "12",
+            "favoriteCount": "0",
+            "commentCount": "1"
+        }
+    }
+]

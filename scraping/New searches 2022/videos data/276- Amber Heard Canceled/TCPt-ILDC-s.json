@@ -1,0 +1,76 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "nnatbajEEtS5YW4MRoKn-tC2n7k",
+        "id": "TCPt-ILDC-s",
+        "snippet": {
+            "publishedAt": "2020-09-26T02:09:22Z",
+            "channelId": "UCnWi59TPymx0_qt7PX3VeNA",
+            "title": "Amber Alert canceled: 7-year-old girl found safe, suspect in custody",
+            "description": "Amber Alert for a 7-year-old girl from Pennsylvania issued by officials Friday has been canceled, according to police.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/TCPt-ILDC-s/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/TCPt-ILDC-s/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/TCPt-ILDC-s/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/TCPt-ILDC-s/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/TCPt-ILDC-s/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "PIX11 News",
+            "tags": [
+                "Amber Alert",
+                "NYC",
+                "crime"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amber Alert canceled: 7-year-old girl found safe, suspect in custody",
+                "description": "Amber Alert for a 7-year-old girl from Pennsylvania issued by officials Friday has been canceled, according to police."
+            },
+            "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+            "duration": "PT59S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "2441",
+            "likeCount": "48",
+            "favoriteCount": "0",
+            "commentCount": "18"
+        }
+    }
+]

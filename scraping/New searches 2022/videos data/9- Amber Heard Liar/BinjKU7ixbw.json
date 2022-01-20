@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "4ovqnL9duo_PdvwI3epCyNuq8uQ",
+        "id": "BinjKU7ixbw",
+        "snippet": {
+            "publishedAt": "2020-11-14T18:15:36Z",
+            "channelId": "UCLXe-Xr9iYAJrv2K-Z-zRcQ",
+            "title": "Biggest liar in the history : Amber Heard-Part2",
+            "description": "#Justice4depp",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/BinjKU7ixbw/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/BinjKU7ixbw/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/BinjKU7ixbw/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/BinjKU7ixbw/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/BinjKU7ixbw/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "who is joe tho?",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Biggest liar in the history : Amber Heard-Part2",
+                "description": "#Justice4depp"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT47S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "1790",
+            "likeCount": "11",
+            "favoriteCount": "0",
+            "commentCount": "2"
+        }
+    }
+]
