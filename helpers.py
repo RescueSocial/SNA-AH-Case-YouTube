@@ -150,11 +150,30 @@ def bar_peaks(df_head, title, threshold=0):
     fig.show("svg")
 
 def contr_peaks(df, user, n=5, threshold=0):
+    """
+    A function to filter user contributions and plot bar graph for peaks
+    Args:
+        - df --> the dataframe to be used.
+        - user (str) --> the username to filter on.
+    """
     df_user = df.query(" username == @user ")
     df_user_daily = df_user.groupby('date')['text'].count().to_frame().reset_index().rename(columns={'text': 'ncomments'})
     df_user_daily.sort_values(['ncomments', 'date'], ascending=[False, False], inplace=True)
     
     bar_peaks(df_user_daily.head(n), f'"{user}"' + ' Top Contributions', threshold=threshold)
+    
+def keyword_peaks(df, keyword, n=5, threshold=0):
+    """
+    A function to filter user contributions and plot bar graph for peaks
+    Args:
+        - df --> the dataframe to be used.
+        - keyword (str) --> the keyword to filter on.
+    """
+    df_keyword = df[df.text.str.contains(keyword)]
+    df_keyword_daily = df_keyword.groupby('date')['text'].count().to_frame().reset_index().rename(columns={'text': 'ncomments'})
+    df_keyword_daily.sort_values(['ncomments', 'date'], ascending=[False, False], inplace=True)
+    
+    bar_peaks(df_keyword_daily.head(n), f'"{keyword}"' + ' Peak Contributions', threshold=threshold)
 
 # # Same as bar_peaks     
 # def bar_dates(df, title, threshold=float("inf")):
@@ -178,17 +197,21 @@ def draw_heatmap(*args, **kwargs):
     data = kwargs.pop('data')
     d = data.pivot(index=args[1], columns=args[0], values=args[2])
     d = d.reindex(index=months[::-1])
-    sb.heatmap(d, **kwargs)
-    
+    sb.heatmap(d, **kwargs)    
 
 def facet_heat(df, title='title', n_col=2, vmax=100):
     g = sb.FacetGrid(df, col='year', col_wrap=n_col, height=4.5)
     g.map_dataframe(draw_heatmap, 'dayofmonth', 'month', 'ncomments', cmap='rocket_r', vmin=0, vmax=vmax);
 
-    plt.suptitle(title, y=1.06, fontsize=18)
-    g.fig.subplots_adjust(wspace=0.15, hspace=0.2)
+    plt.suptitle(title, y=1.06, fontsize=22)
+    g.set_titles("{col_name}", size=16)
+#     g.set_yticklabels(size = 4)
+#     g.set_xticklabels(size = 8)
+   
+    g.fig.subplots_adjust(wspace=0.18, hspace=0.2)
     for axis in g.axes.flat:
         axis.tick_params(labelbottom=True, labelleft=True)
+        axis.set_yticklabels(axis.get_yticklabels(), rotation=0)
     
     
 def facet_day_month(df, x, y, facet_on='month', n_col=4, year_str='2018'):
@@ -197,20 +220,7 @@ def facet_day_month(df, x, y, facet_on='month', n_col=4, year_str='2018'):
     Args:
         - df -->  dataframe.
     """
-    months_ordered = [
-        "Jan",
-        "Feb",
-        "Mar",
-        "Apr",
-        "May",
-        "Jun",
-        "Jul",
-        "Aug",
-        "Sep",
-        "Oct",
-        "Nov",
-        "Dec",
-    ]
+    months_ordered = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec",]
     days_ordered = list(range(1, 32, 2))
 
     g = sb.FacetGrid(data=df, col=facet_on, col_wrap=n_col, col_order=months_ordered if facet_on=='month' else None)
@@ -219,15 +229,17 @@ def facet_day_month(df, x, y, facet_on='month', n_col=4, year_str='2018'):
           palette=["#5296dd"])
     
     g.set_xticklabels(rotation=90)
-    g.set_titles("{col_name}", size=14, y=-0.28)
+    g.set_titles("{col_name}", size=16, y=-0.30)
     
     if facet_on=='month':
         title = "Comments Created in Each Day of " + year_str 
     else:
         title = "Comments Created in Each Month"
-    g.fig.suptitle(title, fontsize=18, y=1.05)
+    g.fig.suptitle(title, fontsize=22, y=1.05)
+#     g.set_yticklabels(size = 4)
+#     g.set_xticklabels(size = 10)
 
-    g.fig.subplots_adjust(wspace=0.1, hspace=0.3)
+    g.fig.subplots_adjust(wspace=0.1, hspace=0.32)
     g.set_xlabels("")
     for axis in g.axes.flat:
         axis.tick_params(labelbottom=True)
