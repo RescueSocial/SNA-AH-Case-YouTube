@@ -212,7 +212,7 @@ def users_peaks(df, mytext, n=5, threshold=0, xlabel='UserName'):
     df_text_users = df_text.username.value_counts().to_frame().reset_index().rename(columns={'index': 'username',
                                                                                              'username': 'ncomments'})
     
-    bar_peaks(df_text_users.head(n), f'"{mytext}"' + ' Peak Contributions', threshold=threshold, xlabel=xlabel)
+    bar_peaks(df_text_users.head(n), f'"{mytext}"' + ' Top Commented Users', threshold=threshold, xlabel=xlabel)
 
 def users_all_peaks(df, mytext, n=5, threshold=0, xlabel='UserName'):
     """
@@ -225,7 +225,7 @@ def users_all_peaks(df, mytext, n=5, threshold=0, xlabel='UserName'):
     df_text_users = df_text.username.value_counts().to_frame().reset_index().rename(columns={'index': 'username',
                                                                                              'username': 'ncomments'})
     
-    bar_peaks(df_text_users.head(n), f'"{mytext}"' + ' Peak Contributions', threshold=threshold, xlabel=xlabel)
+    bar_peaks(df_text_users.head(n), f'"{mytext}"' + ' Top Commented Users', threshold=threshold, xlabel=xlabel)
     
 # # Same as bar_peaks     
 # def bar_dates(df, title, threshold=float("inf")):
