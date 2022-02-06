@@ -58,7 +58,7 @@ remove_users = checked_set | set(df_pos.username)
 
 # THREAT
 # KYS is an internet acronym standing for “kill yourself
-all_threat = {'burn', 'crime', 'criminal', 'dead', 'death', 'deserve', 'die', 'hell', 'inferno', 'infierno', 'jail',
+all_threat = {'burn', 'crime', 'criminal', 'amberfbi', 'dead', 'death', 'deserve', 'die', 'hell', 'inferno', 'infierno', 'jail',
               'karma', 'kill', 'kys', 'matar', 'morir', 'morire', 'muere', 'muerete', 'muerta', 'muerte', 'murder',
               'pagar', 'pay', 'prigione', 'prisión', 'prison', 'punish', 'ад', '死ね'}
 
@@ -136,13 +136,15 @@ n_burn = df_burn.shape[0]
 n_crime = df_crime.shape[0]
     
 
-threat_dict = count_keywords(all_threat|{'jail','prison','deserve','burn'}, df_comments)
+threat_keys = {'burn', 'crime', 'criminal', 'amberfbi', 'dead', 'death', 'deserve', 'die', 'hell', 'jail', 'karma', 'kill',
+               'kys', 'murder', 'pay', 'prison', 'punish'}
+threat_dict = count_keywords(threat_keys, df_comments)
 threat_counts = pd.DataFrame(threat_dict, index=['count'])
 threat_counts = threat_counts.T.reset_index().rename(columns={'index':'keyword'})
 threat_counts.sort_values('count', ascending=False, inplace=True)
 
 mycolors1=[]
-for key in threat_counts['keyword'].head(15):
+for key in threat_counts['keyword'].head(17):
     if key in death_kill:
         mycolors1.append('#E45756')
     elif key in burn_hell:
@@ -150,14 +152,14 @@ for key in threat_counts['keyword'].head(15):
     else:
         mycolors1.append('#BAB0AC')
 
-mycolors2=[]        
-for key in threat_counts['keyword'][15:].head(15):  
-    if key in death_kill:
-        mycolors2.append('#E45756')
-    elif key in burn_hell:
-        mycolors2.append('#F58518')
-    else:
-        mycolors2.append('#BAB0AC')
+# mycolors2=[]        
+# for key in threat_counts['keyword'][15:].head(15):  
+#     if key in death_kill:
+#         mycolors2.append('#E45756')
+#     elif key in burn_hell:
+#         mycolors2.append('#F58518')
+#     else:
+#         mycolors2.append('#BAB0AC')
         
 
 
