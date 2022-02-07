@@ -14,9 +14,9 @@ YouTube - Social Network Analysis on Amber Heard's Case Example from Data Analys
 <i>At minimum Tens of Thousands of Repeated Same/Exact Comments...</i>
 
 <b>Threat Analysis is shown above of comments with:</b>
-<br>Threat - 149,810 6.88%
-<br>Hate-Speech - 351,399 16.1%
-<br>Others - 1,675,334 77%
+<br>Threat - 149,810 - 6.88%
+<br>Hate-Speech - 351,399 - 16.1%
+<br>Others - 1,675,334 - 77%
 
 <b>Threat Keywords:</b>
 <br>Kill & Death 52,232 - 33.2%
@@ -28,7 +28,7 @@ YouTube - Social Network Analysis on Amber Heard's Case Example from Data Analys
 <i><br>df_comments.text.value_counts().head(30)</i>
 <br>they won't believe you because you are a man she is not a victim                                                                                                                                                                                                                                                                                      43370
 <br>that's crazy                                                                                                                                                                                                                                                                                                                                           5968
-                                                                                                                                                                   2800
+                                                                                                                                                                 
 <br>woah what                                                                                                                                                                                                                                                                                                                                                2797
 ًں’“<br>thanks for your utmost love and support which has brought me this far it has been a hard time for me but your support has got me standing even in difficult times i can't appreciate enough the support of fans who have been really active with issues relating to meprivate message on telegram @johnnydeppllofficial  ًں’“ much love â‌¤ï¸     2786<br>
 they won't believe you because you are a man amber heard                                                                                                                                                                                                                                                                                               2253
