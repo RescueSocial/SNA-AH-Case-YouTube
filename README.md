@@ -13,7 +13,7 @@ YouTube - Social Network Analysis on Amber Heard's Case Example from Data Analys
 <br>YouTube: (1) 2,176,926 Comments (1,693,341 Comments with 483,585 Replies), 6,893 Videos (with dislike ratios), 1,152,868 Accounts, Cross-Platform Links
 
 <i>At minimum Tens of Thousands of Repeated Same/Exact Comments... 
-<br>Higher amounts of comments against Amber Heard correlate with increased threats seen in Heat Maps.</i>
+<br>Higher amounts of comments against Amber Heard correlate with increased threats seen in Heat Maps. Correlate to dangers in-person.</i>
 
 <b>Threat Analysis is shown above of comments with:</b>
 <br>Threat - 149,810 - 6.88%
@@ -25,7 +25,7 @@ YouTube - Social Network Analysis on Amber Heard's Case Example from Data Analys
 <br>Crime & Jail 75,830 - 48.2%
 <br>Hell & Burn 29,214 - 18.6%
 
-<b>High Volume of Repeated Exact Comments</b> - Unlike as high volume as other platforms, on YouTube the exact phrases blatently repeat with bot-like actions (exception: Instagram 136 times of "i am inevitable' with 136 accounts in March 2019). YouTube removed dislikes on their entire platform around a year after the start of the "Amber Heard's 2020 Takeaway: Adapt and Survive" with same exact comments and 479K dislikes. 4 other videos, e.g., Gully trailer with 92K dislikes and settlement video recieve higher dislikes. 
+<b>High Volume of Repeated Exact Comments</b> - Unlike as high volume as other platforms, on YouTube the exact phrases blatently repeat with bot-like actions (exception: Instagram 136 times of "i am inevitable" with 136 accounts in March 2019). YouTube removed dislikes on their entire platform around a year after the start of the "Amber Heard's 2020 Takeaway: Adapt and Survive" with same exact comments and 479K dislikes. 4 other videos, e.g., Gully trailer with 92K dislikes and settlement video recieve higher dislikes. 
 <i><br>The operations focus on many accounts, wide spread, less so the same accounts, yet, even on YouTube, there are praising texts blatantly using the same usernames pointing to the source and are of the same accounts. Each platform serves different purposes.</i>
 
 <b>Some of Most Repeated Comments</b>
