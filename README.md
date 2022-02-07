@@ -11,7 +11,8 @@ YouTube - Social Network Analysis on Amber Heard's Case Example from Data Analys
 <b>Data Collections: </b>
 <br>YouTube: (1) 2,176,926 Comments (1,693,341 Comments with 483,585 Replies), 6,893 Videos (with dislike ratios), 1,152,868 Accounts, Cross-Platform Links
 
-<i>At minimum Tens of Thousands of Repeated Same/Exact Comments... Higher amounts against AH correlating with increased threats seen in Heat Maps.</i>
+<i>At minimum Tens of Thousands of Repeated Same/Exact Comments... 
+<br>Higher amounts of comments against AH correlate with increased threats seen in Heat Maps.</i>
 
 <b>Threat Analysis is shown above of comments with:</b>
 <br>Threat - 149,810 - 6.88%
