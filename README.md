@@ -8,7 +8,7 @@ YouTube - Social Network Analysis on Amber Heard's Case Example from Data Analys
 
 - E.g., Videos, Accounts, Multiple Accounts with Same Comments, Timings, Like/Dislike Ratios, Coordinated Inauthentic Activity, Cluster Networks
 
-Date Collections 
+Data Collections: 
 - YouTube: (1) 2,176,926 Comments (1,693,341 Comments with 483,585 Replies), 6,893 Videos (with dislike ratios), 1,152,868 Accounts, Cross-Platform Links
 
 <i>At minimum Tens of Thousands of Repeated Same/Exact Comments...</i>
@@ -18,7 +18,7 @@ Date Collections
 <br>Hate-Speech - 351,399 16.1%
 <br>Others - 1,675,334 77%
 
-Threat Keywords:
+<b>Threat Keywords:</b>
 <br>Kill & Death 52,232 - 33.2%
 <br>Crime & Jail 75,830 - 48.2%
 <br>Hell & Burn 29,214 - 18.6%
@@ -38,7 +38,7 @@ they won't believe you because you are a man amber heard                        
                                                                                                                                                  1399
 <br>they won't believe you because you are a man                                                                                                                                                                                                                                                                                                           1352
 <br>they won't believe you because you are a man she is not the victim                                                                                                                                                                                                                                                                                     1343<br>
-ًں’•ًں’“thanks for your utmost love which has brought me this far it has been a hard time for me but your support got me going where are you watching from?ً’                                                                                                                                                                          1220
+ًں’•ًں’“thanks for your utmost love which has brought me this far it has been a hard time for me but your support got me going where are you watching from?ًں’•                                                                                                                                                                                                                                                                                                                                                                 1220
 <br>hi                                                                                                                                                                                                                                                                                                                                                     1134
 <br>she is not a victim                                                                                                                                                                                                                                                                                                                                    1110
 <br>they wont believe you because you are a man she is not a victim                                                                                                                                                                                                                                                                                        1020
