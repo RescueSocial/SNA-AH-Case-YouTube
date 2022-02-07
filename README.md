@@ -4,7 +4,8 @@ YouTube - Social Network Analysis on Amber Heard's Case Example from Data Analys
 - E.g., Videos, Accounts, Multiple Accounts with Same Comments, Timings, Like/Dislike Ratios, Coordinated Inauthentic Activity, Cluster Networks
 
 # SNA-AH-Case-YouTube
-YouTube - Social Network Analysis on Amber Heard's Case Example from Data Analysts, Researchers, and Scientists on the Disinformation/Influence Operation. The Operaton is highly volumnious and active on YouTube.  
+YouTube - Social Network Analysis on Amber Heard's Case Example from Data Analysts, Researchers, and Scientists on the Disinformation/Influence Operation. 
+<br>The Operaton is highly volumnious, blatant, and threatening on YouTube.  
 
 - E.g., Videos, Accounts, Multiple Accounts with Same Comments, Timings, Like/Dislike Ratios, Coordinated Inauthentic Activity, Cluster Networks
 
@@ -62,4 +63,4 @@ they won't believe you because you are a man amber heard                        
 <br>Dec 24, 2020 - 10446
 <br>Dec 28, 2020 - 9164
 
-Relational Dataframe is being worked on.
+More data collections being conducted of 18K videos on AH (search terms given). Deeper Analysis and Relational Dataframe is being worked on.
