@@ -8,12 +8,12 @@ YouTube - Social Network Analysis on Amber Heard's Case Example from Data Analys
 
 - E.g., Videos, Accounts, Multiple Accounts with Same Comments, Timings, Like/Dislike Ratios, Coordinated Inauthentic Activity, Cluster Networks
 
-Date Collections - YouTube: (1) 2,176,926 Comments (1,693,341 Comments with 483,585 Replies), 6,893 Videos (with dislike ratios), 1,152,868 Accounts, Cross-Platform Links
+Date Collections 
+- YouTube: (1) 2,176,926 Comments (1,693,341 Comments with 483,585 Replies), 6,893 Videos (with dislike ratios), 1,152,868 Accounts, Cross-Platform Links
 
-At minimum Tens of Thousands of Repeated Same Comments...
+<i>At minimum Tens of Thousands of Repeated Same/Exact Comments...</i>
 
 <b>Threat Analysis is shown above of comments with:</b>
-<br><b>Of Total -</b> 
 <br>Threat - 149,810 6.88%
 <br>Hate-Speech - 351,399 16.1%
 <br>Others - 1,675,334 77%
@@ -25,7 +25,7 @@ Threat Keywords:
 
 
 <b>Some of Most Repeated Comments</b>
-df_comments.text.value_counts().head(30)
+<br>df_comments.text.value_counts().head(30)
 
 <br>they won't believe you because you are a man she is not a victim                                                                                                                                                                                                                                                                                     43370
 <br>that's crazy                                                                                                                                                                                                                                                                                                                                          5968
@@ -39,7 +39,7 @@ they won't believe you because you are a man amber heard                        
                                                                                                                                                  1399
 <br>they won't believe you because you are a man                                                                                                                                                                                                                                                                                                           1352
 <br>they won't believe you because you are a man she is not the victim                                                                                                                                                                                                                                                                                     1343
-ًں’•ًں’“thanks for your utmost love which has brought me this far it has been a hard time for me but your support got me going where are you watching from?ًں<br>’•                                                                                                                                                                                        1220
+ًں’•ًں’“thanks for your utmost love which has brought me this far it has been a hard time for me but your support got me going where are you watching from?ًں<br>’•                <br                                                                                                                                                                        1220
 <br>hi                                                                                                                                                                                                                                                                                                                                                     1134
 <br>she is not a victim                                                                                                                                                                                                                                                                                                                                    1110
 <br>they wont believe you because you are a man she is not a victim                                                                                                                                                                                                                                                                                        1020
