@@ -25,7 +25,7 @@ YouTube - Social Network Analysis on Amber Heard's Case Example from Data Analys
 <br>Crime & Jail 75,830 - 48.2%
 <br>Hell & Burn 29,214 - 18.6%
 
-Repeated exact Comments below - unlike other platforms, blatently repeat with bot-like actions (exception: Instagram 136 times of "i am inevitable' with 136 accounts in March 2019). YouTube removed dislikes on their entire platform around a year after the start of the "Amber Heard's 2020 Takeaway: Adapt and Survive" with same exact comments and 479K dislikes. 4 other videos, e.g., Gully trailer with 92K dislikes and settlement video recieve higher dislikes. 
+Repeated exact Comments below - Ynlike other platforms, the exact phrases blatently repeat with bot-like actions (exception: Instagram 136 times of "i am inevitable' with 136 accounts in March 2019). YouTube removed dislikes on their entire platform around a year after the start of the "Amber Heard's 2020 Takeaway: Adapt and Survive" with same exact comments and 479K dislikes. 4 other videos, e.g., Gully trailer with 92K dislikes and settlement video recieve higher dislikes. 
 <i><br>The operations focus on many accounts, wide spread, less so the same accounts, yet, even on YouTube, there are praising texts blatantly using the same usernames pointing to the source and are of the same accounts. Each platform serves different purposes.</i>
 
 <b>Some of Most Repeated Comments</b>
