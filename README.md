@@ -26,7 +26,7 @@ Data Collections:
 
 <b>Some of Most Repeated Comments</b>
 <br>df_comments.text.value_counts().head(30)
-they won't believe you because you are a man she is not a victim                                                                                                                                                                                                                                                                                     43370
+<br>they won't believe you because you are a man she is not a victim                                                                                                                                                                                                                                                                                     43370
 <br>that's crazy                                                                                                                                                                                                                                                                                                                                          5968
                                                                                                                                                                    2800
 <br>woah what                                                                                                                                                                                                                                                                                                                                              2797
