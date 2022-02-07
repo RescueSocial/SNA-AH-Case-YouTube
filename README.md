@@ -23,6 +23,12 @@ YouTube - Social Network Analysis on Amber Heard's Case Example from Data Analys
 <br>Crime & Jail 75,830 - 48.2%
 <br>Hell & Burn 29,214 - 18.6%
 
+<b>Negative Comments Peak Dates:</b>
+<br>Dec 27, 2020 - 14113
+<br>Dec 23, 2020 - 11688
+<br>Dec 26, 2020 - 10880
+<br>Dec 24, 2020 - 10446
+<br>Dec 28, 2020 - 9164
 
 <b>Some of Most Repeated Comments</b>
 <i><br>df_comments.text.value_counts().head(30)</i>
