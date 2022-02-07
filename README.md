@@ -8,8 +8,8 @@ YouTube - Social Network Analysis on Amber Heard's Case Example from Data Analys
 
 - E.g., Videos, Accounts, Multiple Accounts with Same Comments, Timings, Like/Dislike Ratios, Coordinated Inauthentic Activity, Cluster Networks
 
-Data Collections: 
-- YouTube: (1) 2,176,926 Comments (1,693,341 Comments with 483,585 Replies), 6,893 Videos (with dislike ratios), 1,152,868 Accounts, Cross-Platform Links
+<b>Data Collections: </b>
+<br>YouTube: (1) 2,176,926 Comments (1,693,341 Comments with 483,585 Replies), 6,893 Videos (with dislike ratios), 1,152,868 Accounts, Cross-Platform Links
 
 <i>At minimum Tens of Thousands of Repeated Same/Exact Comments...</i>
 
