@@ -1,17 +1,17 @@
 # SNA-AH-Case-YouTube
-YouTube - Social Network Analysis on Amber Heard's Case Example from Data Analysts, Researchers, and Technologists on the Disinformation/Influence Operation 
+YouTube - Social Network Analysis on Amber Heard's Case Example from Data Analysts, Researchers, and Scientists on the Disinformation/Influence Operation 
 
 - E.g., Videos, Accounts, Multiple Accounts with Same Comments, Timings, Like/Dislike Ratios, Coordinated Inauthentic Activity, Cluster Networks
 
 # SNA-AH-Case-YouTube
-YouTube - Social Network Analysis on Amber Heard's Case Example from Data Analysts, Researchers, and Technologists on the Disinformation/Influence Operation 
+YouTube - Social Network Analysis on Amber Heard's Case Example from Data Analysts, Researchers, and Scientists on the Disinformation/Influence Operation 
 
 - E.g., Videos, Accounts, Multiple Accounts with Same Comments, Timings, Like/Dislike Ratios, Coordinated Inauthentic Activity, Cluster Networks
 
 <b>Data Collections: </b>
 <br>YouTube: (1) 2,176,926 Comments (1,693,341 Comments with 483,585 Replies), 6,893 Videos (with dislike ratios), 1,152,868 Accounts, Cross-Platform Links
 
-<i>At minimum Tens of Thousands of Repeated Same/Exact Comments...</i>
+<i>At minimum Tens of Thousands of Repeated Same/Exact Comments... Higher amounts against AH correlating with increased threats seen in Heat Maps.</i>
 
 <b>Threat Analysis is shown above of comments with:</b>
 <br>Threat - 149,810 - 6.88%
